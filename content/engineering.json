@@ -1,21 +1,21 @@
 {
-  "Engineering": [
+  Engineering": [
     {
-      "title": "Golang context.Context package",
-      "url": "https://changelog.com/gotime/143",
-      "published": null,
+      "title": "Leslie Lamport interviewed about his papers on distributed systems",
+      "url": "https://www.developing.dev/p/turing-award-winner-on-working-with",
+      "published": "2026-02-23",
       "tags": [
         "Engineering",
-        "Golang",
-        "Context",
-        "Dependencies",
+        "Algorithms",
+        "Distributed Systems",
+        "History",
         "Podcast"
       ]
     },
     {
-      "title": "Dave Cheney about the Golang Context package",
-      "url": "https://dave.cheney.net/2017/08/20/context-isnt-for-cancellation",
-      "published": null,
+      "title": "Golang context.Context package",
+      "url": "https://changelog.com/gotime/143",
+      "published": "2020-08-20",
       "tags": [
         "Engineering",
         "Golang",
