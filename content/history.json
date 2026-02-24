@@ -1,0 +1,466 @@
+{
+  "History": [
+    {
+      "title": "BBC: Alan Turing",
+      "url": "https://www.bbc.co.uk/programmes/m000ncmw",
+      "published": "2020-10-15",
+      "tags": [
+        "Engineering",
+        "Alan Turing",
+        "History",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "IEEE Spectrum: Hans Peter Luhn and the Birth of the Hashing Algorithm",
+      "url": "https://spectrum.ieee.org/tech-history/silicon-revolution/hans-peter-luhn-and-the-birth-of-the-hashing-algorithm",
+      "published": "2018-01-30",
+      "tags": [
+        "Engineering",
+        "Hashing",
+        "History",
+        "Algorithms"
+      ]
+    },
+    {
+      "title": "Gary Kildall - the man who could have been Bill Gates",
+      "url": "https://www.internethistorypodcast.com/2016/03/the-man-who-could-have-been-bill-gates-the-gary-kildall-story/#tabpanel10",
+      "published": "2016-03-13",
+      "tags": [
+        "History",
+        "Microsoft",
+        "Gary Kildall",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Acquired: Microsoft Volume I",
+      "url": "https://www.acquired.fm/episodes/microsoft",
+      "published": "2024-04-21",
+      "tags": [
+        "History",
+        "Microsoft",
+        "Acquired",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Guy Kawasaki: Steve Wozniak - Apple Hardware Wizard",
+      "url": "https://guykawasaki.com/steve-wozniak/",
+      "published": "2020-02-05",
+      "tags": [
+        "Engineering",
+        "Steve Wozniak",
+        "Apple",
+        "History",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Internet History Podcast: Netscape founding from Mosaic",
+      "url": "https://www.internethistorypodcast.com/2014/01/chapter-1-part-2-netscape-the-big-bang/",
+      "published": "2014-01-31",
+      "tags": [
+        "History",
+        "Netscape",
+        "Jim Clark",
+        "Marc Andreessen",
+        "Startups",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Internet History Podcast: Lou Montulli founding Engineer",
+      "url": "https://www.internethistorypodcast.com/2014/03/chapter-1-supplemental-1-an-interview-with-lou-montulli/",
+      "published": "2014-03-06",
+      "tags": [
+        "History",
+        "Netscape",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Internet History Podcast: e-commerce and Amazon",
+      "url": "https://www.internethistorypodcast.com/2015/02/how-did-amazon-get-started/",
+      "published": "2015-02-16",
+      "tags": [
+        "History",
+        "Amazon",
+        "Jeff Bezos",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Acquired: Amazon and Jeff Bezos",
+      "url": "https://www.acquired.fm/episodes/amazon-com",
+      "published": "2022-08-16",
+      "tags": [
+        "History",
+        "Amazon",
+        "Jeff Bezos",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Acquired: Amazon IPO",
+      "url": "https://www.acquired.fm/episodes/episode-28-the-amazon-ipo-with-original-amazon-board-member-tom-alberg",
+      "published": "2016-12-31",
+      "tags": [
+        "History",
+        "Amazon",
+        "Jeff Bezos",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "The Untold Origin Story of eBay on cake.co - by Chris MacAskill",
+      "url": "https://web.archive.org/web/20191023202844/https://www.cake.co/conversations/VXHSjBG/the-untold-origin-story-of-ebay-that-i-lived-and-the-times-that-could-have-killed-it",
+      "published": "2018-08-14",
+      "tags": [
+        "Engineering",
+        "eBay",
+        "History",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Internet History Podcast: Ebay from AuctionWeb",
+      "url": "https://www.internethistorypodcast.com/2015/05/the-founding-of-ebay/",
+      "published": "2015-05-25",
+      "tags": [
+        "History",
+        "Ebay",
+        "Startups",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Alta Vista history by Ernie Smith",
+      "url": "https://www.internethistorypodcast.com/2014/03/chapter-1-supplemental-1-an-interview-with-lou-montulli/",
+      "published": "2020-12-15",
+      "tags": [
+        "History",
+        "Alta Vista",
+        "Business",
+        "Blog"
+      ]
+    },
+    {
+      "title": "History of Apple acquiring NeXT which brought back Steve Jobs - by Chris MacAskill",
+      "url": "https://web.archive.org/web/20180726000012/https://www.cake.co/conversations/g4CP6zJ/the-secret-call-to-andy-grove-that-may-have-helped-apple-buy-next",
+      "published": "2018-07-26",
+      "tags": [
+        "History",
+        "Apple",
+        "Steve Jobs",
+        "Business",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Acquired: History of Apple acquiring NeXT which brought back Steve Jobs Podcast",
+      "url": "https://www.acquired.fm/episodes/episode-23-next-live-show-at-the-geekwire-summit",
+      "published": "2016-10-23",
+      "tags": [
+        "History",
+        "Apple",
+        "Steve Jobs",
+        "Business",
+        "Acquired",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Internet History Podcast: AOL Time Warner Merger",
+      "url": "https://www.internethistorypodcast.com/2017/09/the-story-of-the-aoltime-warner-merger/",
+      "published": "2017-09-17",
+      "tags": [
+        "History",
+        "AOL",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Acquired: AOL Time Warner with Internet History Podcast",
+      "url": "https://www.acquired.fm/episodes/episode-44-aol-time-warner-with-the-internet-history-podcast",
+      "published": "2017-09-17",
+      "tags": [
+        "History",
+        "AOL",
+        "Acquired",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Acquired: Microsoft Volume II",
+      "url": "https://www.acquired.fm/episodes/microsoft-volume-ii",
+      "published": "2024-07-21",
+      "tags": [
+        "History",
+        "Microsoft",
+        "Acquired",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Internet History Podcast: Microsoft CTO Kevin Scott",
+      "url": "https://www.internethistorypodcast.com/2019/05/microsoft-cto-kevin-scott/",
+      "published": "2019-05-04",
+      "tags": [
+        "History",
+        "Kevin Scott",
+        "Microsoft",
+        "Business",
+        "CTO",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Internet History Podcast: The Del.icio.us Story",
+      "url": "https://www.internethistorypodcast.com/2022/12/the-del-icio-us-story-with-joshua-schachter/",
+      "published": "2022-12-13",
+      "tags": [
+        "History",
+        "Business",
+        "Startups",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Choose boring technology at Etsy - by Dan McKinley",
+      "url": "https://web.archive.org/web/20180123211622/https://boringtechnology.club/",
+      "published": "2015-03-30",
+      "tags": [
+        "History",
+        "Business",
+        "Startups",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Scaling Etsy by Dan McKinley",
+      "url": "https://web.archive.org/web/20191222081200/https://twtext.com/article/1194713712516423681",
+      "published": "2019-12-22",
+      "tags": [
+        "History",
+        "Business",
+        "Etsy",
+        "Startups",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Amazon Prime launched February 2005",
+      "url": "https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping",
+      "published": "2019-05-03",
+      "tags": [
+        "History",
+        "Amazon",
+        "Business",
+        "Article"
+      ]
+    },
+    {
+      "title": "Werner Vogels About AWS 2006",
+      "url": "https://queue.acm.org/detail.cfm?id=1142065",
+      "published": "2006-06-30",
+      "tags": [
+        "History",
+        "AWS",
+        "Werner Vogels",
+        "Cloud",
+        "Article"
+      ]
+    },
+    {
+      "title": "Andy Jassy on How AWS came to be",
+      "url": "https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/",
+      "published": "2016-07-02",
+      "tags": [
+        "History",
+        "AWS",
+        "Andy Jassy",
+        "Cloud",
+        "Article"
+      ]
+    },
+    {
+      "title": "Story of Andy Jassy and the AWS Trillion dollar baby by John Furrier",
+      "url": "https://medium.com/@furrier/original-content-the-story-of-aws-and-andy-jassys-trillion-dollar-baby-4e8a35fd7ed",
+      "published": "2015-01-29",
+      "tags": [
+        "History",
+        "AWS",
+        "Andy Jassy",
+        "Cloud",
+        "Article"
+      ]
+    },
+    {
+      "title": "Acquired: Amazon Web Services (AWS)",
+      "url": "https://www.acquired.fm/episodes/amazon-web-services",
+      "published": "2022-09-05",
+      "tags": [
+        "History",
+        "AWS",
+        "Andy Jassy",
+        "Cloud",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Steve Yegge about Amazon and Google - aka Stevey's Google Platforms Rant",
+      "url": "https://gist.github.com/chitchcock/1281611",
+      "published": "2011-10-12",
+      "tags": [
+        "History",
+        "AWS",
+        "Google",
+        "Cloud",
+        "Blog"
+      ]
+    },
+    {
+      "title": "HackerNews comments on Steve Yegge about Amazon and Google",
+      "url": "https://news.ycombinator.com/item?id=3101876",
+      "published": "2011-10-12",
+      "tags": [
+        "History",
+        "AWS",
+        "Google",
+        "Cloud",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Masters of Scale: Brian Chesky - Do things that don't scale aka Handcrafted (Airbnb)",
+      "url": "https://mastersofscale.com/brian-chesky/",
+      "published": "2017-05-03",
+      "tags": [
+        "History",
+        "Brian Chesky",
+        "Airbnb",
+        "Business",
+        "Scaling",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Masters of Scale: Brian Chesky from Airbnb - transcript",
+      "url": "https://web.archive.org/web/20171120091627/https://mastersofscale.com/wp-content/uploads/2017/05/moshandcraftedtranscript.pdf",
+      "published": "2017-05-03",
+      "tags": [
+        "History",
+        "Brian Chesky",
+        "Airbnb",
+        "Business",
+        "Startups",
+        "Scaling",
+        "Transcript"
+      ]
+    },
+    {
+      "title": "Masters of Scale: Stewart Butterfield - The Big Pivot (Slack)",
+      "url": "https://mastersofscale.com/stewart-butterfield-the-big-pivot/",
+      "published": "2017-11-15",
+      "tags": [
+        "History",
+        "Stewart Butterfield",
+        "Slack",
+        "Pivots",
+        "Business",
+        "Startups",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "History of Datadog Founder Olivier Pomel",
+      "url": "https://www.youtube.com/watch?v=PmvHxj8FJhE",
+      "published": "2025-09-19",
+      "tags": [
+        "History",
+        "Datadog",
+        "Business",
+        "Startups",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Economics: Migrating from steam power to electricity was not overnight",
+      "url": "https://www.bbc.com/news/business-40673694",
+      "published": "2017-08-20",
+      "tags": [
+        "History",
+        "AI",
+        "Business",
+        "Economics",
+        "Electricity",
+        "Steam Power",
+        "Tim Harford",
+        "Change Management",
+        "Article"
+      ]
+    },
+    {
+      "title": "Product Perspective: disruption of steam power to electricity was not overnight",
+      "url": "https://maeda.pm/2019/12/19/electricity-versus-steam-power",
+      "published": null,
+      "tags": [
+        "History",
+        "Product",
+        "AI",
+        "Electricity",
+        "Steam Power",
+        "Change Management",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Acquired: Nvidia - The GPU company",
+      "url": "https://www.acquired.fm/episodes/nvidia-the-gpu-company-1993-2006",
+      "published": "2022-03-27",
+      "tags": [
+        "Nvidia",
+        "AI",
+        "History",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Acquired: Nvidia - ML and CUDA and Crypto",
+      "url": "https://www.acquired.fm/episodes/nvidia-the-machine-learning-company-2006-2022",
+      "published": "2022-04-20",
+      "tags": [
+        "Nvidia",
+        "Acquired",
+        "Business",
+        "History",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Acquired: Nvidia - The Dawn of the AI Era",
+      "url": "https://www.acquired.fm/episodes/nvidia-the-dawn-of-the-ai-era",
+      "published": "2023-09-05",
+      "tags": [
+        "Nvidia",
+        "Acquired",
+        "Business",
+        "AI",
+        "History",
+        "Podcast"
+      ]
+    }
+  ]
+}
