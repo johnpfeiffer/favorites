@@ -1,0 +1,188 @@
+{
+  "AI": [
+    {
+      "title": "Wired: Eight Google Employees Invented Modern AI - Transformers Paper",
+      "url": "https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/",
+      "published": "2024-03-20",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "History",
+        "Article"
+      ]
+    },
+    {
+      "title": "Acquired: NVIDIA - The Dawn of the AI Era",
+      "url": "https://www.acquired.fm/episodes/nvidia-the-dawn-of-the-ai-era",
+      "published": "2023-09-05",
+      "tags": [
+        "AI",
+        "NVIDIA",
+        "History",
+        "Podcast"
+      ]
+    },
+      {
+      "title": "Invest Like the Best: The Reality of AI LLM Chat Support - Intercom co-founder Des Traynor",
+      "url": "https://www.joincolossus.com/episodes/54663623/traynor-the-reality-of-ai",
+      "published": "2023-08-08",
+      "tags": [
+        "AI",
+        "Business",
+        "Agents",
+        "Intercom",
+        "Podcast"
+      ]
+    },  
+    {
+      "title": "Lex Fridman: Gustav Soderstrom on AI in Spotify Music",
+      "url": "https://lexfridman.com/gustav-soderstrom/",
+      "published": "2019-07-29",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Karpathy high level summary explaining Large Language Models aka LLMs",
+      "url": "https://m.youtube.com/watch?v=zjkBMFhNj_g",
+      "published": "2023-11-22",
+      "tags": [
+        "AI",
+        "LLM",
+        "Karpathy",
+        "Video"
+      ]
+    },
+    {
+      "title": "Shanahan: stochastic token generation - deanthropomorphize the illusion",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3624724",
+      "published": "2024-01-25",
+      "tags": [
+        "AI",
+        "LLM",
+        "Article"
+      ]
+    },
+    {
+      "title": "Apple AI researchers question OpenAI's claims about o1's reasoning capabilities - not logical",
+      "url": "https://the-decoder.com/apple-ai-researchers-question-openais-claims-about-o1s-reasoning-capabilities/",
+      "published": "2024-10-12",
+      "tags": [
+        "AI",
+        "LLM",
+        "Article"
+      ]
+    },    
+    {
+      "title": "Invest Like the Best: 2024-03 Aravind Srinivas (founder of Perplexity) on Building an Answer Engine",
+      "url": "https://joincolossus.com/episode/srinivas-building-an-answer-engine/",
+      "published": "2024-03-05",
+      "tags": [
+        "AI",
+        "Perplexity",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Invest Like the Best: Bill Gurley and Michael Mauboussi on Putting Theory into Practice - VCs on AI",
+      "url": "https://joincolossus.com/episode/mauboussin-a-meeting-of-the-minds/",
+      "published": "2024-04-23",
+      "tags": [
+        "AI",
+        "Business",
+        "VC",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "No Priors How AI changes the economy with Cloudfare CEO Matthew Prince",
+      "url": "https://www.youtube.com/watch?v=ZttW75ys0BQ&list=PLMKa0PxGwad7jf8hwwX8w5FHitXZ1L_h1&index=10",
+      "published": "2025-08-07",
+      "tags": [
+        "AI",
+        "Economics",
+        "Cloudflare",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Could AI Datacenter Spending Blow Up The Economy? With Paul Kedrosky",
+      "url": "https://www.youtube.com/watch?v=t_ey5z30gf0",
+      "published": "2025-08-06",
+      "tags": [
+        "AI",
+        "Business",
+        "Economics",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "How Carta pragmatically ramped up using AI agents by solving internal business needs",
+      "url": "https://www.firstround.com/ai/carta",
+      "published": "2025-07-22",
+      "tags": [
+        "AI",
+        "Business",
+        "Agents",
+        "Workflow",
+        "Article"
+      ]
+    },
+    {
+      "title": "Creator of Redis (antirez) explains: judicious use of tools (llm) for maximum coding impact",
+      "url": "https://antirez.com/news/154",
+      "published": "2025-07-20",
+      "tags": [
+        "AI",
+        "Coding",
+        "Blog"
+      ]
+    },
+    {
+      "title": "A clever approach to using agents by combining models (sort of MoE at agent runtime)",
+      "url": "https://xbow.com/blog/alloy-agents/",
+      "published": "2025-07-17",
+      "tags": [
+        "AI",
+        "Coding",
+        "Agents",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Pragmatic coders are getting utility from LLMs by Thomas Ptacek",
+      "url": "https://fly.io/blog/youre-all-nuts/",
+      "published": "2025-06-02",
+      "tags": [
+        "AI",
+        "Coding",
+        "Agents",
+        "Blog"
+      ]
+    },
+    {
+      "title": "AI Application Architecture (aka LLM App Stack) patterns",
+      "url": "https://a16z.com/emerging-architectures-for-llm-applications/",
+      "published": "2023-06-20",
+      "tags": [
+        "AI",
+        "Engineering",        
+        "Architecture",
+        "Article"
+      ]
+    },
+    {
+      "title": "LLM App: AI Application Architecture patterns",
+      "url": "https://github.blog/ai-and-ml/llms/the-architecture-of-todays-llm-applications/",
+      "published": "2023-10-30",
+      "tags": [
+        "AI",
+        "Engineering",
+        "Architecture",
+        "Article"
+      ]
+    }
+  ]
+}
