@@ -1,9 +1,42 @@
 {
   "People": [
     {
+      "title": "The Mythical Man-Month: Essays on Software Engineering by Frederick P. Brooks Jr.",
+      "url": "https://en.wikipedia.org/wiki/The_Mythical_Man-Month",
+      "published": "1975-01-01",
+      "tags": [
+        "People",
+        "Engineering Management",
+        "Leadership",
+        "Book"
+      ]
+    },
+    {
+      "title": "Peopleware: Productive Projects and Teams by Tom DeMarco, Timothy Lister",
+      "url": "https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams",
+      "published": "1987-01-01",
+      "tags": [
+        "People",
+        "Engineering Management",
+        "Leadership",
+        "Book"
+      ]
+    },
+    {
+      "title": "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change by Camille Fournier",
+      "url": "https://www.oreilly.com/library/view/the-managers-path/9781491973882/",
+      "published": "2017-01-01",
+      "tags": [
+        "People",
+        "Engineering Management",
+        "Leadership",
+        "Book"
+      ]
+    },
+    {
       "title": "The Phoenix Project: a novel about IT and DevOps",
       "url": "https://itrevolution.com/product/the-phoenix-project/",
-      "published": null,
+      "published": "2013-01-10",
       "tags": [
         "People",
         "Engineering Management",
@@ -1614,7 +1647,7 @@
         "Podcast"
       ]
     },
-      {
+    {
       "title": "Manager Tools: How to fire someone - well almost - managing performance systematically",
       "url": "https://www.manager-tools.com/2006/02/how-to-fire-someone-well-almost",
       "published": "2006-02-27",
@@ -1625,7 +1658,7 @@
         "Difficult Conversations",
         "Podcast"
       ]
-    },  
+    },
     {
       "title": "Manager Tools: Decisions Not Choices Part 2",
       "url": "https://www.manager-tools.com/2020/10/decisions-not-choices-part-2-hall-fame-guidance",
