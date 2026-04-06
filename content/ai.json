@@ -45,6 +45,16 @@
       ]
     },
     {
+      "title": "Biography of Demis Hassabis co-founder of DeepMind",
+      "url": "https://youtube.com/watch?v=QnpPY5ubgPU",
+      "published": "2026-04-03",
+      "tags": [
+        "AI",
+        "LLM",
+        "Podcast"
+      ]
+    },
+    {
       "title": "Karpathy high level summary explaining Large Language Models aka LLMs",
       "url": "https://m.youtube.com/watch?v=zjkBMFhNj_g",
       "published": "2023-11-22",
@@ -182,6 +192,18 @@
         "Engineering",
         "Architecture",
         "Article"
+      ]
+    },
+    {
+      "title": "SE Radio interviews Sahaj Garg CTO of wispr.ai on low latency voice AI",
+      "url": "https://se-radio.net/2026/01/se-radio-703-sahaj-garg-on-low-latency-ai/",
+      "published": "2026-01-14",
+      "tags": [
+        "AI",
+        "LLM",
+        "Engineering",
+        "CTO",
+        "Podcast"
       ]
     }
   ]
