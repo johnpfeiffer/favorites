@@ -107,6 +107,16 @@
       ]
     },
     {
+      "title": "AI engineer Patrick Dougherty with Practical tips on AI Agents in Production",
+      "url": "https://youtube.com/watch?v=7MiFIhlkBoE&list=PLcfpQ4tk2k0VetQVGT1EqTbcr-qcgbfFs&index=4&pp=iAQB",
+      "published": "2025-02-22",
+      "tags": [
+        "AI",
+        "Agents",
+        "Video"
+      ]
+    },
+    {
       "title": "No Priors How AI changes the economy with Cloudfare CEO Matthew Prince",
       "url": "https://www.youtube.com/watch?v=ZttW75ys0BQ&list=PLMKa0PxGwad7jf8hwwX8w5FHitXZ1L_h1&index=10",
       "published": "2025-08-07",
@@ -173,7 +183,18 @@
       ]
     },
     {
-      "title": "AI Application Architecture (aka LLM App Stack) patterns",
+      "title": "Defeating Nondeterminism in LLM Inference by ThinkingMachines",
+      "url": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/",
+      "published": "2025-09-10",
+      "tags": [
+        "AI",
+        "Engineering",        
+        "Architecture",
+        "Article"
+      ]
+    },
+    {
+      "title": "A16z on AI Application Architecture (aka LLM App Stack) patterns",
       "url": "https://a16z.com/emerging-architectures-for-llm-applications/",
       "published": "2023-06-20",
       "tags": [
@@ -184,11 +205,23 @@
       ]
     },
     {
-      "title": "LLM App: AI Application Architecture patterns",
+      "title": "GitHub on the LLM App: AI Application Architecture patterns",
       "url": "https://github.blog/ai-and-ml/llms/the-architecture-of-todays-llm-applications/",
       "published": "2023-10-30",
       "tags": [
         "AI",
+        "Engineering",
+        "Architecture",
+        "Article"
+      ]
+    },
+    {
+      "title": "Inference optimization using speculative decoding - spending more infra and inference to guess at probabilistic tokens",
+      "url": "https://research.google/blog/looking-back-at-speculative-decoding/",
+      "published": "2024-12-06",
+      "tags": [
+        "AI",
+        "LLM",
         "Engineering",
         "Architecture",
         "Article"
@@ -205,6 +238,19 @@
         "CTO",
         "Podcast"
       ]
+    },
+    {
+      "title": "Pragmatic Engineer interviews Grady Booch on the third golden age of software engineering - AI",
+      "url": "https://youtube.com/watch?v=OfMAtaocvJw&pp=0gcJCcQBo7VqN5tD",
+      "published": "2026-02-04",
+      "tags": [
+        "AI",
+        "LLM",
+        "Engineering",
+        "History",
+        "Video"
+      ]
     }
+    
   ]
 }
