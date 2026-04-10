@@ -161,8 +161,8 @@
     },
     {
       "title": "Code Reviews Do Find Bugs",
-      "url": "https://two-wrongs.com/code-reviews-do-find-bugs",
-      "published": null,
+      "url": "https://entropicthoughts.com/code-reviews-do-find-bugs",
+      "published": "2024-09-17",
       "tags": [
         "Engineering",
         "Code Review",
@@ -173,7 +173,7 @@
     {
       "title": "Code Review in Remote Teams",
       "url": "https://web.hypothes.is/blog/code-review-in-remote-teams/",
-      "published": null,
+      "published": "2016-11-18",
       "tags": [
         "Engineering",
         "Code Review",
@@ -184,7 +184,7 @@
     {
       "title": "The Art of Giving and Receiving Code Reviews",
       "url": "https://web.archive.org/web/20200111065923/https://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/",
-      "published": null,
+      "published": "2018-06-25",
       "tags": [
         "Engineering",
         "Code Review",
@@ -192,6 +192,17 @@
         "Blog"
       ]
     },
+    {
+  "title": "Git Commands to run before Reading any Codebase",
+  "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+  "published": "2026-04-08",
+  "tags": [
+    "Git",
+    "Code Review",
+    "Engineering",
+    "Article"
+  ]
+}
     {
       "title": "SE Radio: The CAP Theorem Then and Now",
       "url": "https://se-radio.net/2015/05/the-cap-theorem-then-and-now",
@@ -234,7 +245,7 @@
     {
       "title": "Why We Need Software Specifications",
       "url": "https://www.wired.com/2013/01/code-bugs-programming-why-we-need-specs/",
-      "published": null,
+      "published": "2013-01-01",
       "tags": [
         "Engineering",
         "Requirements",
@@ -938,10 +949,20 @@
     {
       "title": "Tony Hoare: Communicating Sequential Processes",
       "url": "https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf",
-      "published": null,
+      "published": "1978-08-01",
       "tags": [
         "Engineering",
         "Concurrency",
+        "Tony Hoare"
+      ]
+    },
+    {
+      "title": "Tony Hoare: 1980 Turing Award Speech on learning from failure and simple reduces risk",
+      "url": "https://www.labouseur.com/projects/codeReckon/papers/The-Emperors-Old-Clothes.pdf",
+      "published": "1980-10-27",
+      "tags": [
+        "Engineering",
+        "Complexity",
         "Tony Hoare"
       ]
     },
