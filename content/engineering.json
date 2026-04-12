@@ -569,12 +569,25 @@
     {
       "title": "Big Ball of Mud - Foundational Essay on Software Architecture",
       "url": "https://web.archive.org/web/20210414115314/http://www.laputan.org/mud/",
-      "published": null,
+      "published": "1999-06-26",
       "tags": [
         "Engineering",
         "Architecture",
         "Anti-patterns",
-        "Systems Design"
+        "Systems Design",
+        "Article"
+      ]
+    },
+    {
+      "title": "ELC Preventing Over-Engineering aka Aspirational Mismatches by Lisa Dusseault",
+      "url": "https://elc.community/public/podcasts/the-cost-of-aspirational-mismatches-and-how-to-avoid-them-lisa-dusseault-compaas",
+      "published": "2020-08-30",
+      "tags": [
+        "Engineering",
+        "Anti-Patterns",
+        "Systems Design",
+        "Architecture",
+        "Podcast"
       ]
     },
     {
@@ -926,7 +939,7 @@
     {
       "title": "Software Engineering Daily: Go Networking with Sneha Inguva",
       "url": "https://softwareengineeringdaily.com/2020/02/18/go-networking-with-sneha-inguva/",
-      "published": null,
+      "published": "2020-02-18",
       "tags": [
         "Engineering",
         "Golang",
