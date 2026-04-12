@@ -250,6 +250,28 @@
         "History",
         "Video"
       ]
+    },
+    {
+      "title": "Simply manage your context - like not leaving debug logs on in prod",
+      "url": "https://www.humanlayer.dev/blog/context-efficient-backpressure",
+      "published": "2025-12-09",
+      "tags": [
+        "AI",
+        "Coding",
+        "Agents",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Slow down the agentic accelerated complexity by Mario Zechner of Pi fame",
+      "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+      "published": "2026-03-25",
+      "tags": [
+        "AI",
+        "Coding",
+        "Agents",
+        "Blog"
+      ]
     }
     
   ]
