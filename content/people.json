@@ -1019,7 +1019,7 @@
     {
       "title": "How to Conduct a Good Programming Interview",
       "url": "https://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html",
-      "published": null,
+      "published": "2017-08-30",
       "tags": [
         "People",
         "Interviews",
@@ -1044,7 +1044,29 @@
     {
       "title": "Guy Kawasaki: The Inside Scoop (Pragmatic Resume and Interview Prep)",
       "url": "https://guykawasaki.com/the_inside_scoo/",
-      "published": null,
+      "published": "2006-08-14",
+      "tags": [
+        "People",
+        "Interviewing",
+        "Career Development",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Storytelling in Interviews with the STARR Method",
+      "url": "https://www.youtube.com/watch?v=cJEEPTyHJDg",
+      "published": "2025-03-18",
+      "tags": [
+        "People",
+        "Interviewing",
+        "Career Development",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Meta Hiring Lead Austen McDonald - Recruiter learnings from hundreds of FAANG interviews",
+      "url": "https://www.youtube.com/watch?v=nOapM8i5jr0",
+      "published": "2026-03-16",
       "tags": [
         "People",
         "Interviewing",
@@ -1579,6 +1601,17 @@
       "title": "Well Adjusting Podcast: What to Do After a Layoff",
       "url": "https://www.youtube.com/watch?v=mA3hPDqUR9E",
       "published": "2023-11-20",
+      "tags": [
+        "People",
+        "Layoffs",
+        "Career Transition",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Coaching for Leaders: What to Do After a Layoff",
+      "url": "https://coachingforleaders.com/podcast/what-to-do-after-layoff-scott-anthony-barlow/",
+      "published": "2025-04-27",
       "tags": [
         "People",
         "Layoffs",
