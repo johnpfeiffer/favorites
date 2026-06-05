@@ -1441,10 +1441,12 @@
     {
       "title": "Code Review in Remote Teams",
       "url": "https://web.hypothes.is/blog/code-review-in-remote-teams/",
-      "published": null,
+      "published": "2016-11-18",
       "tags": [
         "People",
+        "Engineering"
         "Code Review",
+        "Quality"
         "Remote",
         "Team",
         "Process",
