@@ -131,7 +131,8 @@
     {
       "title": "Sandi Metz: Code Smells Presentation at Laracon 2016",
       "url": "https://www.youtube.com/watch?v=MksJTtt7jS4&t=93s",
-      "published": null,
+      "alternate-url": "https://speakerdeck.com/skmetz/get-a-whiff-of-this",
+      "published": "2016-07-28",
       "tags": [
         "Engineering",
         "Quality",
@@ -139,9 +140,22 @@
       ]
     },
     {
+      "title": "Sandi Metz: ",
+      "url": "https://sandimetz.com/blog/2017/6/1/why-we-argue-style",
+      "published": "2017-06-01",
+      "tags": [
+        "Engineering",
+        "Team",
+        "Culture",
+        "Code Review",
+        "Blog"
+      ]
+    },
+    {
       "title": "Why and How to Make Smaller Pull Requests",
       "url": "https://robertheaton.com/2015/10/26/why-and-how-to-make-smaller-pull-requests/",
-      "published": null,
+      "alternate-url": "https://web.archive.org/web/20170526110111/https://robertheaton.com/2015/10/26/why-and-how-to-make-smaller-pull-requests/",
+      "published": "2015-10-26",
       "tags": [
         "Engineering",
         "Code Review",
@@ -151,7 +165,8 @@
     {
       "title": "Code Review Without Your Eyes - Heuristics for Quickly Reviewing Code",
       "url": "https://robertheaton.com/2014/06/20/code-review-without-your-eyes/",
-      "published": null,
+      "alternate-url": "https://web.archive.org/web/20160125080003/https://robertheaton.com/2014/06/20/code-review-without-your-eyes/",
+      "published": "2014-06-20",
       "tags": [
         "Engineering",
         "Code Review",
@@ -187,6 +202,8 @@
       "published": "2018-06-25",
       "tags": [
         "Engineering",
+        "Team",
+        "Culture",
         "Code Review",
         "Communication",
         "Blog"
