@@ -1,7 +1,10 @@
 #!/bin/bash
 set -euo pipefail
 
-DEST="../codespaces-react/apps/links/src/content/"
+DEST="../links-app/app/src/content/"
+
+
+./validate-json.sh
 
 echo "=== 5 Most Recent Commits ==="
 git log --oneline -5
