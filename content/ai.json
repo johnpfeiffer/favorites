@@ -188,7 +188,7 @@
       "published": "2025-09-10",
       "tags": [
         "AI",
-        "Engineering",        
+        "Engineering",
         "Architecture",
         "Article"
       ]
@@ -272,7 +272,29 @@
         "Agents",
         "Blog"
       ]
+    },
+    {
+      "title": "Learn Generative AI: Evaluation and Monitoring for LLM Systems",
+      "url": "https://www.youtube.com/watch?v=cvp5IHPw-ME",
+      "published": "2026-05-13",
+      "tags": [
+        "AI",
+        "LLM",
+        "Observability",
+        "Agents",
+        "Video"
+      ]
+    },
+    {
+      "title": "Agents are Just While Loops with Hamza Tahir (ZenML)",
+      "url": "https://podcasts.apple.com/us/podcast/agents-are-just-while-loops/id1505372978?i=1000767970107",
+      "published": "2026-05-15",
+      "tags": [
+        "AI",
+        "LLM",
+        "Agents",
+        "Podcast"
+      ]
     }
-    
   ]
 }
