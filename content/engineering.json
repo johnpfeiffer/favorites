@@ -1379,6 +1379,18 @@
         "Jez Humble",
         "Podcast"
       ]
+    },
+    {
+      "title": "Darknet Diaries: Deviant - physical penetration testing",
+      "url": "https://darknetdiaries.com/episode/134/",
+      "published": "2023-06-06",
+      "tags": [
+        "Engineering",
+        "Security",
+        "Physical Security",
+        "Penetration Testing",
+        "Podcast"
+      ]
     }
   ]
 }
