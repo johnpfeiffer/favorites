@@ -6,6 +6,7 @@
       "published": "2026-02-23",
       "tags": [
         "Engineering",
+        "Turing Award",
         "Algorithms",
         "Distributed Systems",
         "History",
@@ -254,6 +255,7 @@
       "published": "2013-01-01",
       "tags": [
         "Engineering",
+        "Turing Award",
         "Requirements",
         "Quality",
         "Leslie Lamport"
@@ -340,7 +342,8 @@
       "tags": [
         "Engineering",
         "Testing",
-        "Quality"
+        "Quality",
+        "Paper"
       ]
     },
     {
@@ -528,7 +531,7 @@
         "Engineering",
         "Visualization",
         "Algorithms",
-        "blog"
+        "Blog"
       ]
     },
     {
@@ -539,7 +542,7 @@
         "Engineering",
         "Visualization",
         "Algorithms",
-        "blog"
+        "Blog"
       ]
     },
     {
@@ -551,7 +554,7 @@
         "Visualization",
         "Data Structures",
         "Algorithms",
-        "blog"
+        "Blog"
       ]
     },
     {
@@ -581,7 +584,7 @@
       "tags": [
         "Engineering",
         "Architecture",
-        "Anti-patterns",
+        "Anti-Patterns",
         "Systems Design",
         "Article"
       ]
@@ -973,8 +976,10 @@
       "published": "1978-08-01",
       "tags": [
         "Engineering",
+        "Turing Award",
         "Concurrency",
-        "Tony Hoare"
+        "Tony Hoare",
+        "Paper"
       ]
     },
     {
@@ -983,8 +988,10 @@
       "published": "1980-10-27",
       "tags": [
         "Engineering",
+        "Turing Award",
         "Complexity",
-        "Tony Hoare"
+        "Tony Hoare",
+        "Paper"
       ]
     },
     {
@@ -993,8 +1000,10 @@
       "published": "2001-08-01",
       "tags": [
         "Engineering",
+        "Turing Award",
         "Algorithms",
-        "Butler Lampson"
+        "Butler Lampson",
+        "Paper"
       ]
     },
     {
@@ -1003,8 +1012,10 @@
       "published": "1998-05-01",
       "tags": [
         "Engineering",
+        "Turing Award",
         "Algorithms",
-        "Leslie Lamport"
+        "Leslie Lamport",
+        "Paper"
       ]
     },
     {
@@ -1013,8 +1024,10 @@
       "published": null,
       "tags": [
         "Engineering",
+        "Turing Award",
         "Algorithms",
-        "Leslie Lamport"
+        "Leslie Lamport",
+        "Paper"
       ]
     },
     {
@@ -1244,7 +1257,8 @@
       "tags": [
         "Engineering",
         "Information Theory",
-        "Claude Shannon"
+        "Claude Shannon",
+        "Paper"
       ]
     },
     {
@@ -1253,8 +1267,10 @@
       "published": null,
       "tags": [
         "Engineering",
+        "Turing Award",
         "Distributed Systems",
-        "Leslie Lamport"
+        "Leslie Lamport",
+        "Paper"
       ]
     },
     {
@@ -1263,8 +1279,10 @@
       "published": null,
       "tags": [
         "Engineering",
+        "Turing Award",
         "Systems Design",
-        "Butler Lampson"
+        "Butler Lampson",
+        "Paper"
       ]
     },
     {
@@ -1273,9 +1291,11 @@
       "published": null,
       "tags": [
         "Engineering",
+        "Turing Award",
         "History",
         "Butler Lampson",
-        "Jevons Paradox"
+        "Jevons Paradox",
+        "Paper"
       ]
     },
     {
@@ -1284,8 +1304,10 @@
       "published": null,
       "tags": [
         "Engineering",
+        "Turing Award",
         "Verification",
-        "C.A.R. Hoare"
+        "C.A.R. Hoare",
+        "Paper"
       ]
     },
     {
@@ -1296,7 +1318,22 @@
         "Engineering",
         "AWS",
         "Serverless",
-        "Operating Systems"
+        "Operating Systems",
+        "Paper"
+      ]
+    },
+    {
+      "title": "Turing Award winner Barbara Liskov interviewed about data abstraction, Dijkstra, and distributed systems",
+      "url": "https://www.developing.dev/p/turing-award-winner-data-abstraction",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835?i=1000763787598",
+      "published": "2026-04-27",
+      "tags": [
+        "Engineering",
+        "Turing Award",
+        "Distributed Systems",
+        "History",
+        "Barbara Liskov",
+        "Podcast"
       ]
     }
   ]
