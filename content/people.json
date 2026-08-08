@@ -1970,6 +1970,44 @@
         "Feedback",
         "Blog"
       ]
+    },
+    {
+      "title": "Stack Overflow: Paging Charity! How can engineering leaders avoid becoming Bond villains?",
+      "url": "https://stackoverflow.blog/2026/06/26/paging-charity-how-can-engineering-leaders-avoid-becoming-bond-villains/",
+      "alternate-url": "https://web.archive.org/web/20260728044134/https://stackoverflow.blog/2026/06/26/paging-charity-how-can-engineering-leaders-avoid-becoming-bond-villains/",
+      "published": "2026-06-26",
+      "tags": [
+        "People",
+        "Engineering Management",
+        "Leadership",
+        "Charity Majors",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Linear: Why and how we do work trials at Linear",
+      "url": "https://linear.app/now/why-and-how-we-do-work-trials-at-linear",
+      "alternate-url": "https://web.archive.org/web/20260725204808/https://linear.app/now/why-and-how-we-do-work-trials-at-linear",
+      "published": "2023-12-13",
+      "tags": [
+        "People",
+        "Hiring",
+        "Interviewing",
+        "Startup",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Steve Yegge: The Last Technical Interview",
+      "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+      "alternate-url": "https://web.archive.org/web/20260713004342/https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+      "published": "2026-05-29",
+      "tags": [
+        "People",
+        "Hiring",
+        "Interviewing",
+        "Blog"
+      ]
     }
   ]
 }
