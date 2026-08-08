@@ -309,6 +309,34 @@
         "LLM",
         "Podcast"
       ]
+    },
+    {
+      "title": "Dex Horthy (HumanLayer): No Vibes Allowed - Solving Hard Problems in Complex Codebases",
+      "url": "https://www.youtube.com/watch?v=rmvDxxNubIg",
+      "published": "2025-12-02",
+      "tags": [
+        "AI",
+        "Coding",
+        "Agents",
+        "Context Engineering",
+        "HumanLayer",
+        "Video"
+      ]
+    },
+    {
+      "title": "The Pragmatic Engineer: Building Pi (agent harness), and what makes self-modifying software so fascinating",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-pi-and-what-makes-self-modifying",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000764502093",
+      "published": "2026-04-29",
+      "tags": [
+        "AI",
+        "Coding",
+        "Agents",
+        "Pi",
+        "Mario Zechner",
+        "Armin Ronacher",
+        "Podcast"
+      ]
     }
   ]
 }

@@ -2073,6 +2073,47 @@
         "Leadership",
         "Article"
       ]
+    },
+    {
+      "title": "No One's Happy: Appearing Productive in the Workplace",
+      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+      "published": "2026-05-06",
+      "tags": [
+        "People",
+        "AI",
+        "Productivity",
+        "Workplace",
+        "Article"
+      ]
+    },
+    {
+      "title": "Being Human: Kent Beck on leaving Facebook, incentives, and context",
+      "url": "https://www.youtube.com/watch?v=fH4gqsIYzyE&t=3371",
+      "published": "2018-08-31",
+      "tags": [
+        "People",
+        "Kent Beck",
+        "Incentives",
+        "Culture",
+        "Engineering Management",
+        "Video"
+      ]
+    },
+    {
+      "title": "The Pragmatic Engineer: Scaling Uber with Thuan Pham (Uber's first CTO)",
+      "url": "https://newsletter.pragmaticengineer.com/p/scaling-uber-with-thuan-pham-ubers",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000758687844",
+      "published": "2026-04-01",
+      "tags": [
+        "People",
+        "CTO",
+        "Scaling",
+        "Uber",
+        "Leadership",
+        "Engineering Management",
+        "Culture",
+        "Podcast"
+      ]
     }
   ]
 }
