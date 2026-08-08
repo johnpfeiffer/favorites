@@ -342,7 +342,8 @@
       "tags": [
         "Engineering",
         "Testing",
-        "Quality"
+        "Quality",
+        "Paper"
       ]
     },
     {
@@ -583,7 +584,7 @@
       "tags": [
         "Engineering",
         "Architecture",
-        "Anti-patterns",
+        "Anti-Patterns",
         "Systems Design",
         "Article"
       ]
@@ -977,7 +978,8 @@
         "Engineering",
         "Turing Award",
         "Concurrency",
-        "Tony Hoare"
+        "Tony Hoare",
+        "Paper"
       ]
     },
     {
@@ -988,7 +990,8 @@
         "Engineering",
         "Turing Award",
         "Complexity",
-        "Tony Hoare"
+        "Tony Hoare",
+        "Paper"
       ]
     },
     {
@@ -999,7 +1002,8 @@
         "Engineering",
         "Turing Award",
         "Algorithms",
-        "Butler Lampson"
+        "Butler Lampson",
+        "Paper"
       ]
     },
     {
@@ -1010,7 +1014,8 @@
         "Engineering",
         "Turing Award",
         "Algorithms",
-        "Leslie Lamport"
+        "Leslie Lamport",
+        "Paper"
       ]
     },
     {
@@ -1021,7 +1026,8 @@
         "Engineering",
         "Turing Award",
         "Algorithms",
-        "Leslie Lamport"
+        "Leslie Lamport",
+        "Paper"
       ]
     },
     {
@@ -1251,7 +1257,8 @@
       "tags": [
         "Engineering",
         "Information Theory",
-        "Claude Shannon"
+        "Claude Shannon",
+        "Paper"
       ]
     },
     {
@@ -1262,7 +1269,8 @@
         "Engineering",
         "Turing Award",
         "Distributed Systems",
-        "Leslie Lamport"
+        "Leslie Lamport",
+        "Paper"
       ]
     },
     {
@@ -1273,7 +1281,8 @@
         "Engineering",
         "Turing Award",
         "Systems Design",
-        "Butler Lampson"
+        "Butler Lampson",
+        "Paper"
       ]
     },
     {
@@ -1285,7 +1294,8 @@
         "Turing Award",
         "History",
         "Butler Lampson",
-        "Jevons Paradox"
+        "Jevons Paradox",
+        "Paper"
       ]
     },
     {
@@ -1296,7 +1306,8 @@
         "Engineering",
         "Turing Award",
         "Verification",
-        "C.A.R. Hoare"
+        "C.A.R. Hoare",
+        "Paper"
       ]
     },
     {
@@ -1307,7 +1318,8 @@
         "Engineering",
         "AWS",
         "Serverless",
-        "Operating Systems"
+        "Operating Systems",
+        "Paper"
       ]
     },
     {
