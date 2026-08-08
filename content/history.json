@@ -474,6 +474,20 @@
         "Book",
         "Podcast"
       ]
+    },
+    {
+      "title": "Internet History Podcast: Jason Calacanis on Silicon Alley, the Dot-Com Bubble, and Web 2.0",
+      "url": "https://www.internethistorypodcast.com/2016/10/jason-calacanis-on-silicon-alley-the-dot-com-bubble-and-web-2-0/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/techmeme-ride-home/id1355212895?i=1000610214874",
+      "published": "2016-10-24",
+      "tags": [
+        "History",
+        "Jason Calacanis",
+        "Dot-Com Bubble",
+        "Silicon Alley",
+        "Web 2.0",
+        "Podcast"
+      ]
     }
   ]
 }
