@@ -284,6 +284,19 @@
         "Agents",
         "Podcast"
       ]
+    },
+    {
+      "title": "Honeycomb: 30 to 70 PRs a Day - How We Managed to Not Wreck Our Systems",
+      "url": "https://www.honeycomb.io/blog/30-70-prs-day-how-we-managed-not-wreck-systems",
+      "alternate-url": "https://web.archive.org/web/20260724033144/https://www.honeycomb.io/blog/30-70-prs-day-how-we-managed-not-wreck-systems",
+      "published": "2026-07-16",
+      "tags": [
+        "AI",
+        "Engineering",
+        "Productivity",
+        "Continuous Delivery",
+        "Blog"
+      ]
     }
   ]
 }
