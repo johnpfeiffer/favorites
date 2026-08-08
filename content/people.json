@@ -2008,6 +2008,71 @@
         "Interviewing",
         "Blog"
       ]
+    },
+    {
+      "title": "Radical Candor: Eric Ries on Incorruptible - why good companies go bad and how great companies stay great",
+      "url": "https://www.radicalcandor.com/podcast/incorruptible-eric-ries-8-12",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/radical-candor-communication-at-work/id1188489488?i=1000764232580",
+      "published": "2026-04-29",
+      "tags": [
+        "People",
+        "Radical Candor",
+        "Startups",
+        "Leadership",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Manager Tools: Network Building - The St. Jude Rule (helping laid off colleagues)",
+      "url": "https://www.manager-tools.com/2026/04/network-building-st-jude-rule",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/manager-tools/id74198801?i=1000761158923",
+      "published": "2026-04-13",
+      "tags": [
+        "People",
+        "Manager Tools",
+        "Layoffs",
+        "Networking",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Lenny's Podcast: Why half of product managers are in trouble - Nikhyl Singhal on the AI future of PM",
+      "url": "https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000762241977",
+      "published": "2026-04-19",
+      "tags": [
+        "People",
+        "Product Management",
+        "AI",
+        "Career",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Engineering Unblocked: Charity Majors (Honeycomb) on hiring normal engineers and helping them do great work",
+      "url": "https://www.swarmia.com/podcast/charity-majors-honeycomb/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/engineering-unblocked/id1690770396?i=1000718469723",
+      "published": "2025-07-22",
+      "tags": [
+        "People",
+        "Charity Majors",
+        "Engineering Management",
+        "Hiring",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "LeadDev: The reality of being a VP of Engineering (Honeycomb's Emily Nakashima)",
+      "url": "https://leaddev.com/career-development/reality-being-vp-engineering",
+      "alternate-url": "https://web.archive.org/web/20260315054719/https://leaddev.com/career-development/reality-being-vp-engineering",
+      "published": "2023-09-28",
+      "tags": [
+        "People",
+        "VP Engineering",
+        "Engineering Management",
+        "Leadership",
+        "Article"
+      ]
     }
   ]
 }

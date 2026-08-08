@@ -1335,6 +1335,18 @@
         "Barbara Liskov",
         "Podcast"
       ]
+    },
+    {
+      "title": "Bryan Cantrill: The peril of laziness lost - LLMs lack the virtuous laziness that drives good abstraction",
+      "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+      "published": "2026-04-12",
+      "tags": [
+        "Engineering",
+        "AI",
+        "LLM",
+        "Complexity",
+        "Blog"
+      ]
     }
   ]
 }

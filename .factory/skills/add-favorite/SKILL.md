@@ -23,6 +23,7 @@ Add links to `content/*.json` so they pass `./validate-json.sh`, dedupe cleanly 
 - There is no `type` field. Media type is a capitalized tag, conventionally last in the array. The complete set in use: `Podcast`, `Blog`, `Article`, `Video`, `Book`, `Paper`.
 - First tag is the file's category (`AI`, `Business`, `Engineering`, `History`, `People`). Person/source tags exist (e.g. `Manager Tools`, `Charity Majors`, `Leslie Lamport`).
 - Titles often carry a source prefix (`Manager Tools: ...`, `Honeycomb: ...`) or are descriptive (`Leslie Lamport interviewed about ...`). Match nearby entries.
+- If the requester includes shorthand notes about a link, use them: they capture why the link matters. Enrich the title with that nuance when the canonical title doesn't convey it (paraphrase, don't copy verbatim), and let the notes steer tags and placement.
 
 ## Placement
 
