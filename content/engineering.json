@@ -1391,6 +1391,17 @@
         "Penetration Testing",
         "Podcast"
       ]
+    },
+    {
+      "title": "Go Time: Principles of Simplicity with Sam Boyer",
+      "url": "https://changelog.com/gotime/296",
+      "published": "2023-11-08",
+      "tags": [
+        "Engineering",
+        "Simplicity",
+        "Golang",
+        "Podcast"
+      ]
     }
   ]
 }
