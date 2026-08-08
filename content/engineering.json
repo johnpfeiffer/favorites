@@ -1364,16 +1364,19 @@
       ]
     },
     {
-      "title": "The a16z Show: Feedback Loops -- Company Culture, Change, and DevOps",
+      "title": "The a16z Show: Accelerate book authors on DevOps, company culture, and change",
       "url": "https://a16z.simplecast.com/episodes/a16z-podcast-feedback-loops-company-culture-change-and-devops-jfDYhdUM",
       "alternate-url": "https://podcasts.apple.com/us/podcast/the-a16z-show/id842818711?i=1000407698712",
       "published": "2018-03-28",
       "tags": [
         "Engineering",
         "DevOps",
+        "Accelerate",
         "Continuous Delivery",
         "Culture",
         "DORA",
+        "Nicole Forsgren",
+        "Jez Humble",
         "Podcast"
       ]
     }
