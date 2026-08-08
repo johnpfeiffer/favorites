@@ -61,7 +61,15 @@ Only create a tag when no existing one fits and the pattern is established (e.g.
 ./count-urls.sh      # per-file counts, total vs unique URLs, duplicate list
 ```
 
-The new URL must not already exist (count-urls.sh lists duplicates). If adding a link reveals a pre-existing duplicate or syntax bug, fix it in the same PR and call it out.
+The new URL must not already exist (count-urls.sh lists duplicates).
+
+## Anomalies and discrepancies
+
+Adding a link often surfaces pre-existing issues: invalid JSON, duplicate URLs, wrong metadata, inconsistent tags. Always surface every anomaly in your response and the PR body. Then, by category:
+
+- **Fix and report** when the correction is objectively verifiable: JSON syntax errors, tag typos with a clear dominant form in the repo, casing that breaks tag filtering, a wrong URL provable from matching metadata (e.g. an identical published date on the correct article).
+- **Ask first** when the resolution is ambiguous, destructive, or unverifiable: deleting an entry, choosing between conflicting metadata, merging or removing existing tags, or any value you cannot confirm from the source (e.g. a published date the page doesn't show and search can't confirm).
+- Keep anomaly fixes in their own commit, separate from the new links, so they are easy to review or drop.
 
 ## PR
 
