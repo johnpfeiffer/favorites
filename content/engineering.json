@@ -6,6 +6,7 @@
       "published": "2026-02-23",
       "tags": [
         "Engineering",
+        "Turing Award",
         "Algorithms",
         "Distributed Systems",
         "History",
@@ -254,6 +255,7 @@
       "published": "2013-01-01",
       "tags": [
         "Engineering",
+        "Turing Award",
         "Requirements",
         "Quality",
         "Leslie Lamport"
@@ -973,6 +975,7 @@
       "published": "1978-08-01",
       "tags": [
         "Engineering",
+        "Turing Award",
         "Concurrency",
         "Tony Hoare"
       ]
@@ -983,6 +986,7 @@
       "published": "1980-10-27",
       "tags": [
         "Engineering",
+        "Turing Award",
         "Complexity",
         "Tony Hoare"
       ]
@@ -993,6 +997,7 @@
       "published": "2001-08-01",
       "tags": [
         "Engineering",
+        "Turing Award",
         "Algorithms",
         "Butler Lampson"
       ]
@@ -1003,6 +1008,7 @@
       "published": "1998-05-01",
       "tags": [
         "Engineering",
+        "Turing Award",
         "Algorithms",
         "Leslie Lamport"
       ]
@@ -1013,6 +1019,7 @@
       "published": null,
       "tags": [
         "Engineering",
+        "Turing Award",
         "Algorithms",
         "Leslie Lamport"
       ]
@@ -1253,6 +1260,7 @@
       "published": null,
       "tags": [
         "Engineering",
+        "Turing Award",
         "Distributed Systems",
         "Leslie Lamport"
       ]
@@ -1263,6 +1271,7 @@
       "published": null,
       "tags": [
         "Engineering",
+        "Turing Award",
         "Systems Design",
         "Butler Lampson"
       ]
@@ -1273,6 +1282,7 @@
       "published": null,
       "tags": [
         "Engineering",
+        "Turing Award",
         "History",
         "Butler Lampson",
         "Jevons Paradox"
@@ -1284,6 +1294,7 @@
       "published": null,
       "tags": [
         "Engineering",
+        "Turing Award",
         "Verification",
         "C.A.R. Hoare"
       ]
@@ -1306,6 +1317,7 @@
       "published": "2026-04-27",
       "tags": [
         "Engineering",
+        "Turing Award",
         "Distributed Systems",
         "History",
         "Barbara Liskov",
