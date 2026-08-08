@@ -2209,6 +2209,85 @@
         "Frameworks",
         "Podcast"
       ]
+    },
+    {
+      "title": "Y Combinator: Office Hours - Group Partners Share Their Top Productivity Advice",
+      "url": "https://www.ycombinator.com/library/K5-yc-s-group-partners-share-productivity-tips",
+      "published": "2023-05-18",
+      "tags": [
+        "People",
+        "Y Combinator",
+        "Productivity",
+        "Focus",
+        "Prioritization",
+        "Video"
+      ]
+    },
+    {
+      "title": "Developing Leadership: How Many EMs to Change a Lightbulb?",
+      "url": "https://podcast.developingleadership.co/e/how-many-ems-to-change-a-lightbulb/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/developing-leadership/id1575893623?i=1000611436637",
+      "published": "2023-05-02",
+      "tags": [
+        "People",
+        "Engineering Management",
+        "Org Chart",
+        "Management",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "TestGuild: Automation Score Card Quiz (What's Your Score?) with Joe Colantonio",
+      "url": "https://testguild.com/automation-scorecard-scorequizz/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/testguild-automation-podcast/id826722706?i=1000622821191",
+      "published": "2023-07-30",
+      "tags": [
+        "People",
+        "Test Automation",
+        "Scorecard",
+        "Testing",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Manager Tools: Timely Meetings - Part 2",
+      "url": "https://www.manager-tools.com/2009/09/timely-meetings-part-2",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-effective-manager-book/id1451618807?i=1000429235329",
+      "published": "2009-09-28",
+      "tags": [
+        "People",
+        "Manager Tools",
+        "Meetings",
+        "Management",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Managing Up: What If Meetings… Were Good, Actually?",
+      "url": "https://www.managingup.show/episodes/what-if-meetings-were-good-actually",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/managing-up/id1412411569?i=1000642795296",
+      "published": "2024-01-24",
+      "tags": [
+        "People",
+        "Meetings",
+        "Management",
+        "Leadership",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Engineering Leadership Podcast: Increasing Capacity to Win in an Economic Downturn, Cultivating a Founder's Mindset, and Product Ownership in Engineering with Shadi Rostami",
+      "url": "https://sfelc.com/podcasts/increasing-capacity-to-win-in-an-economic-downturn",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-engineering-leadership-podcast/id1481996448?i=1000599538711",
+      "published": "2023-02-14",
+      "tags": [
+        "People",
+        "Engineering Leadership",
+        "Shadi Rostami",
+        "Capacity",
+        "Economic Downturn",
+        "Podcast"
+      ]
     }
   ]
 }
