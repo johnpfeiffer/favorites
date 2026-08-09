@@ -2288,6 +2288,103 @@
         "Economic Downturn",
         "Podcast"
       ]
+    },
+    {
+      "title": "Developing Leadership: A Deep Dive Into Engineering Leadership Roles, Part 1 (CTO vs VP of Engineering vs Engineering Manager)",
+      "url": "https://podcast.developingleadership.co/e/episode-6-a-deep-dive-into-engineering-leadership-roles-part-1/",
+      "published": "2021-09-21",
+      "tags": [
+        "People",
+        "Engineering Leadership",
+        "CTO",
+        "Engineering Management",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Lenny's Podcast: Good Strategy, Bad Strategy with Richard Rumelt",
+      "url": "https://www.lennysnewsletter.com/p/good-strategy-bad-strategy-richard",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000642377324",
+      "published": "2024-01-21",
+      "tags": [
+        "People",
+        "Strategy",
+        "Product Management",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "The Knowledge Project: Shreyas Doshi - Better Teams, Better Products (#175)",
+      "url": "https://fs.blog/knowledge-project-podcast/shreyas-doshi/",
+      "published": "2023-09-05",
+      "tags": [
+        "People",
+        "Product Management",
+        "Shreyas Doshi",
+        "Teams",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Lenny's Podcast: 4 Questions Shreyas Doshi Wishes He'd Asked Himself Sooner (live, funny)",
+      "url": "https://www.lennysnewsletter.com/p/shreyas-doshi-live",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000675198283",
+      "published": "2024-10-31",
+      "tags": [
+        "People",
+        "Product Management",
+        "Shreyas Doshi",
+        "Career",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Lenny's Podcast: Strategies for Becoming Less Distracted and Improving Focus with Nir Eyal (create and keep focus)",
+      "url": "https://www.lennysnewsletter.com/p/strategies-for-becoming-less-distractible",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000640007176",
+      "published": "2023-12-29",
+      "tags": [
+        "People",
+        "Focus",
+        "Productivity",
+        "Distraction",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Manager Tools: Horstman's Law - Project Management Part 3 (get the best people)",
+      "url": "https://www.manager-tools.com/2009/01/horstman%E2%80%99s-law-project-management-part-3-hall-fame-guidance",
+      "published": "2009-01-18",
+      "tags": [
+        "People",
+        "Project Management",
+        "Manager Tools",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Lenny's Podcast: Brian Chesky's New Playbook (Chesky takes over again)",
+      "url": "https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach",
+      "published": "2023-11-12",
+      "tags": [
+        "People",
+        "Leadership",
+        "Founder Mode",
+        "Management",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Y Combinator: How to Build an MVP with Michael Seibel (Startup School)",
+      "url": "https://www.ycombinator.com/library/Io-how-to-build-an-mvp",
+      "published": "2023-04-14",
+      "tags": [
+        "People",
+        "Y Combinator",
+        "MVP",
+        "Startups",
+        "Video"
+      ]
     }
   ]
 }
