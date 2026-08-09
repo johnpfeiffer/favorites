@@ -1,0 +1,1666 @@
+{
+  "show": "Y Combinator Startup Podcast",
+  "slug": "y-combinator",
+  "appleId": 1236907421,
+  "feedUrl": "https://anchor.fm/s/8c1524bc/podcast/rss",
+  "homeUrl": "https://www.ycombinator.com/library",
+  "canonicalPattern": "https://www.ycombinator.com/library/<id>-<slug>",
+  "episodeCount": 331,
+  "episodes": [
+    {
+      "title": "How To Design In The Agent Era",
+      "published": "2026-08-07",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Design-In-The-Agent-Era-e3n42jd"
+    },
+    {
+      "title": "Garry Tan: Own Your Intelligence",
+      "published": "2026-08-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Garry-Tan-Own-Your-Intelligence-e3n2rc1"
+    },
+    {
+      "title": "Building the First Data Centers in Space",
+      "published": "2026-08-05",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Building-the-First-Data-Centers-in-Space-e3n13ek"
+    },
+    {
+      "title": "Waymo Co-CEO Dmitri Dolgov: \"Move Fast And Ship Safely\"",
+      "published": "2026-08-04",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Waymo-Co-CEO-Dmitri-Dolgov-Move-Fast-And-Ship-Safely-e3mvft2"
+    },
+    {
+      "title": "Patrick Collison: \"What If You Succeed?\"",
+      "published": "2026-08-03",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Patrick-Collison-What-If-You-Succeed-e3mtper"
+    },
+    {
+      "title": "Jeff Dean: The 1% Rule for Building in AI",
+      "published": "2026-08-01",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Jeff-Dean-The-1-Rule-for-Building-in-AI-e3mq28a"
+    },
+    {
+      "title": "Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”",
+      "published": "2026-07-31",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Alexandr-Wang-This-is-a-Once-in-a-Civilization-Opportunity-e3mq1mh"
+    },
+    {
+      "title": "Blake Scholl: Breaking the Supersonic Ban",
+      "published": "2026-07-29",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Blake-Scholl-Breaking-the-Supersonic-Ban-e3mngh9"
+    },
+    {
+      "title": "Sam Altman: \"Never a Better Time to Do a Startup\"",
+      "published": "2026-07-28",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Sam-Altman-Never-a-Better-Time-to-Do-a-Startup-e3mld12"
+    },
+    {
+      "title": "Boris Cherny: Building Claude Code",
+      "published": "2026-07-28",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Boris-Cherny-Building-Claude-Code-e3mkr7g"
+    },
+    {
+      "title": "Jensen Huang: The Mindset That Built NVIDIA",
+      "published": "2026-07-27",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Jensen-Huang-The-Mindset-That-Built-NVIDIA-e3mkd1q"
+    },
+    {
+      "title": "World Models, Explained",
+      "published": "2026-07-17",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/World-Models--Explained-e3m73bf"
+    },
+    {
+      "title": "How To Better Understand Your Users",
+      "published": "2026-07-09",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Better-Understand-Your-Users-e3lsjos"
+    },
+    {
+      "title": "Why Domain Experts Are Winning In The Age Of AI",
+      "published": "2026-06-19",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Why-Domain-Experts-Are-Winning-In-The-Age-Of-AI-e3l08ia"
+    },
+    {
+      "title": "How To Pick A Startup Idea",
+      "published": "2026-06-17",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Pick-A-Startup-Idea-e3ktvca"
+    },
+    {
+      "title": "\"The CEO Must Be the Chief AI Officer\"",
+      "published": "2026-06-10",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-CEO-Must-Be-the-Chief-AI-Officer-e3kju57"
+    },
+    {
+      "title": "How to Build an AI-Native Services Company",
+      "published": "2026-06-03",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-to-Build-an-AI-Native-Services-Company-e3k8dj5"
+    },
+    {
+      "title": "How To Build Superintelligence Inside Your Company",
+      "published": "2026-05-27",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Build-Superintelligence-Inside-Your-Company-e3jur1o"
+    },
+    {
+      "title": "How The Best Companies Defend Against Mediocrity And Rot",
+      "published": "2026-05-25",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-The-Best-Companies-Defend-Against-Mediocrity-And-Rot-e3jsegp"
+    },
+    {
+      "title": "Paul Graham: Should you move to Silicon Valley?",
+      "published": "2026-05-13",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Paul-Graham-Should-you-move-to-Silicon-Valley-e3jalm2"
+    },
+    {
+      "title": "Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers",
+      "published": "2026-05-08",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Tokenmaxxing-How-Top-Builders-Use-AI-To-Do-The-Work-Of-400-Engineers-e3j2r9s"
+    },
+    {
+      "title": "Beyond Bigger Models: Recursion As The Next Scaling Law In AI",
+      "published": "2026-05-01",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Beyond-Bigger-Models-Recursion-As-The-Next-Scaling-Law-In-AI-e3ioe4f"
+    },
+    {
+      "title": "How to Build the Future: Demis Hassabis",
+      "published": "2026-04-29",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-to-Build-the-Future-Demis-Hassabis-e3ik8ni"
+    },
+    {
+      "title": "The $9B Startup That Wants to Create a Billion New Developers",
+      "published": "2026-04-25",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-9B-Startup-That-Wants-to-Create-a-Billion-New-Developers-e3if7q6"
+    },
+    {
+      "title": "The Playbook For Building An AI Native Company",
+      "published": "2026-04-24",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Playbook-For-Building-An-AI-Native-Company-e3iduvm"
+    },
+    {
+      "title": "Stripe Head of Design Katie Dill Breaks Down Their New Website",
+      "published": "2026-04-22",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Stripe-Head-of-Design-Katie-Dill-Breaks-Down-Their-New-Website-e3i8s4e"
+    },
+    {
+      "title": "The GPT Moment for Robotics Is Here",
+      "published": "2026-04-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-GPT-Moment-for-Robotics-Is-Here-e3i0gnc"
+    },
+    {
+      "title": "This Startup Wants To Catch Cancer Before It Spreads",
+      "published": "2026-04-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/This-Startup-Wants-To-Catch-Cancer-Before-It-Spreads-e3hffvd"
+    },
+    {
+      "title": "This Startup Secretly Detects Fraud For Fortune 500s",
+      "published": "2026-03-31",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/This-Startup-Secretly-Detects-Fraud-For-Fortune-500s-e3h820f"
+    },
+    {
+      "title": "How François Chollet Is Building A New Path To AGI",
+      "published": "2026-03-27",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-Franois-Chollet-Is-Building-A-New-Path-To-AGI-e3h1jve"
+    },
+    {
+      "title": "Inside The Startup Reinventing America’s Trillion Dollar Chemical Industry",
+      "published": "2026-03-20",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Inside-The-Startup-Reinventing-Americas-Trillion-Dollar-Chemical-Industry-e3gn3hd"
+    },
+    {
+      "title": "Building A Global AI Startup From India",
+      "published": "2026-03-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Building-A-Global-AI-Startup-From-India-e3gg2in"
+    },
+    {
+      "title": "The Future Of Brain-Computer Interfaces with Science's Max Hodak",
+      "published": "2026-03-09",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Future-Of-Brain-Computer-Interfaces-with-Sciences-Max-Hodak-e3g5tp9"
+    },
+    {
+      "title": "How To Avoid AI Design Slop",
+      "published": "2026-03-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Avoid-AI-Design-Slop-e3g21pl"
+    },
+    {
+      "title": "The Fastest Path To Super Intelligence",
+      "published": "2026-02-27",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Fastest-Path-To-Super-Intelligence-e3fm703"
+    },
+    {
+      "title": "The AI Agent Economy Is Here",
+      "published": "2026-02-21",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-AI-Agent-Economy-Is-Here-e3fdlfo"
+    },
+    {
+      "title": "Inside Claude Code With Its Creator Boris Cherny",
+      "published": "2026-02-17",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Inside-Claude-Code-With-Its-Creator-Boris-Cherny-e3f7vdu"
+    },
+    {
+      "title": "The New Way To Build A Startup",
+      "published": "2026-02-14",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-New-Way-To-Build-A-Startup-e3f3j9e"
+    },
+    {
+      "title": "OpenClaw And The Future Of Personal AI Agents",
+      "published": "2026-02-07",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/OpenClaw-And-The-Future-Of-Personal-AI-Agents-e3eonov"
+    },
+    {
+      "title": "We're All Addicted To Claude Code",
+      "published": "2026-02-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Were-All-Addicted-To-Claude-Code-e3en9u6"
+    },
+    {
+      "title": "How To Get Your First Customers",
+      "published": "2026-01-14",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Get-Your-First-Customers-e3dk6hc"
+    },
+    {
+      "title": "Inside The Startup Building Reusable Rockets",
+      "published": "2026-01-08",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Inside-The-Startup-Building-Reusable-Rockets-e3dbi4e"
+    },
+    {
+      "title": "What Surprised Us Most In 2025",
+      "published": "2025-12-22",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/What-Surprised-Us-Most-In-2025-e3cmls8"
+    },
+    {
+      "title": "How Intelligent Is AI, Really?",
+      "published": "2025-12-17",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-Intelligent-Is-AI--Really-e3cfkai"
+    },
+    {
+      "title": "The End of the Designer–Engineer Divide",
+      "published": "2025-12-12",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-End-of-the-DesignerEngineer-Divide-e3c8gpm"
+    },
+    {
+      "title": "From Pivot Hell To $1.4 Billion Unicorn",
+      "published": "2025-12-10",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/From-Pivot-Hell-To-1-4-Billion-Unicorn-e3c50dd"
+    },
+    {
+      "title": "The Best Consumer Startup Ideas Were \"Impossible\" Until Now",
+      "published": "2025-11-28",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Best-Consumer-Startup-Ideas-Were-Impossible-Until-Now-e3bjbh5"
+    },
+    {
+      "title": "Cursor Head of Design Reviews Startup Websites",
+      "published": "2025-11-20",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Cursor-Head-of-Design-Reviews-Startup-Websites-e3b82gb"
+    },
+    {
+      "title": "Inside The Startup Launching AI Into Space",
+      "published": "2025-11-13",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Inside-The-Startup-Launching-AI-Into-Space-e3au5sk"
+    },
+    {
+      "title": "How To Recruit The Best Engineers And Sales Reps",
+      "published": "2025-11-07",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Recruit-The-Best-Engineers-And-Sales-Reps-e3alfba"
+    },
+    {
+      "title": "From Idea to $650M Exit: Lessons in Building AI Startups",
+      "published": "2025-10-28",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/From-Idea-to-650M-Exit-Lessons-in-Building-AI-Startups-e3a533j"
+    },
+    {
+      "title": "Transformers: The Discovery That Sparked the AI Revolution",
+      "published": "2025-10-23",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Transformers-The-Discovery-That-Sparked-the-AI-Revolution-e39ulsn"
+    },
+    {
+      "title": "YC Partners Answer Your Questions | Office Hours",
+      "published": "2025-10-21",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/YC-Partners-Answer-Your-Questions--Office-Hours-e39reei"
+    },
+    {
+      "title": "What Everyone Is Getting Wrong About AI And Jobs",
+      "published": "2025-10-14",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/What-Everyone-Is-Getting-Wrong-About-AI-And-Jobs-e39h9h2"
+    },
+    {
+      "title": "How To Design Products That Truly Stand Out",
+      "published": "2025-10-13",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Design-Products-That-Truly-Stand-Out-e39fled"
+    },
+    {
+      "title": "The World's First Commercial Mobile Carbon Capture Device",
+      "published": "2025-10-09",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Worlds-First-Commercial-Mobile-Carbon-Capture-Device-e399prs"
+    },
+    {
+      "title": "Every AI Founder Should Be Asking These Questions",
+      "published": "2025-10-07",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Every-AI-Founder-Should-Be-Asking-These-Questions-e3976n8"
+    },
+    {
+      "title": "Anthropic Head of Pretraining on Scaling Laws, Compute, and the Future of AI",
+      "published": "2025-10-01",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Anthropic-Head-of-Pretraining-on-Scaling-Laws--Compute--and-the-Future-of-AI-e38v3dl"
+    },
+    {
+      "title": "Fintech 3.0: Now Is The Best Time To Build In Crypto",
+      "published": "2025-09-23",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Fintech-3-0-Now-Is-The-Best-Time-To-Build-In-Crypto-e38k7hp"
+    },
+    {
+      "title": "Aaron Levie: Why Startups Win In The AI Era",
+      "published": "2025-09-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Aaron-Levie-Why-Startups-Win-In-The-AI-Era-e389jld"
+    },
+    {
+      "title": "The Future of Software Creation with Replit CEO Amjad Masad",
+      "published": "2025-09-12",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Future-of-Software-Creation-with-Replit-CEO-Amjad-Masad-e384cba"
+    },
+    {
+      "title": "The FDE Playbook for AI Startups with Bob McGrew",
+      "published": "2025-09-08",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-FDE-Playbook-for-AI-Startups-with-Bob-McGrew-e37u9bg"
+    },
+    {
+      "title": "Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students",
+      "published": "2025-09-03",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Michael-Truell-Building-Cursor-at-23--Taking-on-GitHub-Copilot--and-Advice-to-Engineering-Students-e37moli"
+    },
+    {
+      "title": "GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures",
+      "published": "2025-08-29",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/GPT-OSS-vs--Qwen-vs--Deepseek-Comparing-Open-Source-LLM-Architectures-e37fu11"
+    },
+    {
+      "title": "How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience)",
+      "published": "2025-08-26",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-This-25-Year-Old-Built-A-675M-Legal-AI-Startup-With-No-Legal-Experience-e37aoj4"
+    },
+    {
+      "title": "The Sales Playbook for Founders | Startup School",
+      "published": "2025-08-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Sales-Playbook-for-Founders--Startup-School-e36snmi"
+    },
+    {
+      "title": "Figma CEO Dylan Field: How AI Will Transform Design",
+      "published": "2025-08-08",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Figma-CEO-Dylan-Field-How-AI-Will-Transform-Design-e36jmm2"
+    },
+    {
+      "title": "The Finance Startup Bringing Agentic AI to Wall Street",
+      "published": "2025-07-31",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Finance-Startup-Bringing-Agentic-AI-to-Wall-Street-e369caf"
+    },
+    {
+      "title": "Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kaplan",
+      "published": "2025-07-29",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Scaling-and-the-Road-to-Human-Level-AI--Anthropic-Co-founder-Jared-Kaplan-e366bcu"
+    },
+    {
+      "title": "Brand Design Tips From Linear Founder Karri Saarinen",
+      "published": "2025-07-25",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Brand-Design-Tips-From-Linear-Founder-Karri-Saarinen-e360bfu"
+    },
+    {
+      "title": "Chelsea Finn: Building Robots That Can Do Anything",
+      "published": "2025-07-22",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Chelsea-Finn-Building-Robots-That-Can-Do-Anything-e35rudm"
+    },
+    {
+      "title": "Replit CEO Amjad Masad: Coding Agents, Autonomy, and the Future of Work",
+      "published": "2025-07-22",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Replit-CEO-Amjad-Masad-Coding-Agents--Autonomy--and-the-Future-of-Work-e35loqm"
+    },
+    {
+      "title": "John Jumper: AlphaFold and the Future of Science",
+      "published": "2025-07-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/John-Jumper-AlphaFold-and-the-Future-of-Science-e35j599"
+    },
+    {
+      "title": "Aravind Srinivas: The Race to Build the AI Browser of the Future",
+      "published": "2025-07-11",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Aravind-Srinivas-The-Race-to-Build-the-AI-Browser-of-the-Future-e35e0p8"
+    },
+    {
+      "title": "Andrew Ng: Building Faster with AI",
+      "published": "2025-07-10",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Andrew-Ng-Building-Faster-with-AI-e35cgbp"
+    },
+    {
+      "title": "François Chollet: The ARC Prize & How We Get to AGI",
+      "published": "2025-07-03",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Franois-Chollet-The-ARC-Prize--How-We-Get-to-AGI-e352dbo"
+    },
+    {
+      "title": "Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI",
+      "published": "2025-07-01",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Fei-Fei-Li-Spatial-Intelligence-is-the-Next-Frontier-in-AI-e34vc7l"
+    },
+    {
+      "title": "Legendary Consumer VC Predicts The Future Of AI Products",
+      "published": "2025-06-27",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Legendary-Consumer-VC-Predicts-The-Future-Of-AI-Products-e34qbae"
+    },
+    {
+      "title": "Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs",
+      "published": "2025-06-25",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Satya-Nadella-Microsofts-AI-Bets--Hyperscaling--Quantum-Computing-Breakthroughs-e34nu5c"
+    },
+    {
+      "title": "Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware",
+      "published": "2025-06-21",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Sam-Altman-The-Future-of-OpenAI--ChatGPTs-Origins--and-Building-AI-Hardware-e34hfua"
+    },
+    {
+      "title": "Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful",
+      "published": "2025-06-21",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Elon-Musk-Digital-Superintelligence--Multiplanetary-Life--How-to-Be-Useful-e34hfpl"
+    },
+    {
+      "title": "Andrej Karpathy: Software Is Changing (Again)",
+      "published": "2025-06-19",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Andrej-Karpathy-Software-Is-Changing-Again-e34flk1"
+    },
+    {
+      "title": "Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters",
+      "published": "2025-06-11",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Cursor-CEO-Going-Beyond-Code--Superintelligent-AI-Agents-And-Why-Taste-Still-Matters-e343888"
+    },
+    {
+      "title": "Fusion Energy Is Tech's Next Big Unlock",
+      "published": "2025-06-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Fusion-Energy-Is-Techs-Next-Big-Unlock-e33st0j"
+    },
+    {
+      "title": "AI Apps Are Broken — Here's How To Fix Them",
+      "published": "2025-05-23",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/AI-Apps-Are-Broken--Heres-How-To-Fix-Them-e338s4k"
+    },
+    {
+      "title": "How AI Coding Agents Will Change Your Job",
+      "published": "2025-05-09",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-AI-Coding-Agents-Will-Change-Your-Job-e32k3p7"
+    },
+    {
+      "title": "How To Get The Most Out Of Vibe Coding | Startup School",
+      "published": "2025-04-25",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Get-The-Most-Out-Of-Vibe-Coding--Startup-School-e32000o"
+    },
+    {
+      "title": "How Zepto Became India’s Fastest Growing Startup",
+      "published": "2025-04-18",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-Zepto-Became-Indias-Fastest-Growing-Startup-e31mtrd"
+    },
+    {
+      "title": "Why America Stopped Innovating - And How We Can Start Again",
+      "published": "2025-04-04",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Why-America-Stopped-Innovating---And-How-We-Can-Start-Again-e313c8h"
+    },
+    {
+      "title": "What Founders Can Do To Improve Their Design Game",
+      "published": "2025-03-28",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/What-Founders-Can-Do-To-Improve-Their-Design-Game-e30pmv2"
+    },
+    {
+      "title": "How to Build the Future: Tony Xu",
+      "published": "2025-03-26",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-to-Build-the-Future-Tony-Xu-e30m6e9"
+    },
+    {
+      "title": "Customer Obsession Made Gusto A $9.6 Billion Company",
+      "published": "2025-03-18",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Customer-Obsession-Made-Gusto-A-9-6-Billion-Company-e30aqkm"
+    },
+    {
+      "title": "The Future Of Design With Figma's Dylan Field",
+      "published": "2025-03-13",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Future-Of-Design-With-Figmas-Dylan-Field-e303m9i"
+    },
+    {
+      "title": "How To Build The Future: Aravind Srinivas",
+      "published": "2025-02-21",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Build-The-Future-Aravind-Srinivas-e2v62vb"
+    },
+    {
+      "title": "Building A Supersonic Plane Company From The Ground Up",
+      "published": "2025-02-14",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Building-A-Supersonic-Plane-Company-From-The-Ground-Up-e2usft6"
+    },
+    {
+      "title": "The Right (And Wrong) Way To Spend Money At Your Startup",
+      "published": "2025-02-12",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Right-And-Wrong-Way-To-Spend-Money-At-Your-Startup-e2uopot"
+    },
+    {
+      "title": "How To Build The AGI Future: Bob McGrew",
+      "published": "2025-01-31",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Build-The-AGI-Future-Bob-McGrew-e2u7jdj"
+    },
+    {
+      "title": "How To Use AI In Your Startup",
+      "published": "2025-01-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Use-AI-In-Your-Startup-e2thfq0"
+    },
+    {
+      "title": "How To Build The Future: Parker Conrad",
+      "published": "2025-01-10",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Build-The-Future-Parker-Conrad-e2tak95"
+    },
+    {
+      "title": "Building A $2 Billion SaaS Company: Lessons From A Two Time Founder",
+      "published": "2025-01-08",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Building-A-2-Billion-SaaS-Company-Lessons-From-A-Two-Time-Founder-e2t7ml0"
+    },
+    {
+      "title": "How David Lieb Turned A Failed Startup Into Google Photos | Backstory",
+      "published": "2024-12-18",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-David-Lieb-Turned-A-Failed-Startup-Into-Google-Photos--Backstory-e2sfj5g"
+    },
+    {
+      "title": "How To Start A Dev Tools Company with Nicolas Dessaigne | Startup School",
+      "published": "2024-11-26",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Start-A-Dev-Tools-Company-with-Nicolas-Dessaigne--Startup-School-e2rgov8"
+    },
+    {
+      "title": "Twitter vs. X: Product Lessons For Startup Founders | The Breakdown",
+      "published": "2024-11-21",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Twitter-vs--X-Product-Lessons-For-Startup-Founders--The-Breakdown-e2raasb"
+    },
+    {
+      "title": "How To Build The Future: Sam Altman",
+      "published": "2024-11-18",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Build-The-Future-Sam-Altman-e2r2v05"
+    },
+    {
+      "title": "How Do Billion Dollar Startups Start? | Office Hours",
+      "published": "2024-11-17",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-Do-Billion-Dollar-Startups-Start---Office-Hours-e2r2uv8"
+    },
+    {
+      "title": "Why Design Matters: Lessons from Stripe, Lyft and Airbnb | Design Review",
+      "published": "2024-11-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Why-Design-Matters-Lessons-from-Stripe--Lyft-and-Airbnb--Design-Review-e2r2uui"
+    },
+    {
+      "title": "How To Find A Co-Founder with Harj Taggar | Startup School",
+      "published": "2024-11-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Find-A-Co-Founder-with-Harj-Taggar--Startup-School-e2r2ut7"
+    },
+    {
+      "title": "How To Convert Customers With Cold Emails with Aaron Epstein | Startup School",
+      "published": "2024-11-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Convert-Customers-With-Cold-Emails-with-Aaron-Epstein--Startup-School-e2r2us7"
+    },
+    {
+      "title": "How To Improve Cohort Retention with David Lieb | Startup School",
+      "published": "2024-11-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Improve-Cohort-Retention-with-David-Lieb--Startup-School-e2r2uqt"
+    },
+    {
+      "title": "Co-Founder Equity Mistakes to Avoid with Michael Seibel | Startup School",
+      "published": "2024-11-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Co-Founder-Equity-Mistakes-to-Avoid-with-Michael-Seibel--Startup-School-e2r2uq1"
+    },
+    {
+      "title": "How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years | Main Function",
+      "published": "2024-11-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-Nothing-Founder-Carl-Pei-Built-A-Multi-Million-Dollar-Smartphone-Brand-In-Just-2-Years--Main-Function-e2r2uop"
+    },
+    {
+      "title": "How To Price For B2B with Tom Blomfield | Startup School",
+      "published": "2024-11-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Price-For-B2B-with-Tom-Blomfield--Startup-School-e2r2uo5"
+    },
+    {
+      "title": "Why Startup Founders Should Launch Companies Sooner Than They Think | Office Hours",
+      "published": "2024-11-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Why-Startup-Founders-Should-Launch-Companies-Sooner-Than-They-Think--Office-Hours-e2r2una"
+    },
+    {
+      "title": "Enterprise Sales with Pete Koomen | Startup School",
+      "published": "2024-11-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Enterprise-Sales-with-Pete-Koomen--Startup-School-e2r2ufb"
+    },
+    {
+      "title": "Startup Experts Discuss Doing Things That Don't Scale | Office Hours",
+      "published": "2024-11-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Startup-Experts-Discuss-Doing-Things-That-Dont-Scale--Office-Hours-e2r2uei"
+    },
+    {
+      "title": "How to Survive the Crypto Boom & Bust Cycle | Main Function",
+      "published": "2024-11-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-to-Survive-the-Crypto-Boom--Bust-Cycle--Main-Function-e2r2udd"
+    },
+    {
+      "title": "Consumer Startup Metrics with Tom Blomfield | Startup School",
+      "published": "2024-11-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Consumer-Startup-Metrics-with-Tom-Blomfield--Startup-School-e2r2uc4"
+    },
+    {
+      "title": "When Should You Trust Your Gut? | Dalton & Michael Podcast",
+      "published": "2024-04-22",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/When-Should-You-Trust-Your-Gut---Dalton--Michael-Podcast-e2ihi0m"
+    },
+    {
+      "title": "Building Confidence In Yourself and Your Ideas | Dalton & Michael Podcast",
+      "published": "2024-03-20",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Building-Confidence-In-Yourself-and-Your-Ideas--Dalton--Michael-Podcast-e2h4os8"
+    },
+    {
+      "title": "Stop Innovating (On The Wrong Things) | Dalton & Michael Podcast",
+      "published": "2024-03-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Stop-Innovating-On-The-Wrong-Things--Dalton--Michael-Podcast-e2h4ocu"
+    },
+    {
+      "title": "Should Your Startup Bootstrap or Raise Venture Capital? | Dalton & Michael Podcast",
+      "published": "2024-02-13",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Should-Your-Startup-Bootstrap-or-Raise-Venture-Capital---Dalton--Michael-Podcast-e2fmsqb"
+    },
+    {
+      "title": "How To Build A Tech Startup With No Technical Skills | Dalton & Michael Podcast",
+      "published": "2024-01-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Build-A-Tech-Startup-With-No-Technical-Skills--Dalton--Michael-Podcast-e2dhn50"
+    },
+    {
+      "title": "B2B Startup Metrics with Tom Blomfield | Startup School",
+      "published": "2024-01-08",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/B2B-Startup-Metrics-with-Tom-Blomfield--Startup-School-e2dhnki"
+    },
+    {
+      "title": "Should You Be Optimistic About The Future of Technology? | Dalton & Michael Podcast",
+      "published": "2024-01-01",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Should-You-Be-Optimistic-About-The-Future-of-Technology---Dalton--Michael-Podcast-e2dhnrk"
+    },
+    {
+      "title": "AI and the Future of Law: The 10 Year \"Overnight\" Success Story | Main Function",
+      "published": "2023-12-28",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/AI-and-the-Future-of-Law-The-10-Year-Overnight-Success-Story--Main-Function-e2dhn8p"
+    },
+    {
+      "title": "How To NOT Get Screwed As A Software Engineer | Dalton & Michael Podcast",
+      "published": "2023-12-21",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-NOT-Get-Screwed-As-A-Software-Engineer--Dalton--Michael-Podcast-e2dhmu5"
+    },
+    {
+      "title": "Should You Quit Your Job At A Unicorn? | Dalton & Michael Podcast",
+      "published": "2023-11-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Should-You-Quit-Your-Job-At-A-Unicorn---Dalton--Michael-Podcast-e2bbv94"
+    },
+    {
+      "title": "Does Your Startup Need To Be In San Francisco?",
+      "published": "2023-08-29",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Does-Your-Startup-Need-To-Be-In-San-Francisco-e28h7g2"
+    },
+    {
+      "title": "Will OpenAI Kill All Startups?",
+      "published": "2023-07-24",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Will-OpenAI-Kill-All-Startups-e27ak2d"
+    },
+    {
+      "title": "Silicon Valley's Cargo Culting Problem",
+      "published": "2023-07-13",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Silicon-Valleys-Cargo-Culting-Problem-e26tk7e"
+    },
+    {
+      "title": "Setting KPIs and Goals with Divya Bhat | Startup School",
+      "published": "2023-07-05",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Setting-KPIs-and-Goals-with-Divya-Bhat--Startup-School-e27al0m"
+    },
+    {
+      "title": "Tips For Technical Startup Founders | Startup School",
+      "published": "2023-06-08",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Tips-For-Technical-Startup-Founders--Startup-School-e259fcl"
+    },
+    {
+      "title": "Secrets You Can Learn From Your Customers",
+      "published": "2023-06-05",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Secrets-You-Can-Learn-From-Your-Customers-e259f7c"
+    },
+    {
+      "title": "The Student's Guide To Becoming A Successful Startup Founder",
+      "published": "2023-04-25",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Students-Guide-To-Becoming-A-Successful-Startup-Founder-e22d0pl"
+    },
+    {
+      "title": "Inside The Most Powerful Startup Community In The World",
+      "published": "2023-04-21",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Inside-The-Most-Powerful-Startup-Community-In-The-World-e22d0la"
+    },
+    {
+      "title": "How Startup Fundraising Works with Brad Flora | Startup School",
+      "published": "2023-04-18",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-Startup-Fundraising-Works-with-Brad-Flora--Startup-School-e22d08m"
+    },
+    {
+      "title": "How to Build An MVP with Michael Seibel | Startup School",
+      "published": "2023-04-14",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-to-Build-An-MVP-with-Michael-Seibel--Startup-School-e22cvv0"
+    },
+    {
+      "title": "How To Earn Customers For Life",
+      "published": "2023-03-14",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Earn-Customers-For-Life-e20bh9u"
+    },
+    {
+      "title": "The REAL Potential of Generative AI",
+      "published": "2023-03-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-REAL-Potential-of-Generative-AI-e1vld6u"
+    },
+    {
+      "title": "The Hard Conversations Founders Don't Want to Have",
+      "published": "2023-03-01",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Hard-Conversations-Founders-Dont-Want-to-Have-e1vld02"
+    },
+    {
+      "title": "The Best Way To Launch Your Startup with Kat Mañalac | Startup School",
+      "published": "2023-02-24",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Best-Way-To-Launch-Your-Startup-with-Kat-Maalac--Startup-School-e1vfkbq"
+    },
+    {
+      "title": "Advantages Of A First-Time Founder",
+      "published": "2023-02-17",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Advantages-Of-A-First-Time-Founder-e1tbqs2"
+    },
+    {
+      "title": "The Cult of Conformity in Silicon Valley",
+      "published": "2023-02-10",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Cult-of-Conformity-in-Silicon-Valley-e1up0sn"
+    },
+    {
+      "title": "Don't Make These Hiring Mistakes",
+      "published": "2023-01-26",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Dont-Make-These-Hiring-Mistakes-e1tt5bb"
+    },
+    {
+      "title": "Keys To Successful Co-Founder Relationships with Cat Li & Divya Bhat | Startup School",
+      "published": "2023-01-24",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Keys-To-Successful-Co-Founder-Relationships-with-Cat-Li--Divya-Bhat--Startup-School-e1tt4jj"
+    },
+    {
+      "title": "How To Compete With Amazon and Google",
+      "published": "2023-01-18",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Compete-With-Amazon-and-Google-e1tbrb4"
+    },
+    {
+      "title": "The Secrets To Setting Smarter Goals",
+      "published": "2023-01-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Secrets-To-Setting-Smarter-Goals-e1term7"
+    },
+    {
+      "title": "Investors Said No, Now What?",
+      "published": "2023-01-12",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Investors-Said-No--Now-What-e1tbrf7"
+    },
+    {
+      "title": "When to Launch Your Startup and When to Wait",
+      "published": "2023-01-11",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/When-to-Launch-Your-Startup-and-When-to-Wait-e1tbr2b"
+    },
+    {
+      "title": "How to Get Your First Customers with Gustaf Alströmer | Startup School",
+      "published": "2023-01-03",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-to-Get-Your-First-Customers-with-Gustaf-Alstrmer--Startup-School-e1t1o35"
+    },
+    {
+      "title": "Startup Business Models and Pricing with Aaron Epstein | Startup School",
+      "published": "2022-12-27",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Startup-Business-Models-and-Pricing-with-Aaron-Epstein--Startup-School-e1sper6"
+    },
+    {
+      "title": "How to Talk to Users with Gustaf Alströmer | Startup School",
+      "published": "2022-12-20",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-to-Talk-to-Users-with-Gustaf-Alstrmer--Startup-School-e1sh0uu"
+    },
+    {
+      "title": "How to Get and Evaluate Startup Ideas with Jared Friedman | Startup School",
+      "published": "2022-12-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-to-Get-and-Evaluate-Startup-Ideas-with-Jared-Friedman--Startup-School-e1s6n4p"
+    },
+    {
+      "title": "Should You Start a Startup? with Harj Taggar | Startup School",
+      "published": "2022-12-13",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Should-You-Start-a-Startup--with-Harj-Taggar--Startup-School-e1s6mti"
+    },
+    {
+      "title": "Avoid These Tempting Startup Ideas",
+      "published": "2022-12-01",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Avoid-These-Tempting-Startup-Ideas-e1rg8a3"
+    },
+    {
+      "title": "The Truth About Y Combinator",
+      "published": "2022-11-29",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Truth-About-Y-Combinator-e1r76ku"
+    },
+    {
+      "title": "The Two Mindsets That Can Kill Your Startup",
+      "published": "2022-11-24",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Two-Mindsets-That-Can-Kill-Your-Startup-e1r76oe"
+    },
+    {
+      "title": "What Basic Game Theory Teaches Us About Startups",
+      "published": "2022-11-17",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/What-Basic-Game-Theory-Teaches-Us-About-Startups-e1q6i0s"
+    },
+    {
+      "title": "Most Important Lifestyle Habits Of Successful Founders",
+      "published": "2022-11-10",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Most-Important-Lifestyle-Habits-Of-Successful-Founders-e1q6hti"
+    },
+    {
+      "title": "Elon Musk & The Midwit Meme",
+      "published": "2022-11-03",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Elon-Musk--The-Midwit-Meme-e1q6hpp"
+    },
+    {
+      "title": "Things That Don't Scale, The Software Edition",
+      "published": "2022-10-27",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Things-That-Dont-Scale--The-Software-Edition-e1oidbl"
+    },
+    {
+      "title": "Why Investors (including YC) Can’t Fix Your Company",
+      "published": "2022-10-20",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Why-Investors-including-YC-Cant-Fix-Your-Company-e1oid7r"
+    },
+    {
+      "title": "What Does It REALLY Mean To Do Things That Don't Scale?",
+      "published": "2022-10-13",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/What-Does-It-REALLY-Mean-To-Do-Things-That-Dont-Scale-e1oid60"
+    },
+    {
+      "title": "How To Change The World? Get The Small Things Right",
+      "published": "2022-10-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Change-The-World--Get-The-Small-Things-Right-e1oicoa"
+    },
+    {
+      "title": "Simple Products That Became Big Companies",
+      "published": "2022-09-29",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Simple-Products-That-Became-Big-Companies-e1oickb"
+    },
+    {
+      "title": "Where Do Great Startup Ideas Come From?",
+      "published": "2022-09-12",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Where-Do-Great-Startup-Ideas-Come-From-e1ndm08"
+    },
+    {
+      "title": "Successful Founders Are OK With Rejection",
+      "published": "2022-09-05",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Successful-Founders-Are-OK-With-Rejection-e1ndluj"
+    },
+    {
+      "title": "Should You Follow Your Passion?",
+      "published": "2022-08-29",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Should-You-Follow-Your-Passion-e1mv37r"
+    },
+    {
+      "title": "Understanding Investor Terms & Incentives",
+      "published": "2022-08-25",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Understanding-Investor-Terms--Incentives-e1mv323"
+    },
+    {
+      "title": "YC Founders Made These Fundraising Mistakes",
+      "published": "2022-08-18",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/YC-Founders-Made-These-Fundraising-Mistakes-e1ma7bs"
+    },
+    {
+      "title": "YC Founder Firesides: Gusto on building for new verticals",
+      "published": "2022-08-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/YC-Founder-Firesides-Gusto-on-building-for-new-verticals-e1mhs2g"
+    },
+    {
+      "title": "Co-Founder Mistakes That Kill Companies & How To Avoid Them",
+      "published": "2022-08-09",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Co-Founder-Mistakes-That-Kill-Companies--How-To-Avoid-Them-e1ma79b"
+    },
+    {
+      "title": "Dealing With Setbacks And The Startup Gut Punch",
+      "published": "2022-07-27",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Dealing-With-Setbacks-And-The-Startup-Gut-Punch-e1ihiii"
+    },
+    {
+      "title": "Saving Your Startup During an Economic Downturn",
+      "published": "2022-07-21",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Saving-Your-Startup-During-an-Economic-Downturn-e1idcvo"
+    },
+    {
+      "title": "Why You Should Leave Your FAANG Job",
+      "published": "2022-06-22",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Why-You-Should-Leave-Your-FAANG-Job-e1ihibc"
+    },
+    {
+      "title": "How Future Billionaires Get Sh*t Done",
+      "published": "2022-06-22",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-Future-Billionaires-Get-Sht-Done-e1idbr2"
+    },
+    {
+      "title": "#157 - Diego Saez Gil",
+      "published": "2020-01-28",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/157---Diego-Saez-Gil-e1g3f1u"
+    },
+    {
+      "title": "#156 - Amber Atherton and Iba Masood",
+      "published": "2019-12-18",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/156---Amber-Atherton-and-Iba-Masood-e1g3f29"
+    },
+    {
+      "title": "#155 - Laks Srini",
+      "published": "2019-12-11",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/155---Laks-Srini-e1g3f1k"
+    },
+    {
+      "title": "#154 - Matt Cutts",
+      "published": "2019-12-04",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/154---Matt-Cutts-e1g3f3b"
+    },
+    {
+      "title": "#153 - Cory Doctorow and Joe Betts-LaCroix",
+      "published": "2019-11-27",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/153---Cory-Doctorow-and-Joe-Betts-LaCroix-e1g3f4e"
+    },
+    {
+      "title": "#151 - Startup School Week 10 Recap - Ali Rowghani on How to Lead and Kevin Hale and Adora Cheung on Startup School 2019 by the Numbers",
+      "published": "2019-11-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/151---Startup-School-Week-10-Recap---Ali-Rowghani-on-How-to-Lead-and-Kevin-Hale-and-Adora-Cheung-on-Startup-School-2019-by-the-Numbers-e1g3f3s"
+    },
+    {
+      "title": "#150 - Startup School Week 9 Recap - Carolynn Levy on Modern Startup Financing and Jared Friedman’s Advice for Hard-tech and Biotech Founders",
+      "published": "2019-10-30",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/150---Startup-School-Week-9-Recap---Carolynn-Levy-on-Modern-Startup-Financing-and-Jared-Friedmans-Advice-for-Hard-tech-and-Biotech-Founders-e1g3f18"
+    },
+    {
+      "title": "#149 - Startup School Week 8 Recap - Adora Cheung on Prioritizing Your Time and Kevin Hale on Evaluating Startup Ideas",
+      "published": "2019-10-23",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/149---Startup-School-Week-8-Recap---Adora-Cheung-on-Prioritizing-Your-Time-and-Kevin-Hale-on-Evaluating-Startup-Ideas-e1g3f1g"
+    },
+    {
+      "title": "#148 - Startup School Week 7 Recap - Kevin Hale on Conversion Rates and Pricing",
+      "published": "2019-10-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/148---Startup-School-Week-7-Recap---Kevin-Hale-on-Conversion-Rates-and-Pricing-e1g3f1c"
+    },
+    {
+      "title": "#147 - Startup School Week 6 Recap - Tim Brady on Culture and Dalton Caldwell on Pivoting",
+      "published": "2019-10-09",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/147---Startup-School-Week-6-Recap---Tim-Brady-on-Culture-and-Dalton-Caldwell-on-Pivoting-e1g3f1n"
+    },
+    {
+      "title": "#146 - Startup School Week 5 Recap - Kirsty Nathoo and Kevin Hale",
+      "published": "2019-10-02",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/146---Startup-School-Week-5-Recap---Kirsty-Nathoo-and-Kevin-Hale-e1g3f27"
+    },
+    {
+      "title": "#145 - Startup School Week 4 Recap - Kat Mañalac and Gustaf Alströmer",
+      "published": "2019-09-25",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/145---Startup-School-Week-4-Recap---Kat-Maalac-and-Gustaf-Alstrmer-e1g3f4k"
+    },
+    {
+      "title": "#144 - Startup School Week 3 Recap - Anu Hariharan and Adora Cheung",
+      "published": "2019-09-18",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/144---Startup-School-Week-3-Recap---Anu-Hariharan-and-Adora-Cheung-e1g3f4g"
+    },
+    {
+      "title": "#143 - Startup School Week 2 Recap: Michael Seibel, Adora Cheung, and Ilya Volodarsky",
+      "published": "2019-09-11",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/143---Startup-School-Week-2-Recap-Michael-Seibel--Adora-Cheung--and-Ilya-Volodarsky-e1g3f5a"
+    },
+    {
+      "title": "#142 - Startup School Week 1 Recap: Kevin Hale and Eric Migicovsky",
+      "published": "2019-09-04",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/142---Startup-School-Week-1-Recap-Kevin-Hale-and-Eric-Migicovsky-e1g3f24"
+    },
+    {
+      "title": "#141 - Diana Hu",
+      "published": "2019-08-28",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/141---Diana-Hu-e1g3f1s"
+    },
+    {
+      "title": "#140 - Aaron Harris on Fundraising and Meeting with Investors",
+      "published": "2019-08-21",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/140---Aaron-Harris-on-Fundraising-and-Meeting-with-Investors-e1g3f1h"
+    },
+    {
+      "title": "#139 - Jay Reno",
+      "published": "2019-08-14",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/139---Jay-Reno-e1g3f1m"
+    },
+    {
+      "title": "#138 - Russ Roberts",
+      "published": "2019-08-07",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/138---Russ-Roberts-e1g3f54"
+    },
+    {
+      "title": "#137 - Startup School Podcast Preview with Kevin Hale",
+      "published": "2019-07-31",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/137---Startup-School-Podcast-Preview-with-Kevin-Hale-e1g3f13"
+    },
+    {
+      "title": "#136 - Anu Hariharan on Managing a Board",
+      "published": "2019-07-24",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/136---Anu-Hariharan-on-Managing-a-Board-e1g3f1f"
+    },
+    {
+      "title": "#135 - Camille Fournier",
+      "published": "2019-07-17",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/135---Camille-Fournier-e1g3f20"
+    },
+    {
+      "title": "#134 - Sarah Nahm and Holly Liu",
+      "published": "2019-07-10",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/134---Sarah-Nahm-and-Holly-Liu-e1g3f59"
+    },
+    {
+      "title": "#133 - Updates for Startup School 2019 and Office Hours with Kevin Hale",
+      "published": "2019-07-03",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/133---Updates-for-Startup-School-2019-and-Office-Hours-with-Kevin-Hale-e1g3f4v"
+    },
+    {
+      "title": "#132 - Dan Hockenmaier and Gustaf Alströmer",
+      "published": "2019-06-26",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/132---Dan-Hockenmaier-and-Gustaf-Alstrmer-e1g3f2j"
+    },
+    {
+      "title": "#131 - Jeremy Rossmann",
+      "published": "2019-06-19",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/131---Jeremy-Rossmann-e1g3f5q"
+    },
+    {
+      "title": "#130 - Tracy Young and Kat Manalac",
+      "published": "2019-06-12",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/130---Tracy-Young-and-Kat-Manalac-e1g3f28"
+    },
+    {
+      "title": "#129 - Simone Giertz",
+      "published": "2019-06-05",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/129---Simone-Giertz-e1g3f25"
+    },
+    {
+      "title": "#128 - Michael Babineau and Kevin Hale",
+      "published": "2019-05-29",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/128---Michael-Babineau-and-Kevin-Hale-e1g3f22"
+    },
+    {
+      "title": "#127 - Vidit Aatrey and Adora Cheung",
+      "published": "2019-05-22",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/127---Vidit-Aatrey-and-Adora-Cheung-e1g3f5d"
+    },
+    {
+      "title": "#126 - Chris Best and Jonathan Gill",
+      "published": "2019-05-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/126---Chris-Best-and-Jonathan-Gill-e1g3f5s"
+    },
+    {
+      "title": "#125 - Brian Halligan and Kevin Hale",
+      "published": "2019-05-08",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/125---Brian-Halligan-and-Kevin-Hale-e1g3f1q"
+    },
+    {
+      "title": "#124 - Jarvis Johnson",
+      "published": "2019-05-01",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/124---Jarvis-Johnson-e1g3f5v"
+    },
+    {
+      "title": "#123 - Harry Zhang and Kevin Hale",
+      "published": "2019-04-24",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/123---Harry-Zhang-and-Kevin-Hale-e1g3f1t"
+    },
+    {
+      "title": "#122 - Max Rhodes and Anu Hariharan",
+      "published": "2019-04-17",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/122---Max-Rhodes-and-Anu-Hariharan-e1g3f1p"
+    },
+    {
+      "title": "#120 - Austen Allred",
+      "published": "2019-04-03",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/120---Austen-Allred-e1g3f3p"
+    },
+    {
+      "title": "#119 - Amy Buechler and Michael Seibel",
+      "published": "2019-03-27",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/119---Amy-Buechler-and-Michael-Seibel-e1g3f21"
+    },
+    {
+      "title": "#118 - Marques Brownlee",
+      "published": "2019-03-21",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/118---Marques-Brownlee-e1g3f4s"
+    },
+    {
+      "title": "#117 - Craig Cannon and Adora Cheung",
+      "published": "2019-03-13",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/117---Craig-Cannon-and-Adora-Cheung-e1g3f2q"
+    },
+    {
+      "title": "#116 - Domonique Fines and Cadran Cowansage",
+      "published": "2019-03-11",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/116---Domonique-Fines-and-Cadran-Cowansage-e1g3f0v"
+    },
+    {
+      "title": "#115 - Mike Knoop and Kevin Hale",
+      "published": "2019-03-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/115---Mike-Knoop-and-Kevin-Hale-e1g3f19"
+    },
+    {
+      "title": "#114 - Karn Saroya",
+      "published": "2019-02-27",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/114---Karn-Saroya-e1g3f0p"
+    },
+    {
+      "title": "#113 - Caterina Fake and Kat Manalac",
+      "published": "2019-02-21",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/113---Caterina-Fake-and-Kat-Manalac-e1g3f6i"
+    },
+    {
+      "title": "#112 - Ryan Hoover and Dalton Caldwell",
+      "published": "2019-02-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/112---Ryan-Hoover-and-Dalton-Caldwell-e1g3f40"
+    },
+    {
+      "title": "#111 - Jake Klamka and Kevin Hale",
+      "published": "2019-02-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/111---Jake-Klamka-and-Kevin-Hale-e1g3f3h"
+    },
+    {
+      "title": "#110 - Avni Patel Thompson and Kat Manalac",
+      "published": "2019-01-30",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/110---Avni-Patel-Thompson-and-Kat-Manalac-e1g3f12"
+    },
+    {
+      "title": "#109 - Samantha Bradshaw",
+      "published": "2019-01-23",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/109---Samantha-Bradshaw-e1g3f35"
+    },
+    {
+      "title": "#108 - Cindy Mi and Qi Lu",
+      "published": "2019-01-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/108---Cindy-Mi-and-Qi-Lu-e1g3f56"
+    },
+    {
+      "title": "#107 - Vinod Khosla and Sam Altman",
+      "published": "2019-01-09",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/107---Vinod-Khosla-and-Sam-Altman-e1g3f62"
+    },
+    {
+      "title": "#106 - Frank Lantz",
+      "published": "2018-12-20",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/106---Frank-Lantz-e1g3f1e"
+    },
+    {
+      "title": "#105 - Reham Fagiri and Kalam Dennis",
+      "published": "2018-12-14",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/105---Reham-Fagiri-and-Kalam-Dennis-e1g3f3q"
+    },
+    {
+      "title": "#104 - Leonard Susskind",
+      "published": "2018-12-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/104---Leonard-Susskind-e1g3f63"
+    },
+    {
+      "title": "#103 - Michael Seibel",
+      "published": "2018-11-28",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/103---Michael-Seibel-e1g3f6e"
+    },
+    {
+      "title": "#102 - Andrew Kortina",
+      "published": "2018-11-20",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/102---Andrew-Kortina-e1g3f6b"
+    },
+    {
+      "title": "#101 - Brian Donohue",
+      "published": "2018-11-14",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/101---Brian-Donohue-e1g3f6g"
+    },
+    {
+      "title": "#100 - Sam Altman",
+      "published": "2018-11-08",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/100---Sam-Altman-e1g3f57"
+    },
+    {
+      "title": "#99 - Laura Deming",
+      "published": "2018-10-23",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/99---Laura-Deming-e1g3f1d"
+    },
+    {
+      "title": "#98 - Shola Akinlade",
+      "published": "2018-10-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/98---Shola-Akinlade-e1g3f11"
+    },
+    {
+      "title": "#97 - David Hua and Vincent Ning",
+      "published": "2018-10-11",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/97---David-Hua-and-Vincent-Ning-e1g3f2a"
+    },
+    {
+      "title": "#96 - Mathilde Collin",
+      "published": "2018-10-03",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/96---Mathilde-Collin-e1g3f0s"
+    },
+    {
+      "title": "#95 - Eli Schwartz",
+      "published": "2018-09-27",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/95---Eli-Schwartz-e1g3f14"
+    },
+    {
+      "title": "#94 - Joan Lasenby",
+      "published": "2018-09-17",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/94---Joan-Lasenby-e1g3f1l"
+    },
+    {
+      "title": "#93 - Peter Reinhardt",
+      "published": "2018-09-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/93---Peter-Reinhardt-e1g3f16"
+    },
+    {
+      "title": "#92 - Ryan Petersen",
+      "published": "2018-08-30",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/92---Ryan-Petersen-e1g3f15"
+    },
+    {
+      "title": "#91 - David Zeevi",
+      "published": "2018-08-22",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/91---David-Zeevi-e1g3f3k"
+    },
+    {
+      "title": "#90 - Jessica Brillhart",
+      "published": "2018-08-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/90---Jessica-Brillhart-e1g3f4n"
+    },
+    {
+      "title": "#89 - Geoff Ralston and Adora Cheung Discuss Startup School",
+      "published": "2018-08-07",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/89---Geoff-Ralston-and-Adora-Cheung-Discuss-Startup-School-e1g3f26"
+    },
+    {
+      "title": "#88 - Office Hours with Michael Seibel",
+      "published": "2018-08-03",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/88---Office-Hours-with-Michael-Seibel-e1g3f2c"
+    },
+    {
+      "title": "#87 - Elad Gil",
+      "published": "2018-07-27",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/87---Elad-Gil-e1g3f3c"
+    },
+    {
+      "title": "#86 - Jocko Willink and Mike Sarraille",
+      "published": "2018-07-20",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/86---Jocko-Willink-and-Mike-Sarraille-e1g3f5b"
+    },
+    {
+      "title": "#85 - YC Partner AMA at the Female Founders Conference",
+      "published": "2018-07-11",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/85---YC-Partner-AMA-at-the-Female-Founders-Conference-e1g3f0u"
+    },
+    {
+      "title": "#84 - João Batalha and Luís Batalha",
+      "published": "2018-07-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/84---Joao-Batalha-and-Luis-Batalha-e1g3f2b"
+    },
+    {
+      "title": "#83 - Scott Aaronson",
+      "published": "2018-06-29",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/83---Scott-Aaronson-e1g3f3g"
+    },
+    {
+      "title": "#82 - Henrique Dubugras of Brex and Anu Hariharan",
+      "published": "2018-06-27",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/82---Henrique-Dubugras-of-Brex-and-Anu-Hariharan-e1g3f38"
+    },
+    {
+      "title": "#81 - Announcing Work at a Startup",
+      "published": "2018-06-22",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/81---Announcing-Work-at-a-Startup-e1g3f2h"
+    },
+    {
+      "title": "#80 - Office Hours with Adora Cheung",
+      "published": "2018-06-13",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/80---Office-Hours-with-Adora-Cheung-e1g3f6a"
+    },
+    {
+      "title": "#79 - Liz Wessel",
+      "published": "2018-05-31",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/79---Liz-Wessel-e1g3f5f"
+    },
+    {
+      "title": "#78 - Simon Benjamin",
+      "published": "2018-05-25",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/78---Simon-Benjamin-e1g3f6o"
+    },
+    {
+      "title": "#77 - John Preskill",
+      "published": "2018-05-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/77---John-Preskill-e1g3f50"
+    },
+    {
+      "title": "#76 - Carola Schönlieb",
+      "published": "2018-05-09",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/76---Carola-Schnlieb-e1g3f1b"
+    },
+    {
+      "title": "#75 - Sean Mitchell",
+      "published": "2018-05-04",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/75---Sean-Mitchell-e1g3f1o"
+    },
+    {
+      "title": "#74 - Linda Xie and Avichal Garg",
+      "published": "2018-05-02",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/74---Linda-Xie-and-Avichal-Garg-e1g3f2m"
+    },
+    {
+      "title": "#73 - Patrick Moberg and Holly Liu",
+      "published": "2018-04-27",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/73---Patrick-Moberg-and-Holly-Liu-e1g3f36"
+    },
+    {
+      "title": "#72 - Miles Brundage and Tim Hwang",
+      "published": "2018-04-25",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/72---Miles-Brundage-and-Tim-Hwang-e1g3f3l"
+    },
+    {
+      "title": "#71 - Claire McDonnell and Jennifer Kim on Building an Inclusive Company Culture",
+      "published": "2018-04-20",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/71---Claire-McDonnell-and-Jennifer-Kim-on-Building-an-Inclusive-Company-Culture-e1g3f1i"
+    },
+    {
+      "title": "#70 - CoinList Cofounder Andy Bromberg and Ramon Recuero",
+      "published": "2018-04-18",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/70---CoinList-Cofounder-Andy-Bromberg-and-Ramon-Recuero-e1g3f6k"
+    },
+    {
+      "title": "#69 - Anne Wojcicki of 23andMe and Sam Altman",
+      "published": "2018-04-13",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/69---Anne-Wojcicki-of-23andMe-and-Sam-Altman-e1g3f1v"
+    },
+    {
+      "title": "#68 - Cost vs Quality in Edtech - Keith Schacht, Avichal Garg, and Geoff Ralston",
+      "published": "2018-04-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/68---Cost-vs-Quality-in-Edtech---Keith-Schacht--Avichal-Garg--and-Geoff-Ralston-e1g3f1j"
+    },
+    {
+      "title": "#67 - 3D Home Printing for the Developing World - Alexandria Lafci and Brett Hagler of New Story Charity",
+      "published": "2018-04-04",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/67---3D-Home-Printing-for-the-Developing-World---Alexandria-Lafci-and-Brett-Hagler-of-New-Story-Charity-e1g3f4r"
+    },
+    {
+      "title": "#66 - Breaking Down HackerRank's Survey of 40,000 Developers with Vivek Ravisankar",
+      "published": "2018-03-30",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/66---Breaking-Down-HackerRanks-Survey-of-40-000-Developers-with-Vivek-Ravisankar-e1g3f30"
+    },
+    {
+      "title": "#65 - Funding Is an Outcome of Building a Good Business - Porter Braswell of Jopwell",
+      "published": "2018-03-21",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/65---Funding-Is-an-Outcome-of-Building-a-Good-Business---Porter-Braswell-of-Jopwell-e1g3f4o"
+    },
+    {
+      "title": "#64 - Researching Psilocybin's Effects on Depression - Dr. Rosalind Watts",
+      "published": "2018-03-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/64---Researching-Psilocybins-Effects-on-Depression---Dr--Rosalind-Watts-e1g3f5m"
+    },
+    {
+      "title": "#63 - The Number One Goal is Getting Started - Avni Patel Thompson of Poppy",
+      "published": "2018-03-02",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/63---The-Number-One-Goal-is-Getting-Started---Avni-Patel-Thompson-of-Poppy-e1g3f5i"
+    },
+    {
+      "title": "#62 - Dan Lewis, CEO of Convoy, on the Future of Freight",
+      "published": "2018-02-28",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/62---Dan-Lewis--CEO-of-Convoy--on-the-Future-of-Freight-e1g3f3d"
+    },
+    {
+      "title": "#61 - Sam Altman on Masters of Scale",
+      "published": "2018-02-22",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/61---Sam-Altman-on-Masters-of-Scale-e1g3f5j"
+    },
+    {
+      "title": "#60 - Startup Investor School Preview with Geoff Ralston",
+      "published": "2018-02-07",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/60---Startup-Investor-School-Preview-with-Geoff-Ralston-e1g3f42"
+    },
+    {
+      "title": "#59 - Providing Fair Financial Products for the 56% of the US Without Access to Them - Jake Rosenberg of LendUp",
+      "published": "2018-01-31",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/59---Providing-Fair-Financial-Products-for-the-56-of-the-US-Without-Access-to-Them---Jake-Rosenberg-of-LendUp-e1g3f2t"
+    },
+    {
+      "title": "#58 - It's Surprising How Much Small Teams Can Get Done - Sam Chaudhary of ClassDojo",
+      "published": "2018-01-24",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/58---Its-Surprising-How-Much-Small-Teams-Can-Get-Done---Sam-Chaudhary-of-ClassDojo-e1g3f5h"
+    },
+    {
+      "title": "#57 - Alex Blumberg of Gimlet Media",
+      "published": "2018-01-17",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/57---Alex-Blumberg-of-Gimlet-Media-e1g3f5r"
+    },
+    {
+      "title": "#56 - Leah Culver of Breaker and Tom Sparks of YC Answer Your Questions About Security and Podcasting",
+      "published": "2018-01-05",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/56---Leah-Culver-of-Breaker-and-Tom-Sparks-of-YC-Answer-Your-Questions-About-Security-and-Podcasting-e1g3f4t"
+    },
+    {
+      "title": "#55 - Tim Urban of Wait But Why",
+      "published": "2018-01-03",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/55---Tim-Urban-of-Wait-But-Why-e1g3f2n"
+    },
+    {
+      "title": "#54 - Growth Office Hours: Round 2",
+      "published": "2017-12-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/54---Growth-Office-Hours-Round-2-e1g3f3n"
+    },
+    {
+      "title": "#53 - Be Wary of Solving a Small, Rare Problem - Des Traynor of Intercom",
+      "published": "2017-12-13",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/53---Be-Wary-of-Solving-a-Small--Rare-Problem---Des-Traynor-of-Intercom-e1g3f55"
+    },
+    {
+      "title": "#52 - Making Physical Retail as Easy as Opening an Online Store - Ali Kriegsman and Alana Branston of Bulletin",
+      "published": "2017-12-08",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/52---Making-Physical-Retail-as-Easy-as-Opening-an-Online-Store---Ali-Kriegsman-and-Alana-Branston-of-Bulletin-e1g3f3e"
+    },
+    {
+      "title": "#51 - There's an Art to Getting Brilliant People to Surprise Themselves - Kevin Slavin of The Shed",
+      "published": "2017-12-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/51---Theres-an-Art-to-Getting-Brilliant-People-to-Surprise-Themselves---Kevin-Slavin-of-The-Shed-e1g3f75"
+    },
+    {
+      "title": "#50 - Growth Office Hours with Anu Hariharan and Gustaf Alstromer",
+      "published": "2017-12-01",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/50---Growth-Office-Hours-with-Anu-Hariharan-and-Gustaf-Alstromer-e1g3f2i"
+    },
+    {
+      "title": "#49 - Microbes, Robots, and Ambition - Robin Sloan on His Novel Sourdough",
+      "published": "2017-11-29",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/49---Microbes--Robots--and-Ambition---Robin-Sloan-on-His-Novel-Sourdough-e1g3f4a"
+    },
+    {
+      "title": "#48 - The Future of Bike Sharing with Ofo Cofounder Yanqi Zhang and Anu Hariharan",
+      "published": "2017-11-17",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/48---The-Future-of-Bike-Sharing-with-Ofo-Cofounder-Yanqi-Zhang-and-Anu-Hariharan-e1g3f2l"
+    },
+    {
+      "title": "#47 - Baidu's COO, Qi Lu Discusses AI with Daniel Gross",
+      "published": "2017-11-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/47---Baidus-COO--Qi-Lu-Discusses-AI-with-Daniel-Gross-e1g3f32"
+    },
+    {
+      "title": "#46 - Tencent's Chief eXploration Officer, David Wallerstein on WeChat, QQ, and Gaming",
+      "published": "2017-11-10",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/46---Tencents-Chief-eXploration-Officer--David-Wallerstein-on-WeChat--QQ--and-Gaming-e1g3f48"
+    },
+    {
+      "title": "#45 - Building Dota Bots That Beat Pros - OpenAI's Greg Brockman, Szymon Sidor, and Sam Altman",
+      "published": "2017-11-08",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/45---Building-Dota-Bots-That-Beat-Pros---OpenAIs-Greg-Brockman--Szymon-Sidor--and-Sam-Altman-e1g3f67"
+    },
+    {
+      "title": "#44 - Cindy Mi on Building VIPKID, the World's Largest English Learning Platform for Children",
+      "published": "2017-11-03",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/44---Cindy-Mi-on-Building-VIPKID--the-Worlds-Largest-English-Learning-Platform-for-Children-e1g3f2u"
+    },
+    {
+      "title": "#43 - Casey Neistat and Matt Hackett on Live Video's Struggle for Interestingness",
+      "published": "2017-11-01",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/43---Casey-Neistat-and-Matt-Hackett-on-Live-Videos-Struggle-for-Interestingness-e1g3f3i"
+    },
+    {
+      "title": "#42 - Robotics and 3D Printing with Voodoo Manufacturing",
+      "published": "2017-10-26",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/42---Robotics-and-3D-Printing-with-Voodoo-Manufacturing-e1g3f5g"
+    },
+    {
+      "title": "#41 - Experiments in Art and Technology with Artforum Editor Michelle Kuo",
+      "published": "2017-10-18",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/41---Experiments-in-Art-and-Technology-with-Artforum-Editor-Michelle-Kuo-e1g3f4c"
+    },
+    {
+      "title": "#40 - Content Marketing Tips from Experts at First Round Capital and Andreessen Horowitz",
+      "published": "2017-10-13",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/40---Content-Marketing-Tips-from-Experts-at-First-Round-Capital-and-Andreessen-Horowitz-e1g3f51"
+    },
+    {
+      "title": "#39 - Mr. Robot's Technical Producer and Writer - Kor Adana",
+      "published": "2017-10-11",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/39---Mr--Robots-Technical-Producer-and-Writer---Kor-Adana-e1g3f69"
+    },
+    {
+      "title": "#38 - The More You Communicate with Users, the Higher Chance You'll Build Something They Want - Ryan Hoover of Product Hunt",
+      "published": "2017-10-04",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/38---The-More-You-Communicate-with-Users--the-Higher-Chance-Youll-Build-Something-They-Want---Ryan-Hoover-of-Product-Hunt-e1g3f47"
+    },
+    {
+      "title": "#37 - Don't Start a Blog, Start a Cult - Mr. Money Mustache",
+      "published": "2017-09-27",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/37---Dont-Start-a-Blog--Start-a-Cult---Mr--Money-Mustache-e1g3f4i"
+    },
+    {
+      "title": "#36 - Your Whole Goal Is to Not Quit - Courtland Allen of Indie Hackers",
+      "published": "2017-09-22",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/36---Your-Whole-Goal-Is-to-Not-Quit---Courtland-Allen-of-Indie-Hackers-e1g3f4q"
+    },
+    {
+      "title": "#35 - The Technical Challenges of Measuring Gravitational Waves - Rana Adhikari of LIGO",
+      "published": "2017-09-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/35---The-Technical-Challenges-of-Measuring-Gravitational-Waves---Rana-Adhikari-of-LIGO-e1g3f5o"
+    },
+    {
+      "title": "#34 - Elizabeth Iorns on Biotech Companies in YC",
+      "published": "2017-09-13",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/34---Elizabeth-Iorns-on-Biotech-Companies-in-YC-e1g3f3a"
+    },
+    {
+      "title": "#33 - The Challenges a Repeat Founder Faces",
+      "published": "2017-09-08",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/33---The-Challenges-a-Repeat-Founder-Faces-e1g3f4u"
+    },
+    {
+      "title": "#32 - Hosain Rahman on The \"Defibrillator Experiences\" of Jawbone",
+      "published": "2017-09-06",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/32---Hosain-Rahman-on-The-Defibrillator-Experiences-of-Jawbone-e1g3f4h"
+    },
+    {
+      "title": "#31 - Spotting Ecommerce Trends in Shipping Data – Laura Behrens Wu",
+      "published": "2017-09-01",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/31---Spotting-Ecommerce-Trends-in-Shipping-Data--Laura-Behrens-Wu-e1g3f43"
+    },
+    {
+      "title": "#30 - Artist Lauren McCarthy Will Be Your Home's Brain",
+      "published": "2017-08-29",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/30---Artist-Lauren-McCarthy-Will-Be-Your-Homes-Brain-e1g3f4j"
+    },
+    {
+      "title": "#29 - Jack Dorsey On The Books That Helped Him Succeed",
+      "published": "2017-08-25",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/29---Jack-Dorsey-On-The-Books-That-Helped-Him-Succeed-e1g3f34"
+    },
+    {
+      "title": "#28 - Prerequisites for Starting a Company - Phil Libin",
+      "published": "2017-08-23",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/28---Prerequisites-for-Starting-a-Company---Phil-Libin-e1g3f3u"
+    },
+    {
+      "title": "#27 - The CEO Who Pays Employees to De-Locate From the Bay",
+      "published": "2017-08-18",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/27---The-CEO-Who-Pays-Employees-to-De-Locate-From-the-Bay-e1g3f52"
+    },
+    {
+      "title": "#26 - Founders of Science Exchange, Goldbely, and The Flex Company Discuss Fundraising",
+      "published": "2017-08-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/26---Founders-of-Science-Exchange--Goldbely--and-The-Flex-Company-Discuss-Fundraising-e1g3f58"
+    },
+    {
+      "title": "#25 - Baidu's AI Lab Director on Advancing Speech Recognition and Simulation",
+      "published": "2017-08-11",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/25---Baidus-AI-Lab-Director-on-Advancing-Speech-Recognition-and-Simulation-e1g3f4p"
+    },
+    {
+      "title": "#24 - Padmasree Warrior on Designing Autonomous Vehicles - With Anu Hariharan at the Female Founders Conference",
+      "published": "2017-08-09",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/24---Padmasree-Warrior-on-Designing-Autonomous-Vehicles---With-Anu-Hariharan-at-the-Female-Founders-Conference-e1g3f4f"
+    },
+    {
+      "title": "#23 - VMware Cofounder Diane Greene with Jessica Livingston at the Female Founders Conference",
+      "published": "2017-08-04",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/23---VMware-Cofounder-Diane-Greene-with-Jessica-Livingston-at-the-Female-Founders-Conference-e1g3f53"
+    },
+    {
+      "title": "#22 - Morgan DeBaun on Reaching 20M Millennials - With Kat Manalac at the Female Founders Conference",
+      "published": "2017-08-02",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/22---Morgan-DeBaun-on-Reaching-20M-Millennials---With-Kat-Manalac-at-the-Female-Founders-Conference-e1g3f4l"
+    },
+    {
+      "title": "#21 - Emily Weiss on the Insights That Grew Glossier - With Amy Buechler at the Female Founders Conference",
+      "published": "2017-07-26",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/21---Emily-Weiss-on-the-Insights-That-Grew-Glossier---With-Amy-Buechler-at-the-Female-Founders-Conference-e1g3f31"
+    },
+    {
+      "title": "#20 - Making Music and Art Through Machine Learning - Doug Eck of Magenta",
+      "published": "2017-07-21",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/20---Making-Music-and-Art-Through-Machine-Learning---Doug-Eck-of-Magenta-e1g3f61"
+    },
+    {
+      "title": "#19 - Blockchain Investing - Olaf Carlson-Wee and Aaron Harris",
+      "published": "2017-07-19",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/19---Blockchain-Investing---Olaf-Carlson-Wee-and-Aaron-Harris-e1g3f2s"
+    },
+    {
+      "title": "#18 - Q&A with YC Partners at the Female Founders Conference",
+      "published": "2017-07-14",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/18---QA-with-YC-Partners-at-the-Female-Founders-Conference-e1g3f5c"
+    },
+    {
+      "title": "#17 - Aileen Lee and Kirsty Nathoo at the Female Founders Conference",
+      "published": "2017-07-12",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/17---Aileen-Lee-and-Kirsty-Nathoo-at-the-Female-Founders-Conference-e1g3f3t"
+    },
+    {
+      "title": "#16 - Mark Zuckerberg on How to Build the Future",
+      "published": "2017-07-07",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/16---Mark-Zuckerberg-on-How-to-Build-the-Future-e1g3f44"
+    },
+    {
+      "title": "#15 - IPFS, CoinList, and the Filecoin ICO - Juan Benet and Dalton Caldwell",
+      "published": "2017-06-30",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/15---IPFS--CoinList--and-the-Filecoin-ICO---Juan-Benet-and-Dalton-Caldwell-e1g3f6r"
+    },
+    {
+      "title": "#14 - Ex Machina's Scientific Advisor - Murray Shanahan",
+      "published": "2017-06-28",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/14---Ex-Machinas-Scientific-Advisor---Murray-Shanahan-e1g3f3f"
+    },
+    {
+      "title": "#13 - Scaling Growth - Gustaf Alstromer, Ed Baker, and Josh Elman",
+      "published": "2017-06-23",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/13---Scaling-Growth---Gustaf-Alstromer--Ed-Baker--and-Josh-Elman-e1g3f6m"
+    },
+    {
+      "title": "#12 - How Should Business Schools Prepare Students for Startups? - Jeff Bussgang and Michael Seibel",
+      "published": "2017-06-21",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/12---How-Should-Business-Schools-Prepare-Students-for-Startups----Jeff-Bussgang-and-Michael-Seibel-e1g3f65"
+    },
+    {
+      "title": "#11 - At The Intersection of AI, Governments, and Google - Tim Hwang",
+      "published": "2017-06-16",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/11---At-The-Intersection-of-AI--Governments--and-Google---Tim-Hwang-e1g3f2f"
+    },
+    {
+      "title": "#10 - Office Hours with Ali Rowghani",
+      "published": "2017-06-14",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/10---Office-Hours-with-Ali-Rowghani-e1g3f66"
+    },
+    {
+      "title": "#9 - Sam Altman and Reid Hoffman - From Startup to Scaleup",
+      "published": "2017-06-09",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/9---Sam-Altman-and-Reid-Hoffman---From-Startup-to-Scaleup-e1g3f4m"
+    },
+    {
+      "title": "#8 - Rick and Morty Writer - Ryan Ridley",
+      "published": "2017-06-07",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/8---Rick-and-Morty-Writer---Ryan-Ridley-e1g3f6h"
+    },
+    {
+      "title": "#7 - Jessica Livingston on How to Build the Future",
+      "published": "2017-05-31",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/7---Jessica-Livingston-on-How-to-Build-the-Future-e1g3f2o"
+    },
+    {
+      "title": "#6 - Office Hours with Kat Manalac",
+      "published": "2017-05-24",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/6---Office-Hours-with-Kat-Manalac-e1g3f2r"
+    },
+    {
+      "title": "#5 - An AI Primer with Wojciech Zaremba",
+      "published": "2017-05-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/5---An-AI-Primer-with-Wojciech-Zaremba-e1g3f5n"
+    },
+    {
+      "title": "#4 - Elon Musk on How to Build the Future",
+      "published": "2017-05-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/4---Elon-Musk-on-How-to-Build-the-Future-e1g3f4b"
+    },
+    {
+      "title": "#3 - The Technical Advisor for Silicon Valley on HBO - Ed McManus",
+      "published": "2017-05-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/3---The-Technical-Advisor-for-Silicon-Valley-on-HBO---Ed-McManus-e1g3f5p"
+    },
+    {
+      "title": "#2 - Network Effects with Anu Hariharan",
+      "published": "2017-05-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/2---Network-Effects-with-Anu-Hariharan-e1g3f3j"
+    },
+    {
+      "title": "#1 - Hiring Engineers with Ammon Bartram",
+      "published": "2017-05-15",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/1---Hiring-Engineers-with-Ammon-Bartram-e1g3f6p"
+    }
+  ]
+}

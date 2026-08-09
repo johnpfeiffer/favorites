@@ -1,0 +1,906 @@
+{
+  "show": "Darknet Diaries",
+  "slug": "darknet-diaries",
+  "appleId": 1296350485,
+  "feedUrl": "https://podcast.darknetdiaries.com",
+  "homeUrl": "https://darknetdiaries.com",
+  "canonicalPattern": "https://darknetdiaries.com/episode/<n>/",
+  "episodeCount": 179,
+  "episodes": [
+    {
+      "title": "LOW - Trailer",
+      "published": "2026-08-06",
+      "url": "https://thisislow.com/"
+    },
+    {
+      "title": "178: Ubiquiti",
+      "published": "2026-08-04",
+      "url": "https://darknetdiaries.com/episode/178/"
+    },
+    {
+      "title": "177: National Public Data",
+      "published": "2026-07-21",
+      "url": "https://darknetdiaries.com/episode/177/"
+    },
+    {
+      "title": "176: NSL",
+      "published": "2026-07-07",
+      "url": "https://darknetdiaries.com/episode/176/"
+    },
+    {
+      "title": "175: Bayrob",
+      "published": "2026-06-02",
+      "url": "https://darknetdiaries.com/episode/175/"
+    },
+    {
+      "title": "174: Pacific Rim",
+      "published": "2026-05-05",
+      "url": "https://darknetdiaries.com/episode/174/"
+    },
+    {
+      "title": "173: Tarjeteros",
+      "published": "2026-04-21",
+      "url": "https://darknetdiaries.com/episode/173/"
+    },
+    {
+      "title": "172: SuperBox",
+      "published": "2026-04-07",
+      "url": "https://darknetdiaries.com/episode/172/"
+    },
+    {
+      "title": "171: Melody Fraud",
+      "published": "2026-03-03",
+      "url": "https://darknetdiaries.com/episode/171/"
+    },
+    {
+      "title": "170: Phrack",
+      "published": "2026-02-03",
+      "url": "https://darknetdiaries.com/episode/170/"
+    },
+    {
+      "title": "169: MoD",
+      "published": "2026-01-20",
+      "url": "https://darknetdiaries.com/episode/169/"
+    },
+    {
+      "title": "168: LoD",
+      "published": "2026-01-06",
+      "url": "https://darknetdiaries.com/episode/168/"
+    },
+    {
+      "title": "167: Threatlocker",
+      "published": "2025-12-23",
+      "url": "https://darknetdiaries.com/episode/167/"
+    },
+    {
+      "title": "166: Maxie",
+      "published": "2025-12-02",
+      "url": "https://darknetdiaries.com/episode/166/"
+    },
+    {
+      "title": "165: Tanya",
+      "published": "2025-11-04",
+      "url": "https://darknetdiaries.com/episode/165/"
+    },
+    {
+      "title": "164: Oak Cliff Swipers",
+      "published": "2025-10-07",
+      "url": "https://darknetdiaries.com/episode/164/"
+    },
+    {
+      "title": "163: Ola",
+      "published": "2025-09-02",
+      "url": "https://darknetdiaries.com/episode/163"
+    },
+    {
+      "title": "162: Hieu",
+      "published": "2025-08-05",
+      "url": "https://darknetdiaries.com/episode/162/"
+    },
+    {
+      "title": "161: mg",
+      "published": "2025-07-15",
+      "url": "https://darknetdiaries.com/episode/161/"
+    },
+    {
+      "title": "160: Greg",
+      "published": "2025-07-01",
+      "url": "https://darknetdiaries.com/episode/160/"
+    },
+    {
+      "title": "159: Vastaamo",
+      "published": "2025-06-03",
+      "url": "https://darknetdiaries.com/episode/159/"
+    },
+    {
+      "title": "158: MalwareTech",
+      "published": "2025-05-06",
+      "url": "https://darknetdiaries.com/episode/158/"
+    },
+    {
+      "title": "157: Grifter",
+      "published": "2025-04-01",
+      "url": "https://darknetdiaries.com/episode/157/"
+    },
+    {
+      "title": "156: Kill List",
+      "published": "2025-03-18",
+      "url": "https://darknetdiaries.com/episode/156/"
+    },
+    {
+      "title": "155: Kingpin",
+      "published": "2025-03-04",
+      "url": "http://darknetdiaries.com/episode/155/"
+    },
+    {
+      "title": "154: Hijacked Line",
+      "published": "2025-02-04",
+      "url": "http://darknetdiaries.com/episode/154/"
+    },
+    {
+      "title": "153: Bike Index",
+      "published": "2025-01-07",
+      "url": "https://darknetdiaries.com/episode/153/"
+    },
+    {
+      "title": "152: Stacc Attack",
+      "published": "2024-12-03",
+      "url": "https://darknetdiaries.com/episode/152/"
+    },
+    {
+      "title": "151: Chris Rock",
+      "published": "2024-11-05",
+      "url": "https://darknetdiaries.com/episode/151/"
+    },
+    {
+      "title": "150: mobman 2",
+      "published": "2024-10-01",
+      "url": "https://darknetdiaries.com/episode/150/"
+    },
+    {
+      "title": "149: Mini-Stories: Vol 3",
+      "published": "2024-09-03",
+      "url": "https://play.prx.org/listen?ge=prx_7057_18571cc8-c130-45be-a21d-ab000c5a7b0c&uf=https%3A%2F%2Fpodcast.darknetdiaries.com"
+    },
+    {
+      "title": "148: Dubsnatch",
+      "published": "2024-08-06",
+      "url": "https://darknetdiaries.com/episode/148/"
+    },
+    {
+      "title": "147: Tornado",
+      "published": "2024-07-02",
+      "url": "https://darknetdiaries.com/episode/147"
+    },
+    {
+      "title": "146: ANOM",
+      "published": "2024-06-04",
+      "url": "https://darknetdiaries.com/episode/146/"
+    },
+    {
+      "title": "145: Shannen",
+      "published": "2024-05-07",
+      "url": "https://darknetdiaries.com/episode/145"
+    },
+    {
+      "title": "144: Rachel",
+      "published": "2024-04-02",
+      "url": "https://darknetdiaries.com/episode/144/"
+    },
+    {
+      "title": "143: Jim Hates Scams",
+      "published": "2024-03-05",
+      "url": "https://darknetdiaries.com/episode/143"
+    },
+    {
+      "title": "142: Axact",
+      "published": "2024-02-06",
+      "url": "https://darknetdiaries.com/episode/142"
+    },
+    {
+      "title": "141: The Pig Butcher",
+      "published": "2024-01-02",
+      "url": "https://darknetdiaries.com/episode/141"
+    },
+    {
+      "title": "140: Revenge Bytes",
+      "published": "2023-12-05",
+      "url": "https://darknetdiaries.com/episode/140"
+    },
+    {
+      "title": "139: D3f4ult",
+      "published": "2023-11-07",
+      "url": "https://darknetdiaries.com/episode/139"
+    },
+    {
+      "title": "138: The Mimics of Punjab",
+      "published": "2023-10-03",
+      "url": "https://darknetdiaries.com/episode/138"
+    },
+    {
+      "title": "137: Predator",
+      "published": "2023-09-05",
+      "url": "https://darknetdiaries.com/episode/137"
+    },
+    {
+      "title": "136: Team Xecuter",
+      "published": "2023-08-01",
+      "url": "https://darknetdiaries.com/episode/136"
+    },
+    {
+      "title": "135: The D.R. Incident",
+      "published": "2023-07-04",
+      "url": "https://darknetdiaries.com/episode/135"
+    },
+    {
+      "title": "134: Deviant",
+      "published": "2023-06-06",
+      "url": "https://darknetdiaries.com/episode/134/"
+    },
+    {
+      "title": "133: I'm the Real Connor",
+      "published": "2023-05-02",
+      "url": "https://darknetdiaries.com/episode/133"
+    },
+    {
+      "title": "132: Sam the Vendor",
+      "published": "2023-04-04",
+      "url": "https://darknetdiaries.com/episode/132"
+    },
+    {
+      "title": "131: Welcome to Video",
+      "published": "2022-12-27",
+      "url": "https://darknetdiaries.com/episode/131"
+    },
+    {
+      "title": "130: Jason's Pen Test",
+      "published": "2022-12-13",
+      "url": "https://darknetdiaries.com/episode/130"
+    },
+    {
+      "title": "129: Gollumfun (Part 2)",
+      "published": "2022-11-29",
+      "url": "https://darknetdiaries.com/episode/129"
+    },
+    {
+      "title": "128: Gollumfun (Part 1)",
+      "published": "2022-11-15",
+      "url": "https://darknetdiaries.com/episode/128"
+    },
+    {
+      "title": "127: Maddie",
+      "published": "2022-11-01",
+      "url": "https://darknetdiaries.com/episode/127"
+    },
+    {
+      "title": "126: REvil",
+      "published": "2022-10-18",
+      "url": "https://darknetdiaries.com/episode/126"
+    },
+    {
+      "title": "125: Jeremiah",
+      "published": "2022-10-04",
+      "url": "https://darknetdiaries.com/episode/125"
+    },
+    {
+      "title": "124: Synthetic Remittance",
+      "published": "2022-09-20",
+      "url": "https://darknetdiaries.com/episode/124"
+    },
+    {
+      "title": "123: Newswires",
+      "published": "2022-09-06",
+      "url": "https://darknetdiaries.com/episode/123"
+    },
+    {
+      "title": "122: Lisa",
+      "published": "2022-08-23",
+      "url": "https://darknetdiaries.com/episode/122"
+    },
+    {
+      "title": "121: Ed",
+      "published": "2022-07-26",
+      "url": "https://darknetdiaries.com/episode/121"
+    },
+    {
+      "title": "120: Voulnet",
+      "published": "2022-06-28",
+      "url": "https://darknetdiaries.com/episode/120"
+    },
+    {
+      "title": "119: Hot Wallets",
+      "published": "2022-06-14",
+      "url": "https://darknetdiaries.com/episode/119"
+    },
+    {
+      "title": "118: Hot Swaps",
+      "published": "2022-05-31",
+      "url": "https://darknetdiaries.com/episode/118"
+    },
+    {
+      "title": "117: Daniel the Paladin",
+      "published": "2022-05-17",
+      "url": "https://darknetdiaries.com/episode/117"
+    },
+    {
+      "title": "116: Mad Dog",
+      "published": "2022-05-03",
+      "url": "https://darknetdiaries.com/episode/116"
+    },
+    {
+      "title": "115: Player Cheater Developer Spy",
+      "published": "2022-04-19",
+      "url": "https://darknetdiaries.com/episode/115"
+    },
+    {
+      "title": "114: HD",
+      "published": "2022-04-05",
+      "url": "https://darknetdiaries.com/episode/114"
+    },
+    {
+      "title": "113: Adam",
+      "published": "2022-03-22",
+      "url": "https://darknetdiaries.com/episode/113"
+    },
+    {
+      "title": "112: Dirty Coms",
+      "published": "2022-03-08",
+      "url": "https://darknetdiaries.com/episode/112"
+    },
+    {
+      "title": "111: ZeuS",
+      "published": "2022-02-22",
+      "url": "https://darknetdiaries.com/episode/111"
+    },
+    {
+      "title": "110: Spam Botnets",
+      "published": "2022-02-08",
+      "url": "https://darknetdiaries.com/episode/110"
+    },
+    {
+      "title": "109: TeaMp0isoN",
+      "published": "2022-01-25",
+      "url": "https://darknetdiaries.com/episode/109"
+    },
+    {
+      "title": "108: Marq",
+      "published": "2022-01-11",
+      "url": "https://darknetdiaries.com/episode/108"
+    },
+    {
+      "title": "107: Alethe",
+      "published": "2021-12-21",
+      "url": "https://darknetdiaries.com/episode/107"
+    },
+    {
+      "title": "106: @Tennessee",
+      "published": "2021-12-07",
+      "url": "https://darknetdiaries.com/episode/106"
+    },
+    {
+      "title": "105: Secret Cells",
+      "published": "2021-11-23",
+      "url": "https://darknetdiaries.com/episode/105"
+    },
+    {
+      "title": "104: Arya",
+      "published": "2021-11-09",
+      "url": "https://darknetdiaries.com/episode/104"
+    },
+    {
+      "title": "103: Cloud Hopper",
+      "published": "2021-10-26",
+      "url": "https://darknetdiaries.com/episode/103"
+    },
+    {
+      "title": "102: Money Maker",
+      "published": "2021-10-12",
+      "url": "https://darknetdiaries.com/episode/102"
+    },
+    {
+      "title": "101: Lotería",
+      "published": "2021-09-28",
+      "url": "https://darknetdiaries.com/episode/101"
+    },
+    {
+      "title": "100: NSO",
+      "published": "2021-08-31",
+      "url": "https://darknetdiaries.com/episode/100"
+    },
+    {
+      "title": "99: The Spy",
+      "published": "2021-08-17",
+      "url": "https://darknetdiaries.com/episode/99"
+    },
+    {
+      "title": "98: Zero Day Brokers",
+      "published": "2021-08-03",
+      "url": "https://darknetdiaries.com/episode/98"
+    },
+    {
+      "title": "97: The Pizza Problem",
+      "published": "2021-07-20",
+      "url": "https://darknetdiaries.com/episode/97"
+    },
+    {
+      "title": "96: The Police Station Incident",
+      "published": "2021-07-06",
+      "url": "https://darknetdiaries.com/episode/96"
+    },
+    {
+      "title": "95: Jon & Brian's Big Adventure",
+      "published": "2021-06-22",
+      "url": "https://darknetdiaries.com/episode/95"
+    },
+    {
+      "title": "94: Mariposa",
+      "published": "2021-06-08",
+      "url": "https://darknetdiaries.com/episode/94"
+    },
+    {
+      "title": "93: Kik",
+      "published": "2021-05-25",
+      "url": "https://darknetdiaries.com/episode/93"
+    },
+    {
+      "title": "92: The Pirate Bay",
+      "published": "2021-05-11",
+      "url": "https://darknetdiaries.com/episode/92"
+    },
+    {
+      "title": "91: webjedi",
+      "published": "2021-04-27",
+      "url": "https://darknetdiaries.com/episode/91"
+    },
+    {
+      "title": "90: Jenny",
+      "published": "2021-04-13",
+      "url": "https://darknetdiaries.com/episode/90"
+    },
+    {
+      "title": "89: Cybereason - Molerats in the Cloud",
+      "published": "2021-04-06",
+      "url": "https://darknetdiaries.com/episode/89"
+    },
+    {
+      "title": "88: Victor",
+      "published": "2021-03-30",
+      "url": "https://darknetdiaries.com/episode/88"
+    },
+    {
+      "title": "87: Guild of the Grumpy Old Hackers",
+      "published": "2021-03-16",
+      "url": "https://darknetdiaries.com/episode/87"
+    },
+    {
+      "title": "86: The LinkedIn Incident",
+      "published": "2021-03-02",
+      "url": "https://darknetdiaries.com/episode/86"
+    },
+    {
+      "title": "85: Cam the Carder",
+      "published": "2021-02-16",
+      "url": "https://darknetdiaries.com/episode/85"
+    },
+    {
+      "title": "84: Jet-setters",
+      "published": "2021-02-02",
+      "url": "https://darknetdiaries.com/episode/84"
+    },
+    {
+      "title": "83: NSA Cryptologists",
+      "published": "2021-01-19",
+      "url": "https://darknetdiaries.com/episode/83"
+    },
+    {
+      "title": "82: Master of Pwn",
+      "published": "2021-01-05",
+      "url": "https://darknetdiaries.com/episode/82"
+    },
+    {
+      "title": "81: The Vendor",
+      "published": "2020-12-22",
+      "url": "https://darknetdiaries.com/episode/81"
+    },
+    {
+      "title": "80: The Whistleblower",
+      "published": "2020-12-08",
+      "url": "https://darknetdiaries.com/episode/80"
+    },
+    {
+      "title": "79: Dark Basin",
+      "published": "2020-11-24",
+      "url": "https://darknetdiaries.com/episode/79"
+    },
+    {
+      "title": "78: Nerdcore",
+      "published": "2020-11-10",
+      "url": "https://darknetdiaries.com/episode/78"
+    },
+    {
+      "title": "77: Olympic Destroyer",
+      "published": "2020-10-27",
+      "url": "https://darknetdiaries.com/episode/77"
+    },
+    {
+      "title": "76: Knaves Out",
+      "published": "2020-10-13",
+      "url": "https://darknetdiaries.com/episode/76"
+    },
+    {
+      "title": "75: Compromised Comms",
+      "published": "2020-09-29",
+      "url": "https://darknetdiaries.com/episode/75"
+    },
+    {
+      "title": "74: Mikko",
+      "published": "2020-09-15",
+      "url": "https://darknetdiaries.com/episode/74"
+    },
+    {
+      "title": "73: WannaCry",
+      "published": "2020-09-01",
+      "url": "https://darknetdiaries.com/episode/73"
+    },
+    {
+      "title": "72: Bangladesh Bank Heist",
+      "published": "2020-08-18",
+      "url": "https://darknetdiaries.com/episode/72"
+    },
+    {
+      "title": "71: Information Monopoly",
+      "published": "2020-08-04",
+      "url": "https://darknetdiaries.com/episode/71"
+    },
+    {
+      "title": "70: Ghost Exodus",
+      "published": "2020-07-21",
+      "url": "https://darknetdiaries.com/episode/70"
+    },
+    {
+      "title": "69: Human Hacker",
+      "published": "2020-07-07",
+      "url": "https://darknetdiaries.com/episode/69"
+    },
+    {
+      "title": "68: Triton",
+      "published": "2020-06-23",
+      "url": "https://darknetdiaries.com/episode/68"
+    },
+    {
+      "title": "67: The Big House",
+      "published": "2020-06-09",
+      "url": "https://darknetdiaries.com/episode/67"
+    },
+    {
+      "title": "66: freakyclown",
+      "published": "2020-05-26",
+      "url": "https://darknetdiaries.com/episode/66"
+    },
+    {
+      "title": "65: PSYOP",
+      "published": "2020-05-12",
+      "url": "https://darknetdiaries.com/episode/65"
+    },
+    {
+      "title": "64: The Athens Shadow Games",
+      "published": "2020-04-28",
+      "url": "https://darknetdiaries.com/episode/64"
+    },
+    {
+      "title": "63: w0rmer",
+      "published": "2020-04-14",
+      "url": "https://darknetdiaries.com/episode/63"
+    },
+    {
+      "title": "62: Cam",
+      "published": "2020-03-31",
+      "url": "https://darknetdiaries.com/episode/62"
+    },
+    {
+      "title": "61: Samy",
+      "published": "2020-03-17",
+      "url": "https://darknetdiaries.com/episode/61"
+    },
+    {
+      "title": "60: dawgyg",
+      "published": "2020-03-03",
+      "url": "https://darknetdiaries.com/episode/60"
+    },
+    {
+      "title": "59: The Courthouse",
+      "published": "2020-02-18",
+      "url": "https://darknetdiaries.com/episode/59"
+    },
+    {
+      "title": "58: OxyMonster",
+      "published": "2020-02-04",
+      "url": "https://darknetdiaries.com/episode/58"
+    },
+    {
+      "title": "57: MS08-067",
+      "published": "2020-01-21",
+      "url": "https://darknetdiaries.com/episode/57/"
+    },
+    {
+      "title": "56: Jordan",
+      "published": "2020-01-07",
+      "url": "https://darknetdiaries.com/episode/56"
+    },
+    {
+      "title": "55: NoirNet",
+      "published": "2019-12-25",
+      "url": "https://darknetdiaries.com/episode/55"
+    },
+    {
+      "title": "54: NotPetya",
+      "published": "2019-12-24",
+      "url": "https://darknetdiaries.com/episode/54"
+    },
+    {
+      "title": "53: Shadow Brokers",
+      "published": "2019-12-10",
+      "url": "https://darknetdiaries.com/episode/53"
+    },
+    {
+      "title": "52: Magecart",
+      "published": "2019-11-26",
+      "url": "https://darknetdiaries.com/episode/52"
+    },
+    {
+      "title": "51: The Indo-Pak Conflict",
+      "published": "2019-11-12",
+      "url": "https://darknetdiaries.com/episode/51"
+    },
+    {
+      "title": "50: Operation Glowing Symphony",
+      "published": "2019-10-30",
+      "url": "https://darknetdiaries.com/episode/50"
+    },
+    {
+      "title": "49: Elliot",
+      "published": "2019-10-15",
+      "url": "https://darknetdiaries.com/episode/49/"
+    },
+    {
+      "title": "48: Operation Socialist",
+      "published": "2019-10-01",
+      "url": "https://darknetdiaries.com/episode/48/"
+    },
+    {
+      "title": "47: Project Raven",
+      "published": "2019-09-17",
+      "url": "https://darknetdiaries.com/episode/47/"
+    },
+    {
+      "title": "46: XBox Underground (Part 2)",
+      "published": "2019-09-03",
+      "url": "https://darknetdiaries.com/episode/46/"
+    },
+    {
+      "title": "45: XBox Underground (Part 1)",
+      "published": "2019-08-20",
+      "url": "https://darknetdiaries.com/episode/45/"
+    },
+    {
+      "title": "44: Zain",
+      "published": "2019-08-06",
+      "url": "https://darknetdiaries.com/episode/44/"
+    },
+    {
+      "title": "43: PPP",
+      "published": "2019-07-23",
+      "url": "https://darknetdiaries.com/episode/43/"
+    },
+    {
+      "title": "42: Mini-Stories: Vol 2",
+      "published": "2019-07-09",
+      "url": "https://darknetdiaries.com/episode/42/"
+    },
+    {
+      "title": "41: Just Visiting",
+      "published": "2019-06-25",
+      "url": "https://darknetdiaries.com/episode/41/"
+    },
+    {
+      "title": "40: No Parking",
+      "published": "2019-06-11",
+      "url": "https://darknetdiaries.com/episode/40/"
+    },
+    {
+      "title": "39: 3 Alarm Lamp Scooter",
+      "published": "2019-05-28",
+      "url": "https://darknetdiaries.com/episode/39/"
+    },
+    {
+      "title": "38: Dark Caracal",
+      "published": "2019-05-14",
+      "url": "https://darknetdiaries.com/episode/38/"
+    },
+    {
+      "title": "37: LVS",
+      "published": "2019-04-30",
+      "url": "https://darknetdiaries.com/episode/37/"
+    },
+    {
+      "title": "36: Jeremy from Marketing",
+      "published": "2019-04-16",
+      "url": "https://darknetdiaries.com/episode/36/"
+    },
+    {
+      "title": "35: Carbanak",
+      "published": "2019-04-02",
+      "url": "https://darknetdiaries.com/episode/35/"
+    },
+    {
+      "title": "34: For Your Eyes Only",
+      "published": "2019-03-19",
+      "url": "https://darknetdiaries.com/episode/34/"
+    },
+    {
+      "title": "33: RockYou",
+      "published": "2019-03-05",
+      "url": "https://darknetdiaries.com/episode/33/"
+    },
+    {
+      "title": "32: The Carder",
+      "published": "2019-02-19",
+      "url": "https://darknetdiaries.com/episode/32/"
+    },
+    {
+      "title": "31: Hacker Giraffe",
+      "published": "2019-02-05",
+      "url": "https://darknetdiaries.com/episode/31/"
+    },
+    {
+      "title": "30: Shamoon",
+      "published": "2019-01-22",
+      "url": "https://darknetdiaries.com/episode/30/"
+    },
+    {
+      "title": "29: Stuxnet",
+      "published": "2019-01-08",
+      "url": "https://darknetdiaries.com/episode/29/"
+    },
+    {
+      "title": "28: Unit 8200",
+      "published": "2018-12-15",
+      "url": "https://darknetdiaries.com/episode/28/"
+    },
+    {
+      "title": "27: Chartbreakers",
+      "published": "2018-12-01",
+      "url": "https://darknetdiaries.com/episode/27/"
+    },
+    {
+      "title": "26: IRS",
+      "published": "2018-11-15",
+      "url": "https://darknetdiaries.com/episode/26/"
+    },
+    {
+      "title": "25: Alberto",
+      "published": "2018-11-01",
+      "url": "https://darknetdiaries.com/episode/25/"
+    },
+    {
+      "title": "24: Operation Bayonet",
+      "published": "2018-10-15",
+      "url": "https://darknetdiaries.com/episode/24/"
+    },
+    {
+      "title": "23: Vladimir Levin",
+      "published": "2018-10-01",
+      "url": "https://darknetdiaries.com/episode/23/"
+    },
+    {
+      "title": "22: Mini-Stories: Vol 1",
+      "published": "2018-09-15",
+      "url": "https://darknetdiaries.com/episode/22/"
+    },
+    {
+      "title": "21: Black Duck Eggs",
+      "published": "2018-09-01",
+      "url": "https://darknetdiaries.com/episode/21/"
+    },
+    {
+      "title": "20: mobman",
+      "published": "2018-08-15",
+      "url": "https://darknetdiaries.com/episode/20/"
+    },
+    {
+      "title": "19: Operation Aurora",
+      "published": "2018-08-01",
+      "url": "https://darknetdiaries.com/episode/19/"
+    },
+    {
+      "title": "18: Jackpot",
+      "published": "2018-07-01",
+      "url": "https://darknetdiaries.com/episode/18/"
+    },
+    {
+      "title": "17: Finn",
+      "published": "2018-06-03",
+      "url": "https://darknetdiaries.com/episode/17/"
+    },
+    {
+      "title": "16: Eijah",
+      "published": "2018-05-01",
+      "url": "https://darknetdiaries.com/episode/16/"
+    },
+    {
+      "title": "15: Ill Tills",
+      "published": "2018-04-01",
+      "url": "https://darknetdiaries.com/episode/15/"
+    },
+    {
+      "title": "14: #OpJustina",
+      "published": "2018-03-01",
+      "url": "https://darknetdiaries.com/episode/14/"
+    },
+    {
+      "title": "13: Carna Botnet",
+      "published": "2018-02-15",
+      "url": "https://darknetdiaries.com/episode/13/"
+    },
+    {
+      "title": "12: Crypto Wars",
+      "published": "2018-02-01",
+      "url": "https://darknetdiaries.com/episode/12/"
+    },
+    {
+      "title": "11: Strictly Confidential",
+      "published": "2018-01-15",
+      "url": "https://darknetdiaries.com/episode/11/"
+    },
+    {
+      "title": "10: Misadventures of a Nation State Actor",
+      "published": "2018-01-01",
+      "url": "https://darknetdiaries.com/episode/10/"
+    },
+    {
+      "title": "9: The Rise and Fall of Mt. Gox",
+      "published": "2017-12-15",
+      "url": "https://darknetdiaries.com/episode/9/"
+    },
+    {
+      "title": "8: Manfred (Part 2)",
+      "published": "2017-12-01",
+      "url": "https://darknetdiaries.com/episode/8/"
+    },
+    {
+      "title": "7: Manfred (Part 1)",
+      "published": "2017-12-01",
+      "url": "https://darknetdiaries.com/episode/7/"
+    },
+    {
+      "title": "6: The Beirut Bank Job",
+      "published": "2017-11-15",
+      "url": "https://darknetdiaries.com/episode/6/"
+    },
+    {
+      "title": "5: #ASUSGATE",
+      "published": "2017-11-01",
+      "url": "https://darknetdiaries.com/episode/5/"
+    },
+    {
+      "title": "4: Panic! at the TalkTalk Board Room",
+      "published": "2017-10-15",
+      "url": "https://darknetdiaries.com/episode/4/"
+    },
+    {
+      "title": "3: DigiNotar, You are the Weakest Link, Good Bye!",
+      "published": "2017-10-01",
+      "url": "https://darknetdiaries.com/episode/3/"
+    },
+    {
+      "title": "2: The Peculiar Case of the VTech Hacker",
+      "published": "2017-09-15",
+      "url": "https://darknetdiaries.com/episode/2/"
+    },
+    {
+      "title": "1: The Phreaky World of PBX Hacking",
+      "published": "2017-09-01",
+      "url": "https://darknetdiaries.com/episode/1/"
+    }
+  ]
+}

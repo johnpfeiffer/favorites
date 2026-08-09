@@ -1,0 +1,161 @@
+{
+  "show": "Engineering Unblocked (Swarmia)",
+  "slug": "engineering-unblocked",
+  "appleId": 1690770396,
+  "feedUrl": "https://anchor.fm/s/e1450394/podcast/rss",
+  "homeUrl": "https://www.swarmia.com/podcast",
+  "canonicalPattern": "https://www.swarmia.com/podcast/<slug>/",
+  "episodeCount": 30,
+  "episodes": [
+    {
+      "title": "AI's unglamorous wins for developer productivity with Tara Hernandez from MongoDB",
+      "published": "2026-02-11",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/AIs-unglamorous-wins-for-developer-productivity-with-Tara-Hernandez-from-MongoDB-e3er9hu"
+    },
+    {
+      "title": "What a year of hands-on AI coding teaches you about good software with Lada Kesseler",
+      "published": "2026-01-19",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/What-a-year-of-hands-on-AI-coding-teaches-you-about-good-software-with-Lada-Kesseler-e3drutu"
+    },
+    {
+      "title": "Being a CTO when everything is exploratory with Rob Zuber from CircleCI",
+      "published": "2026-01-07",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Being-a-CTO-when-everything-is-exploratory-with-Rob-Zuber-from-CircleCI-e3da75v"
+    },
+    {
+      "title": "Managing up, down, and the robots with Michael Lopp aka Rands",
+      "published": "2025-09-12",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Managing-up--down--and-the-robots-with-Michael-Lopp-aka-Rands-e37vv51"
+    },
+    {
+      "title": "Develop, deploy, operate: Three stages of delivering business value with Titus Winters from Adobe",
+      "published": "2025-07-31",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Develop--deploy--operate-Three-stages-of-delivering-business-value-with-Titus-Winters-from-Adobe-e3696h6"
+    },
+    {
+      "title": "How to hire normal engineers and help them do great work with Charity Majors from Honeycomb",
+      "published": "2025-07-22",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/How-to-hire-normal-engineers-and-help-them-do-great-work-with-Charity-Majors-from-Honeycomb-e35s9rc"
+    },
+    {
+      "title": "Growing engineering headcount in the world of AI with Allan Leinwand, CTO of Webflow",
+      "published": "2025-06-30",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Growing-engineering-headcount-in-the-world-of-AI-with-Allan-Leinwand--CTO-of-Webflow-e34tb6d"
+    },
+    {
+      "title": "Navigating developer productivity at Netflix with Kathryn Koehler",
+      "published": "2025-06-24",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Navigating-developer-productivity-at-Netflix-with-Kathryn-Koehler-e34lcsa"
+    },
+    {
+      "title": "Preserving culture and delivery speed through growth with Julianna Lamb from Stytch",
+      "published": "2025-06-11",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Preserving-culture-and-delivery-speed-through-growth-with-Julianna-Lamb-from-Stytch-e34395s"
+    },
+    {
+      "title": "Developer productivity drivers and detractors with Max Kanat-Alexander from Capital One",
+      "published": "2025-06-04",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Developer-productivity-drivers-and-detractors-with-Max-Kanat-Alexander-from-Capital-One-e33paur"
+    },
+    {
+      "title": "The science of developer experience with Kristen Foster-Marks from Depot",
+      "published": "2025-01-03",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/The-science-of-developer-experience-with-Kristen-Foster-Marks-from-Depot-e2svr2c"
+    },
+    {
+      "title": "The state of DORA and developer productivity with Nathen Harvey from Google Cloud",
+      "published": "2024-12-16",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/The-state-of-DORA-and-developer-productivity-with-Nathen-Harvey-from-Google-Cloud-e2scmt3"
+    },
+    {
+      "title": "Mastering operational health with Iccha Sethi from Vanta",
+      "published": "2024-09-04",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Mastering-operational-health-with-Iccha-Sethi-from-Vanta-e2nvsd9"
+    },
+    {
+      "title": "Rising to engineering leadership challenges at Honeycomb with Emily Nakashima from Honeycomb",
+      "published": "2024-08-08",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Rising-to-engineering-leadership-challenges-at-Honeycomb-with-Emily-Nakashima-from-Honeycomb-e2mutot"
+    },
+    {
+      "title": "What makes a Platform Team work with Mason Jones from Zapier",
+      "published": "2024-05-28",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/What-makes-a-Platform-Team-work-with-Mason-Jones-from-Zapier-e2k6m23"
+    },
+    {
+      "title": "Pulling off a multi-month tech debt paydown project with Alice Bartlett from Financial Times",
+      "published": "2024-05-13",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Pulling-off-a-multi-month-tech-debt-paydown-project-with-Alice-Bartlett-from-Financial-Times-e2jjd6i"
+    },
+    {
+      "title": "The evolution of data engineering in the age of AI with Colleen Tartow from VAST Data",
+      "published": "2024-04-30",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/The-evolution-of-data-engineering-in-the-age-of-AI-with-Colleen-Tartow-from-VAST-Data-e2j26lk"
+    },
+    {
+      "title": "Building scaleups without hero culture with Andrea Corey from Homebase",
+      "published": "2024-04-08",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Building-scaleups-without-hero-culture-with-Andrea-Corey-from-Homebase-e2i4gg2"
+    },
+    {
+      "title": "Change: It’s a long game with Liz Hustedt from ActBlue",
+      "published": "2024-03-20",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Change-Its-a-long-game-with-Liz-Hustedt-from-ActBlue-e2ham16"
+    },
+    {
+      "title": "Crafting a career at the intersection of tech and people with Scott Bonneau from Karat",
+      "published": "2024-03-06",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Crafting-a-career-at-the-intersection-of-tech-and-people-with-Scott-Bonneau-from-Karat-e2gn285"
+    },
+    {
+      "title": "Introducing metrics to an engineering organization with Lena Reinhard",
+      "published": "2023-12-08",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Introducing-metrics-to-an-engineering-organization-with-Lena-Reinhard-e2d015u"
+    },
+    {
+      "title": "Like a Fitbit for engineering teams with Grant Jenks from LinkedIn",
+      "published": "2023-11-06",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Like-a-Fitbit-for-engineering-teams-with-Grant-Jenks-from-LinkedIn-e2bi4jf"
+    },
+    {
+      "title": "Reflecting on ladders, acquisitions, and personal trajectory after 8 years at Sentry with Ben Vinegar",
+      "published": "2023-09-29",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Reflecting-on-ladders--acquisitions--and-personal-trajectory-after-8-years-at-Sentry-with-Ben-Vinegar-e29uhh8"
+    },
+    {
+      "title": "Design systems and other internal platforms as products with David Demaree from Webflow",
+      "published": "2023-08-25",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Design-systems-and-other-internal-platforms-as-products-with-David-Demaree-from-Webflow-e28grir"
+    },
+    {
+      "title": "Success is more than headcount with Alex Plugaru, CTO at Gorgias",
+      "published": "2023-08-09",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Success-is-more-than-headcount-with-Alex-Plugaru--CTO-at-Gorgias-e27tlse"
+    },
+    {
+      "title": "Scaling Engineering at Wolt with Niilo Säämänen, CTO",
+      "published": "2023-07-13",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Scaling-Engineering-at-Wolt-with-Niilo-Smnen--CTO-e26tuh7"
+    },
+    {
+      "title": "Hypergrowth, B2B vs B2C, and welcoming the rest of the world to AI with Heidi Williams from Grammarly",
+      "published": "2023-06-05",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Hypergrowth--B2B-vs-B2C--and-welcoming-the-rest-of-the-world-to-AI-with-Heidi-Williams-from-Grammarly-e258dco"
+    },
+    {
+      "title": "Transforming delivery time at a pivotal moment with Jack Humphrey from LinkedIn",
+      "published": "2023-06-05",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Transforming-delivery-time-at-a-pivotal-moment-with-Jack-Humphrey-from-LinkedIn-e258ch0"
+    },
+    {
+      "title": "Making the jump from line manager to director — essentially overnight with Christian Helvin from Tithely",
+      "published": "2023-06-05",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Making-the-jump-from-line-manager-to-director--essentially-overnight-with-Christian-Helvin-from-Tithely-e2587vg"
+    },
+    {
+      "title": "Growing up DevProd: 5 years of improving efficiency at Stripe with Ainsley Escorce-Jones",
+      "published": "2023-06-02",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Growing-up-DevProd-5-years-of-improving-efficiency-at-Stripe-with-Ainsley-Escorce-Jones-e253efb"
+    }
+  ]
+}

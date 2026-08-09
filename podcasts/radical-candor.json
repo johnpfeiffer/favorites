@@ -1,0 +1,1141 @@
+{
+  "show": "Radical Candor: Communication at Work",
+  "slug": "radical-candor",
+  "appleId": 1188489488,
+  "feedUrl": "https://feeds.megaphone.fm/radicalcandor",
+  "homeUrl": "https://www.radicalcandor.com",
+  "canonicalPattern": "https://www.radicalcandor.com/podcast/<season-episode>/<slug>",
+  "episodeCount": 226,
+  "episodes": [
+    {
+      "title": "Why some leaders are incorruptible, many get corrupted by power/money (with Rob Lalka)",
+      "published": "2026-08-04",
+      "url": null
+    },
+    {
+      "title": "How Great Leaders Make Everyone Better (with Liz Wiseman)",
+      "published": "2026-07-15",
+      "url": null
+    },
+    {
+      "title": "How to Raise Emotionally Resilient Kids — and Lead the Same Way (with Dr. Becky Kennedy)",
+      "published": "2026-07-07",
+      "url": null
+    },
+    {
+      "title": "Why Racial Inequality Costs Everyone (with Heather McGhee)",
+      "published": "2026-06-10",
+      "url": null
+    },
+    {
+      "title": "Where the World's Dirty Money Actually Goes (with Oliver Bullough)",
+      "published": "2026-06-03",
+      "url": null
+    },
+    {
+      "title": "The Rise and Fall of the Neoliberal Order (with Prof Gary Gerstle)",
+      "published": "2026-05-27",
+      "url": null
+    },
+    {
+      "title": "How a 19th-Century Bombing Shaped Modern Surveillance (with Steven Johnson)",
+      "published": "2026-05-20",
+      "url": null
+    },
+    {
+      "title": "Why You Want What Other People Want (with Luke Burgis)",
+      "published": "2026-05-13",
+      "url": null
+    },
+    {
+      "title": "How to Build Teams That Actually Flourish (with Daniel Coyle)",
+      "published": "2026-05-06",
+      "url": null
+    },
+    {
+      "title": "How Great Companies Stay Great (with Eric Ries)",
+      "published": "2026-04-29",
+      "url": null
+    },
+    {
+      "title": "What is a Problem I Can Help Solve? (with Tom Rath)",
+      "published": "2026-04-22",
+      "url": null
+    },
+    {
+      "title": "When Work Cultures Turn Toxic (with Rob Copeland)",
+      "published": "2026-04-15",
+      "url": null
+    },
+    {
+      "title": "How to Remake America S8 | E9",
+      "published": "2026-04-08",
+      "url": null
+    },
+    {
+      "title": "How the Ultra-Wealthy Captured American Democracy (with Prof David Gibbs)",
+      "published": "2026-04-01",
+      "url": null
+    },
+    {
+      "title": "Your Privacy: Why You Should Care and Tools to Protect It 8 | 7",
+      "published": "2026-03-25",
+      "url": null
+    },
+    {
+      "title": "How Tech Employees Can Organize for Change (with Lisa Conn and Anne Wootton)",
+      "published": "2026-03-18",
+      "url": null
+    },
+    {
+      "title": "Rethinking Authenticity and What to Do Instead with Dr. Tomas Chamorro-Premuzic 8|5",
+      "published": "2026-03-11",
+      "url": null
+    },
+    {
+      "title": "Why We Don’t Do What We Know We Should: Beliefs, Habits, and AI Practice with Nir Eyal 8|4",
+      "published": "2026-03-04",
+      "url": null
+    },
+    {
+      "title": "AI Gods, Space Empires, and the Stories Tech Uses to Justify Power with Adam Becker 8|3",
+      "published": "2026-02-18",
+      "url": null
+    },
+    {
+      "title": "The 7 Hidden Beliefs That Hold Leaders Back with Muriel Wilkins 8|2",
+      "published": "2026-02-11",
+      "url": null
+    },
+    {
+      "title": "It’s Not Too Late: Getting Unstuck Mid-Career with Adrion Porter 8|1",
+      "published": "2026-01-21",
+      "url": "https://www.radicalcandor.com/podcast/get-unstuck"
+    },
+    {
+      "title": "From Optimism to Reckoning: Reflections on Silicon Valley with Steven Levy 7|43",
+      "published": "2025-12-10",
+      "url": "https://www.radicalcandor.com/podcast/silicon-valley-steven-levy"
+    },
+    {
+      "title": "The Fixable Framework : Solve Real Problems Quickly, Without Breaking Relationships with Frances Frei & Anne Morriss 7|42",
+      "published": "2025-12-03",
+      "url": "https://www.radicalcandor.com/podcast/move-fast-fix-things"
+    },
+    {
+      "title": "Why We All Need a Curiosity Check With Jeff Wetzler 7 | 41",
+      "published": "2025-11-19",
+      "url": null
+    },
+    {
+      "title": "How to Be Remarkable: Growth, Grit, and Grace with Guy Kawasaki 7 | 40",
+      "published": "2025-11-05",
+      "url": "https://www.radicalcandor.com/podcast/be-remarkable-guy-kawasaki"
+    },
+    {
+      "title": "Why Knowing Your Core Values Makes You a Better Leader—and How to Discover Them with Robert Glazer 7|39",
+      "published": "2025-10-15",
+      "url": "https://www.radicalcandor.com/podcast/core-values-7-39"
+    },
+    {
+      "title": "What It Takes to Grow: Radical Candor Meets Hollywood with Adam Richman 7 | 38",
+      "published": "2025-10-08",
+      "url": "https://www.radicalcandor.com/podcast/what-it-takes-to-grow-radical-candor-meets-hollywood-with-adam-richman"
+    },
+    {
+      "title": "Are Flat Organizations More Efficient? Kim and Jason Weigh In 7 | 37",
+      "published": "2025-09-17",
+      "url": "https://www.radicalcandor.com/podcast/flat-organizations-7-37"
+    },
+    {
+      "title": "The Cult of The Credo: How a Beloved Brand Betrayed Your Trust 7 | 36",
+      "published": "2025-09-10",
+      "url": "https://www.radicalcandor.com/podcast/cult-of-the-credo-7-36"
+    },
+    {
+      "title": "The Billion-Dollar Cost of Bad Meetings 7 | 35",
+      "published": "2025-08-27",
+      "url": "https://www.radicalcandor.com/podcast/cost-of-bad-meetings-7-35"
+    },
+    {
+      "title": "I Messed Up at Work: How to Recover from a Major Work Blunder 7 | 34",
+      "published": "2025-08-20",
+      "url": "https://www.radicalcandor.com/podcast/epic-fail-work-mistake-7-34"
+    },
+    {
+      "title": "What Founders Need to Know About Feedback and Culture 7 | 33",
+      "published": "2025-08-13",
+      "url": "https://www.radicalcandor.com/podcast/founders-feedback-culture-7-33"
+    },
+    {
+      "title": "Managing Managers: How to Navigate the Jump from Manager to Director 7 | 32",
+      "published": "2025-08-06",
+      "url": "https://www.radicalcandor.com/podcast/managing-managers-7-32"
+    },
+    {
+      "title": "A Framework for Communicating Hard News (That Actually Works) 7 | 31",
+      "published": "2025-07-30",
+      "url": "https://www.radicalcandor.com/podcast/communicating-hard-news-7-31"
+    },
+    {
+      "title": "Habit or Ritual: What's Driving Your Day? 7 | 30",
+      "published": "2025-07-23",
+      "url": "https://www.radicalcandor.com/podcast/habit-or-ritual-7-30"
+    },
+    {
+      "title": "From Complaining to Collaboration: Shifting 1:1 Dynamics 7 | 29",
+      "published": "2025-07-16",
+      "url": "https://www.radicalcandor.com/podcast/shifting-1-1-dynamics-7-29"
+    },
+    {
+      "title": "Kim vs. Kim: Human vs. AI on Workplace Cultural Differences 7 | 28",
+      "published": "2025-07-09",
+      "url": "https://www.radicalcandor.com/podcast/human-vs.-ai-workplace-cultural-differences-7-28"
+    },
+    {
+      "title": "Humanizing AI: Meet the Kim Scott Google Portrait 7 | 27",
+      "published": "2025-07-02",
+      "url": "https://www.radicalcandor.com/podcast/google-portrait-ai-7-27/"
+    },
+    {
+      "title": "Andrew Palmer: How to Lead Without Losing Your Mind 7 | 26",
+      "published": "2025-06-25",
+      "url": "https://www.radicalcandor.com/podcast/andrew_palmer-7-26/"
+    },
+    {
+      "title": "Navigating the Nuances of Tone in Feedback 7 | 25",
+      "published": "2025-06-18",
+      "url": "https://www.radicalcandor.com/podcast/tone-in-feedback-7-25/"
+    },
+    {
+      "title": "Becoming a Not-So-Secretly Candid Leader with Chloé van Bergen 7 | 24",
+      "published": "2025-06-11",
+      "url": "https://www.radicalcandor.com/podcast/secretly-candid-7-24/"
+    },
+    {
+      "title": "What Real Inclusion Looks Like at Work When You’re LGBTQ+ 7 | 23",
+      "published": "2025-06-04",
+      "url": "https://www.radicalcandor.com/podcast/lgbtq-at-work-7-23/"
+    },
+    {
+      "title": "Leading Through Chaos With Stephanie Chung 7 | 22",
+      "published": "2025-05-28",
+      "url": "https://www.radicalcandor.com/podcast/stephanie-chung-7-22/"
+    },
+    {
+      "title": "The Evil Translator & The Fundamental Attribution Error (Best of) 7 | 21",
+      "published": "2025-05-21",
+      "url": null
+    },
+    {
+      "title": "Finding One More Molecule of Hope with Debbie Millman 7 | 20",
+      "published": "2025-05-14",
+      "url": null
+    },
+    {
+      "title": "I'm the 'Cool' Boss and It's Not Working 7 | 19",
+      "published": "2025-05-07",
+      "url": "https://www.radicalcandor.com/podcast/cool-boss-problems-7-19/"
+    },
+    {
+      "title": "Returning to the Office & Remembering Why We Left 7 | 18",
+      "published": "2025-04-30",
+      "url": "https://www.radicalcandor.com/podcast/return-to-office-7-18/"
+    },
+    {
+      "title": "The Cost of the Move-Fast-Break-Things Mentality 7 | 17",
+      "published": "2025-04-23",
+      "url": null
+    },
+    {
+      "title": "From Bottlenecks to Buy-In: Overcoming Bureaucracy 7 | 16",
+      "published": "2025-04-16",
+      "url": "https://www.radicalcandor.com/podcast/overcoming-bureaucracy-7-16/"
+    },
+    {
+      "title": "How NDAs Protect Power Instead of People 7 | 15",
+      "published": "2025-04-09",
+      "url": "https://www.radicalcandor.com/podcast/ndas-7-15/"
+    },
+    {
+      "title": "Surviving Assholes and Building Better Organizations with Bob Sutton 7 | 14",
+      "published": "2025-04-02",
+      "url": "https://www.radicalcandor.com/podcast/assholes-bob-sutton-7-14/"
+    },
+    {
+      "title": "The Wild Courage to Get What You Want, With Jenny Wood 7 | 13",
+      "published": "2025-03-26",
+      "url": "https://www.radicalcandor.com/podcast/wild-courage-jenny-wood-7-13/"
+    },
+    {
+      "title": "How to TALK So People Actually Listen with Dr. Alison Wood Brooks 7 | 12",
+      "published": "2025-03-19",
+      "url": "https://www.radicalcandor.com/podcast/talk-wood-brooks-7-12/"
+    },
+    {
+      "title": "When the PIP Feels Disingenuous: The Ethics of Managing Out 7 | 11",
+      "published": "2025-03-12",
+      "url": "https://www.radicalcandor.com/podcast/pips-managing-out-7-11/"
+    },
+    {
+      "title": "Scaling Smart: Leading Effectively When You Have 50+ Direct Reports 7 | 10",
+      "published": "2025-03-05",
+      "url": "https://www.radicalcandor.com/podcast/scaling-leadership-7-10/"
+    },
+    {
+      "title": "From Change Agent to Change Enabler: Aman Kochar On Leadership & Growth 7 | 9",
+      "published": "2025-02-26",
+      "url": "https://www.radicalcandor.com/podcast/aman-kochar-change-enabler-7-9/"
+    },
+    {
+      "title": "Resetting Expectations With Resistant Direct Reports 7 | 8",
+      "published": "2025-02-19",
+      "url": "https://www.radicalcandor.com/podcast/resistant-direct-reports-7-8/"
+    },
+    {
+      "title": "Temple Grandin On Why Clarity is the Key to Candor 7 | 7",
+      "published": "2025-02-12",
+      "url": "https://www.radicalcandor.com/podcast/temple-grandin-7-7/"
+    },
+    {
+      "title": "Russ Laraway’s “Gravity Assist” Approach to Career Conversations 7 | 6",
+      "published": "2025-02-05",
+      "url": "https://www.radicalcandor.com/podcast/russ-laraway-career-conversations-7-6/"
+    },
+    {
+      "title": "Russ Laraway Shares Why “The Big 3” Are the Secret to Being a Successful Leader 7 | 5",
+      "published": "2025-01-29",
+      "url": "https://www.radicalcandor.com/podcast/russ-laraway-the-big-3-s7-ep5/"
+    },
+    {
+      "title": "Middle Managers: Dinosaurs or Essential Glue? 7 | 4",
+      "published": "2025-01-22",
+      "url": "https://www.radicalcandor.com/podcast/middle-managers-7-4/"
+    },
+    {
+      "title": "Ellen Pao On Breaking Tech’s Toxic Status Quo 7 | 3",
+      "published": "2025-01-15",
+      "url": "https://www.radicalcandor.com/podcast/ellen-pao-tech-7-3/"
+    },
+    {
+      "title": "Heather McGowan On Rebuilding Connection and Collaboration 7 | 2",
+      "published": "2025-01-08",
+      "url": "https://www.radicalcandor.com/podcast/heather-mcgowan-rebuilding-connection-7-2/"
+    },
+    {
+      "title": "Best of: Unlock the Power of Rituals to Transform Your Work and Life 7 | 1",
+      "published": "2025-01-01",
+      "url": "https://www.spreaker.com/episode/best-of-unlock-the-power-of-rituals-to-transform-your-work-and-life-7-1--63382478"
+    },
+    {
+      "title": "Best of: How to Communicate With Your Family During the Holidays 6 | 50",
+      "published": "2024-12-25",
+      "url": "https://www.spreaker.com/episode/best-of-how-to-communicate-with-your-family-during-the-holidays-6-50--63382131"
+    },
+    {
+      "title": "How to Navigate the Messy Middle Between Ruinous Empathy & Obnoxious Aggression 6 | 49",
+      "published": "2024-12-18",
+      "url": "https://www.radicalcandor.com/podcast/ruinous-empathy-obnoxious-aggression-6-49/"
+    },
+    {
+      "title": "How to Care Personally When You Don’t Personally Care 6 | 48",
+      "published": "2024-12-11",
+      "url": "https://www.radicalcandor.com/podcast/how-to-care-personally-6-48/"
+    },
+    {
+      "title": "Introducing: The Radical Candor Podcast",
+      "published": "2024-12-09",
+      "url": "https://www.spreaker.com/episode/introducing-the-radical-candor-podcast--63110124"
+    },
+    {
+      "title": "Money Talks: Why Salary Secrets Are Hurting Your Team 6 | 47",
+      "published": "2024-12-04",
+      "url": "https://www.radicalcandor.com/podcast/pay-transparency-6-47/"
+    },
+    {
+      "title": "Promotions Gone Wrong? Why False Promises Wreck Trust at Work 6 | 46",
+      "published": "2024-11-27",
+      "url": "https://www.radicalcandor.com/podcast/promotions-dick-costolo-6-46/"
+    },
+    {
+      "title": "Oversharing at Work: When TMI Tanks Trust 6 | 45",
+      "published": "2024-11-20",
+      "url": "https://www.radicalcandor.com/podcast/oversharing-at-work-6-45/"
+    },
+    {
+      "title": "Lessons from a Whistleblower: The Cost of Staying Silent with Susan Fowler Rigetti 6 | 44",
+      "published": "2024-11-13",
+      "url": "https://www.radicalcandor.com/podcast/whistleblower-susan-rigetti-6-44/"
+    },
+    {
+      "title": "Talking to Flat Earthers: Managing Post-Election Tension at Work With Denise Hamilton 6 | 43",
+      "published": "2024-11-06",
+      "url": "https://www.radicalcandor.com/podcast/post-election-2024-tension-6-43/"
+    },
+    {
+      "title": "How to Navigate a Nepo Baby Bully at Work 6 | 42",
+      "published": "2024-10-30",
+      "url": "https://www.radicalcandor.com/podcast/nepotism-workplace-bullying-6-42/"
+    },
+    {
+      "title": "Say What? How to Measure Feedback Responses 6 | 41",
+      "published": "2024-10-23",
+      "url": "https://www.radicalcandor.com/podcast/measuring-feedback-6-41/"
+    },
+    {
+      "title": "Navigating Disagreements: How to Challenge Feedback Effectively 6 | 40",
+      "published": "2024-10-16",
+      "url": "https://www.radicalcandor.com/podcast/disagreements-at-work-6-34/"
+    },
+    {
+      "title": "Building Pockets of Excellence: Introducing Radical Candor to Your Team 6 | 39",
+      "published": "2024-10-09",
+      "url": "https://www.radicalcandor.com/podcast/introducing-radical-candor-6-39/"
+    },
+    {
+      "title": "The Role of Vulnerability in Leadership with Jacob Morgan 6 | 38",
+      "published": "2024-10-02",
+      "url": "https://www.radicalcandor.com/podcast/leading-with-vulnerability-6-38/"
+    },
+    {
+      "title": "Why Your Meetings Suck (And How to Fix Them): Insights from Dr. Steven Rogelberg 6 | 37",
+      "published": "2024-09-25",
+      "url": "https://www.radicalcandor.com/podcast/steve-rogelberg-meetings-6-37/"
+    },
+    {
+      "title": "How Ruinous Empathy Ruins Praise 6 | 36",
+      "published": "2024-09-18",
+      "url": "https://www.radicalcandor.com/podcast/ruinous-empathy-ruins-praise-6-36/"
+    },
+    {
+      "title": "Inclusion in Meetings: Kieran Snyder On In-Person vs. Remote Dynamics 6 | 35",
+      "published": "2024-09-11",
+      "url": "https://www.radicalcandor.com/podcast/inclusion-in-meetings-kieran-snyder-6-35/"
+    },
+    {
+      "title": "Political Discussions at Work: Productive or Problematic? 6 | 34",
+      "published": "2024-09-04",
+      "url": "https://www.radicalcandor.com/podcast/political-discussions-at-work-6-34/"
+    },
+    {
+      "title": "When Feedback Fails: Repairing Relationships After Feedback is Ignored 6 | 33",
+      "published": "2024-08-28",
+      "url": "https://www.radicalcandor.com/podcast/when-feedback-fails-6-33/"
+    },
+    {
+      "title": "Creating a Community 6 | 32",
+      "published": "2024-08-21",
+      "url": "https://www.radicalcandor.com/podcast/creating-a-community-6-32/"
+    },
+    {
+      "title": "Remarkably Candid: Insights from Guy Kawasaki 6 | 31",
+      "published": "2024-08-14",
+      "url": "https://www.radicalcandor.com/podcast/guy-kawasaki-6-31/"
+    },
+    {
+      "title": "Workplace Harassment: Tackling Toxicity at Work 6 | 30",
+      "published": "2024-08-07",
+      "url": "https://www.radicalcandor.com/podcast/workplace-harassment-6-30"
+    },
+    {
+      "title": "Building Better Relationships: The FAQ Finale 6 | 29",
+      "published": "2024-07-31",
+      "url": "https://www.radicalcandor.com/podcast/radical-candor-faq-6-29/"
+    },
+    {
+      "title": "Feedback In Multigenerational Workplaces & More FAQs 6 | 28",
+      "published": "2024-07-24",
+      "url": "https://www.radicalcandor.com/podcast/faqs-jason-6-28/"
+    },
+    {
+      "title": "Radical Candor is Not an Excuse to Act Like a Jerk 6 | 27",
+      "published": "2024-07-17",
+      "url": "https://www.radicalcandor.com/podcast/faq-kim-scott-6-27/"
+    },
+    {
+      "title": "Radical Candor “Asks” Jeff Wetzler: The Foundational Skill of Asking Questions 6 | 26",
+      "published": "2024-07-10",
+      "url": "https://www.radicalcandor.com/podcast/ask-jeff-wetzler-6-26/"
+    },
+    {
+      "title": "Radical Respect: The Jedi Mind Trick 6 | Bonus",
+      "published": "2024-07-03",
+      "url": "https://www.spreaker.com/episode/radical-respect-the-jedi-mind-trick-6-bonus--60568874"
+    },
+    {
+      "title": "Breaking the 'Word Police' Myth: How Inclusive Language Builds Stronger Teams 6 | 25",
+      "published": "2024-06-26",
+      "url": "https://www.radicalcandor.com/podcast/word-police-6-25/"
+    },
+    {
+      "title": "Faster, Smarter Communication: Matt Abrahams Gets Radically Candid 6 | 24",
+      "published": "2024-06-19",
+      "url": "https://www.spreaker.com/episode/faster-smarter-communication-matt-abrahams-gets-radically-candid-6-24--60379154"
+    },
+    {
+      "title": "The CORE of Radical Candor: A Deep Dive into Effective Feedback 6 | 23",
+      "published": "2024-06-12",
+      "url": "https://www.radicalcandor.com/podcast/core-feedback-6-23/"
+    },
+    {
+      "title": "Beyond 'Sorry': How to Apologize and Mean It 6 | 22",
+      "published": "2024-06-05",
+      "url": "https://www.radicalcandor.com/podcast/how-to-apologize-6-22/"
+    },
+    {
+      "title": "Digital Overwhelm: Navigating App Overload at Work 6 | 21",
+      "published": "2024-05-29",
+      "url": "https://www.radicalcandor.com/podcast/app-overload-6-21/"
+    },
+    {
+      "title": "Two Managers, One Team: Making Co-Management Work 6 | 20",
+      "published": "2024-05-22",
+      "url": "https://www.radicalcandor.com/podcast/co-management-6-20/"
+    },
+    {
+      "title": "What Should I be When I Grow Up? Cutting Through Career-Decision Chaos 6 | 19",
+      "published": "2024-05-15",
+      "url": "https://www.radicalcandor.com/podcast/career-decisions-6-19/"
+    },
+    {
+      "title": "Don't Let a Bad Boss Derail You: A Guide to Thriving 6 | 18",
+      "published": "2024-05-08",
+      "url": "https://www.radicalcandor.com/podcast/dont-let-a-bad-boss-derail-you-6-18/"
+    },
+    {
+      "title": "Listen, Challenge, Commit 6 | 17",
+      "published": "2024-05-01",
+      "url": "https://www.radicalcandor.com/podcast/listen-challenge-commit-6-17/"
+    },
+    {
+      "title": "The Power of Rituals at Work 6 | 16",
+      "published": "2024-04-24",
+      "url": "https://www.radicalcandor.com/podcast/rituals-6-16/"
+    },
+    {
+      "title": "Best Of: Ally Love on Radical Candor and Real Success 6 | 15",
+      "published": "2024-04-17",
+      "url": "https://www.radicalcandor.com/podcast/best-of-ally-love-6-15/"
+    },
+    {
+      "title": "Think Fast, Talk Smart 6 | Bonus",
+      "published": "2024-04-10",
+      "url": "https://www.fastersmarter.io/webby"
+    },
+    {
+      "title": "Succession Problems (Who Wants to Be a Manager?) 6 | 14",
+      "published": "2024-04-03",
+      "url": "https://www.radicalcandor.com/podcast/who-wants-to-be-a-manager-6-14/"
+    },
+    {
+      "title": "Are Conferences & Retreats Worth It? The Radical Recap 6 | 13",
+      "published": "2024-03-27",
+      "url": "https://www.radicalcandor.com/podcast/sxsw-6-13/"
+    },
+    {
+      "title": "Disrupting Bias In Management 6 | 12",
+      "published": "2024-03-20",
+      "url": "https://www.radicalcandor.com/podcast/bias-in-management-6-12/"
+    },
+    {
+      "title": "AI at Work 6 | 11",
+      "published": "2024-03-13",
+      "url": "https://www.radicalcandor.com/podcast/ai-at-work-6-11/"
+    },
+    {
+      "title": "Radical Collaboration With Vijaya Kaza 6 | 10",
+      "published": "2024-03-07",
+      "url": "https://www.radicalcandor.com/podcast/radical-collaboration-6-10/"
+    },
+    {
+      "title": "Radical Respect — Indivisible",
+      "published": "2024-03-05",
+      "url": "https://www.spreaker.com/episode/radical-respect-indivisible--58926608"
+    },
+    {
+      "title": "Etiquette at Work 6 | 9",
+      "published": "2024-02-28",
+      "url": "https://www.radicalcandor.com/podcast/etiquette-at-work-6-9/"
+    },
+    {
+      "title": "The Case for Common Human Decency 6 | 8",
+      "published": "2024-02-21",
+      "url": "https://www.radicalcandor.com/podcast/s6-ep8-common-human-decency/"
+    },
+    {
+      "title": "Don't Criticize Your Employees In Public 6 | 7",
+      "published": "2024-02-14",
+      "url": "https://www.radicalcandor.com/podcast/s6-ep7-criticize-in-private/"
+    },
+    {
+      "title": "What Does Managing Out Mean? 6 | 6",
+      "published": "2024-02-07",
+      "url": "https://www.radicalcandor.com/podcast/s6-ep5-managing-out/"
+    },
+    {
+      "title": "Trust and Inspire With Stephen M.R. Covey 6 | 5",
+      "published": "2024-01-31",
+      "url": "https://www.radicalcandor.com/podcast/s6-ep5-stephen-covey/"
+    },
+    {
+      "title": "Loud Laborers: All Talk, No Action 6 | 4",
+      "published": "2024-01-24",
+      "url": "https://www.radicalcandor.com/podcast/s6_ep4_loud_laborer/"
+    },
+    {
+      "title": "Elevating Introverts at Work 6 | 3",
+      "published": "2024-01-17",
+      "url": "https://www.radicalcandor.com/podcast/s6-ep3-introverts-at-work/"
+    },
+    {
+      "title": "Managers are Burned Out, too 6 | 2",
+      "published": "2024-01-10",
+      "url": "https://www.radicalcandor.com/podcast/managers-are-burned-out/"
+    },
+    {
+      "title": "Storytelling at Work 6 | 1",
+      "published": "2024-01-03",
+      "url": "https://www.radicalcandor.com/podcast/s6-ep1-storytelling/"
+    },
+    {
+      "title": "Surviving Holiday Communication With Your Family 5 | 30",
+      "published": "2023-12-20",
+      "url": "https://www.radicalcandor.com/podcast/s5-ep30-holiday-communication-family/"
+    },
+    {
+      "title": "A 'Hot Potato' Management Dilemma 5 | 29",
+      "published": "2023-12-13",
+      "url": "https://www.radicalcandor.com/podcast/s5-ep29-management-dilemma/"
+    },
+    {
+      "title": "Identify the Elephant 5 | 28",
+      "published": "2023-12-06",
+      "url": "https://www.radicalcandor.com/podcast/s5-ep28-elephant-in-room/"
+    },
+    {
+      "title": "Toxic Positivity at Work 5 | 27",
+      "published": "2023-11-30",
+      "url": "https://www.radicalcandor.com/podcast/s5-ep257-toxic-positivity/"
+    },
+    {
+      "title": "Managerial Musings With Dick Costolo 5 | 26",
+      "published": "2023-11-22",
+      "url": "https://www.radicalcandor.com/podcast/s5-ep26-managerial-musings-dick-costolo/"
+    },
+    {
+      "title": "Is Being a Manager Right for Me? 5 | 25",
+      "published": "2023-11-15",
+      "url": "https://www.radicalcandor.com/podcast/s5-ep25-should-i-be-a-manager/"
+    },
+    {
+      "title": "Making Masterclass — Radically Candid Conversations 5 | 24",
+      "published": "2023-11-08",
+      "url": "https://www.radicalcandor.com/podcast/s5-ep24-masterclass/"
+    },
+    {
+      "title": "We Have Some Feedback About Feedforward 5 | 23",
+      "published": "2023-11-01",
+      "url": "https://www.radicalcandor.com/podcast/s5-ep-23-feedforward_vs_feedback/"
+    },
+    {
+      "title": "Leading With Compassion 5 | 22",
+      "published": "2023-10-25",
+      "url": "https://www.radicalcandor.com/podcast/s5-ep22-leading-compassion/"
+    },
+    {
+      "title": "Ally Love is In the House for Radically Candid Conversations 5 | 21",
+      "published": "2023-10-12",
+      "url": "https://www.radicalcandor.com/podcast/s5-ep21-ally-love-boss-up/"
+    },
+    {
+      "title": "What is Mobbing at Work? 5 | Bonus",
+      "published": "2023-10-04",
+      "url": "https://www.radicalcandor.com/podcast/s5-bonus-mobbing-bullying/"
+    },
+    {
+      "title": "What's Up With Performance Improvement Plans? 5 | 20",
+      "published": "2023-09-27",
+      "url": "https://www.radicalcandor.com/podcast/s5-ep-20-performance-improvement-plans"
+    },
+    {
+      "title": "Giving Feedback About Nervous Laughter — Funny (Not Funny) 5 | 19",
+      "published": "2023-09-21",
+      "url": "https://www.radicalcandor.com/podcast/s5-ep-17-nervous-laughter/"
+    },
+    {
+      "title": "Amy Edmondson On the Science of Failing Well — Radically Candid Conversations 5 | 18",
+      "published": "2023-09-05",
+      "url": "https://www.radicalcandor.com/podcast/s5-ep17-amy-edmondson-failing-well/"
+    },
+    {
+      "title": "Coming Out at Work 5 | 17",
+      "published": "2023-08-31",
+      "url": "https://www.radicalcandor.com/podcast/s5-ep17-coming-out-at-work/"
+    },
+    {
+      "title": "Appreciation (That's What The Money's For!) 5 | 16",
+      "published": "2023-08-15",
+      "url": "https://www.radicalcandor.com/podcast/s5-ep16-appreciation/"
+    },
+    {
+      "title": "Creating Consequences for Bullies 5 | Bonus",
+      "published": "2023-08-02",
+      "url": "https://www.radicalcandor.com/podcast/s5-bonus-episode-bullying-at-work/"
+    },
+    {
+      "title": "The Feedback Sandwich (Kiss Me, Kick Me, Kiss Me) 5 | 15",
+      "published": "2023-07-27",
+      "url": "https://www.radicalcandor.com/podcast/s5-ep15-avoid-the-feedback-sandwich"
+    },
+    {
+      "title": "Don't Be Suspicious ... Get Curious 5 | 14",
+      "published": "2023-07-12",
+      "url": "https://www.radicalcandor.com/podcast/curiosity-before-suspicion/"
+    },
+    {
+      "title": "Feedback vs. Nitpicking (If It's Yellow Let it Mellow) 5 | 13",
+      "published": "2023-06-28",
+      "url": "https://www.radicalcandor.com/podcast/nitpicking/"
+    },
+    {
+      "title": "The #1 Skill Leaders Need to Succeed — Radically Candid Conversations with Muriel Wilkins 5 | 12",
+      "published": "2023-06-14",
+      "url": "https://www.radicalcandor.com/podcast/muriel-wilkins/"
+    },
+    {
+      "title": "Stuck In a Ruinous Empathy Rut 5 | 11",
+      "published": "2023-05-31",
+      "url": "https://www.radicalcandor.com/podcast/ruinous-empathy-rut/"
+    },
+    {
+      "title": "How to Make Work Less Like Junior High (A Tale of 2 Jasons) 5 | 10",
+      "published": "2023-05-17",
+      "url": "https://www.radicalcandor.com/podcast/a-tale-of-2-jasons/"
+    },
+    {
+      "title": "The 'Oops, Just Kidding' Job Offer 5 | 9",
+      "published": "2023-05-03",
+      "url": "https://www.radicalcandor.com/podcast/hiring-with-radical-candor/"
+    },
+    {
+      "title": "The Fundamental Attribution Error 5 | 8",
+      "published": "2023-04-19",
+      "url": "https://www.radicalcandor.com/podcast/fundamental-attribution-error/"
+    },
+    {
+      "title": "Fears for Tears 5 | 7",
+      "published": "2023-04-05",
+      "url": "https://www.radicalcandor.com/podcast/fears-for-tears/"
+    },
+    {
+      "title": "'Radical Candor' Rescued From an Abandoned Apartment 5 | 6",
+      "published": "2023-03-22",
+      "url": "https://www.radicalcandor.com/podcast/radical-candor-rescued/"
+    },
+    {
+      "title": "Quiet Hiring—Opportunity or Dumpster Fire? 5 | 5",
+      "published": "2023-03-08",
+      "url": "https://www.radicalcandor.com/podcast/quiet-hiring/"
+    },
+    {
+      "title": "The Emotional Toll of Being Laid Off 5 | 4",
+      "published": "2023-02-22",
+      "url": "https://www.radicalcandor.com/podcast/emotional-toll-of-being-laid-off/"
+    },
+    {
+      "title": "Absentee Management vs. Quiet Firing — What’s the Difference? 5 | 3",
+      "published": "2023-02-08",
+      "url": "https://www.radicalcandor.com/podcast/absentee-management-quiet-firing/"
+    },
+    {
+      "title": "Are You 'Helping' or Micromanaging? 5 | 2",
+      "published": "2023-01-25",
+      "url": "https://www.radicalcandor.com/podcast/micromanaging-or-helping/"
+    },
+    {
+      "title": "What's Your Radical Candor Story? 5 | 1",
+      "published": "2023-01-10",
+      "url": "https://www.spreaker.com/episode/what-s-your-radical-candor-story-5-1--52416109"
+    },
+    {
+      "title": "Radical Candor Wipeouts Reimagined 4 | 17",
+      "published": "2022-11-30",
+      "url": "https://www.spreaker.com/episode/radical-candor-wipeouts-reimagined-4-17--52416110"
+    },
+    {
+      "title": "What Do Managers of Managers Do? (The Crank Call From Kim) 4 | 16",
+      "published": "2022-11-01",
+      "url": "https://www.spreaker.com/episode/what-do-managers-of-managers-do-the-crank-call-from-kim-4-16--51829817"
+    },
+    {
+      "title": "What Do Managers (of Small Teams) Do Anyways? 4 | 15",
+      "published": "2022-10-12",
+      "url": "https://www.spreaker.com/episode/what-do-managers-of-small-teams-do-anyways-4-15--51829825"
+    },
+    {
+      "title": "Quiet Quitting Speaks Loudly About Bad Bosses 4 | 14",
+      "published": "2022-09-21",
+      "url": "https://www.spreaker.com/episode/quiet-quitting-speaks-loudly-about-bad-bosses-4-14--51829824"
+    },
+    {
+      "title": "Create a Culture of Learning Where it's Safe to Fail—Get Sh*t Done Step 7 ~ 4 | 13",
+      "published": "2022-09-07",
+      "url": "https://www.spreaker.com/episode/create-a-culture-of-learning-where-it-s-safe-to-fail-get-sh-t-done-step-7-4-13--51829837"
+    },
+    {
+      "title": "Implement Your Brilliant Idea—Get Sh*t Done Step 6 ~ 4 | 12",
+      "published": "2022-08-24",
+      "url": "https://www.spreaker.com/episode/implement-your-brilliant-idea-get-sh-t-done-step-6-4-12--51829826"
+    },
+    {
+      "title": "Persuade Uncle Scrammy—Get Sh*t Done Step 5 ~ 4 | 11",
+      "published": "2022-08-03",
+      "url": "https://www.spreaker.com/episode/persuade-uncle-scrammy-get-sh-t-done-step-5-4-11--51829827"
+    },
+    {
+      "title": "Push Decisions Into the Facts—Get Shit Done Step 4 ~ 4 | 10",
+      "published": "2022-07-13",
+      "url": "https://www.spreaker.com/episode/push-decisions-into-the-facts-get-shit-done-step-4-4-10--51829830"
+    },
+    {
+      "title": "How to Be a Thought Partner Instead of a Micro or Absentee Manager 4 | 9",
+      "published": "2022-06-30",
+      "url": "https://www.spreaker.com/episode/how-to-be-a-thought-partner-instead-of-a-micro-or-absentee-manager-4-9--51829831"
+    },
+    {
+      "title": "Debate (Don't Squish) Ideas—Get Shit Done Step 3 ~ 4 | 8",
+      "published": "2022-06-16",
+      "url": "https://www.spreaker.com/episode/debate-don-t-squish-ideas-get-shit-done-step-3-4-8--51829818"
+    },
+    {
+      "title": "Kim Scott & Russ Laraway—Radically Candid Conversations 4 | 7",
+      "published": "2022-05-19",
+      "url": "https://www.spreaker.com/episode/kim-scott-russ-laraway-radically-candid-conversations-4-7--51829836"
+    },
+    {
+      "title": "Leverage Staff Meetings to Help Clarify Ideas—Get Sh*t Done Step 2 (Part 2) ~ 4 | 6",
+      "published": "2022-05-05",
+      "url": "https://www.spreaker.com/episode/leverage-staff-meetings-to-help-clarify-ideas-get-sh-t-done-step-2-part-2-4-6--51829832"
+    },
+    {
+      "title": "Clarify Your Thinking—Get Sh*t Done Step 2 ~ 4 | 5",
+      "published": "2022-04-22",
+      "url": "https://www.spreaker.com/episode/clarify-your-thinking-get-sh-t-done-step-2-4-5--51829834"
+    },
+    {
+      "title": "Create a Culture of Listening—Get Stuff Done Step 1 ~ 4 | 4",
+      "published": "2022-04-07",
+      "url": "https://www.spreaker.com/episode/create-a-culture-of-listening-get-stuff-done-step-1-4-4--51829823"
+    },
+    {
+      "title": "Skill and Will—Steep Growth Trajectory & Poor Performance 4 | 3",
+      "published": "2022-03-16",
+      "url": "https://www.spreaker.com/episode/skill-and-will-steep-growth-trajectory-poor-performance-4-3--51829839"
+    },
+    {
+      "title": "How to Get Sh*t Done Like a Boss 4 | 2",
+      "published": "2022-02-25",
+      "url": "https://www.spreaker.com/episode/how-to-get-sh-t-done-like-a-boss-4-2--51829844"
+    },
+    {
+      "title": "The \"Um\" Story 4 | Mini",
+      "published": "2022-02-10",
+      "url": "https://www.spreaker.com/episode/the-um-story-4-mini--51829849"
+    },
+    {
+      "title": "Rock Star vs. Superstar Mode 4 | 1",
+      "published": "2022-01-28",
+      "url": "https://www.spreaker.com/episode/rock-star-vs-superstar-mode-4-1--51829848"
+    },
+    {
+      "title": "The Bob Story, a Tale of Ruinous Empathy 4 | Mini",
+      "published": "2022-01-10",
+      "url": "https://www.spreaker.com/episode/the-bob-story-a-tale-of-ruinous-empathy-4-mini--51829828"
+    },
+    {
+      "title": "How to Choose A Radically Candid Boss 3 | 12",
+      "published": "2021-12-14",
+      "url": "https://www.spreaker.com/episode/how-to-choose-a-radically-candid-boss-3-12--51829819"
+    },
+    {
+      "title": "How to Get Feedback 3 | Mini",
+      "published": "2021-11-29",
+      "url": "https://www.spreaker.com/episode/how-to-get-feedback-3-mini--51829861"
+    },
+    {
+      "title": "Retain Your Team During the Great Resignation 3 | 11",
+      "published": "2021-11-15",
+      "url": "https://www.spreaker.com/episode/retain-your-team-during-the-great-resignation-3-11--51829858"
+    },
+    {
+      "title": "How to Give Feedback 4 | Mini",
+      "published": "2021-11-01",
+      "url": "https://www.spreaker.com/episode/how-to-give-feedback-4-mini--51829820"
+    },
+    {
+      "title": "How to Encourage Feedback Between Others 3 | 10",
+      "published": "2021-10-18",
+      "url": "https://www.spreaker.com/episode/how-to-encourage-feedback-between-others-3-10--51829821"
+    },
+    {
+      "title": "Eliminate the Phrase 'Don't Take It Personally' from Your Vocabulary 3 | Mini",
+      "published": "2021-09-23",
+      "url": "https://www.spreaker.com/episode/eliminate-the-phrase-don-t-take-it-personally-from-your-vocabulary-3-mini--51829846"
+    },
+    {
+      "title": "How to Practice Radical Candor With Your Boss 3 | 9",
+      "published": "2021-09-08",
+      "url": "https://www.spreaker.com/episode/how-to-practice-radical-candor-with-your-boss-3-9--51829860"
+    },
+    {
+      "title": "The Problem With Passion 3 | 8",
+      "published": "2021-08-09",
+      "url": "https://www.spreaker.com/episode/the-problem-with-passion-3-8--51829840"
+    },
+    {
+      "title": "Development Versus Management—The Measurement Problem 3 | 7",
+      "published": "2021-07-08",
+      "url": "https://www.spreaker.com/episode/development-versus-management-the-measurement-problem-3-7--51829829"
+    },
+    {
+      "title": "It's Not Mean, It's Clear 3 | Mini",
+      "published": "2021-06-08",
+      "url": "https://www.spreaker.com/episode/it-s-not-mean-it-s-clear-3-mini--51829855"
+    },
+    {
+      "title": "Practicing Radical Candor In Remote Workplaces 3 | 6",
+      "published": "2021-05-31",
+      "url": "https://www.spreaker.com/episode/practicing-radical-candor-in-remote-workplaces-3-6--51829835"
+    },
+    {
+      "title": "What is Radical Candor? Radical Candor 6-Minute Crash Course 3 | Mini",
+      "published": "2021-05-13",
+      "url": "https://www.spreaker.com/episode/what-is-radical-candor-radical-candor-6-minute-crash-course-3-mini--51829865"
+    },
+    {
+      "title": "Let's Talk About Bullying In Remote Workplaces 3 | 5",
+      "published": "2021-04-28",
+      "url": "https://www.spreaker.com/episode/let-s-talk-about-bullying-in-remote-workplaces-3-5--51829833"
+    },
+    {
+      "title": "Gauge the Feedback You're Giving & Getting 3 | 4",
+      "published": "2021-04-05",
+      "url": "https://www.spreaker.com/episode/gauge-the-feedback-you-re-giving-getting-3-4--51829838"
+    },
+    {
+      "title": "Bias, Prejudice & Bullying at Workplace 3 | 3",
+      "published": "2021-03-09",
+      "url": "https://www.spreaker.com/episode/bias-prejudice-bullying-at-workplace-3-3--51829868"
+    },
+    {
+      "title": "Context Matters — Share Your Radical Candor Stories 3 | 2",
+      "published": "2021-02-25",
+      "url": "https://www.spreaker.com/episode/context-matters-share-your-radical-candor-stories-3-2--51829881"
+    },
+    {
+      "title": "Are You a Quiet or Loud Listener? Listening Lessons from Apple 3 | 1",
+      "published": "2021-02-10",
+      "url": "https://www.spreaker.com/episode/are-you-a-quiet-or-loud-listener-listening-lessons-from-apple-3-1--51829841"
+    },
+    {
+      "title": "Navigating Emotional Reactions at Work 2 | 16",
+      "published": "2020-12-14",
+      "url": "https://www.spreaker.com/episode/navigating-emotional-reactions-at-work-2-16--51829842"
+    },
+    {
+      "title": "What's In It for Me? Weighing Your Peer-to-Peer Feedback Options 2 | 15",
+      "published": "2020-11-16",
+      "url": "https://www.spreaker.com/episode/what-s-in-it-for-me-weighing-your-peer-to-peer-feedback-options-2-15--51829874"
+    },
+    {
+      "title": "Manipulative Insincerity, Talking ABOUT People Instead of TO Them 2 | 14",
+      "published": "2020-10-20",
+      "url": "https://www.spreaker.com/episode/manipulative-insincerity-talking-about-people-instead-of-to-them-2-14--51829875"
+    },
+    {
+      "title": "Intersection of Technology & Human Relations: Radically Candid Conversations 2 |13",
+      "published": "2020-10-06",
+      "url": "https://www.spreaker.com/episode/intersection-of-technology-human-relations-radically-candid-conversations-2-13--51829851"
+    },
+    {
+      "title": "Relationships, Not Power, Drive You Forward 2 | 12",
+      "published": "2020-08-27",
+      "url": "https://www.spreaker.com/episode/relationships-not-power-drive-you-forward-2-12--51829859"
+    },
+    {
+      "title": "Building for Everyone: Radically Candid Conversations 2 | 11",
+      "published": "2020-08-19",
+      "url": "https://www.spreaker.com/episode/building-for-everyone-radically-candid-conversations-2-11--51829845"
+    },
+    {
+      "title": "You Can't Talk to Me That Way 2 | 10",
+      "published": "2020-08-06",
+      "url": "https://www.spreaker.com/episode/you-can-t-talk-to-me-that-way-2-10--51829882"
+    },
+    {
+      "title": "Meet Like A Boss — The 411 On 1:1s 2 | 9",
+      "published": "2020-07-30",
+      "url": "https://www.spreaker.com/episode/meet-like-a-boss-the-411-on-1-1s-2-9--51829864"
+    },
+    {
+      "title": "The Go-To Question 2 | 8",
+      "published": "2020-07-23",
+      "url": "https://www.spreaker.com/episode/the-go-to-question-2-8--51829843"
+    },
+    {
+      "title": "Proactive Forbearance 2 | 7",
+      "published": "2020-07-16",
+      "url": "https://www.spreaker.com/episode/proactive-forbearance-2-7--51829847"
+    },
+    {
+      "title": "Digging In to Toxic Stew 2 | 6",
+      "published": "2020-07-08",
+      "url": "https://www.spreaker.com/episode/digging-in-to-toxic-stew-2-6--51829876"
+    },
+    {
+      "title": "Using Radical Candor to Improve DEI Conversations 2 | 5",
+      "published": "2020-06-26",
+      "url": "https://www.spreaker.com/episode/using-radical-candor-to-improve-dei-conversations-2-5--51829857"
+    },
+    {
+      "title": "Radically Candid Conversations: Anti-Racism 2 | 4",
+      "published": "2020-06-15",
+      "url": "https://www.spreaker.com/episode/radically-candid-conversations-anti-racism-2-4--51829863"
+    },
+    {
+      "title": "Unhappy Cats In a Pond: Challenging Directly During a Crisis 2 | 3",
+      "published": "2020-05-20",
+      "url": "https://www.spreaker.com/episode/unhappy-cats-in-a-pond-challenging-directly-during-a-crisis-2-3--51829885"
+    },
+    {
+      "title": "Zoom Roulette & Other Ways to Check In With Remote Teams 2 | 2",
+      "published": "2020-05-06",
+      "url": "https://www.spreaker.com/episode/zoom-roulette-other-ways-to-check-in-with-remote-teams-2-2--51829852"
+    },
+    {
+      "title": "Leading With Kindness & Clarity During a Crisis 2 | 1",
+      "published": "2020-04-22",
+      "url": "https://www.spreaker.com/episode/leading-with-kindness-clarity-during-a-crisis-2-1--51829866"
+    },
+    {
+      "title": "Can I Give Feedback to Peers? Should I? | 23",
+      "published": "2017-06-06",
+      "url": "https://www.radicalcandor.com/podcast/s1-e23-can-i-give-feedback-to-peers-should-i"
+    },
+    {
+      "title": "It’s About Humans, Not Resources | 22",
+      "published": "2017-05-30",
+      "url": "https://www.radicalcandor.com/podcast/s1-e22-its-about-humans-not-resources"
+    },
+    {
+      "title": "More Time Hiring = Less Time Firing | 21",
+      "published": "2017-05-23",
+      "url": "https://www.radicalcandor.com/podcast/s1-e21-more-time-hiring-equals-less-time-firing"
+    },
+    {
+      "title": "Help! My Boss is an Absentee Manager | 20",
+      "published": "2017-05-16",
+      "url": "https://www.radicalcandor.com/podcast/s1-e20-my-boss-is-an-absentee-manager"
+    },
+    {
+      "title": "Being a Boss Isn’t for Everyone… Including Some Bosses | 19",
+      "published": "2017-05-09",
+      "url": "https://www.radicalcandor.com/podcast/s1-e19-being-a-boss-isnt-for-everyone-including-some-bosses"
+    },
+    {
+      "title": "We Couldn't Decide on a Title for This Episode | 18",
+      "published": "2017-05-02",
+      "url": "https://www.radicalcandor.com/podcast/s1-e18-we-couldnt-decide-on-a-title-for-this-episode"
+    },
+    {
+      "title": "Promotion Schmomotion | 17",
+      "published": "2017-04-25",
+      "url": "https://www.radicalcandor.com/podcast/s1-e17-promotion-schmomotion"
+    },
+    {
+      "title": "Take Feedback Like a Boss | 16",
+      "published": "2017-04-18",
+      "url": "https://www.radicalcandor.com/podcast/s1-e16-take-feedback-like-a-boss"
+    },
+    {
+      "title": "What's Your Body Language Telling Me? | 15",
+      "published": "2017-04-11",
+      "url": "https://www.radicalcandor.com/podcast/s1-e15-whats-your-body-language-telling-me"
+    },
+    {
+      "title": "Guide for New Managers | 14",
+      "published": "2017-04-04",
+      "url": "https://www.radicalcandor.com/podcast/s1-e14-guide-for-new-managers"
+    },
+    {
+      "title": "Help! My Boss is a Micromanager | 13",
+      "published": "2017-03-28",
+      "url": "https://www.radicalcandor.com/podcast/s1-e13-my-boss-is-a-micromanager"
+    },
+    {
+      "title": "Make Meetings Less Awful | 12",
+      "published": "2017-03-21",
+      "url": "https://www.radicalcandor.com/podcast/s1-e12-make-meetings-less-awful"
+    },
+    {
+      "title": "Creating a Culture of Radical Candor | 11",
+      "published": "2017-03-14",
+      "url": "https://www.radicalcandor.com/podcast/s1-e11-creating-a-culture-of-radical-candor"
+    },
+    {
+      "title": "Staying Connected with Remote Teams | 10",
+      "published": "2017-03-07",
+      "url": "https://www.radicalcandor.com/podcast/s1-e10-staying-connected-with-remote-teams"
+    },
+    {
+      "title": "Showing Appreciation Makes Work More Fun | 9",
+      "published": "2017-02-28",
+      "url": "https://www.radicalcandor.com/podcast/s1-e9-showing-appreciation-makes-work-more-fun"
+    },
+    {
+      "title": "How to Give Feedback to Your Boss | 8",
+      "published": "2017-02-21",
+      "url": "https://www.radicalcandor.com/podcast/s1-e8-how-to-give-feedback-to-your-boss"
+    },
+    {
+      "title": "How to Get Feedback from Your Boss | 7",
+      "published": "2017-02-14",
+      "url": "https://www.radicalcandor.com/podcast/s1-e8-how-to-give-feedback-to-your-boss"
+    },
+    {
+      "title": "Telling People What to Do Doesn't Work | 6",
+      "published": "2017-02-07",
+      "url": "https://www.radicalcandor.com/podcast/s1-e6-telling-people-what-to-do-doesnt-work"
+    },
+    {
+      "title": "Career Conversations | 5",
+      "published": "2017-01-31",
+      "url": "https://www.radicalcandor.com/podcast/s1-e5-career-conversations"
+    },
+    {
+      "title": "Ruinous Empathy and Criticism | 4",
+      "published": "2017-01-24",
+      "url": "https://www.radicalcandor.com/podcast/s1-e4-ruinous-empathy-and-criticism"
+    },
+    {
+      "title": "Ruinous Empathy and Praise | 3",
+      "published": "2017-01-17",
+      "url": "https://www.radicalcandor.com/podcast/s1-e3-ruinous-empathy-and-praise"
+    },
+    {
+      "title": "Radically Candid Criticism | 2",
+      "published": "2017-01-10",
+      "url": "https://www.radicalcandor.com/podcast/s1-e2-radically-candid-criticism"
+    },
+    {
+      "title": "What is Radical Candor? | 1",
+      "published": "2017-01-02",
+      "url": "https://www.radicalcandor.com/podcast/s1-e1-what-is-radical-candor"
+    },
+    {
+      "title": "Coming Soon: Radical Candor",
+      "published": "2016-12-20",
+      "url": "https://www.spreaker.com/episode/coming-soon-radical-candor--51829872"
+    }
+  ]
+}

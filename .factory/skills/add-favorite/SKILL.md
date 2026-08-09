@@ -1,6 +1,6 @@
 ---
 name: add-favorite
-description: Add a new link to the favorites JSON collection with verified metadata. Use when adding one or more URLs to content/*.json, including sleuthing published dates, canonical podcast URLs, archive.org alternates, and reusing existing tags.
+description: Add a new link to the favorites JSON collection with verified metadata. Use when adding one or more URLs to content/*.json, including sleuthing published dates, canonical podcast URLs via the committed podcasts/ episode indexes, archive.org alternates, and reusing existing tags.
 ---
 
 # Add a favorite
@@ -33,14 +33,19 @@ Five files: `ai.json`, `business.json`, `engineering.json`, `history.json`, `peo
 
 Published date, in order of preference:
 1. URL path (`stackoverflow.blog/2026/06/26/...`), page byline, or MP3 filename (`career-tools-2024-12-19.mp3`).
-2. Podcast RSS feed `pubDate` (see below).
+2. Podcast RSS feed `pubDate` (see below). For shows in `podcasts/registry.json`, grep the committed episode index instead of downloading the feed.
 3. Web search index date (when the page doesn't render one statically).
 
 Canonical URL for an Apple Podcasts link:
-1. `curl -s "https://itunes.apple.com/lookup?id=<PODCAST_ID>"` returns `feedUrl` (the RSS feed) and the show name/author.
-2. Fetch the RSS feed, find the episode `<item>` by title, read its `<link>` and `<pubDate>`.
-3. Check whether the host publishes episodes on their own site (e.g. The Peterman Pod episodes are canonical on `developing.dev`, not anchor.fm); a web search for `<site> <episode keywords>` confirms. Prefer the author's own site as `url`, matching existing entries from the same show.
-4. Put the original Apple Podcasts URL in `alternate-url`.
+1. **Check the episode index first.** `podcasts/<slug>.json` holds `{title, published, url}` for every episode of each show the collection uses repeatedly (SE Radio, Manager Tools, Lenny's, ELC, Go Time, ILTB, Knowledge Project, YC, Managing Up, Darknet Diaries, Radical Candor, Developing Leadership, Engineering Unblocked). Grep it for title keywords:
+   ```bash
+   jq -r '.episodes[] | select(.title | test("rumelt"; "i"))' podcasts/lennys-podcast.json
+   ```
+   The `canonicalPattern` field shows the site's URL shape; `notes` records quirks (Cloudflare 403s, parked domains, which mirror to prefer). Regenerate with `./update-podcast-indexes.sh` when an episode is newer than the index.
+2. For shows not yet indexed: `curl -s "https://itunes.apple.com/lookup?id=<PODCAST_ID>"` returns `feedUrl` (the RSS feed) and the show name/author. Fetch the RSS feed, find the episode `<item>` by title, read its `<link>` and `<pubDate>`. If the show recurs in the collection, add it to `podcasts/registry.json` and regenerate.
+3. To identify an episode from a bare Apple `?i=<EPISODE_ID>` when the title is unknown, web-search `"i=<EPISODE_ID>"` — the Apple episode page is usually the top hit with title and date.
+4. Check whether the host publishes episodes on their own site (e.g. The Peterman Pod episodes are canonical on `developing.dev`, not anchor.fm); a web search for `<site> <episode keywords>` confirms. Prefer the author's own site as `url`, matching existing entries from the same show.
+5. Put the original Apple Podcasts URL in `alternate-url`.
 
 Archive.org alternate (when the Apple/mirror slot isn't taken):
 `https://archive.org/wayback/available?url=<url-without-scheme>` returns the closest snapshot; use `archived_snapshots.closest.url` as `alternate-url` (https scheme).

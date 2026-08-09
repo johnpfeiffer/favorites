@@ -19,6 +19,16 @@ Since the goal is accumulating and sharing...
 
 <https://github.com/charlax/entrepreneurship-resources>
 
+# Podcast indexes
+
+`podcasts/` holds a registry of the podcasts that recur in this collection (`registry.json`) plus a generated episode index per show (`<slug>.json`: title, published date, canonical URL for every episode). Regenerate after adding new episodes or shows:
+
+```bash
+./update-podcast-indexes.sh
+```
+
+To resolve an Apple Podcasts link to its canonical page, grep the matching show's index instead of re-downloading RSS feeds.
+
 # The app
 
 <https://feneky.com/links> for more advanced features like filtering by tags and whatnot. 🦊

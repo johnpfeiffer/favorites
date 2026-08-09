@@ -1,0 +1,236 @@
+{
+  "show": "Managing Up",
+  "slug": "managing-up",
+  "appleId": 1412411569,
+  "feedUrl": "https://feeds.simplecast.com/GyHPV5ma",
+  "homeUrl": "https://www.managingup.show",
+  "canonicalPattern": "https://www.managingup.show/episodes/<slug>",
+  "episodeCount": 45,
+  "episodes": [
+    {
+      "title": "\"What Am I Even Paid To Do?\" — Ego, Identity, and the AI Reckoning",
+      "published": "2026-05-07",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "What If Meetings… Were Good, Actually?",
+      "published": "2024-01-24",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Moving Past \"Hero Culture\"",
+      "published": "2023-02-15",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Actually Managing Up",
+      "published": "2022-11-16",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "How We've Changed the Way We Manage in the Pandemic, with Estella Gonzalez Madison",
+      "published": "2022-06-13",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Pain, Learning Organizations, and Trainwrecks",
+      "published": "2022-02-16",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Accountability & Trust in a Distributed World",
+      "published": "2022-01-19",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "One on Ones: Beyond the Basics",
+      "published": "2021-09-29",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "\"Marketing\" Your Team as a Manager",
+      "published": "2021-07-07",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Inviting Feedback and Creating Psychological Safety",
+      "published": "2021-06-16",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Is \"Resources\" a Dirty Word?",
+      "published": "2021-04-28",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Just Culture, Blame, and Accountability",
+      "published": "2020-11-11",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "How Much Process Is Enough? How Much Is Too Much?",
+      "published": "2020-10-21",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "The Manager's Calendar",
+      "published": "2020-09-30",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Getting Clarity in Times of Change",
+      "published": "2020-09-09",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Breaking the Cycle of \"Burnout Debt\"",
+      "published": "2020-08-19",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Remote Teams, Coping, and Bringing Your Whole Self to Work",
+      "published": "2020-03-18",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "\"Big Picture Strategists\" vs. \"Tactical Tornadoes\"",
+      "published": "2020-02-20",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Seasonality and Rhythms in Engineering Teams",
+      "published": "2020-01-08",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Creating Self-Managing Teams",
+      "published": "2019-12-23",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Supporting Early-Career Devs and Defining \"Engineer\"",
+      "published": "2019-12-11",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Personality Conflicts and the \"Us vs. Them\" Mindset",
+      "published": "2019-11-27",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Lessons from Captain Haynes",
+      "published": "2019-10-16",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Summer Vacations and Self-Care",
+      "published": "2019-09-19",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Should I Care about \"Manager READMEs\"?",
+      "published": "2019-09-04",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "The Invisible Work of Management",
+      "published": "2019-08-21",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Building Trust with Teams",
+      "published": "2019-07-17",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Performance Reviews: When and How to Use Them",
+      "published": "2019-06-12",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "How Do You Assess Technical Ability in Interviews?",
+      "published": "2019-05-29",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Who's in Charge of Shipping?",
+      "published": "2019-05-13",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Priorities, Impact, and Wrangling the \"Manager's Calendar\"",
+      "published": "2019-04-29",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Working Alongside Product Teams: What We've Learned",
+      "published": "2019-04-08",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "New Manager, Existing Team: Where Do You Start?",
+      "published": "2019-03-19",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "\"Being the Bull\": What to Do When Words Have Weight",
+      "published": "2019-03-04",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Estimation: Where Everything is Made Up and the Points Don't Matter",
+      "published": "2019-02-18",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Overcoming Crappy Leadership and the Illusion of Control",
+      "published": "2019-01-14",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Transitioning into Management with Blithe Rocher",
+      "published": "2019-01-07",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Fearless Politics and Eiffel's Tower",
+      "published": "2018-12-17",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Engineering Ladders and Growing Developers with Sean Massa and Trek Glowacki",
+      "published": "2018-12-03",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "How Technical Should A Manager Be?",
+      "published": "2018-11-20",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "One on Ones: The Basics",
+      "published": "2018-10-30",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "CTO vs. VP Engineering: What's the Difference?",
+      "published": "2018-10-15",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "How do I become a better coach?",
+      "published": "2018-08-27",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "The Manager's Job: Applying Google's 10 Traits",
+      "published": "2018-07-30",
+      "url": "http://www.managingup.show"
+    },
+    {
+      "title": "Measure what Matters: An Intro to OKRs",
+      "published": "2018-07-14",
+      "url": "http://www.managingup.show"
+    }
+  ]
+}

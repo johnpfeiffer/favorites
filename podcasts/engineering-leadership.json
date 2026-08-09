@@ -1,0 +1,1386 @@
+{
+  "show": "The Engineering Leadership Podcast (ELC)",
+  "slug": "engineering-leadership",
+  "appleId": 1481996448,
+  "feedUrl": "https://feeds.simplecast.com/Z8Dl_qAv",
+  "homeUrl": "https://sfelc.com",
+  "canonicalPattern": "https://sfelc.com/podcasts/<slug>",
+  "episodeCount": 275,
+  "episodes": [
+    {
+      "title": "Hiring top-tier talent, the importance of adopting an evolutionary mindset, and taking critical feedback to solve technical problems w/ Sergiy Nesterenko #265",
+      "published": "2026-08-04",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Determining bets, using customer insights to pivot, and gaining developer buy-in & trust w/ Tomas Reimers #264",
+      "published": "2026-07-21",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Utilizing AI internally to iterate faster and empower smaller teams to upskill w/ Vivek Raghunathan #263",
+      "published": "2026-07-07",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The Product Paradigm Shift: How Livekit Navigated High Stakes Scaling Challenges to Build the Future of Voice-First AI Interfaces w/ Russ d’Sa #262",
+      "published": "2026-06-23",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building an empowered career w/ Jean Hsu & Cate Huston #261",
+      "published": "2026-06-10",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Redefining profit, centering human flourishing, and building an incorruptible mission-driven roadmap w/ Eric Ries #260",
+      "published": "2026-05-26",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Affirm’s AI-native transformation & how it’s driving operational excellence w/ Geddes Munson #259",
+      "published": "2026-05-19",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building reliable and proactive agentic systems at scale: how Shopify’s reflexive AI culture was instrumental in their development of Sidekick w/ Andrew McNamara #258",
+      "published": "2026-05-12",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "How the R&D Org at Twilio Drives Business Strategy and Transformation w/ Inbal Shani #257",
+      "published": "2026-05-05",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Scaling TensorFlow, Navigating Startup Pivots, ML Edge Infrastructure and AI Inference Strategy w/ Rajat Monga #256",
+      "published": "2026-04-28",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "How Enterprises Actually Win with AI: Operationalizing Responsible AI, Engineering Guardrails, Trust Controls, and Systems Thinking at Scale w/ Murali Swaminathan #255",
+      "published": "2026-04-21",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Shifting Eng Leaders to Think Like GMs, Building an AI-Driven Visionary Roadmap & Braze’s Product Health Initiative w/ Jon Hyman #254",
+      "published": "2026-04-07",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Leading effectively across company archetypes: product, business and design-led leadership w/ Sebastiano Armeli #253",
+      "published": "2026-03-31",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Changes in engineering management craft, career growth and all hands demos for inspiration and context w/ Lindsey Simon #252",
+      "published": "2026-03-24",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Career growth for engineering leaders in the AI era: Building your thesis, the “running framework” & developing technical depth w/ Chris Chiu #251",
+      "published": "2026-03-19",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "How OpenAI’s engineering org is reshaping teams, roles and workflows w/ Sulman Choudhry #250",
+      "published": "2026-03-10",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The innovation engine behind Samsara driving real-world impact: compounding feedback loops, data flywheels and embedding engineers in customer problems w/ Kiren Sekar #249",
+      "published": "2026-02-17",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Why founders should invest in coaching, communication & leadership mechanisms before you scale w/ James Birchler #248",
+      "published": "2026-02-10",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Cultivating product thinking, cross-functional leadership & the future of AI agent infrastructure w/ Jaikumar Ganesh #247",
+      "published": "2026-02-05",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Scaling from point solutions to a unified, AI-powered product ecosystem w/ Vineeta Puranik #246",
+      "published": "2026-01-27",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "From localized to systematic speed: How Spotify deploys AI in prototyping, strategy & maintenance w/ Tyson Singer #245",
+      "published": "2026-01-21",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Inside ELC’s 1st Hackathon: Deconstructing the operational playbook, implementation lessons & future of the program w/ James Tyack #244",
+      "published": "2026-01-13",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "What is leadership in the AI Era? w/ Bill Coughran & Bret Reckard #243",
+      "published": "2026-01-06",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "From Research Lab to Record-Breaking Product: How OpenAI Engineered for Unprecedented Scale w/ Sulman Choudhry, Samir Ahmed & Lawrence Bruhmeller #242",
+      "published": "2025-12-30",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The AI Distribution Shift, Navigating PMF Collapse & Building AI-Native EPD Systems w/ Brian Balfour #241",
+      "published": "2025-12-23",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "How Atlassian built Rovo in 6 months: systematizing developer joy, autonomy/ownership, productivity champions & reducing ship time w/ Rajeev Rajan #240",
+      "published": "2025-12-17",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "From developer to builder/system designer, managing AI agents like team members & monday.com’s evolving R&D playbook w/ Daniel Lereya #239",
+      "published": "2025-12-09",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Beyond Replication: Building Non-Human Intelligence Through Physical AI w/ Jaime Lien & Rashi Agrawal #238",
+      "published": "2025-12-04",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Specs as the new source of truth, synthetic data as the next wave of defensibility, product vision & decision making frameworks w/ Ruslan Belkin #237",
+      "published": "2025-11-20",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Brex 3.0: An 18-Month Operational Evolution & the Brex Hacker House “AI Startup within a Startup\" experiment w/ James Reggio #236",
+      "published": "2025-11-12",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The Impossible Job of Managers, Leadership Co-Pilots, Scaling Great Management & Augmenting Human Relationships w/ Jonathan Raymond #235",
+      "published": "2025-11-05",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "A Systems-Level Guide to High-ROI AI Impact w/ Laura Tacho #234",
+      "published": "2025-10-29",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Platform Engineering's Shift from Tactical 'How' to Strategic Curator & Natural Language as the New Interface Paradigm w/ Miriam Aguirre #233",
+      "published": "2025-10-21",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Grit, the vision bottleneck & building for a future where today’s technical constraints may disappear w/ Chrystal Henke Ball #232",
+      "published": "2025-10-15",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Leading across technical domains, strategic deep-dives & applying your skills in new industries w/ Simone Kalmakis #231",
+      "published": "2025-09-09",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "How Box Builds AI Agents, Redefines Technical Vision, and Balances Speed with Security w/ Ben Kus #230",
+      "published": "2025-08-26",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Rewriting the Engineering Leadership Playbook: An ELC Annual 2025 Preview #229",
+      "published": "2025-08-19",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The End-to-End Engineer: How WorkOS Collapsed the Talent Stack for High-Velocity Execution, Ownership & Better Product Decisions w/ Michael Grinich",
+      "published": "2025-08-05",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Influencing without authority: What every engineering leader can learn from security w/ Srinath Kuruvadi #227",
+      "published": "2025-07-22",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Vision-first leadership & reimagining product w/ “Shift Out,” Do-It-as-a-Service & Jobs-to-Be-Done w/ John Amaral #226",
+      "published": "2025-07-08",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Quick Summer Break! Join us @ ELC Annual 2025 (Early Bird Tickets End Soon)",
+      "published": "2025-07-01",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Scaling decision-making, designing eng orgs for speed & scope as underrated leverage w/ Dhruv Parthasarathy #225",
+      "published": "2025-06-25",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The evolving velocity playbook, building product taste & exceptional product experiences in the AI era w/ Loïc Houssier #224",
+      "published": "2025-06-17",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Rapid Prototyping, Lightning Pods & the End of PRDs: Redefining product development & EPD in the age of AI w/ Nissim Lehyani #223",
+      "published": "2025-06-10",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "No New Episode - But We Launched Something New... Introducing the ELC Forum!",
+      "published": "2025-06-03",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "From architect to AI exec: Scaling leadership, maintaining credibility & effective communication to non-technical execs w/ Prashant Ramarao #222",
+      "published": "2025-05-27",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The Startup Epoch: Rethinking Company Building & Defensibility in an AI World w/ Craig McLuckie #221",
+      "published": "2025-05-20",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "AMD’s unified hardware + software strategy & building an open-source AI ecosystem w/ Anush Elangovan #220",
+      "published": "2025-05-13",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Lessons Leading EPD: Mindset, decision-making, 80/20 product strategy & pivoting for leverage/speed w/ Farnaz Azmoodeh #219",
+      "published": "2025-05-06",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Empowering Teams & Cultivating True Ownership in Engineering Orgs w/ Wade Chambers #218",
+      "published": "2025-04-29",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building partnerships w/ complex stakeholders, aligning tech debt w/ business value & decisive vs. thoughtful decision-making #217",
+      "published": "2025-04-22",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Recalibrating leadership priorities, leveraging your time & empowering senior leaders w/ Vinod Marur #216",
+      "published": "2025-04-15",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "From early days to IPO: Scaling leadership, enterprise growth, product ownership, & outgrowing your failure modes w/ Jon Hyman #215",
+      "published": "2025-04-08",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Essential questions & leadership principles to navigate change, fear & uncertainty w/ Rukmini Reddy #214",
+      "published": "2025-04-01",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building platforms, ecosystems & open-source communities: Lessons from Viam & MongoDB w/ Eliot Horowitz @ Viam #213",
+      "published": "2025-03-25",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Leading transformation, inspiring vision & empowering teams to operate autonomously w/ Kevin Stewart #212",
+      "published": "2025-03-18",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Accelerating & upskilling your AI learning journey w/ Maher Hanafi #211",
+      "published": "2025-03-11",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Data governance, adversarial testing & more - Essential strategies to scale AI responsibly in a shifting regulatory environment w/ Jim Palmer #210",
+      "published": "2025-03-04",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Capturing & synthesizing unbiased insights from users, your open source community & yourself w/ James Campbell #209",
+      "published": "2025-02-25",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Upskilling: practices to improve hiring, storytelling & structuring personal/leadership problems with engineering principles #208",
+      "published": "2025-02-18",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "GTM Insights from Top DevTool companies w/ David Mytton #207",
+      "published": "2025-02-11",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Navigating Rapid Change: Skills to Cultivate Resilience, Adaptability & Creativity in Engineering Teams w/ Melody Meckfessel #206",
+      "published": "2025-02-04",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building Trust: Strategic humor, bridging communication gaps & enabling your team to do more #205",
+      "published": "2025-01-28",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Faster iteration & execution: Insights from Google Workspace’s AI product experience journey w/ Anurag Agarwal #204",
+      "published": "2025-01-23",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Winning Hearts & Minds: Effective Strategies for Leading Through Change from IC to EM, post M&A and more w/ Kathryn Vandiver #203",
+      "published": "2025-01-14",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The four modes of coaching & navigating career growth in expanding or contracting companies w/ James Birchler #202",
+      "published": "2025-01-07",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Unleashing potential in your employees & strategies to grow leadership skills in your org w/ Natalie Glance #201",
+      "published": "2024-12-17",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building an AI-first company & interactive AI avatar leadership use-cases w/ Rong Yan #200",
+      "published": "2024-12-10",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Re-defining & elevating engineering’s strategic role with the business w/ Rajashree Pimpalkhare #199",
+      "published": "2024-12-05",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "How engineering leaders can better drive business outcomes & increase alignment between product and engineering w/ Gokul Rajaram #198",
+      "published": "2024-11-26",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "From VPE to CTO - mission-aligned teams, prioritizing company over department outcomes & the power of a “not do” list w/ Ryan Fox #197",
+      "published": "2024-11-19",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Leading change, navigating career growth & finding inspiration beyond engineering - Live from ELC Annual 2024! #196",
+      "published": "2024-11-12",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Career growth in today’s market + effective partnerships between engineering & hiring partners - Live from ELC Annual 2024 #195",
+      "published": "2024-11-05",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Selling your ideas, leveraging curiosity in tough conversations, managing emotions & psychological safety - Live from ELC Annual 2024! #194",
+      "published": "2024-10-30",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Collaboration & Innovation in the Time of AI w/ Anurag Agarwal & Lizzie Matusov #193",
+      "published": "2024-10-24",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Collaborative Teams Are More Productive Teams w/ Marcel Weekes & Arquay Harris #192",
+      "published": "2024-10-15",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Scaling AI for an Immersive 3D Platform with 77 Million Daily Active Users w/ Anupam Singh & Maria Kazandjieva #191",
+      "published": "2024-10-09",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Podcast Break for ELC Annual 2024!",
+      "published": "2024-08-15",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Connecting bugs & quality to the business bottom line w/ Dave Rhodes #190",
+      "published": "2024-08-06",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Live from Config 2024! Product-building, leadership & execution lessons behind the launch of Figma’s Dev Mode w/ Marcel Weekes #189",
+      "published": "2024-07-30",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Tackling All Top 10 Engineering Leadership Challenges w/ Farhan Thawar #188",
+      "published": "2024-07-23",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Strategic Thinking, Org Design & Aligning Engineering & Business Goals - Tackling the Top 10 Eng Leadership Challenges! #187",
+      "published": "2024-07-16",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Speed v. Quality, Measuring Productivity & Cross-Functional Relationships - Tackling the Top 10 Eng Leadership Challenges! #186",
+      "published": "2024-07-09",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Coaching, Influencing, Motivating & Managing Up - Tackling the Top 10 Engineering Leadership Challenges! #185",
+      "published": "2024-07-02",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The Top 10 Challenges Engineering Leaders Face: A Sneak Peak",
+      "published": "2024-06-25",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building scalable hiring processes & systems promoting operational excellence w/ Stephen Poletto #184",
+      "published": "2024-06-18",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Conscious Career Growth w/ Wade Chambers #183",
+      "published": "2024-06-11",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Why Engineering Needs a Seat at the Negotiating Table with Melody Hildebrandt #182",
+      "published": "2024-06-04",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Working backward from winning & preparing for future tech innovation w/ Evan Welbourne #181",
+      "published": "2024-05-28",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Inside ELC Annual 2024: 2 days to recharge, reconnect & empower your growth #180",
+      "published": "2024-05-21",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Effective impromptu communication & harnessing team topologies w/ Lakshmi Baskaran #179",
+      "published": "2024-05-14",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Balancing technical depth & high-level business strategy w/ Oded Kedem #178",
+      "published": "2024-05-07",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Harnessing Professional Strategies & Tech Performance Tools for Personal Growth w/ Chris Cravens #177",
+      "published": "2024-04-30",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Cold outreach & strategically expanding your business model into services w/ Jon Perl & Scott Wilson @ QA Wolf #176",
+      "published": "2024-04-23",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building & leading a combined engineering & security org w/ Mike Hanley #175",
+      "published": "2024-04-16",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Adaptability in engineering orgs: how management systems, executive priorities & career transitions evolve w/ Cosmin Nicolaescu #174",
+      "published": "2024-04-09",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "“The Third Act” & exploring career paths beyond operational roles w/ Nidhi Gupta #173",
+      "published": "2024-04-02",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Healthy Tension: GTM & Product/Eng Collaboration at Hundreds of Millions ARR Scale w/ Tido Carriero & Joe Morrissey #172",
+      "published": "2024-03-26",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Driving innovation at large-scale orgs, translating leadership skills to successfully scale early-stage startups w/ Jeremy Burton #171",
+      "published": "2024-03-19",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Pivotal Leadership Moments & Career Decision-Making w/ Thuan Pham & Li Fan #170",
+      "published": "2024-03-12",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The Disciplined Pursuit of Less: Using AI and Design to Maximize Customer Impact w/ Dheeraj Pandey #169",
+      "published": "2024-03-05",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "AI ethics/safety, applying AI to address societal challenges & becoming a board member w/ Lake Dai #168",
+      "published": "2024-02-27",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Software Dev in 2033 w/ Tara Hernandez, Erik Meijer, and Jocelyn Goldfein #167",
+      "published": "2024-02-20",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Career visualization, creating a pre-transition thesis & expanding your leadership to lead an entire business unit w/ Prashanthi Padmanabhan #166",
+      "published": "2024-02-13",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Reinforcing consensus-driven culture, deploying the “inverse Conway maneuver” & the unique principles behind Two Sigma’s engineering culture w/ Matt Greenwood #165",
+      "published": "2024-02-06",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Unlocking Empowered, Self-Sufficient Teams: A Deep Dive into 'First Team' Strategies w/ Monica Bajaj #164",
+      "published": "2024-01-30",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building a culture of experimentation & innovation at massive scale w/ Kristian Lindwall, Pooja Dave & Mark Grey @ Spotify #163",
+      "published": "2024-01-22",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Move beyond measurement & inspire developer productivity w/ Laura Tacho #162",
+      "published": "2024-01-16",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Navigating 2024: Engineering management principles to tackle the unknowns & challenges ahead w/ Andrew Lau #161",
+      "published": "2024-01-09",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building data engineering teams from scratch & transitioning to a full-scale data function w/ Colleen Tartow #160",
+      "published": "2023-12-19",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Organizing eng by strategic themes / complete units of value & consensus building to drive velocity w/ Emad Elwany #159",
+      "published": "2023-12-12",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Rapidly operating early-stage engineering at global scale, mapping eng workflows to personas & pivoting pricing / business models w/ Scott Woody #158",
+      "published": "2023-12-05",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Becoming a great coach: Practices & principles to help you make a bigger impact on your teams w/ Jill Wetzler #157",
+      "published": "2023-11-30",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Closing Executive Leadership Skill Gaps: A Portfolio Approach to Career Growth w/ Kathleen Vignos #156",
+      "published": "2023-11-21",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Scaling yourself ‘down’ as an engineering leader w/ James Everingham #155",
+      "published": "2023-11-14",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Navigating complex stakeholders, competing interests & gaining buy-in w/ Pete Peterson #154",
+      "published": "2023-11-07",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Self-advocacy & how to coach your team to be better self-advocates w/ Shailvi Wakhlu #153",
+      "published": "2023-10-31",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Using GenAI to address cross-functional collaboration challenges & enhance engineering leadership w/ Clemens Mewald #152",
+      "published": "2023-10-24",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building teams and culture to navigate catastrophe w/ Ken Pickering #151",
+      "published": "2023-10-17",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Strategies for creating efficient orgs & getting the most out of your eng team w/ Jamie Tischart #150",
+      "published": "2023-10-10",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Reduce friction & create better alignment between product & engineering w/ Hubert Palan #149",
+      "published": "2023-10-05",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Operating in a high-stakes, high-scale environment & implementing “secure by design” w/ Bhawna Singh #148",
+      "published": "2023-10-03",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Navigating conflict in large-scale orgs w/ competing priorities w/ Ritu Bhargava #147",
+      "published": "2023-09-19",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building your security team & tool stack w/ Laura Bell Main #146",
+      "published": "2023-08-22",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Becoming a better strategic contributor & business leader w/ Jessica McKellar #145",
+      "published": "2023-08-17",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Make Great Decisions Quickly, the Unscary Way w/ Alamelu Radhakrishnan #144",
+      "published": "2023-08-10",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Growth Through Transitions w/ Prachi Gupta and Chris Chiu #143",
+      "published": "2023-08-08",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Turn Your Career into a Rocket w/ Oksana Kubushyna #142",
+      "published": "2023-08-03",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Making the Transition from Large to Smaller Companies w/ Vinod Marur & Ali Irturk #141",
+      "published": "2023-08-01",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "How Businesses, Creators, and Researchers are Building the “Generative Generation\" w/ Mira Murati, Naveen Gavini & Vijay Karunamurthy #140",
+      "published": "2023-07-28",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Compassionate accountability & accepting conflict w/ Marc Lesser #139",
+      "published": "2023-07-25",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Leveraging your values as first-principles to shape strategy & decision making in your eng org w/ Ludo Antonov #138",
+      "published": "2023-07-19",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The Surprising Power of Remote Work: Higher Trust Teams w/ Sarah Milstein #137",
+      "published": "2023-07-11",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Summer Break 2023 - Back Next Week!",
+      "published": "2023-07-04",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Career adaptation & meeting the evolving needs of your company w/ Barbara Nelson #136",
+      "published": "2023-06-27",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Rapid prototyping & developing your product instinct w/ David Crawshaw #135",
+      "published": "2023-06-20",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Leading beyond domain expertise & laying early-stage security program foundations w/ Matt Spitz #134",
+      "published": "2023-06-13",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Becoming a more strategic contributor, becoming resilient against AI, & enduring economic downturns w/ Han Yuan #133",
+      "published": "2023-06-06",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The next evolution to measure & improve developer productivity & experience w/ Abi Noda #132",
+      "published": "2023-05-30",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Redefining success and incorporating relational healing practices into eng leadership & product development w/ Tammarrian Rogers #131",
+      "published": "2023-05-23",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Maximizing the shift to engineering efficiency w/ Alamelu Radhakrishnan #130",
+      "published": "2023-05-16",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Community insights from our Pop-Up Podcast Booth at ELC Annual! #129",
+      "published": "2023-05-10",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Adopting a GM mindset & building a resilient business w/ Sandeep Chennakeshu #128",
+      "published": "2023-05-02",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Navigating the Acquisition Journey: Insights on Transparent Communication, Team Integration, and Strategic / Operational Shifts w/ Johnny Ray Austin #127",
+      "published": "2023-04-25",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Eng Founder’s Takeover: Navigating the new fundraising environment, idea-mazing and overcoming pattern-matching bias w/ Lizzie Matusov #126",
+      "published": "2023-04-18",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Maximizing R&D spend, engineering efficiency & the journey from eng to operations w/ Madalina Tanasie #125",
+      "published": "2023-04-11",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Navigating Multi-Product Expansion: Leadership & Career Insights from Figma’s CTO, Kris Rasmussen #124",
+      "published": "2023-04-04",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Rippling's Response to the SVB Collapse: A Story of Leadership, Crisis Management, Clarity and Communication w/ Albert Strasheim #123",
+      "published": "2023-03-28",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Cost-effective scaling & engineering efficiency w/ Shailesh Kumar #122",
+      "published": "2023-03-21",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Org specialization dilemmas & operating in regulatory environments w/ Kenny Shin #121",
+      "published": "2023-03-14",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Resource advocacy, frameworks for saying yes / no, & removing critical points of failure w/ Megan Kacholia #120",
+      "published": "2023-03-07",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Gaining cross-functional leadership at large & small scale companies & investing in org maturity w/ Bhavini Soneji #119",
+      "published": "2023-02-28",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building platforms vs. products & leveraging OODA loops in leadership w/ Oksana Kubushyna #118",
+      "published": "2023-02-21",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Increasing capacity to win in an economic downturn, cultivating a founder’s mindset & product ownership in engineering w/ Shadi Rostami #117",
+      "published": "2023-02-14",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Resilience engineering, learning from incidents and unintuitive perspectives on incident analysis w/ John Allspaw #116",
+      "published": "2023-02-07",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Leading through an economic downturn & bridging the gap between engineering & business w/ Ryan Graciano #115",
+      "published": "2023-01-31",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Making Bold Decisions and Taking Risks in Your Career w/ Annie Cheng, Claire Hough, Lisa Gelobter & Arezoo Riahi #114",
+      "published": "2023-01-24",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Becoming A Force Multiplier w/ Cal Henderson & Maria Kazandjieva #113",
+      "published": "2023-01-17",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Lessons on being deliberate w/ Megan Kacholia #112",
+      "published": "2023-01-10",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "How to do an effective re-org w/ Aaron Erickson & Mike Tria #111",
+      "published": "2023-01-03",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Engineering Founder’s Takeover: Top-down / Bottoms-up sales strategy, pricing, and enterprise product adoption w/ Abi Noda #110",
+      "published": "2022-12-20",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Authentic networking, community building, and digital transformation w/ Yvette Pasqua #109",
+      "published": "2022-12-13",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building a startup-within-a-startup w/ Heidi Williams #108",
+      "published": "2022-12-06",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Sustaining multi-phase, long-term tech transformation w/ Paul Dix #107",
+      "published": "2022-11-29",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building self-sufficient teams and operating in constrained funding environments w/ Elaine Zhou #106",
+      "published": "2022-11-22",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Scaling your leadership 10x in 6 years and leading outside your technical depth w/ Claus Moberg #105",
+      "published": "2022-11-15",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "We'll be back releasing new episodes on 11/15",
+      "published": "2022-11-03",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Leading across different orders of magnitude & high-leverage communication with Kit Colbert #104",
+      "published": "2022-10-19",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Reinventing your role and refocusing your team in the face of the unknown w/ Maher Saba #103",
+      "published": "2022-10-12",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Optimizing the product trio w/ Saumya Bhatnagar #102",
+      "published": "2022-10-05",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Customer narratives, business fluency & investing in developer experience w/ Marco Argenti #101",
+      "published": "2022-09-27",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Celebrating 100 episodes - our favorite moments from the Engineering Leadership Podcast so far",
+      "published": "2022-09-20",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Scaling your leadership to 3x exec roles and transforming your values, systems & habits w/ Vinay Hiremath CTO @ Loom",
+      "published": "2022-09-13",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Unconscious patterns of human behavior that hold us back w/ Luther Kitahata #98",
+      "published": "2022-09-06",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The cost of “aspirational mismatches” (and how to avoid them) w/ Lisa Dusseault #97",
+      "published": "2022-08-30",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Back in 2 Weeks! Patrick’s Getting Married",
+      "published": "2022-08-16",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Making intentional career decisions w/ Ali Littman & Ali Irturk #96",
+      "published": "2022-08-09",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Leading through ‘black swan’ events & pivoting AI/ML product strategy w/ Bridget Frey #95",
+      "published": "2022-08-02",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "“Cloud-flation” & preventing runaway cloud costs w/ Leon Kuperman @ Cast.ai #94",
+      "published": "2022-07-26",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building your data engineering org w/ Taylor Murphy @ Meltano #93",
+      "published": "2022-07-19",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Growth & mobile engineering post-strategic transformation w/ Atish Das Sarma & Shannon Ma @ Patreon #92",
+      "published": "2022-07-12",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Eliminating hierarchy, going direct & removing team friction w/ Greg Czajkowski #91",
+      "published": "2022-07-05",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Alignment is the key to delivering great products & outcomes w/ Jonathon Hensley #90",
+      "published": "2022-06-28",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Operational & Organizational Innovation w/ Zhichun Li #89",
+      "published": "2022-06-21",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "From IC to global leadership: career growth as a Technical Advisor w/ William A. Adams #88",
+      "published": "2022-06-14",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Culture & self-compassion w/ Kevin Eyres #87",
+      "published": "2022-06-07",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Storytelling and the Art of Public Speaking w/ Arquay Harris #86",
+      "published": "2022-05-31",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Mindsets, Skillsets, and Toolsets w/ Sri Shivananda & Joel Beasley #85",
+      "published": "2022-05-24",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Engineering Execution is a Strategic Weapon w/ Bill Coughran & Melody Meckfessel #84",
+      "published": "2022-05-17",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building Your Digital Technology Org from the Ground-Up w/ Anshu Narula & Khawaja Shams #83",
+      "published": "2022-05-10",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The Evolution of a CTO: How Your Leadership Can Change through Hypergrowth w/ Ryan King & Clarence Chio #82",
+      "published": "2022-05-03",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "SPECIAL: Pre-seed fundraising, pitching investors & dealing with rejection w/ Aaron Erickson & Brian Guthrie #81",
+      "published": "2022-04-26",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Special *LIVE* preview of the 2022 ELC Virtual Summit & community-led round tables #80",
+      "published": "2022-04-12",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Translating engineering to the CEO w/ Andrew Lau and Eli Daniel",
+      "published": "2022-04-05",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Group coaching, team accountability & ‘next-level’ goals with Joy Dixon #78",
+      "published": "2022-03-29",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "How eng orgs (and careers) evolve through hyper-growth w/ Samir Naik #77",
+      "published": "2022-03-22",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Hypergrowth, Scaling & Org Design w/ Surabhi Gupta #76",
+      "published": "2022-03-15",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "A Counter-Intuitive Approach to Career Growth & Internal Mobility w/ Tara Ellis #75",
+      "published": "2022-03-09",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Conflict Optimization with Jordan Adler #74",
+      "published": "2022-03-01",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Belonging, Retention, & Human-Centered Leadership with Lucius DiPhillips #73",
+      "published": "2022-02-22",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Why Engineering Needs a Seat at the Negotiating Table with Melody Hildebrandt #72",
+      "published": "2022-02-15",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "“Finding Flow” in Engineering Leadership with Rob Zuber #71",
+      "published": "2022-02-08",
+      "url": "https://sfelc.com/podcasts/finding-flow-in-engineering-leadership-rob-zuber-cto-circleci"
+    },
+    {
+      "title": "AI/ML Start-up Trends with Anna Patterson #70",
+      "published": "2022-02-01",
+      "url": "https://sfelc.com/podcasts/aiml-start-up-trends-anna-patterson-gradient-ventures"
+    },
+    {
+      "title": "Surprising Lessons from Sales with Maulie Dass #69",
+      "published": "2022-01-25",
+      "url": "https://sfelc.com/podcasts/surprising-lessons-from-sales-maulie-dass"
+    },
+    {
+      "title": "Transitioning to Crypto with Lewis Tuff, VPE @ Blockchain.com #68",
+      "published": "2022-01-18",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building Inclusive Products with Jeremy King #67",
+      "published": "2022-01-11",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Addressing Burnout in Your Engineering Org with Erica Lockheimer, Sabry Tozin & Lori Allen #66",
+      "published": "2022-01-04",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Trailer: Our 2022 Season Launches Next Week!",
+      "published": "2021-12-28",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building Autonomous Teams & Engineering Career Ladders with Sri Viswanath #65",
+      "published": "2021-10-12",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The Impact of Mentoring & Paying It Forward with Li Fan #64",
+      "published": "2021-10-05",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "BONUS: Building Your AI Organization with Maia Brenner",
+      "published": "2021-10-05",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Speed vs. Quality with Richard Wong #63",
+      "published": "2021-09-28",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Changing Priorities & Making Massive Engineering Pivots with Vivian Shen #62",
+      "published": "2021-09-21",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The “Energy Audit,” Reclaiming Your Time, & Increasing Ownership with Brad Henrickson #61",
+      "published": "2021-09-14",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Debate! Flat vs. Hierarchical Organizations w/ Farhan Thawar & Jerry Krikheli #60",
+      "published": "2021-09-07",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Lessons on Hyper-Growth & Scaling w/ David Singleton & Bill Coughran #59",
+      "published": "2021-08-31",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Build or Buy: Scaling Through Acquisitions & Ownership w/ Marianna Tessel & Aileen Lee #58",
+      "published": "2021-08-24",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "BONUS: Internal mobility, mission-driven decisions, & self-service infrastructure w/ Guillermo Fisher",
+      "published": "2021-08-24",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Productivity Practices to Scale Your Time & Mind w/ Ashton Kutcher & Ryan Petersen #57",
+      "published": "2021-08-17",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Strategies for Closing Engineering Candidates with Darian Shimy #56",
+      "published": "2021-08-12",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Technical Interview Tips for Effective Communication w/ Lusen Mendel & Rohit Grover #55",
+      "published": "2021-08-11",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Strategies to Tend, Feed & Grow your Professional Network w/ Dan Portillo & Jim Cook #54",
+      "published": "2021-08-10",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Compensation Mindset & Strategy with Thanh Nguyen & Cyrus F #53",
+      "published": "2021-08-03",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Attracting Top Talent & Engineering Branding w/ Cosmin Nicolaescu, Kris Rasmussen, Brad Henrickson & Sam Wholley #52",
+      "published": "2021-08-03",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building a Diverse Hiring Pipeline with Ragini Holloway & Gabe Westmaas #51",
+      "published": "2021-07-27",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Optimizing & Scaling Your Hiring Process w/ Vinithra Varadharajan, Cat Miller & Keng He #50",
+      "published": "2021-07-27",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Sourcing Engineering Candidates in a Remote World w/ Kah Seng Tay, Shauna Geraghty & Mike Pinkowish #49",
+      "published": "2021-07-20",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The State of Hiring w/ Maia Josebachvili, Bret Reckard & Erica Lockheimer #48",
+      "published": "2021-07-20",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building technology that endures with Melissa Binde #47",
+      "published": "2021-07-13",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Becoming a site lead, bootstrapping new teams & re-thinking vacation in a pandemic w/ Sarah Clatterbuck #46",
+      "published": "2021-07-06",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Non-Incremental Career Transitions with Asif Makhani #45",
+      "published": "2021-06-29",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "“Just Work” with Kim Scott & Trier Bryant #44",
+      "published": "2021-06-08",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Managing Up with Jan Chong #43",
+      "published": "2021-06-01",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Reflections on Incidents & Resilience with Nick Rockwell #42",
+      "published": "2021-05-25",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Bridging the Gender Gap with Christina Wick #41",
+      "published": "2021-05-18",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Unlock Developer Productivity AND Happiness with Allan Leinwand #40",
+      "published": "2021-05-11",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Get Your Career Unstuck with Quentin Clark #39",
+      "published": "2021-05-04",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Align & Scale Engineering AND Product with Jeremy Henrickson #38",
+      "published": "2021-04-27",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Navigate Career Pivots with John Kim #37",
+      "published": "2021-04-20",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Superpowers, Psychological Safety & Empowering Your Team with Tia Caldwell #36",
+      "published": "2021-04-13",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Parallel Engineering Paths, Culture Building & Co-Founding (part 2) with Viraj Mody & Tom Kleinpeter #35",
+      "published": "2021-04-06",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Parallel Engineering Paths, Culture Building & Co-Founding (part 1) with Viraj Mody & Tom Kleinpeter #34",
+      "published": "2021-03-30",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Build Your Personal Board of Directors with Harpaul Sambhi Founder & CEO @ Magical #33",
+      "published": "2021-03-23",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Ask Powerful Questions with Alexis Rask, Executive Coach & Partner @ Sweat Equity Ventures #32",
+      "published": "2021-03-16",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "How to Lead Large Scale Projects with Wendy Shepperd GVP Engineering @ New Relic #31",
+      "published": "2021-03-09",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Spend Time On What Matters with Will Larson CTO @ Calm #30",
+      "published": "2021-03-02",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Remove Fear of Failure From Your Org with Edward Kim Co-Founder & CTO @ Gusto #29",
+      "published": "2021-02-23",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "\"The Imperfect Path\" with Erica Lockheimer VPE, LinkedIn Learning @ LinkedIn #28",
+      "published": "2020-09-28",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Leading AI/ML Teams with Craig Martell Head of LyftML @ Lyft #27",
+      "published": "2020-09-20",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Give Up Control and Expand Your Impact with Maria Latushkin CTO @ Omada Health #26",
+      "published": "2020-09-13",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Growing Into a VPE - Patterns & Anti-Patterns ft. Cathy Polinsky, Jerry Krikheli, Richard Wong, Erica Lockheimer & Claire Lew #25",
+      "published": "2020-09-06",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "*Bonus* Optimizing Productivity for Remote Engineering Teams with Doug Gaff, VPE @ Zapier & Emma Tang, EM @ Stripe #24",
+      "published": "2020-08-30",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Optimizing Productivity for Remote Engineering Teams with Doug Gaff, VPE @ Zapier & Emma Tang, EM @ Stripe #23",
+      "published": "2020-08-30",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "How to Become a Startup VPE with Martin Casado, General Partner @ Andreessen Horowitz & Sonal Chokshi, Editor in Chief @ Andreessen Horowitz #22",
+      "published": "2020-08-27",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Conscious Career Growth (part 2) with Wade Chambers, CTO & SVP of Engineering @ Grand Rounds #21",
+      "published": "2020-08-16",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Conscious Career Growth (part 1) with Wade Chambers, CTO & SVP of Engineering @ Grand Rounds #20",
+      "published": "2020-08-10",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Operationalizing Values and Principles with Andrew Fong, VP of Infrastructure @ Dropbox #19",
+      "published": "2020-08-02",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building a Successfully \"Spiky\" Org (Part 2), with Jean-Denis Greze, Head of Engineering @ Plaid #18",
+      "published": "2020-07-26",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Building a Successfully \"Spiky\" Org (Part 1), with Jean-Denis Greze, Head of Engineering @ Plaid #17",
+      "published": "2020-07-16",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The Value of Being Direct with Eisar Lipkovitz, EVP of Engineering @ Lyft #16",
+      "published": "2020-07-09",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Operating under High Pressure with Vidhya Srinivasan, VP/GM @ Google Ads #15",
+      "published": "2020-07-02",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Part 2 - Coaching, Delegation and Trust with Darian Shimy, Engineering Lead @ Square #14",
+      "published": "2020-06-25",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Part 1 - Coaching, Delegation and Trust with Darian Shimy, Engineering Lead @ Square #13",
+      "published": "2020-06-18",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Leading Through Uncertainty with David Silverman #12",
+      "published": "2020-05-22",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Managing Remotely: How to Give Critical Feedback Effectively with Jonathan Raymond #11",
+      "published": "2020-05-14",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Speed & Creativity in Recruiting with Farhan Thawar, VP Engineering @ Shopify #10",
+      "published": "2020-05-08",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Technology, Leadership, & Opportunity with Max Levchin, former CTO @ PayPal & Ben Jun, CEO @ HVF Labs #9",
+      "published": "2020-04-28",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The Role of Engineering Leaders in Recruiting with Aditya Agarwal former CTO @ Dropbox & Dan Portillo Talent Partner @ Greylock #8",
+      "published": "2020-04-28",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Zooming Out From Engineering: featuring Alyssa Henry, Head of Seller & Developer Business Units @ Square & Chanda Dharap, VP of Engineering @ NodeSource #7",
+      "published": "2020-04-28",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "How to Tackle (Organizational) Debt with Jonathan Raymond, Founder & CEO @ Refound #6",
+      "published": "2020-04-28",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Leadership Principles for Remote Teams (and All) with Jason Warner, CTO @ Github #5",
+      "published": "2020-04-19",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "The Meaning Revolution with Fred Kofman Advisor, Leadership Development @ Google #4",
+      "published": "2020-03-06",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies with Reid Hoffman Co-Founder of LinkedIn, Partner @ Greylock & Sarah Guo, General Partner @ Greylock Partners #3",
+      "published": "2020-03-06",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Managing Creative Teams with James Everingham, Head of Engineering, Calibra @ Facebook #2",
+      "published": "2020-03-06",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Mastering Difficult Conversations With Sarah Clatterbuck, Director of Engineering @ Google #1",
+      "published": "2020-03-05",
+      "url": "https://sfelc.com/podcasts"
+    }
+  ]
+}

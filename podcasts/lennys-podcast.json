@@ -1,0 +1,1786 @@
+{
+  "show": "Lenny's Podcast: Product | Career | Growth",
+  "slug": "lennys-podcast",
+  "appleId": 1627920305,
+  "feedUrl": "https://api.substack.com/feed/podcast/10845.rss",
+  "homeUrl": "https://www.lennysnewsletter.com",
+  "canonicalPattern": "https://www.lennysnewsletter.com/p/<slug>",
+  "episodeCount": 355,
+  "episodes": [
+    {
+      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
+      "published": "2026-08-02",
+      "url": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management"
+    },
+    {
+      "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+      "published": "2026-07-26",
+      "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on"
+    },
+    {
+      "title": "Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)",
+      "published": "2026-07-19",
+      "url": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future"
+    },
+    {
+      "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
+      "published": "2026-07-12",
+      "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about"
+    },
+    {
+      "title": "Adam Mosseri: AI is a tailwind for authenticity",
+      "published": "2026-07-09",
+      "url": "https://www.lennysnewsletter.com/p/adam-mosseri-ai-is-a-tailwind-for"
+    },
+    {
+      "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
+      "published": "2026-06-28",
+      "url": "https://www.lennysnewsletter.com/p/openai-codex-lead-on-the-new-shape"
+    },
+    {
+      "title": "What happens after coding is solved? | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
+      "published": "2026-06-21",
+      "url": "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering"
+    },
+    {
+      "title": "The hidden pattern behind successful products | Mark Pincus (founder of Zynga)",
+      "published": "2026-06-14",
+      "url": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful"
+    },
+    {
+      "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
+      "published": "2026-06-07",
+      "url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on"
+    },
+    {
+      "title": "A rational conversation on where AI is actually going | Benedict Evans",
+      "published": "2026-05-31",
+      "url": "https://www.lennysnewsletter.com/p/a-rational-conversation-on-where"
+    },
+    {
+      "title": "The AI paradox: More automation, more humans, more work | Dan Shipper",
+      "published": "2026-05-24",
+      "url": "https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper"
+    },
+    {
+      "title": "Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI, Meta, Apple)",
+      "published": "2026-05-17",
+      "url": "https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the"
+    },
+    {
+      "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
+      "published": "2026-05-10",
+      "url": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands"
+    },
+    {
+      "title": "Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Head of Product, Notion)",
+      "published": "2026-05-03",
+      "url": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more"
+    },
+    {
+      "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
+      "published": "2026-04-26",
+      "url": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is"
+    },
+    {
+      "title": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
+      "published": "2026-04-23",
+      "url": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves"
+    },
+    {
+      "title": "Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)",
+      "published": "2026-04-19",
+      "url": "https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble"
+    },
+    {
+      "title": "Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)",
+      "published": "2026-04-12",
+      "url": "https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era"
+    },
+    {
+      "title": "Head of Growth (Anthropic): “Claude is growing itself at this point” | Amol Avasare",
+      "published": "2026-04-05",
+      "url": "https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run"
+    },
+    {
+      "title": "An AI state of the union: We’ve passed the inflection point, dark factories are coming, and automation timelines | Simon Willison",
+      "published": "2026-04-02",
+      "url": "https://www.lennysnewsletter.com/p/an-ai-state-of-the-union"
+    },
+    {
+      "title": "From skeptic to true believer: How OpenClaw changed my life | Claire Vo",
+      "published": "2026-03-29",
+      "url": "https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo"
+    },
+    {
+      "title": "The art of influence: The single most important skill that AI can’t replace | Jessica Fain (Webflow, ex-Slack)",
+      "published": "2026-03-22",
+      "url": "https://www.lennysnewsletter.com/p/the-art-of-influence-jessica-fain"
+    },
+    {
+      "title": "The tactical playbook for getting 20-40% more comp (without sounding greedy) | Jacob Warwick (Executive Negotiator)",
+      "published": "2026-03-15",
+      "url": "https://www.lennysnewsletter.com/p/the-tactical-playbook-for-getting-more-comp"
+    },
+    {
+      "title": "How I built a 1M+ subscriber newsletter and top 10 tech podcast | Lenny Rachitsky",
+      "published": "2026-03-12",
+      "url": "https://www.lennysnewsletter.com/p/how-i-built-a-1m-subscriber-newsletter"
+    },
+    {
+      "title": "The most successful AI company you’ve never heard of | Qasar Younis",
+      "published": "2026-03-08",
+      "url": "https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of"
+    },
+    {
+      "title": "The design process is dead. Here’s what’s replacing it. | Jenny Wen (head of design at Claude)",
+      "published": "2026-03-01",
+      "url": "https://www.lennysnewsletter.com/p/the-design-process-is-dead"
+    },
+    {
+      "title": "AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel",
+      "published": "2026-02-26",
+      "url": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival"
+    },
+    {
+      "title": "Head of Claude Code: What happens after coding is solved | Boris Cherny",
+      "published": "2026-02-19",
+      "url": "https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens"
+    },
+    {
+      "title": "Sequoia CEO coach: Why it’s never been easier to start a company, and never been harder to scale one | Brian Halligan (co-founder, HubSpot)",
+      "published": "2026-02-15",
+      "url": "https://www.lennysnewsletter.com/p/sequoia-ceo-coach-why-its-never-been"
+    },
+    {
+      "title": "“Engineers are becoming sorcerers” | The future of software development with OpenAI’s Sherwin Wu",
+      "published": "2026-02-12",
+      "url": "https://www.lennysnewsletter.com/p/engineers-are-becoming-sorcerers"
+    },
+    {
+      "title": "The rise of the professional vibe coder (a new AI-era job) | Lazar Jovanovic (Professional Vibe Coder)",
+      "published": "2026-02-08",
+      "url": "https://www.lennysnewsletter.com/p/getting-paid-to-vibe-code"
+    },
+    {
+      "title": "A child psychologist’s guide to working with difficult adults | Dr. Becky Kennedy",
+      "published": "2026-02-01",
+      "url": "https://www.lennysnewsletter.com/p/dr-becky-on-the-surprising-overlap"
+    },
+    {
+      "title": "Marc Andreessen: The real AI boom hasn’t even started yet",
+      "published": "2026-01-29",
+      "url": "https://www.lennysnewsletter.com/p/marc-andreessen-the-real-ai-boom"
+    },
+    {
+      "title": "5 questions to ask when your product stops growing | Jason Cohen (2x unicorn founder)",
+      "published": "2026-01-25",
+      "url": "https://www.lennysnewsletter.com/p/why-your-product-stopped-growing"
+    },
+    {
+      "title": "The non-technical PM’s guide to building with Cursor | Zevi Arnovitz (Meta)",
+      "published": "2026-01-18",
+      "url": "https://www.lennysnewsletter.com/p/the-non-technical-pms-guide-to-building-with-cursor"
+    },
+    {
+      "title": "How to show up in any room with a low heart rate: Silicon Valley’s missing etiquette playbook | Sam Lessin",
+      "published": "2026-01-15",
+      "url": "https://www.lennysnewsletter.com/p/silicon-valleys-missing-etiquette-playbook"
+    },
+    {
+      "title": "Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google, and Amazon",
+      "published": "2026-01-11",
+      "url": "https://www.lennysnewsletter.com/p/what-openai-and-google-engineers-learned"
+    },
+    {
+      "title": "The high-growth handbook: Molly Graham’s frameworks for leading through chaos, change, and scale",
+      "published": "2026-01-04",
+      "url": "https://www.lennysnewsletter.com/p/the-high-growth-handbook-molly-graham"
+    },
+    {
+      "title": "We replaced our sales team with 20 AI agents—here’s what happened | Jason Lemkin (SaaStr)",
+      "published": "2026-01-01",
+      "url": "https://www.lennysnewsletter.com/p/we-replaced-our-sales-team-with-20-ai-agents"
+    },
+    {
+      "title": "10 contrarian leadership truths every leader needs to hear | Matt MacInnis (Rippling)",
+      "published": "2025-12-28",
+      "url": "https://www.lennysnewsletter.com/p/10-contrarian-leadership-truths"
+    },
+    {
+      "title": "The coming AI security crisis (and what to do about it) | Sander Schulhoff",
+      "published": "2025-12-21",
+      "url": "https://www.lennysnewsletter.com/p/the-coming-ai-security-crisis"
+    },
+    {
+      "title": "The new AI growth playbook for 2026: How Lovable hit $200M ARR in one year | Elena Verna (Head of Growth)",
+      "published": "2025-12-18",
+      "url": "https://www.lennysnewsletter.com/p/the-new-ai-growth-playbook-for-2026-elena-verna"
+    },
+    {
+      "title": "Why humans are AI’s biggest bottleneck (and what’s coming in 2026) | Alexander Embiricos (OpenAI Codex Product Lead)",
+      "published": "2025-12-14",
+      "url": "https://www.lennysnewsletter.com/p/why-humans-are-ais-biggest-bottleneck"
+    },
+    {
+      "title": "The 100-person AI lab that became Anthropic and Google's secret weapon | Edwin Chen (Surge AI)",
+      "published": "2025-12-07",
+      "url": "https://www.lennysnewsletter.com/p/surge-ai-edwin-chen"
+    },
+    {
+      "title": "Why LinkedIn is turning PMs into AI-powered \"full stack builders” | Tomer Cohen (LinkedIn CPO)",
+      "published": "2025-12-04",
+      "url": "https://www.lennysnewsletter.com/p/why-linkedin-is-replacing-pms"
+    },
+    {
+      "title": "What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)",
+      "published": "2025-11-30",
+      "url": "https://www.lennysnewsletter.com/p/what-the-best-gtm-teams-do-differently"
+    },
+    {
+      "title": "A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett",
+      "published": "2025-11-23",
+      "url": "https://www.lennysnewsletter.com/p/a-guide-to-difficult-conversations"
+    },
+    {
+      "title": "Slack founder: Mental models for building products people love ft. Stewart Butterfield",
+      "published": "2025-11-20",
+      "url": "https://www.lennysnewsletter.com/p/slack-founder-stewart-butterfield"
+    },
+    {
+      "title": "The Godmother of AI on jobs, robots, and why world models are next | Dr. Fei-Fei Li",
+      "published": "2025-11-16",
+      "url": "https://www.lennysnewsletter.com/p/the-godmother-of-ai"
+    },
+    {
+      "title": "“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (CEO)",
+      "published": "2025-11-13",
+      "url": "https://www.lennysnewsletter.com/p/how-50-people-built-a-profitable-ai-unicorn"
+    },
+    {
+      "title": "\"Sell the alpha, not the feature\": The enterprise sales playbook for $1M to $10M ARR | Jen Abel",
+      "published": "2025-11-09",
+      "url": "https://www.lennysnewsletter.com/p/the-enterprise-sales-playbook-1m-to-10m-arr"
+    },
+    {
+      "title": "The woman behind Canva shares how she built a $42B company from nothing | Melanie Perkins",
+      "published": "2025-11-02",
+      "url": "https://www.lennysnewsletter.com/p/the-making-of-canva"
+    },
+    {
+      "title": "How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna",
+      "published": "2025-10-26",
+      "url": "https://www.lennysnewsletter.com/p/how-block-is-becoming-the-most-ai-native"
+    },
+    {
+      "title": "Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)",
+      "published": "2025-10-23",
+      "url": "https://www.lennysnewsletter.com/p/al-engineering-101-with-chip-huyen"
+    },
+    {
+      "title": "How to measure AI developer productivity in 2025 | Nicole Forsgren",
+      "published": "2025-10-19",
+      "url": "https://www.lennysnewsletter.com/p/how-to-measure-ai-developer-productivity"
+    },
+    {
+      "title": "Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field",
+      "published": "2025-10-16",
+      "url": "https://www.lennysnewsletter.com/p/why-ai-makes-design-craft-and-quality-the-new-moat"
+    },
+    {
+      "title": "Inside Google's AI turnaround: The rise of AI Mode, strategy behind AI Overviews, and their vision for AI-powered search | Robby Stein (VP of Product, Google Search)",
+      "published": "2025-10-10",
+      "url": "https://www.lennysnewsletter.com/p/how-google-built-ai-mode-in-under-a-year"
+    },
+    {
+      "title": "First interview with Scale AI’s CEO: $14B Meta deal, what’s working in enterprise AI, and what frontier labs are building next | Jason Droege",
+      "published": "2025-10-09",
+      "url": "https://www.lennysnewsletter.com/p/first-interview-with-scale-ais-ceo-jason-droege"
+    },
+    {
+      "title": "How to find hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)",
+      "published": "2025-10-05",
+      "url": "https://www.lennysnewsletter.com/p/how-to-find-hidden-growth-opportunities-albert-cheng"
+    },
+    {
+      "title": "A 4-step framework for building delightful products | Nesrine Changuel (Spotify, Google, Skype)",
+      "published": "2025-09-28",
+      "url": "https://www.lennysnewsletter.com/p/a-4-step-framework-for-building-delightful-products"
+    },
+    {
+      "title": "Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar (creators of the #1 eval course)",
+      "published": "2025-09-25",
+      "url": "https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill"
+    },
+    {
+      "title": "From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo (Facebook VP, Sundial CEO, The Making of a Manager author)",
+      "published": "2025-09-21",
+      "url": "https://www.lennysnewsletter.com/p/from-managing-people-to-managing-ai-julie-zhuo"
+    },
+    {
+      "title": "Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody (CEO of Mercor)",
+      "published": "2025-09-18",
+      "url": "https://www.lennysnewsletter.com/p/experts-writing-ai-evals-brendan-foody"
+    },
+    {
+      "title": "The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)",
+      "published": "2025-09-14",
+      "url": "https://www.lennysnewsletter.com/p/the-ultimate-guide-to-aeo-ethan-smith"
+    },
+    {
+      "title": "$46B of hard truths from Ben Horowitz: Why founders fail and why you need to run toward fear (a16z co-founder)",
+      "published": "2025-09-11",
+      "url": "https://www.lennysnewsletter.com/p/46b-of-hard-truths-from-ben-horowitz"
+    },
+    {
+      "title": "How AI is reshaping the product role | Oji and Ezinne Udezue",
+      "published": "2025-09-07",
+      "url": "https://www.lennysnewsletter.com/p/how-ai-is-reshaping-the-product-role"
+    },
+    {
+      "title": "How we restructured Airtable’s entire org for AI | Howie Liu (co-founder and CEO)",
+      "published": "2025-08-31",
+      "url": "https://www.lennysnewsletter.com/p/how-we-restructured-airtables-entire-org-for-ai"
+    },
+    {
+      "title": "How 80,000 companies build with AI: products as organisms, the death of org charts, and why agents will outnumber employees by 2026 | Asha Sharma (CVP of AI Platform at Microsoft)",
+      "published": "2025-08-28",
+      "url": "https://www.lennysnewsletter.com/p/how-80000-companies-build-with-ai-asha-sharma"
+    },
+    {
+      "title": "Inside the expert network training every frontier AI model | Garrett Lord (Handshake CEO)",
+      "published": "2025-08-24",
+      "url": "https://www.lennysnewsletter.com/p/inside-handshake-garrett-lord"
+    },
+    {
+      "title": "How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)",
+      "published": "2025-08-21",
+      "url": "https://www.lennysnewsletter.com/p/how-intercom-rose-from-the-ashes-eoghan-mccabe"
+    },
+    {
+      "title": "Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour (Reforge)",
+      "published": "2025-08-17",
+      "url": "https://www.lennysnewsletter.com/p/why-chatgpt-will-be-the-next-big-growth-channel-brian-balfour"
+    },
+    {
+      "title": "The one question that saves product careers | Matt LeMay",
+      "published": "2025-08-14",
+      "url": "https://www.lennysnewsletter.com/p/the-one-question-that-saves-product-careers-matt-lemay"
+    },
+    {
+      "title": "Inside ChatGPT: The fastest-growing product in history | Nick Turley (Head of ChatGPT at OpenAI)",
+      "published": "2025-08-09",
+      "url": "https://www.lennysnewsletter.com/p/inside-chatgpt-nick-turley"
+    },
+    {
+      "title": "Brian Chesky's secret mentor who died 9 times, started the Burning Man board, and built the world's first midlife wisdom school | Chip Conley (founder of MEA)",
+      "published": "2025-08-03",
+      "url": "https://www.lennysnewsletter.com/p/chip-conley"
+    },
+    {
+      "title": "He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor on the future of careers, coding, agents, and more",
+      "published": "2025-07-31",
+      "url": "https://www.lennysnewsletter.com/p/he-saved-openai-bret-taylor"
+    },
+    {
+      "title": "Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam",
+      "published": "2025-07-27",
+      "url": "https://www.lennysnewsletter.com/p/pricing-and-scaling-your-ai-product-madhavan-ramanujam"
+    },
+    {
+      "title": "Anthropic co-founder on quitting OpenAI, AGI predictions, $100M talent wars, 20% unemployment, and the nightmare scenarios keeping him up at night | Ben Mann",
+      "published": "2025-07-20",
+      "url": "https://www.lennysnewsletter.com/p/anthropic-co-founder-benjamin-mann"
+    },
+    {
+      "title": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code | Dan Shipper (co-founder/CEO of Every)",
+      "published": "2025-07-17",
+      "url": "https://www.lennysnewsletter.com/p/inside-every-dan-shipper"
+    },
+    {
+      "title": "Rapidly test and validate any startup idea with the 2-day Foundation Sprint (from the creators of the Design Sprint) | Jake Knapp & John Zeratsky (Character Capital)",
+      "published": "2025-07-13",
+      "url": "https://www.lennysnewsletter.com/p/the-foundation-sprint-jake-knapp-and-john-zeratsky"
+    },
+    {
+      "title": "Solo founder, $80M exit, 6 months: The Base44 bootstrapped startup success story | Maor Shlomo",
+      "published": "2025-07-06",
+      "url": "https://www.lennysnewsletter.com/p/the-base44-bootstrapped-startup-success-story-maor-shlomo"
+    },
+    {
+      "title": "I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson (co‑founder of Tiny)",
+      "published": "2025-07-03",
+      "url": "https://www.lennysnewsletter.com/p/ive-run-75-businesses-andrew-wilkinson"
+    },
+    {
+      "title": "Naming expert shares the process behind creating billion-dollar brand names like Azure, Vercel, Windsurf, Sonos, Blackberry, and Impossible Burger | David Placek (Lexicon Branding)",
+      "published": "2025-06-29",
+      "url": "https://www.lennysnewsletter.com/p/naming-expert-david-placek"
+    },
+    {
+      "title": "From ChatGPT to Instagram to Uber: The quiet architect behind the world’s most popular products | Peter Deng",
+      "published": "2025-06-22",
+      "url": "https://www.lennysnewsletter.com/p/the-quiet-architect-peter-deng"
+    },
+    {
+      "title": "AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff (Learn Prompting, HackAPrompt)",
+      "published": "2025-06-19",
+      "url": "https://www.lennysnewsletter.com/p/ai-prompt-engineering-in-2025-sander-schulhoff"
+    },
+    {
+      "title": "How to build a team that can “take a punch”: A playbook for building resilient, high-performing teams | Hilary Gridley (Head of Core Product, Whoop)",
+      "published": "2025-06-15",
+      "url": "https://www.lennysnewsletter.com/p/how-to-build-a-team-that-can-take-a-punch"
+    },
+    {
+      "title": "35 years of product design wisdom from Apple, Disney, Pinterest, and beyond | Bob Baxley",
+      "published": "2025-06-12",
+      "url": "https://www.lennysnewsletter.com/p/35-years-of-product-design-wisdom-bob-baxley"
+    },
+    {
+      "title": "How Mercado Libre built Latin America's most valuable company: 18k engineers, 30k deploys a day, and their own fleet of planes | Sebastian Barrios",
+      "published": "2025-06-08",
+      "url": "https://www.lennysnewsletter.com/p/inside-mercado-libre-sebastian-barrios"
+    },
+    {
+      "title": "Anthropic’s CPO on what comes next | Mike Krieger (co-founder of Instagram)",
+      "published": "2025-06-05",
+      "url": "https://www.lennysnewsletter.com/p/anthropics-cpo-heres-what-comes-next"
+    },
+    {
+      "title": "Why Uber’s CPO delivers food on weekends | Sachin Kansal",
+      "published": "2025-06-01",
+      "url": "https://www.lennysnewsletter.com/p/why-ubers-cpo-delivers-food-on-weekends-sachin-kansal"
+    },
+    {
+      "title": "Growth tactics from OpenAI and Stripe’s first marketer | Krithika Shankarraman",
+      "published": "2025-05-25",
+      "url": "https://www.lennysnewsletter.com/p/growth-tactics-from-openai-and-stripes-first-marketer"
+    },
+    {
+      "title": "Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26, ex-Binance Head of Product)",
+      "published": "2025-05-22",
+      "url": "https://www.lennysnewsletter.com/p/unorthodox-product-lessons-from-n26-and-more"
+    },
+    {
+      "title": "Microsoft CPO: If you aren’t prototyping with AI, you’re doing it wrong | Aparna Chennapragada",
+      "published": "2025-05-18",
+      "url": "https://www.lennysnewsletter.com/p/microsoft-cpo-on-ai"
+    },
+    {
+      "title": "How Revolut trains world-class product managers: The “local CEO” model, raw intellect over experience, and a cultural obsession with building wow products | Dmitry Zlokazov (Head of Product)",
+      "published": "2025-05-15",
+      "url": "https://www.lennysnewsletter.com/p/how-revolut-trains-world-class-product-managers"
+    },
+    {
+      "title": "How Palantir built the ultimate founder factory | Nabeel S. Qureshi (founder, writer, ex-Palantir)",
+      "published": "2025-05-11",
+      "url": "https://www.lennysnewsletter.com/p/inside-palantir-nabeel-qureshi"
+    },
+    {
+      "title": "How have I been complicit in creating the conditions I say I don’t want? | Jerry Colonna (CEO of Reboot, executive coach, former VC)",
+      "published": "2025-05-08",
+      "url": "https://www.lennysnewsletter.com/p/jerry-colonna"
+    },
+    {
+      "title": "Inside Devin: The world’s first autonomous AI engineer that's set to write 50% of its company’s code by end of year | Scott Wu (CEO and co-founder of Cognition)",
+      "published": "2025-05-04",
+      "url": "https://www.lennysnewsletter.com/p/inside-devin-scott-wu"
+    },
+    {
+      "title": "The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell (co-founder and CEO)",
+      "published": "2025-05-01",
+      "url": "https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell"
+    },
+    {
+      "title": "Inside monday.com’s transformation: radical transparency, impact over output, and their path to $1B ARR | Daniel Lereya (Chief Product and Technology Officer)",
+      "published": "2025-04-27",
+      "url": "https://www.lennysnewsletter.com/p/inside-mondays-transformation-daniel-lereya"
+    },
+    {
+      "title": "Announcing a brand-new podcast: “How I AI” with Claire Vo 🔥",
+      "published": "2025-04-22",
+      "url": "https://www.lennysnewsletter.com/p/announcing-a-brand-new-podcast-how"
+    },
+    {
+      "title": "Building a magical AI code editor used by over 1 million developers in four months: The untold story of Windsurf | Varun Mohan (co-founder and CEO)",
+      "published": "2025-04-20",
+      "url": "https://www.lennysnewsletter.com/p/the-untold-story-of-windsurf-varun-mohan"
+    },
+    {
+      "title": "Everyone’s an engineer now: Inside v0’s mission to create a hundred million builders | Guillermo Rauch (founder and CEO of Vercel, creators of v0 and Next.js)",
+      "published": "2025-04-13",
+      "url": "https://www.lennysnewsletter.com/p/everyones-an-engineer-now-guillermo-rauch"
+    },
+    {
+      "title": "OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil (CPO at OpenAI, ex-Instagram, Twitter)",
+      "published": "2025-04-10",
+      "url": "https://www.lennysnewsletter.com/p/kevin-weil-open-ai"
+    },
+    {
+      "title": "Become a better communicator: Specific frameworks to improve your clarity, influence, and impact | Wes Kao (coach, entrepreneur, advisor)",
+      "published": "2025-04-06",
+      "url": "https://www.lennysnewsletter.com/p/become-a-better-communicator-specific"
+    },
+    {
+      "title": "A better way to plan, build, and ship products | Ryan Singer (creator of “Shape Up,” early employee at 37signals)",
+      "published": "2025-03-30",
+      "url": "https://www.lennysnewsletter.com/p/shape-up-ryan-singer"
+    },
+    {
+      "title": "How to win in the AI era: Ship a feature every week, embrace technical debt, ruthlessly cut scope, and create magic your competitors can't copy | Gaurav Misra (CEO and co-founder of Captions)",
+      "published": "2025-03-27",
+      "url": "https://www.lennysnewsletter.com/p/how-to-win-in-the-ai-era-gaurav-misra"
+    },
+    {
+      "title": "Superhuman's secret to success: Ignoring most customer feedback, manually onboarding every new user, obsessing over every detail, and positioning around a single attribute: speed | Rahul Vohra (CEO)",
+      "published": "2025-03-23",
+      "url": "https://www.lennysnewsletter.com/p/superhumans-secret-to-success-rahul-vohra"
+    },
+    {
+      "title": "The hidden power of introverts: How to thrive without changing who you are | Susan Cain (author of \"Quiet\")",
+      "published": "2025-03-16",
+      "url": "https://www.lennysnewsletter.com/p/a-field-guide-for-introverts-susan-cain"
+    },
+    {
+      "title": "Inside Bolt: From near-death to ~$40m ARR in 5 months—one of the fastest-growing products in history | Eric Simons (founder and CEO of StackBlitz)",
+      "published": "2025-03-13",
+      "url": "https://www.lennysnewsletter.com/p/inside-bolt-eric-simons"
+    },
+    {
+      "title": "Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (co-founder and CEO)",
+      "published": "2025-03-09",
+      "url": "https://www.lennysnewsletter.com/p/building-lovable-anton-osika"
+    },
+    {
+      "title": "Notion’s lost years, its near collapse during Covid, staying small to move fast, the joy and suffering of building horizontal, more | Ivan Zhao (CEO and co-founder)",
+      "published": "2025-03-06",
+      "url": "https://www.lennysnewsletter.com/p/inside-notion-ivan-zhao"
+    },
+    {
+      "title": "The creator of WordPress opens up about becoming an internet villain, why he’s taking a stand, and the future of open source | Matt Mullenweg (founder and CEO, Automattic)",
+      "published": "2025-03-02",
+      "url": "https://www.lennysnewsletter.com/p/the-creator-of-wordpress-opens-up-matt-mullenweg"
+    },
+    {
+      "title": "An inside look at X’s Community Notes | Keith Coleman (VP of Product) and Jay Baxter (ML Lead)",
+      "published": "2025-02-27",
+      "url": "https://www.lennysnewsletter.com/p/how-x-built-the-best-fact-checking-system-on-the-internet"
+    },
+    {
+      "title": "How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of \"Job Moves”)",
+      "published": "2025-02-23",
+      "url": "https://www.lennysnewsletter.com/p/how-to-find-work-you-love-bob-moesta"
+    },
+    {
+      "title": "A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur)",
+      "published": "2025-02-16",
+      "url": "https://www.lennysnewsletter.com/p/a-founders-guide-to-crisis-management-uri-levine"
+    },
+    {
+      "title": "OpenAI researcher on why soft skills are the future of work | Karina Nguyen (Research at OpenAI, ex-Anthropic)",
+      "published": "2025-02-09",
+      "url": "https://www.lennysnewsletter.com/p/why-soft-skills-are-the-future-of-work-karina-nguyen"
+    },
+    {
+      "title": "Tobi Lütke’s leadership playbook: Playing infinite games, operating from first principles, and maximizing human potential (founder and CEO of Shopify)",
+      "published": "2025-02-02",
+      "url": "https://www.lennysnewsletter.com/p/tobi-lutkes-leadership-playbook"
+    },
+    {
+      "title": "Linear’s secret to building beloved B2B products | Nan Yu (Head of Product)",
+      "published": "2025-01-30",
+      "url": "https://www.lennysnewsletter.com/p/linears-secret-to-building-beloved-b2b-products-nan-yu"
+    },
+    {
+      "title": "An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace, Zynga)",
+      "published": "2025-01-26",
+      "url": "https://www.lennysnewsletter.com/p/an-operators-guide-to-product-strategy-chandra-janakiraman"
+    },
+    {
+      "title": "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)",
+      "published": "2025-01-19",
+      "url": "https://www.lennysnewsletter.com/p/10-growth-tactics-that-never-work-elena-verna"
+    },
+    {
+      "title": "How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor, founder of Alpine Investors)",
+      "published": "2025-01-16",
+      "url": "https://www.lennysnewsletter.com/p/how-to-break-out-of-autopilot-graham-weaver"
+    },
+    {
+      "title": "How to build your product team from scratch, attract top product talent, go multi-product, and more | Rohini Pandhi (Mercury, Square)",
+      "published": "2025-01-12",
+      "url": "https://www.lennysnewsletter.com/p/how-to-build-your-product-team-from-scratch-rohini-pandhi"
+    },
+    {
+      "title": "Behind the founder: Drew Houston (Dropbox)",
+      "published": "2025-01-09",
+      "url": "https://www.lennysnewsletter.com/p/behind-the-founder-drew-houston-dropbox"
+    },
+    {
+      "title": "Scripts for difficult conversations: Giving hard feedback, navigating defensiveness, the three questions you should end every meeting with, more | Alisa Cohn (executive coach)",
+      "published": "2025-01-05",
+      "url": "https://www.lennysnewsletter.com/p/scripts-for-difficult-conversations-alisa-cohn"
+    },
+    {
+      "title": "Inside Gong: How teams work with design partners, their pod structure, autonomy, trust, and more | Eilon Reshef (co-founder and CPO)",
+      "published": "2025-01-02",
+      "url": "https://www.lennysnewsletter.com/p/inside-gong-eilon-reshef"
+    },
+    {
+      "title": "Why great AI products are all about the data | Shaun Clowes (CPO Confluent, ex-Salesforce, Atlassian)",
+      "published": "2024-12-29",
+      "url": "https://www.lennysnewsletter.com/p/why-great-ai-products-are-all-about-the-data-shaun-clowes"
+    },
+    {
+      "title": "Behind the founder: Marc Benioff",
+      "published": "2024-12-22",
+      "url": "https://www.lennysnewsletter.com/p/behind-the-founder-marc-benioff"
+    },
+    {
+      "title": "How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)",
+      "published": "2024-12-19",
+      "url": "https://www.lennysnewsletter.com/p/how-shopify-builds-a-high-intensity-culture-farhan-thawar"
+    },
+    {
+      "title": "Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)",
+      "published": "2024-12-15",
+      "url": "https://www.lennysnewsletter.com/p/behind-the-product-duolingo-streaks"
+    },
+    {
+      "title": "Seth Godin's best tactics for building remarkable products, strategies, brands and more",
+      "published": "2024-12-08",
+      "url": "https://www.lennysnewsletter.com/p/seth-godins-tactics-for-building-remarkable-products"
+    },
+    {
+      "title": "How a great founder becomes a great CEO | Jonathan Lowenhar (co-founder of Enjoy The Work)",
+      "published": "2024-12-05",
+      "url": "https://www.lennysnewsletter.com/p/how-a-great-founder-becomes-a-great-ceo-jonathan-lowenhar"
+    },
+    {
+      "title": "Identify your bullseye customer in one day | Michael Margolis (UX Research Partner at Google Ventures)",
+      "published": "2024-12-01",
+      "url": "https://www.lennysnewsletter.com/p/finding-your-bullseye-customer-michael-margolis"
+    },
+    {
+      "title": "The ultimate guide to founder-led sales | Jen Abel (co-founder of JJELLYFISH)",
+      "published": "2024-11-24",
+      "url": "https://www.lennysnewsletter.com/p/master-founder-led-sales-jen-abel"
+    },
+    {
+      "title": "Behind the product: Replit | Amjad Masad (co-founder and CEO)",
+      "published": "2024-11-21",
+      "url": "https://www.lennysnewsletter.com/p/behind-the-product-replit-amjad-masad"
+    },
+    {
+      "title": "Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy)",
+      "published": "2024-11-17",
+      "url": "https://www.lennysnewsletter.com/p/building-wiz-raaz-herzberg"
+    },
+    {
+      "title": "Becoming an AI PM | Aman Khan (Arize AI, ex-Spotify, Apple, Cruise)",
+      "published": "2024-11-14",
+      "url": "https://www.lennysnewsletter.com/p/becoming-an-ai-pm-aman-khan"
+    },
+    {
+      "title": "Everything you’ve ever wanted to know about SAFe and the product owner role | Melissa Perri (author, founder of Product Institute)",
+      "published": "2024-11-10",
+      "url": "https://www.lennysnewsletter.com/p/product-owners-melissa-perri"
+    },
+    {
+      "title": "Breaking the rules of growth: Why Shopify bans KPIs, optimizes for churn, prioritizes intuition, and builds toward a 100-year vision | Archie Abrams (VP Product, Head of Growth at Shopify)",
+      "published": "2024-11-07",
+      "url": "https://www.lennysnewsletter.com/p/shopifys-growth-archie-abrams"
+    },
+    {
+      "title": "Just evil enough: Subversive marketing strategies for startups | Alistair Croll (author, advisor, entrepreneur)",
+      "published": "2024-11-03",
+      "url": "https://www.lennysnewsletter.com/p/just-evil-enough-alistair-croll"
+    },
+    {
+      "title": "4 questions Shreyas Doshi wishes he’d asked himself sooner | Former PM leader at Stripe, Twitter, Google",
+      "published": "2024-10-31",
+      "url": "https://www.lennysnewsletter.com/p/shreyas-doshi-live"
+    },
+    {
+      "title": "Meta’s Head of Product (and 29th employee) on working with Mark Zuckerberg, early growth tactics, why PMs are like conductors, and more | Naomi Gleit",
+      "published": "2024-10-27",
+      "url": "https://www.lennysnewsletter.com/p/metas-head-of-product-naomi-gleit"
+    },
+    {
+      "title": "How to see like a designer: The hidden power of typography and logos | Jessica Hische (Lettering Artist, Author)",
+      "published": "2024-10-20",
+      "url": "https://www.lennysnewsletter.com/p/seeing-like-a-designer-jessica-hische"
+    },
+    {
+      "title": "Becoming more strategic, navigating difficult colleagues, harnessing founder mode, and more | Anneka Gupta (Chief Product Officer at Rubrik)",
+      "published": "2024-10-17",
+      "url": "https://www.lennysnewsletter.com/p/becoming-more-strategic-anneka-gupta"
+    },
+    {
+      "title": "Why most public speaking advice is wrong—and how to finally overcome your speaking anxiety | Tristan de Montebello (CEO & co-founder of Ultraspeaking)",
+      "published": "2024-10-13",
+      "url": "https://www.lennysnewsletter.com/p/master-public-speaking-tristan-de-montebello"
+    },
+    {
+      "title": "Behind the product: NotebookLM | Raiza Martin (Senior Product Manager, AI @ Google Labs)",
+      "published": "2024-10-10",
+      "url": "https://www.lennysnewsletter.com/p/googles-notebooklm-raiza-martin"
+    },
+    {
+      "title": "Becoming a conscious leader: Leading without fear, finding your life’s objective function, and getting better at vision and strategy | John Mark Nickels (Uber, Waymo, DoorDash)",
+      "published": "2024-10-06",
+      "url": "https://www.lennysnewsletter.com/p/becoming-a-conscious-leader-john-mark-nickels"
+    },
+    {
+      "title": "Thinking like a gardener not a builder, organizing teams like slime mold, the adjacent possible, and other unconventional product advice | Alex Komoroske (Stripe, Google)",
+      "published": "2024-10-03",
+      "url": "https://www.lennysnewsletter.com/p/unconventional-product-advice-alex-komoroske"
+    },
+    {
+      "title": "How marketplaces win: Liquidity, growth levers, quality, and more | Benjamin Lauzier (Lyft, Thumbtack, Reforge)",
+      "published": "2024-09-29",
+      "url": "https://www.lennysnewsletter.com/p/how-marketplaces-win-benjamin-lauzier"
+    },
+    {
+      "title": "Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack | Tamar Yehoshua (Product at Glean, ex-Google and Slack)",
+      "published": "2024-09-26",
+      "url": "https://www.lennysnewsletter.com/p/you-dont-need-to-be-a-well-run-company-to-win-tamar-yehoshua"
+    },
+    {
+      "title": "Becoming a super IC: Lessons from 12 years as a PM individual contributor | Tal Raviv (Product Lead at Riverside)",
+      "published": "2024-09-22",
+      "url": "https://www.lennysnewsletter.com/p/the-super-ic-pm-tal-raviv"
+    },
+    {
+      "title": "Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)",
+      "published": "2024-09-19",
+      "url": "https://www.lennysnewsletter.com/p/rethinking-seo-in-the-age-of-ai-eli-schwartz"
+    },
+    {
+      "title": "The things engineers are desperate for PMs to understand | Camille Fournier (author of “The Manager’s Path,” ex-CTO at Rent the Runway)",
+      "published": "2024-09-15",
+      "url": "https://www.lennysnewsletter.com/p/engineering-leadership-camille-fournier"
+    },
+    {
+      "title": "Land your dream job in today’s market: negotiation tactics, job search councils, and more | Phyl Terry (Author, “Never Search Alone”)",
+      "published": "2024-09-12",
+      "url": "https://www.lennysnewsletter.com/p/land-your-dream-job-phyl-terry"
+    },
+    {
+      "title": "How LinkedIn became interesting: The inside story | Tomer Cohen (CPO at LinkedIn)",
+      "published": "2024-09-08",
+      "url": "https://www.lennysnewsletter.com/p/how-linkedin-became-interesting-tomer-cohen"
+    },
+    {
+      "title": "The original growth hacker reveals his secrets | Sean Ellis (author of “Hacking Growth”)",
+      "published": "2024-09-05",
+      "url": "https://www.lennysnewsletter.com/p/the-original-growth-hacker-sean-ellis"
+    },
+    {
+      "title": "Airbnb’s Vlad Loktev on embracing chaos, inquiry over advocacy, poking the bear, and “impact, impact, impact” (Partner at Index Ventures, Airbnb GM/VP Product)",
+      "published": "2024-09-01",
+      "url": "https://www.lennysnewsletter.com/p/impact-impact-impact-vlad-loktev"
+    },
+    {
+      "title": "How to consistently go viral: Nikita Bier’s playbook for winning at consumer apps (co-founder of TBH, Gas, advisor, investor)",
+      "published": "2024-08-25",
+      "url": "https://www.lennysnewsletter.com/p/how-to-consistently-go-viral-nikita-bier"
+    },
+    {
+      "title": "Succeeding as an introvert, building zero-to-one, and why you should PM your career like you PM your product | Deb Liu (CEO of Ancestry, ex-Facebook, PayPal, eBay)",
+      "published": "2024-08-22",
+      "url": "https://www.lennysnewsletter.com/p/succeeding-as-an-introvert-deb-liu"
+    },
+    {
+      "title": "Unorthodox PM wisdom: Automating user insights, unselling job candidates, logging every decision, more | Kevin Yien (Stripe, Square, Mutiny)",
+      "published": "2024-08-18",
+      "url": "https://www.lennysnewsletter.com/p/unorthodox-pm-wisdom-kevin-yien"
+    },
+    {
+      "title": "Improve strategy, influence, and decision-making by understanding your brain | Evan LaPointe (founder of CORE Sciences)",
+      "published": "2024-08-11",
+      "url": "https://www.lennysnewsletter.com/p/understanding-your-brain-evan-lapointe"
+    },
+    {
+      "title": "How embracing emotions will accelerate your career | Joe Hudson (executive coach, Art of Accomplishment)",
+      "published": "2024-08-08",
+      "url": "https://www.lennysnewsletter.com/p/embracing-your-emotions-joe-hudson"
+    },
+    {
+      "title": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)",
+      "published": "2024-08-04",
+      "url": "https://www.lennysnewsletter.com/p/scaling-uber-and-opendoor-brian-tolkin"
+    },
+    {
+      "title": "The ultimate guide to performance marketing | Timothy Davis (Shopify)",
+      "published": "2024-07-28",
+      "url": "https://www.lennysnewsletter.com/p/performance-marketing-timothy-davis"
+    },
+    {
+      "title": "5 essential questions to craft a winning strategy | Roger Martin (author, advisor, speaker)",
+      "published": "2024-07-25",
+      "url": "https://www.lennysnewsletter.com/p/the-ultimate-guide-to-strategy-roger-martin"
+    },
+    {
+      "title": "What most people miss about marketing | Rory Sutherland (Vice Chairman of Ogilvy UK, author)",
+      "published": "2024-07-21",
+      "url": "https://www.lennysnewsletter.com/p/what-most-people-miss-about-marketing"
+    },
+    {
+      "title": "Building a world-class data org | Jessica Lachs (VP of Analytics and Data Science at DoorDash)",
+      "published": "2024-07-14",
+      "url": "https://www.lennysnewsletter.com/p/building-a-world-class-data-org-jessica-lachs"
+    },
+    {
+      "title": "Building product at Stripe: craft, metrics, and customer obsession | Jeff Weinstein (Product lead)",
+      "published": "2024-07-11",
+      "url": "https://www.lennysnewsletter.com/p/building-product-at-stripe-jeff-weinstein"
+    },
+    {
+      "title": "Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Founding Partner at Floodgate, ex-Product at Silicon Graphics)",
+      "published": "2024-07-07",
+      "url": "https://www.lennysnewsletter.com/p/how-to-find-a-great-startup-idea-mike-maples-jr"
+    },
+    {
+      "title": "Dylan Field live at Config: Intuition, simplicity, and the future of design",
+      "published": "2024-06-30",
+      "url": "https://www.lennysnewsletter.com/p/dylan-field-live-at-config"
+    },
+    {
+      "title": "The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of Y Combinator, author, podcast host)",
+      "published": "2024-06-27",
+      "url": "https://www.lennysnewsletter.com/p/the-social-radar-jessica-livingston"
+    },
+    {
+      "title": "Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)",
+      "published": "2024-06-23",
+      "url": "https://www.lennysnewsletter.com/p/authenticity-and-curiosity-ami-vora"
+    },
+    {
+      "title": "Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of Jira Product Discovery)",
+      "published": "2024-06-16",
+      "url": "https://www.lennysnewsletter.com/p/building-0-to-1-inside-atlassian-tanguy-crusson"
+    },
+    {
+      "title": "The paths to power: How to grow your influence and advance your career | Jeffrey Pfeffer (author of 7 Rules of Power, professor at Stanford GSB)",
+      "published": "2024-06-13",
+      "url": "https://www.lennysnewsletter.com/p/the-paths-to-power-jeffrey-pfeffer"
+    },
+    {
+      "title": "Lessons from a two-time unicorn builder, 50-time startup advisor, and 20-time company board member | Uri Levine (co-founder of Waze)",
+      "published": "2024-06-09",
+      "url": "https://www.lennysnewsletter.com/p/lessons-from-uri-levine"
+    },
+    {
+      "title": "Inside Canva: Coaches not managers, giving away your Legos, and running profitably | Cameron Adams (co-founder and CPO)",
+      "published": "2024-06-02",
+      "url": "https://www.lennysnewsletter.com/p/inside-canva-with-cameron-adams"
+    },
+    {
+      "title": "The surprising truth about what closes deals: Insights from 2.5m sales conversations | Matt Dixon (author of The Challenger Sale and The JOLT Effect)",
+      "published": "2024-05-30",
+      "url": "https://www.lennysnewsletter.com/p/close-more-deals-matt-dixon"
+    },
+    {
+      "title": "Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YouTube, Instagram, Facebook, Instacart)",
+      "published": "2024-05-26",
+      "url": "https://www.lennysnewsletter.com/p/frameworks-for-growing-your-career-bangaly-kaba"
+    },
+    {
+      "title": "Why not asking for what you want is holding you back | Kenneth Berger (exec coach, first PM at Slack)",
+      "published": "2024-05-19",
+      "url": "https://www.lennysnewsletter.com/p/ask-for-what-you-want-kenneth-berger"
+    },
+    {
+      "title": "Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google, Quantcast)",
+      "published": "2024-05-16",
+      "url": "https://www.lennysnewsletter.com/p/be-fundamentally-different-jag-duggal"
+    },
+    {
+      "title": "A framework for PM skill development | Vikrama Dhiman (Gojek)",
+      "published": "2024-05-12",
+      "url": "https://www.lennysnewsletter.com/p/a-framework-for-pm-skill-development"
+    },
+    {
+      "title": "Business strategy with Hamilton Helmer (author of 7 Powers)",
+      "published": "2024-05-05",
+      "url": "https://www.lennysnewsletter.com/p/business-strategy-with-hamilton-helmer"
+    },
+    {
+      "title": "This will make you a better decision-maker | Annie Duke (author of “Thinking in Bets” and “Quit,” former pro poker player)",
+      "published": "2024-05-02",
+      "url": "https://www.lennysnewsletter.com/p/making-better-decisions-annie-duke"
+    },
+    {
+      "title": "Twitter’s former Head of Product opens up: being fired, meeting Elon, changing stagnant culture, building consumer product, more | Kayvon Beykpour",
+      "published": "2024-04-28",
+      "url": "https://www.lennysnewsletter.com/p/twitters-former-head-of-product-kayvon-beykpour"
+    },
+    {
+      "title": "How to build deeper, more robust relationships | Carole Robin (Stanford GSB professor, “Touchy Feely”)",
+      "published": "2024-04-25",
+      "url": "https://www.lennysnewsletter.com/p/build-robust-relationships-carole-robin"
+    },
+    {
+      "title": "Vision, conviction, and hype: How to build 0 to 1 inside a company | Mihika Kapoor (Product at Figma)",
+      "published": "2024-04-21",
+      "url": "https://www.lennysnewsletter.com/p/vision-conviction-hype-mihika-kapoor"
+    },
+    {
+      "title": "Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (Y Combinator, Managing Director)",
+      "published": "2024-04-18",
+      "url": "https://www.lennysnewsletter.com/p/lessons-from-1000-yc-startups"
+    },
+    {
+      "title": "The GitLab way: Kindness, transparency, and short toes | David DeSanto (CPO)",
+      "published": "2024-04-14",
+      "url": "https://www.lennysnewsletter.com/p/the-gitlab-way"
+    },
+    {
+      "title": "A framework for finding product-market fit | Todd Jackson (First Round Capital)",
+      "published": "2024-04-11",
+      "url": "https://www.lennysnewsletter.com/p/a-framework-for-finding-product-market"
+    },
+    {
+      "title": "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)",
+      "published": "2024-04-07",
+      "url": "https://www.lennysnewsletter.com/p/bending-the-universe-in-your-favor"
+    },
+    {
+      "title": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)",
+      "published": "2024-04-04",
+      "url": "https://www.lennysnewsletter.com/p/lessons-from-30-years-of-building"
+    },
+    {
+      "title": "How to speak more confidently and persuasively | Matt Abrahams (professor, podcast host, author, speaker)",
+      "published": "2024-03-31",
+      "url": "https://www.lennysnewsletter.com/p/how-to-speak-more-confidently-and"
+    },
+    {
+      "title": "Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more",
+      "published": "2024-03-24",
+      "url": "https://www.lennysnewsletter.com/p/kunal-shah-on-winning-in-india-second"
+    },
+    {
+      "title": "The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)",
+      "published": "2024-03-21",
+      "url": "https://www.lennysnewsletter.com/p/the-ultimate-guide-to-pr-emilie-gerber"
+    },
+    {
+      "title": "The happiness and pain of product management | Noam Lovinsky (Grammarly, Facebook, YouTube, Thumbtack)",
+      "published": "2024-03-17",
+      "url": "https://www.lennysnewsletter.com/p/the-happiness-and-pain-of-product"
+    },
+    {
+      "title": "Product management theater | Marty Cagan (Silicon Valley Product Group)",
+      "published": "2024-03-10",
+      "url": "https://www.lennysnewsletter.com/p/product-management-theater-marty"
+    },
+    {
+      "title": "Inside TikTok: Culture, strategy, monetization, and more | Ray Cao (Global Head of Monetization Product Strategy and Operations)",
+      "published": "2024-03-07",
+      "url": "https://www.lennysnewsletter.com/p/inside-tiktok-culture-strategy-monetization"
+    },
+    {
+      "title": "Making Meta | Andrew ‘Boz’ Bosworth (CTO)",
+      "published": "2024-03-03",
+      "url": "https://www.lennysnewsletter.com/p/making-meta-andrew-boz-bosworth-cto"
+    },
+    {
+      "title": "How to discover your superpowers, own your story, and unlock personal growth | Donna Lichaw (author of The Leader’s Journey)",
+      "published": "2024-02-25",
+      "url": "https://www.lennysnewsletter.com/p/how-to-discover-your-superpowers"
+    },
+    {
+      "title": "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)",
+      "published": "2024-02-22",
+      "url": "https://www.lennysnewsletter.com/p/how-netflix-builds-a-culture-of-excellence"
+    },
+    {
+      "title": "Building a world-class sales org | Jason Lemkin (SaaStr)",
+      "published": "2024-02-18",
+      "url": "https://www.lennysnewsletter.com/p/building-a-world-class-sales-org"
+    },
+    {
+      "title": "Making time for what matters | Jake Knapp and John Zeratsky (authors of Sprint and Make Time, co-founders of Character Capital)",
+      "published": "2024-02-11",
+      "url": "https://www.lennysnewsletter.com/p/making-time-for-what-matters-jake"
+    },
+    {
+      "title": "Inside OpenAI | Logan Kilpatrick (head of developer relations)",
+      "published": "2024-02-08",
+      "url": "https://www.lennysnewsletter.com/p/inside-openai-logan-kilpatrick-head"
+    },
+    {
+      "title": "Lessons from Atlassian: Launching new products, getting buy-in, and staying ahead of the competition | Megan Cook (head of product, Jira)",
+      "published": "2024-02-04",
+      "url": "https://www.lennysnewsletter.com/p/lessons-from-atlassian-launching"
+    },
+    {
+      "title": "Managing nerves, anxiety, and burnout | Jonny Miller (Nervous System Mastery)",
+      "published": "2024-01-28",
+      "url": "https://www.lennysnewsletter.com/p/managing-nerves-anxiety-and-burnout"
+    },
+    {
+      "title": "Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating a market",
+      "published": "2024-01-25",
+      "url": "https://www.lennysnewsletter.com/p/geoffrey-moore-on-finding-your-beachhead"
+    },
+    {
+      "title": "Good Strategy, Bad Strategy | Richard Rumelt",
+      "published": "2024-01-21",
+      "url": "https://www.lennysnewsletter.com/p/good-strategy-bad-strategy-richard"
+    },
+    {
+      "title": "The art and wisdom of changing teams | Heidi Helfand (author of Dynamic Reteaming)",
+      "published": "2024-01-18",
+      "url": "https://www.lennysnewsletter.com/p/the-art-and-wisdom-of-changing-teams"
+    },
+    {
+      "title": "Taking control of your career | Ethan Evans (Amazon)",
+      "published": "2024-01-14",
+      "url": "https://www.lennysnewsletter.com/p/taking-control-of-your-career-ethan"
+    },
+    {
+      "title": "How to be more innovative | Sam Schillace (Microsoft deputy CTO, creator of Google Docs)",
+      "published": "2024-01-11",
+      "url": "https://www.lennysnewsletter.com/p/how-to-be-more-innovative-sam-schillace"
+    },
+    {
+      "title": "The engineering mindset | Will Larson (Carta, Stripe, Uber, Calm, Digg)",
+      "published": "2024-01-07",
+      "url": "https://www.lennysnewsletter.com/p/the-engineering-mindset-will-larson"
+    },
+    {
+      "title": "The UX research reckoning is here | Judd Antin (Airbnb, Meta)",
+      "published": "2024-01-04",
+      "url": "https://www.lennysnewsletter.com/p/the-ux-research-reckoning-is-here"
+    },
+    {
+      "title": "Strategies for becoming less distracted and improving focus | Nir Eyal (author of Indistractable and Hooked)",
+      "published": "2023-12-29",
+      "url": "https://www.lennysnewsletter.com/p/strategies-for-becoming-less-distractible"
+    },
+    {
+      "title": "The hierarchy of engagement | Sarah Tavel (Benchmark, Greylock, Pinterest)",
+      "published": "2023-12-27",
+      "url": "https://www.lennysnewsletter.com/p/the-hierarchy-of-engagement-sarah"
+    },
+    {
+      "title": "The essence of product management | Christian Idiodi (SVPG)",
+      "published": "2023-12-21",
+      "url": "https://www.lennysnewsletter.com/p/the-essence-of-product-management"
+    },
+    {
+      "title": "Jason Fried challenges your thinking on fundraising, goals, growth, and more",
+      "published": "2023-12-17",
+      "url": "https://www.lennysnewsletter.com/p/jason-fried-challenges-your-thinking"
+    },
+    {
+      "title": "How to tell better stories | Matthew Dicks (Storyworthy)",
+      "published": "2023-12-15",
+      "url": "https://www.lennysnewsletter.com/p/how-to-tell-better-stories-matthew"
+    },
+    {
+      "title": "Failure",
+      "published": "2023-12-13",
+      "url": "https://www.lennysnewsletter.com/p/failure"
+    },
+    {
+      "title": "Radical Candor: From theory to practice with author Kim Scott",
+      "published": "2023-12-10",
+      "url": "https://www.lennysnewsletter.com/p/radical-candor-from-theory-to-practice"
+    },
+    {
+      "title": "The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)",
+      "published": "2023-12-07",
+      "url": "https://www.lennysnewsletter.com/p/the-full-stack-pm-anuj-rathi-swiggy"
+    },
+    {
+      "title": "Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)",
+      "published": "2023-12-03",
+      "url": "https://www.lennysnewsletter.com/p/crafting-a-compelling-product-vision"
+    },
+    {
+      "title": "The future of AI in software development | Inbal Shani (CPO of GitHub)",
+      "published": "2023-12-01",
+      "url": "https://www.lennysnewsletter.com/p/the-future-of-ai-in-software-development"
+    },
+    {
+      "title": "My favorite interview questions from 100+ guests",
+      "published": "2023-11-29",
+      "url": "https://www.lennysnewsletter.com/p/my-favorite-interview-questions-from"
+    },
+    {
+      "title": "Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Snap, Zero)",
+      "published": "2023-11-26",
+      "url": "https://www.lennysnewsletter.com/p/billion-dollar-failures-and-billion"
+    },
+    {
+      "title": "Redefining success, money, and belonging | Paul Millerd (The Pathless Path)",
+      "published": "2023-11-19",
+      "url": "https://www.lennysnewsletter.com/p/redefining-success-purpose-and-belonging"
+    },
+    {
+      "title": "The ultimate guide to product operations | Melissa Perri and Denise Tilles",
+      "published": "2023-11-16",
+      "url": "https://www.lennysnewsletter.com/p/the-ultimate-guide-to-product-operations"
+    },
+    {
+      "title": "Brian Chesky’s new playbook",
+      "published": "2023-11-12",
+      "url": "https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach"
+    },
+    {
+      "title": "Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (Stanford professor, startup advisor)",
+      "published": "2023-11-09",
+      "url": "https://www.lennysnewsletter.com/p/marketplace-lessons-from-uber-airbnb"
+    },
+    {
+      "title": "Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, Tripadvisor)",
+      "published": "2023-11-05",
+      "url": "https://www.lennysnewsletter.com/p/mastering-product-strategy-and-growing"
+    },
+    {
+      "title": "Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)",
+      "published": "2023-11-02",
+      "url": "https://www.lennysnewsletter.com/p/unpacking-amazons-unique-ways-of"
+    },
+    {
+      "title": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)",
+      "published": "2023-10-29",
+      "url": "https://www.lennysnewsletter.com/p/reflections-on-a-movement-eric-ries"
+    },
+    {
+      "title": "What AI means for your product strategy | Paul Adams (CPO of Intercom)",
+      "published": "2023-10-26",
+      "url": "https://www.lennysnewsletter.com/p/what-ai-means-for-your-product-strategy"
+    },
+    {
+      "title": "A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Obviously Awesome and Sales Pitch)",
+      "published": "2023-10-22",
+      "url": "https://www.lennysnewsletter.com/p/a-step-by-step-guide-to-crafting"
+    },
+    {
+      "title": "Scaling Duolingo, embracing failure, and insight into Latin America’s tech scene | Gina Gotthilf (Latitud, Duolingo)",
+      "published": "2023-10-19",
+      "url": "https://www.lennysnewsletter.com/p/scaling-duolingo-embracing-failure"
+    },
+    {
+      "title": "Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)",
+      "published": "2023-10-15",
+      "url": "https://www.lennysnewsletter.com/p/building-beautiful-products-with"
+    },
+    {
+      "title": "How to get press for your product | Jason Feifer (editor in chief of Entrepreneur magazine)",
+      "published": "2023-10-12",
+      "url": "https://www.lennysnewsletter.com/p/how-to-get-press-for-your-product"
+    },
+    {
+      "title": "Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)",
+      "published": "2023-10-08",
+      "url": "https://www.lennysnewsletter.com/p/inside-linear-building-with-taste"
+    },
+    {
+      "title": "Brian Balfour: 10 lessons on career, growth, and life",
+      "published": "2023-10-05",
+      "url": "https://www.lennysnewsletter.com/p/brian-balfour-10-lessons-on-career"
+    },
+    {
+      "title": "What sets great teams apart | Lane Shackleton (CPO of Coda)",
+      "published": "2023-10-01",
+      "url": "https://www.lennysnewsletter.com/p/what-sets-great-teams-apart-lane"
+    },
+    {
+      "title": "Building Anchor, selling to Spotify, and lessons learned | Maya Prohovnik (Spotify’s Head of Podcast Product)",
+      "published": "2023-09-28",
+      "url": "https://www.lennysnewsletter.com/p/building-anchor-selling-to-spotify"
+    },
+    {
+      "title": "How to drive word of mouth | Nilan Peiris (CPO of Wise)",
+      "published": "2023-09-24",
+      "url": "https://www.lennysnewsletter.com/p/how-to-drive-word-of-mouth-nilan"
+    },
+    {
+      "title": "Becoming evidence-guided | Itamar Gilad (Gmail, YouTube, Microsoft)",
+      "published": "2023-09-21",
+      "url": "https://www.lennysnewsletter.com/p/becoming-evidence-guided-itamar-gilad"
+    },
+    {
+      "title": "How to become a category pirate | Christopher Lochhead (author of Play Bigger, Niche Down, Category Pirates, more)",
+      "published": "2023-09-17",
+      "url": "https://www.lennysnewsletter.com/p/how-to-become-a-category-pirate-christopher"
+    },
+    {
+      "title": "Picking sharp problems, increasing virality, and unique product frameworks | Oji Udezue (Typeform, Twitter, Calendly, Atlassian)",
+      "published": "2023-09-14",
+      "url": "https://www.lennysnewsletter.com/p/picking-sharp-problems-increasing"
+    },
+    {
+      "title": "When enough is enough | Andy Johns (ex-FB, Twitter, Quora)",
+      "published": "2023-09-10",
+      "url": "https://www.lennysnewsletter.com/p/when-enough-is-enough-andy-johns"
+    },
+    {
+      "title": "An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)",
+      "published": "2023-09-07",
+      "url": "https://www.lennysnewsletter.com/p/an-inside-look-at-figmas-unique-bottom"
+    },
+    {
+      "title": "Inside Etsy’s product, growth, and marketplace evolution | Tim Holley (VP of Product)",
+      "published": "2023-09-03",
+      "url": "https://www.lennysnewsletter.com/p/inside-etsys-product-growth-and-marketplace"
+    },
+    {
+      "title": "An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head of Growth)",
+      "published": "2023-08-27",
+      "url": "https://www.lennysnewsletter.com/p/an-inside-look-at-deels-unprecedented"
+    },
+    {
+      "title": "The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)",
+      "published": "2023-08-24",
+      "url": "https://www.lennysnewsletter.com/p/the-ultimate-guide-to-jtbd-bob-moesta"
+    },
+    {
+      "title": "Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst (Spotify, Patreon, Apple, YouTube)",
+      "published": "2023-08-20",
+      "url": "https://www.lennysnewsletter.com/p/monetizing-passions-scaling-marketplaces"
+    },
+    {
+      "title": "The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)",
+      "published": "2023-08-13",
+      "url": "https://www.lennysnewsletter.com/p/the-ultimate-guide-to-martech-austin"
+    },
+    {
+      "title": "Relentless curiosity, radical accountability, and HubSpot’s winning growth formula | Christopher Miller (VP of Product, Growth and AI)",
+      "published": "2023-08-10",
+      "url": "https://www.lennysnewsletter.com/p/relentless-curiosity-radical-accountability"
+    },
+    {
+      "title": "Velocity over everything: How Ramp became the fastest-growing SaaS startup of all time | Geoff Charles (VP of Product)",
+      "published": "2023-08-06",
+      "url": "https://www.lennysnewsletter.com/p/velocity-over-everything-how-ramp"
+    },
+    {
+      "title": "How to measure and improve developer productivity | Nicole Forsgren (Microsoft Research, GitHub, Google)",
+      "published": "2023-07-30",
+      "url": "https://www.lennysnewsletter.com/p/how-to-measure-and-improve-developer"
+    },
+    {
+      "title": "The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amazon)",
+      "published": "2023-07-27",
+      "url": "https://www.lennysnewsletter.com/p/the-ultimate-guide-to-ab-testing"
+    },
+    {
+      "title": "The 10 traits of great PMs, how AI will impact your product, and Slack’s product development process | Noah Weiss (Slack, Foursquare, Google)",
+      "published": "2023-07-23",
+      "url": "https://www.lennysnewsletter.com/p/the-10-traits-of-great-pms-how-ai"
+    },
+    {
+      "title": "LinkedIn’s product evolution and the art of building complex systems | Hari Srinivasan (LinkedIn)",
+      "published": "2023-07-16",
+      "url": "https://www.lennysnewsletter.com/p/linkedins-product-evolution-and-the"
+    },
+    {
+      "title": "M&A, competition, pricing, and investing | Julia Schottenstein (dbt Labs)",
+      "published": "2023-07-13",
+      "url": "https://www.lennysnewsletter.com/p/m-and-a-competition-pricing-and-investing"
+    },
+    {
+      "title": "How to ask the right questions, project confidence, and win over skeptics | Paige Costello (Asana, Intercom, Intuit)",
+      "published": "2023-07-09",
+      "url": "https://www.lennysnewsletter.com/p/how-to-ask-the-right-questions-project"
+    },
+    {
+      "title": "Building minimum lovable products, stories from WeWork and Airbnb, and thriving as a PM | Jiaona Zhang (Webflow, WeWork, Airbnb, Dropbox)",
+      "published": "2023-07-02",
+      "url": "https://www.lennysnewsletter.com/p/building-minimum-lovable-products"
+    },
+    {
+      "title": "Lessons from scaling Ramp | Sri Batchu (Ramp, Instacart, Opendoor)",
+      "published": "2023-06-25",
+      "url": "https://www.lennysnewsletter.com/p/lessons-from-scaling-ramp-sri-batchu"
+    },
+    {
+      "title": "Building high-performing teams | Melissa Tan (Webflow, Dropbox, Canva)",
+      "published": "2023-06-18",
+      "url": "https://www.lennysnewsletter.com/p/building-high-performing-teams-melissa"
+    },
+    {
+      "title": "Leveraging growth advisors, hiring well, mastering SEO, and honing your craft | Luc Levesque (Shopify, Meta, TripAdvisor)",
+      "published": "2023-06-15",
+      "url": "https://www.lennysnewsletter.com/p/leveraging-growth-advisors-hiring"
+    },
+    {
+      "title": "Building a long and meaningful career | Nikhyl Singhal (Meta, Google)",
+      "published": "2023-06-11",
+      "url": "https://www.lennysnewsletter.com/p/building-a-long-and-meaningful-career"
+    },
+    {
+      "title": "Moving fast and navigating uncertainty | Jeremy Henrickson (Rippling, Coinbase)",
+      "published": "2023-06-04",
+      "url": "https://www.lennysnewsletter.com/p/moving-fast-and-navigating-uncertainty"
+    },
+    {
+      "title": "Storytelling with Nancy Duarte: How to craft compelling presentations and tell a story that sticks",
+      "published": "2023-06-01",
+      "url": "https://www.lennysnewsletter.com/p/storytelling-with-nancy-duarte-how"
+    },
+    {
+      "title": "The power of strategic narrative | Andy Raskin",
+      "published": "2023-05-28",
+      "url": "https://www.lennysnewsletter.com/p/the-power-of-strategic-narrative"
+    },
+    {
+      "title": "Lessons from scaling Spotify: The science of product, taking risky bets, and how AI is already impacting the future of music | Gustav Söderström (Co-President, CPO, and CTO at Spotify)",
+      "published": "2023-05-21",
+      "url": "https://www.lennysnewsletter.com/p/lessons-from-scaling-spotify-the"
+    },
+    {
+      "title": "Lessons on building product sense, navigating AI, optimizing the first mile, and making it through the messy middle | Scott Belsky (Adobe, Behance)",
+      "published": "2023-05-18",
+      "url": "https://www.lennysnewsletter.com/p/lessons-on-building-product-sense"
+    },
+    {
+      "title": "Frameworks for product differentiation, team building, and thinking from first principles | Ayo Omojola (Carbon Health, Cash App)",
+      "published": "2023-05-14",
+      "url": "https://www.lennysnewsletter.com/p/frameworks-for-product-differentiation"
+    },
+    {
+      "title": "Mastering paid growth | Jonathan Becker (Thrive Digital)",
+      "published": "2023-05-07",
+      "url": "https://www.lennysnewsletter.com/p/mastering-paid-growth-jonathan-becker"
+    },
+    {
+      "title": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+      "published": "2023-05-04",
+      "url": "https://www.lennysnewsletter.com/p/building-a-culture-of-excellence"
+    },
+    {
+      "title": "How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian, Miro, Segment, 1Password)",
+      "published": "2023-04-30",
+      "url": "https://www.lennysnewsletter.com/p/how-to-achieve-hypergrowth-in-your"
+    },
+    {
+      "title": "The ultimate guide to product-led sales | Elena Verna",
+      "published": "2023-04-23",
+      "url": "https://www.lennysnewsletter.com/p/the-ultimate-guide-to-product-led"
+    },
+    {
+      "title": "An inside look at how Miro builds product: Lessons on outmaneuvering competitors, team structure, product quality, and moving fast | Varun Parmar (CPO of Miro)",
+      "published": "2023-04-20",
+      "url": "https://www.lennysnewsletter.com/p/an-inside-look-at-how-miro-builds"
+    },
+    {
+      "title": "How to make better decisions and build a joyful career | Ada Chen Rekhi (Notejoy, LinkedIn, SurveyMonkey)",
+      "published": "2023-04-16",
+      "url": "https://www.lennysnewsletter.com/p/how-to-make-better-decisions-and"
+    },
+    {
+      "title": "How to build a cult-like brand | Laura Modi (Bobbie)",
+      "published": "2023-04-13",
+      "url": "https://www.lennysnewsletter.com/p/from-growth-to-slowth-the-making"
+    },
+    {
+      "title": "Product lessons from Waymo | Shweta Shrivastava (Waymo, Amazon, Cisco)",
+      "published": "2023-04-09",
+      "url": "https://www.lennysnewsletter.com/p/product-lessons-from-waymo-shweta"
+    },
+    {
+      "title": "Driving alignment and urgency within teams, work-life balance, and the changing PM landscape | Nikita Miller (The Knot, Trello)",
+      "published": "2023-04-06",
+      "url": "https://www.lennysnewsletter.com/p/driving-alignment-and-urgency-within"
+    },
+    {
+      "title": "The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)",
+      "published": "2023-04-02",
+      "url": "https://www.lennysnewsletter.com/p/the-ultimate-guide-to-adding-a-plg"
+    },
+    {
+      "title": "Thinking beyond frameworks | Casey Winters (Pinterest, Eventbrite, Airbnb, Tinder, Canva, Reddit, Grubhub)",
+      "published": "2023-03-30",
+      "url": "https://www.lennysnewsletter.com/p/thinking-beyond-frameworks-casey"
+    },
+    {
+      "title": "Taxi mafias, cash vaults, and 100% MoM growth: The story behind Southeast Asia’s biggest startup | Kevin Aluwi (Gojek)",
+      "published": "2023-03-26",
+      "url": "https://www.lennysnewsletter.com/p/taxi-mafias-cash-vaults-and-100-mom"
+    },
+    {
+      "title": "Navigating comms and PR | Lulu Cheng Meservey (Substack, Activision Blizzard)",
+      "published": "2023-03-23",
+      "url": "https://www.lennysnewsletter.com/p/navigating-comms-and-pr-lulu-cheng"
+    },
+    {
+      "title": "Competing with giants: An inside look at how The Browser Company builds product | Josh Miller (CEO)",
+      "published": "2023-03-19",
+      "url": "https://www.lennysnewsletter.com/p/competing-with-giants-an-inside-look"
+    },
+    {
+      "title": "The ultimate guide to OKRs | Christina Wodtke (Stanford)",
+      "published": "2023-03-16",
+      "url": "https://www.lennysnewsletter.com/p/the-ultimate-guide-to-okrs-christina"
+    },
+    {
+      "title": "Hot takes and techno-optimism from tech’s top power couple | Sriram and Aarthi",
+      "published": "2023-03-12",
+      "url": "https://www.lennysnewsletter.com/p/hot-takes-and-optimism-from-techs"
+    },
+    {
+      "title": "Career frameworks, A/B testing mistakes, counterintuitive onboarding tips, selling to developers | Laura Schaffer (VP of Growth at Amplitude)",
+      "published": "2023-03-09",
+      "url": "https://www.lennysnewsletter.com/p/career-frameworks-ab-testing-counterintuitive"
+    },
+    {
+      "title": "Lessons from scaling Stripe | Claire Hughes Johnson (former COO of Stripe)",
+      "published": "2023-03-05",
+      "url": "https://www.lennysnewsletter.com/p/lessons-from-scaling-stripe-tactics"
+    },
+    {
+      "title": "Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)",
+      "published": "2023-03-02",
+      "url": "https://www.lennysnewsletter.com/p/lessons-from-working-with-600-yc"
+    },
+    {
+      "title": "Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)",
+      "published": "2023-02-26",
+      "url": "https://www.lennysnewsletter.com/p/behind-the-scenes-of-calendlys-rapid"
+    },
+    {
+      "title": "An inside look at how CNN builds product | Upasna Gautam",
+      "published": "2023-02-23",
+      "url": "https://www.lennysnewsletter.com/p/an-inside-look-at-how-cnn-builds"
+    },
+    {
+      "title": "10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell)",
+      "published": "2023-02-19",
+      "url": "https://www.lennysnewsletter.com/p/10-lessons-from-bootstrapping-a-200m"
+    },
+    {
+      "title": "Understanding the role of product ops | Christine Itwaru (Pendo)",
+      "published": "2023-02-16",
+      "url": "https://www.lennysnewsletter.com/p/understanding-the-role-of-product"
+    },
+    {
+      "title": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)",
+      "published": "2023-02-12",
+      "url": "https://www.lennysnewsletter.com/p/mastering-onboarding-lauryn-isford"
+    },
+    {
+      "title": "Leading with empathy | Keith Yandell (DoorDash, Uber)",
+      "published": "2023-02-09",
+      "url": "https://www.lennysnewsletter.com/p/leading-with-empathy-keith-yandell"
+    },
+    {
+      "title": "AI and product management | Marily Nika (Meta, Google)",
+      "published": "2023-02-05",
+      "url": "https://www.lennysnewsletter.com/p/ai-and-product-management-marily"
+    },
+    {
+      "title": "How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)",
+      "published": "2023-02-02",
+      "url": "https://www.lennysnewsletter.com/p/how-to-foster-innovation-and-big"
+    },
+    {
+      "title": "Lessons from Airtable’s unconventional growth strategy | Zoelle Egner",
+      "published": "2023-01-29",
+      "url": "https://www.lennysnewsletter.com/p/lessons-from-airtables-unconventional"
+    },
+    {
+      "title": "An inside look at Mixpanel’s product journey | Vijay Iyengar (Head of Product)",
+      "published": "2023-01-26",
+      "url": "https://www.lennysnewsletter.com/p/an-inside-look-at-mixpanels-product"
+    },
+    {
+      "title": "Building your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)",
+      "published": "2023-01-19",
+      "url": "https://www.lennysnewsletter.com/p/building-your-product-strategy-stack"
+    },
+    {
+      "title": "What differentiates the highest-performing product teams | John Cutler (Amplitude, The Beautiful Mess)",
+      "published": "2023-01-15",
+      "url": "https://www.lennysnewsletter.com/p/what-differentiates-the-highest-performing"
+    },
+    {
+      "title": "How to price your product | Naomi Ionita (Menlo Ventures)",
+      "published": "2023-01-12",
+      "url": "https://www.lennysnewsletter.com/p/how-to-price-your-product-naomi-ionita"
+    },
+    {
+      "title": "An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma)",
+      "published": "2023-01-08",
+      "url": "https://www.lennysnewsletter.com/p/an-inside-look-at-how-figma-builds"
+    },
+    {
+      "title": "Leveraging mentors to uplevel your career | Jules Walter (YouTube, Slack)",
+      "published": "2023-01-05",
+      "url": "https://www.lennysnewsletter.com/p/leveraging-mentors-to-uplevel-your"
+    },
+    {
+      "title": "Countdown of the top 10 episodes of the year",
+      "published": "2022-12-29",
+      "url": "https://www.lennysnewsletter.com/p/the-best-of-lennys-podcast-2022"
+    },
+    {
+      "title": "Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)",
+      "published": "2022-12-18",
+      "url": "https://www.lennysnewsletter.com/p/launching-and-growing-a-podcast-chris"
+    },
+    {
+      "title": "Founder-led sales | Pete Kazanjy (Founding Sales, Atrium)",
+      "published": "2022-12-15",
+      "url": "https://www.lennysnewsletter.com/p/founder-led-sales-pete-kazanjy-founding"
+    },
+    {
+      "title": "How Notion leveraged community to build a $10B business | Camille Ricketts (Notion, First Round Capital)",
+      "published": "2022-12-11",
+      "url": "https://www.lennysnewsletter.com/p/how-notion-leveraged-community-to"
+    },
+    {
+      "title": "The art and science of pricing | Madhavan Ramanujam (Monetizing Innovation, Simon-Kucher)",
+      "published": "2022-12-08",
+      "url": "https://www.lennysnewsletter.com/p/the-art-and-science-of-pricing-madhavan"
+    },
+    {
+      "title": "How to hit revenue targets in a recession | Sahil Mansuri (Bravado)",
+      "published": "2022-12-04",
+      "url": "https://www.lennysnewsletter.com/p/how-to-hit-revenue-targets-in-a-recession"
+    },
+    {
+      "title": "The ultimate guide to SEO | Ethan Smith (Graphite)",
+      "published": "2022-12-01",
+      "url": "https://www.lennysnewsletter.com/p/the-ultimate-guide-to-seo-ethan-smith"
+    },
+    {
+      "title": "How to be the best coach to product people | Petra Wille (Strong Product People)",
+      "published": "2022-11-27",
+      "url": "https://www.lennysnewsletter.com/p/how-to-be-the-best-coach-to-product"
+    },
+    {
+      "title": "What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbnb)",
+      "published": "2022-11-20",
+      "url": "https://www.lennysnewsletter.com/p/what-it-takes-to-become-a-top-1-pm"
+    },
+    {
+      "title": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)",
+      "published": "2022-11-17",
+      "url": "https://www.lennysnewsletter.com/p/leaving-big-tech-to-build-the-1-technology"
+    },
+    {
+      "title": "An inside look at how the New York Times builds product | Alex Hardiman (CPO at The New York Times)",
+      "published": "2022-11-13",
+      "url": "https://www.lennysnewsletter.com/p/an-inside-look-at-how-the-new-york"
+    },
+    {
+      "title": "How to fire people with grace, work through fear, and nurture innovation | Matt Mochary (CEO coach)",
+      "published": "2022-11-10",
+      "url": "https://www.lennysnewsletter.com/p/how-to-fire-people-with-grace-work"
+    },
+    {
+      "title": "How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)",
+      "published": "2022-11-06",
+      "url": "https://www.lennysnewsletter.com/p/how-snyk-built-a-product-led-growth"
+    },
+    {
+      "title": "Lessons from one of the world’s top executive recruiters | Lauren Ipsen (Daversa Partners, General Catalyst)",
+      "published": "2022-11-03",
+      "url": "https://www.lennysnewsletter.com/p/lessons-from-one-of-the-worlds-top"
+    },
+    {
+      "title": "Building Substack | Sachin Monga (Substack, Facebook)",
+      "published": "2022-10-30",
+      "url": "https://www.lennysnewsletter.com/p/building-substack-sachin-monga-substack"
+    },
+    {
+      "title": "Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)",
+      "published": "2022-10-27",
+      "url": "https://www.lennysnewsletter.com/p/category-creation-and-branding-barbra"
+    },
+    {
+      "title": "How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Zynga, Pixar)",
+      "published": "2022-10-23",
+      "url": "https://www.lennysnewsletter.com/p/how-to-establish-credibility-and"
+    },
+    {
+      "title": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)",
+      "published": "2022-10-20",
+      "url": "https://www.lennysnewsletter.com/p/humanizing-product-development-adriel"
+    },
+    {
+      "title": "Building better product roadmaps | Janna Bastow (Mind the Product, ProdPad)",
+      "published": "2022-10-16",
+      "url": "https://www.lennysnewsletter.com/p/building-better-roadmaps-janna-bastow"
+    },
+    {
+      "title": "How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)",
+      "published": "2022-10-13",
+      "url": "https://www.lennysnewsletter.com/p/how-to-build-a-high-performing-growth"
+    },
+    {
+      "title": "Developing a growth model + marketplace growth strategy | Dan Hockenmaier (Faire, Thumbtack, Reforge)",
+      "published": "2022-10-09",
+      "url": "https://www.lennysnewsletter.com/p/developing-a-growth-model-marketplace"
+    },
+    {
+      "title": "Using behavioral science to improve your product | Kristen Berman (Irrational Labs)",
+      "published": "2022-10-02",
+      "url": "https://www.lennysnewsletter.com/p/using-behavioral-science-to-improve"
+    },
+    {
+      "title": "Customer-led growth | Georgiana Laudi (Forget The Funnel)",
+      "published": "2022-09-29",
+      "url": "https://www.lennysnewsletter.com/p/customer-led-growth-georgiana-laudi"
+    },
+    {
+      "title": "Growth tactics, retention strategies, and becoming a better writer | Julian Shapiro (Demand Curve, Hyper, Webflow, TechCrunch)",
+      "published": "2022-09-25",
+      "url": "https://www.lennysnewsletter.com/p/building-a-product-led-acquisition"
+    },
+    {
+      "title": "Building a meaningful career | Jason Shah (Airbnb, Amazon, Microsoft, Alchemy)",
+      "published": "2022-09-18",
+      "url": "https://www.lennysnewsletter.com/p/building-a-meaningful-career-jason"
+    },
+    {
+      "title": "When and how to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)",
+      "published": "2022-09-15",
+      "url": "https://www.lennysnewsletter.com/p/when-to-invest-in-new-acquisition"
+    },
+    {
+      "title": "How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)",
+      "published": "2022-09-11",
+      "url": "https://www.lennysnewsletter.com/p/how-to-build-a-powerful-marketing"
+    },
+    {
+      "title": "The role of AI in product development | Ryan J. Salva (VP of Product at GitHub, Copilot)",
+      "published": "2022-09-04",
+      "url": "https://www.lennysnewsletter.com/p/the-role-of-ai-in-new-product-development"
+    },
+    {
+      "title": "How to grow a subscription business | Yuriy Timen (Grammarly, Canva, Airtable)",
+      "published": "2022-09-01",
+      "url": "https://www.lennysnewsletter.com/p/transform-your-subscription-growth"
+    },
+    {
+      "title": "Persuasive communication and managing up | Wes Kao (Maven, Seth Godin, Section4)",
+      "published": "2022-08-28",
+      "url": "https://www.lennysnewsletter.com/p/persuasive-communication-wes-kao"
+    },
+    {
+      "title": "The nature of product | Marty Cagan, Silicon Valley Product Group",
+      "published": "2022-08-21",
+      "url": "https://www.lennysnewsletter.com/p/the-nature-of-product-marty-cagan"
+    },
+    {
+      "title": "The art of building legendary brands | Arielle Jackson (Google, Square, Marketer in Residence at First Round Capital)",
+      "published": "2022-08-18",
+      "url": "https://www.lennysnewsletter.com/p/the-art-of-building-legendary-brands"
+    },
+    {
+      "title": "The rituals of great teams | Shishir Mehrotra of Coda, YouTube, Microsoft",
+      "published": "2022-08-14",
+      "url": "https://www.lennysnewsletter.com/p/the-rituals-of-great-teams-shishir"
+    },
+    {
+      "title": "How to launch and grow your product | Ryan Hoover of Product Hunt and Weekend Fund",
+      "published": "2022-08-07",
+      "url": "https://www.lennysnewsletter.com/p/how-to-launch-and-grow-your-product"
+    },
+    {
+      "title": "How to own your career growth and become a powerful product leader | Deb Liu, Ancestry (ex-Facebook, PayPal)",
+      "published": "2022-08-04",
+      "url": "https://www.lennysnewsletter.com/p/how-to-own-your-career-growth-and"
+    },
+    {
+      "title": "How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu",
+      "published": "2022-07-31",
+      "url": "https://www.lennysnewsletter.com/p/how-to-hire-for-measure-and-unlock"
+    },
+    {
+      "title": "How to create a winning product strategy | Melissa Perri",
+      "published": "2022-07-28",
+      "url": "https://www.lennysnewsletter.com/p/how-to-create-a-winning-product-strategy"
+    },
+    {
+      "title": "How to unlock your product leadership skills | Ken Norton, Ex-Google",
+      "published": "2022-07-24",
+      "url": "https://www.lennysnewsletter.com/p/how-to-unlock-your-product-leadership"
+    },
+    {
+      "title": "How to sell your ideas and rise within your company | Casey Winters, Eventbrite",
+      "published": "2022-07-21",
+      "url": "https://www.lennysnewsletter.com/p/how-to-sell-your-ideas-and-rise-within"
+    },
+    {
+      "title": "Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals, operationalizing product quality, second-order decisions, brainstorming, influence, and much more",
+      "published": "2022-07-18",
+      "url": "https://www.lennysnewsletter.com/p/nickey-skarstad-airbnb-etsy-shopify"
+    },
+    {
+      "title": "Manik Gupta (ex-CPO Uber, Google Maps) on how to build consumer apps, why it’s useful to be optimistic about technology, creating inflections in your PM career, the changing CPO role, and more",
+      "published": "2022-07-14",
+      "url": "https://www.lennysnewsletter.com/p/manik-gupta-ex-cpo-uber-google-maps"
+    },
+    {
+      "title": "Merci Grace (ex-Head of Growth at Slack) on PLG, interviewing, storytelling, building a diverse team, hiring salespeople, building a growth team, and much more",
+      "published": "2022-07-11",
+      "url": "https://www.lennysnewsletter.com/p/merci-grace-ex-head-of-growth-at"
+    },
+    {
+      "title": "Sanchan Saxena (VP of Product at Coinbase) on the inside story of how Airbnb made it through Covid; what he’s learned from Brian Chesky, Brian Armstrong, and Kevin Systrom; much more",
+      "published": "2022-07-05",
+      "url": "https://www.lennysnewsletter.com/p/sanchan-saxena-vp-of-product-at-coinbase"
+    },
+    {
+      "title": "Teresa Torres on how to interview customers, automating continuous discovery, the opportunity solution tree framework, making the case for user research, common interviewing mistakes, and much more",
+      "published": "2022-06-30",
+      "url": "https://www.lennysnewsletter.com/p/teresa-torres-on-how-to-interview"
+    },
+    {
+      "title": "Brandon Chu on building product at Shopify, how writing changed the trajectory of his career, the habits that make you a great PM, pros and cons of being a platform PM, how Shopify got through Covid",
+      "published": "2022-06-27",
+      "url": "https://www.lennysnewsletter.com/p/brandon-chu-on-what-its-like-to-build"
+    },
+    {
+      "title": "Elena Verna on how B2B growth is changing, product-led growth, product-led sales, why you should go freemium not trial, what features to make free, and much more",
+      "published": "2022-06-23",
+      "url": "https://www.lennysnewsletter.com/p/elena-verna-on-why-every-company"
+    },
+    {
+      "title": "Gibson Biddle on his DHM product strategy framework, GEM roadmap prioritization framework, 5 Netflix strategy mini case studies, building a personal board of directors, and much more",
+      "published": "2022-06-20",
+      "url": "https://www.lennysnewsletter.com/p/gibson-biddle-on-the-the-dhm-product"
+    },
+    {
+      "title": "Jackie Bavaro on getting better at product strategy, what exactly is strategy, PM pitfalls to avoid, advancing your career, getting into management, and much more",
+      "published": "2022-06-16",
+      "url": "https://www.lennysnewsletter.com/p/jackie-bavaro-on-how-to-build-product"
+    },
+    {
+      "title": "Gokul Rajaram on designing your product development process, when and how to hire your first PM, a playbook for hiring leaders, getting ahead in you career, how to get started angel investing, more",
+      "published": "2022-06-13",
+      "url": "https://www.lennysnewsletter.com/p/gokul-rajaram-on-designing-your-product"
+    },
+    {
+      "title": "April Dunford on product positioning, segmentation, and optimizing your sales process",
+      "published": "2022-06-09",
+      "url": "https://www.lennysnewsletter.com/p/april-dunford-on-product-positioning"
+    },
+    {
+      "title": "Shreyas Doshi on pre-mortems, the LNO framework, the three levels of product work, why most execution problems are strategy problems, and ROI vs. opportunity cost thinking",
+      "published": "2022-06-07",
+      "url": "https://www.lennysnewsletter.com/p/episode-3-shreyas-doshi"
+    },
+    {
+      "title": "Julie Zhuo on accelerating your career, impostor syndrome, writing, building product sense, using intuition vs. data, hiring designers, and moving into management",
+      "published": "2022-06-07",
+      "url": "https://www.lennysnewsletter.com/p/episode-2-julie-zhuo"
+    },
+    {
+      "title": "Welcome to my new podcast!",
+      "published": "2022-06-05",
+      "url": "https://www.lennysnewsletter.com/p/episode-1-welcome-to-my-new-podcast"
+    }
+  ]
+}
