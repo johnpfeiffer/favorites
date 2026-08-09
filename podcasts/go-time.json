@@ -1,0 +1,1746 @@
+{
+  "show": "Go Time: Golang, Software Engineering",
+  "slug": "go-time",
+  "appleId": 1120964487,
+  "feedUrl": "https://changelog.com/gotime/feed",
+  "homeUrl": "https://changelog.com/gotime",
+  "canonicalPattern": "https://changelog.com/gotime/<episode-number>",
+  "episodeCount": 347,
+  "episodes": [
+    {
+      "title": "That's Go Time!",
+      "published": "2024-12-18",
+      "url": "https://changelog.com/gotime/340"
+    },
+    {
+      "title": "Pitching Go in 2025",
+      "published": "2024-12-10",
+      "url": "https://changelog.com/gotime/339"
+    },
+    {
+      "title": "Unpop roundup! 2023",
+      "published": "2024-11-21",
+      "url": "https://changelog.com/gotime/338"
+    },
+    {
+      "title": "Crawl, walk & run your way to usable CLIs in Go",
+      "published": "2024-11-12",
+      "url": "https://changelog.com/gotime/337"
+    },
+    {
+      "title": "Writing a shell in Go",
+      "published": "2024-11-06",
+      "url": "https://changelog.com/gotime/336"
+    },
+    {
+      "title": "AI for Observability",
+      "published": "2024-10-23",
+      "url": "https://changelog.com/gotime/335"
+    },
+    {
+      "title": "Unpop roundup! 2022",
+      "published": "2024-10-09",
+      "url": "https://changelog.com/gotime/334"
+    },
+    {
+      "title": "Russ Cox on passing the torch",
+      "published": "2024-10-03",
+      "url": "https://changelog.com/gotime/333"
+    },
+    {
+      "title": "\"Founder Mode\" at work when you're not a founder",
+      "published": "2024-09-24",
+      "url": "https://changelog.com/gotime/332"
+    },
+    {
+      "title": "How I lost my (old) job to AI",
+      "published": "2024-09-18",
+      "url": "https://changelog.com/gotime/331"
+    },
+    {
+      "title": "Home automation with Go",
+      "published": "2024-09-10",
+      "url": "https://changelog.com/gotime/330"
+    },
+    {
+      "title": "The community of gophers",
+      "published": "2024-08-28",
+      "url": "https://changelog.com/gotime/329"
+    },
+    {
+      "title": "⚡ Lightning Talk life ⚡",
+      "published": "2024-08-21",
+      "url": "https://changelog.com/gotime/327"
+    },
+    {
+      "title": "Big shoes to fill",
+      "published": "2024-08-13",
+      "url": "https://changelog.com/gotime/326"
+    },
+    {
+      "title": "OpenAPI & API design",
+      "published": "2024-08-08",
+      "url": "https://changelog.com/gotime/328"
+    },
+    {
+      "title": "What's new in Go 1.23",
+      "published": "2024-07-30",
+      "url": "https://changelog.com/gotime/325"
+    },
+    {
+      "title": "Aha moments reading Go's source: Part 2",
+      "published": "2024-07-24",
+      "url": "https://changelog.com/gotime/324"
+    },
+    {
+      "title": "Aha moments reading Go's source: Part 1",
+      "published": "2024-07-18",
+      "url": "https://changelog.com/gotime/323"
+    },
+    {
+      "title": "How Mat writes HTTP services in Go",
+      "published": "2024-07-09",
+      "url": "https://changelog.com/gotime/322"
+    },
+    {
+      "title": "Dependencies are dangerous",
+      "published": "2024-07-03",
+      "url": "https://changelog.com/gotime/321"
+    },
+    {
+      "title": "Gophers Say! GopherCon EU Berlin 2024",
+      "published": "2024-06-25",
+      "url": "https://changelog.com/gotime/320"
+    },
+    {
+      "title": "Is Go evolving in the wrong direction?",
+      "published": "2024-06-18",
+      "url": "https://changelog.com/gotime/319"
+    },
+    {
+      "title": "How things get done on the Go Team",
+      "published": "2024-06-12",
+      "url": "https://changelog.com/gotime/318"
+    },
+    {
+      "title": "Your ultimate guide to mastering Go",
+      "published": "2024-05-29",
+      "url": "https://changelog.com/gotime/317"
+    },
+    {
+      "title": "Migrating from PHP to Go",
+      "published": "2024-05-22",
+      "url": "https://changelog.com/gotime/316"
+    },
+    {
+      "title": "What if Google lays off the Go team?",
+      "published": "2024-05-08",
+      "url": "https://changelog.com/gotime/315"
+    },
+    {
+      "title": "Go workshops that work",
+      "published": "2024-04-30",
+      "url": "https://changelog.com/gotime/314"
+    },
+    {
+      "title": "What's new in Go's cryptography libraries: Part 3",
+      "published": "2024-04-23",
+      "url": "https://changelog.com/gotime/313"
+    },
+    {
+      "title": "Local cert management for mere mortals",
+      "published": "2024-04-17",
+      "url": "https://changelog.com/gotime/312"
+    },
+    {
+      "title": "Ship software, not code",
+      "published": "2024-04-09",
+      "url": "https://changelog.com/gotime/311"
+    },
+    {
+      "title": "The magic of a trace",
+      "published": "2024-04-03",
+      "url": "https://changelog.com/gotime/310"
+    },
+    {
+      "title": "Debugging",
+      "published": "2024-03-26",
+      "url": "https://changelog.com/gotime/309"
+    },
+    {
+      "title": "Questions from a new Go developer",
+      "published": "2024-03-20",
+      "url": "https://changelog.com/gotime/308"
+    },
+    {
+      "title": "Jumping into an existing codebase",
+      "published": "2024-03-12",
+      "url": "https://changelog.com/gotime/307"
+    },
+    {
+      "title": "How long until I lose my job to AI?",
+      "published": "2024-03-05",
+      "url": "https://changelog.com/gotime/306"
+    },
+    {
+      "title": "Creating art & visualizations with Go",
+      "published": "2024-02-27",
+      "url": "https://changelog.com/gotime/305"
+    },
+    {
+      "title": "Foundations of Go performance",
+      "published": "2024-02-20",
+      "url": "https://changelog.com/gotime/304"
+    },
+    {
+      "title": "Gophers Say! GopherCon EU Athens 2024",
+      "published": "2024-02-14",
+      "url": "https://changelog.com/gotime/303"
+    },
+    {
+      "title": "What's new in Go 1.22",
+      "published": "2024-02-07",
+      "url": "https://changelog.com/gotime/302"
+    },
+    {
+      "title": "Go Capture the Flag! 🚩",
+      "published": "2024-01-31",
+      "url": "https://changelog.com/gotime/301"
+    },
+    {
+      "title": "300 multiple choices",
+      "published": "2024-01-23",
+      "url": "https://changelog.com/gotime/300"
+    },
+    {
+      "title": "All about Kafka",
+      "published": "2024-01-16",
+      "url": "https://changelog.com/gotime/299"
+    },
+    {
+      "title": "What's new in Go's cryptography libraries: Part 2",
+      "published": "2023-12-12",
+      "url": "https://changelog.com/gotime/298"
+    },
+    {
+      "title": "Event-driven systems & architecture",
+      "published": "2023-11-14",
+      "url": "https://changelog.com/gotime/297"
+    },
+    {
+      "title": "Principles of simplicity",
+      "published": "2023-11-08",
+      "url": "https://changelog.com/gotime/296"
+    },
+    {
+      "title": "What's new in Go's cryptography libraries: Part 1",
+      "published": "2023-11-01",
+      "url": "https://changelog.com/gotime/295"
+    },
+    {
+      "title": "The se7en deadly sins of Go",
+      "published": "2023-10-25",
+      "url": "https://changelog.com/gotime/294"
+    },
+    {
+      "title": "Experiences from GopherCon 2023",
+      "published": "2023-10-11",
+      "url": "https://changelog.com/gotime/293"
+    },
+    {
+      "title": "Zero Trust & Go",
+      "published": "2023-09-27",
+      "url": "https://changelog.com/gotime/292"
+    },
+    {
+      "title": "Go templating using Templ",
+      "published": "2023-09-13",
+      "url": "https://changelog.com/gotime/291"
+    },
+    {
+      "title": "Prototyping with Go",
+      "published": "2023-09-07",
+      "url": "https://changelog.com/gotime/290"
+    },
+    {
+      "title": "What's new in Go 1.21",
+      "published": "2023-08-30",
+      "url": "https://changelog.com/gotime/289"
+    },
+    {
+      "title": "A deep dive into Go's stack",
+      "published": "2023-08-11",
+      "url": "https://changelog.com/gotime/288"
+    },
+    {
+      "title": "Building world-class developer experiences",
+      "published": "2023-08-02",
+      "url": "https://changelog.com/gotime/287"
+    },
+    {
+      "title": "So do we like Generics or not?",
+      "published": "2023-07-25",
+      "url": "https://changelog.com/gotime/286"
+    },
+    {
+      "title": "The tools we love",
+      "published": "2023-07-19",
+      "url": "https://changelog.com/gotime/285"
+    },
+    {
+      "title": "Gophers Say! GopherCon EU 2023",
+      "published": "2023-07-11",
+      "url": "https://changelog.com/gotime/284"
+    },
+    {
+      "title": "The solo gopher",
+      "published": "2023-07-05",
+      "url": "https://changelog.com/gotime/283"
+    },
+    {
+      "title": "K8s vs serverless for distributed systems",
+      "published": "2023-06-29",
+      "url": "https://changelog.com/gotime/282"
+    },
+    {
+      "title": "Neurodiverse gophers",
+      "published": "2023-06-21",
+      "url": "https://changelog.com/gotime/281"
+    },
+    {
+      "title": "Wait for it...",
+      "published": "2023-06-13",
+      "url": "https://changelog.com/gotime/280"
+    },
+    {
+      "title": "Of prompts and engineers",
+      "published": "2023-06-06",
+      "url": "https://changelog.com/gotime/279"
+    },
+    {
+      "title": "The files & folders of Go projects",
+      "published": "2023-05-31",
+      "url": "https://changelog.com/gotime/278"
+    },
+    {
+      "title": "How to ace that talk",
+      "published": "2023-05-23",
+      "url": "https://changelog.com/gotime/277"
+    },
+    {
+      "title": "HallwayConf! A new style of conference",
+      "published": "2023-05-12",
+      "url": "https://changelog.com/gotime/276"
+    },
+    {
+      "title": "Go + Wasm",
+      "published": "2023-05-04",
+      "url": "https://changelog.com/gotime/275"
+    },
+    {
+      "title": "Diversity at conferences",
+      "published": "2023-04-27",
+      "url": "https://changelog.com/gotime/274"
+    },
+    {
+      "title": "Domain-driven design with Go",
+      "published": "2023-04-13",
+      "url": "https://changelog.com/gotime/273"
+    },
+    {
+      "title": "The biggest job interview of GPT-4's life",
+      "published": "2023-04-06",
+      "url": "https://changelog.com/gotime/272"
+    },
+    {
+      "title": "Cross-platform graphical user interfaces",
+      "published": "2023-03-30",
+      "url": "https://changelog.com/gotime/271"
+    },
+    {
+      "title": "Hacking with Go: Part 4",
+      "published": "2023-03-23",
+      "url": "https://changelog.com/gotime/270"
+    },
+    {
+      "title": "The bits of Go we avoid (and why)",
+      "published": "2023-03-16",
+      "url": "https://changelog.com/gotime/269"
+    },
+    {
+      "title": "This will blow your docs off",
+      "published": "2023-03-10",
+      "url": "https://changelog.com/gotime/268"
+    },
+    {
+      "title": "What's new in Go 1.20",
+      "published": "2023-02-16",
+      "url": "https://changelog.com/gotime/267"
+    },
+    {
+      "title": "Is htmx the way to Go?",
+      "published": "2023-02-09",
+      "url": "https://changelog.com/gotime/266"
+    },
+    {
+      "title": "How to ace that CFP",
+      "published": "2023-02-02",
+      "url": "https://changelog.com/gotime/265"
+    },
+    {
+      "title": "Long-term code maintenance",
+      "published": "2023-01-27",
+      "url": "https://changelog.com/gotime/264"
+    },
+    {
+      "title": "Who owns our code? Part 2",
+      "published": "2023-01-19",
+      "url": "https://changelog.com/gotime/263"
+    },
+    {
+      "title": "How Go helped save HealthCare.gov ♻️",
+      "published": "2023-01-12",
+      "url": "https://changelog.com/gotime/262"
+    },
+    {
+      "title": "A special New Year's fireside chat",
+      "published": "2023-01-05",
+      "url": "https://changelog.com/gotime/261"
+    },
+    {
+      "title": "Making Go more efficient",
+      "published": "2022-12-15",
+      "url": "https://changelog.com/gotime/260"
+    },
+    {
+      "title": "Hacking with Go: Part 3",
+      "published": "2022-12-08",
+      "url": "https://changelog.com/gotime/259"
+    },
+    {
+      "title": "To TDD or not to TDD",
+      "published": "2022-12-01",
+      "url": "https://changelog.com/gotime/258"
+    },
+    {
+      "title": "How Pinterest delivers software at scale",
+      "published": "2022-11-24",
+      "url": "https://changelog.com/gotime/257"
+    },
+    {
+      "title": "gRPC & protocol buffers",
+      "published": "2022-11-17",
+      "url": "https://changelog.com/gotime/256"
+    },
+    {
+      "title": "Debugging Go",
+      "published": "2022-11-10",
+      "url": "https://changelog.com/gotime/255"
+    },
+    {
+      "title": "Go in medicine & biology",
+      "published": "2022-11-04",
+      "url": "https://changelog.com/gotime/254"
+    },
+    {
+      "title": "Spooky stories to scare devs 👻",
+      "published": "2022-10-27",
+      "url": "https://changelog.com/gotime/253"
+    },
+    {
+      "title": "Who owns our code?",
+      "published": "2022-10-20",
+      "url": "https://changelog.com/gotime/252"
+    },
+    {
+      "title": "Hacking with Go: Part 2",
+      "published": "2022-10-13",
+      "url": "https://changelog.com/gotime/251"
+    },
+    {
+      "title": "Mat's GopherCon EU diary",
+      "published": "2022-10-07",
+      "url": "https://changelog.com/gotime/250"
+    },
+    {
+      "title": "Functional programming with generics?",
+      "published": "2022-09-30",
+      "url": "https://changelog.com/gotime/249"
+    },
+    {
+      "title": "Engineering interview tips & tricks",
+      "published": "2022-09-22",
+      "url": "https://changelog.com/gotime/248"
+    },
+    {
+      "title": "Stay agile out there",
+      "published": "2022-09-15",
+      "url": "https://changelog.com/gotime/247"
+    },
+    {
+      "title": "Avoiding bloat",
+      "published": "2022-09-08",
+      "url": "https://changelog.com/gotime/246"
+    },
+    {
+      "title": "Inside GopherCon",
+      "published": "2022-09-01",
+      "url": "https://changelog.com/gotime/245"
+    },
+    {
+      "title": "The art of the PR: Part 2",
+      "published": "2022-08-27",
+      "url": "https://changelog.com/gotime/244"
+    },
+    {
+      "title": "The art of the PR: Part 1",
+      "published": "2022-08-18",
+      "url": "https://changelog.com/gotime/243"
+    },
+    {
+      "title": "The pain of dependency management",
+      "published": "2022-08-11",
+      "url": "https://changelog.com/gotime/242"
+    },
+    {
+      "title": "Gophers Say! GopherCon EU Edition",
+      "published": "2022-08-04",
+      "url": "https://changelog.com/gotime/241"
+    },
+    {
+      "title": "What's new in Go 1.19",
+      "published": "2022-07-28",
+      "url": "https://changelog.com/gotime/240"
+    },
+    {
+      "title": "Go for beginners ♻️",
+      "published": "2022-07-21",
+      "url": "https://changelog.com/gotime/239"
+    },
+    {
+      "title": "Might Go actually be OOP?",
+      "published": "2022-07-14",
+      "url": "https://changelog.com/gotime/238"
+    },
+    {
+      "title": "Go tooling ♻️",
+      "published": "2022-07-07",
+      "url": "https://changelog.com/gotime/237"
+    },
+    {
+      "title": "Thoughts on velocity",
+      "published": "2022-06-30",
+      "url": "https://changelog.com/gotime/236"
+    },
+    {
+      "title": "2053: A Go Odyssey",
+      "published": "2022-06-23",
+      "url": "https://changelog.com/gotime/235"
+    },
+    {
+      "title": "Observability in the wild: strategies that work",
+      "published": "2022-06-16",
+      "url": "https://changelog.com/gotime/234"
+    },
+    {
+      "title": "Going through the news",
+      "published": "2022-06-09",
+      "url": "https://changelog.com/gotime/233"
+    },
+    {
+      "title": "The myth of incremental progress",
+      "published": "2022-06-02",
+      "url": "https://changelog.com/gotime/232"
+    },
+    {
+      "title": "Berlin's transition to Go",
+      "published": "2022-05-26",
+      "url": "https://changelog.com/gotime/231"
+    },
+    {
+      "title": "Revisiting Caddy",
+      "published": "2022-05-19",
+      "url": "https://changelog.com/gotime/230"
+    },
+    {
+      "title": "What to do when projects get big and messy",
+      "published": "2022-05-12",
+      "url": "https://changelog.com/gotime/229"
+    },
+    {
+      "title": "Go and PHP sitting in a tree...",
+      "published": "2022-05-05",
+      "url": "https://changelog.com/gotime/228"
+    },
+    {
+      "title": "Analyzing static analysis",
+      "published": "2022-04-28",
+      "url": "https://changelog.com/gotime/227"
+    },
+    {
+      "title": "Instrumentation for gophers",
+      "published": "2022-04-21",
+      "url": "https://changelog.com/gotime/226"
+    },
+    {
+      "title": "Go code organization best practices",
+      "published": "2022-04-14",
+      "url": "https://changelog.com/gotime/225"
+    },
+    {
+      "title": "Answering questions for the Go-curious",
+      "published": "2022-04-07",
+      "url": "https://changelog.com/gotime/224"
+    },
+    {
+      "title": "How can we prevent legacy from creeping in?",
+      "published": "2022-03-31",
+      "url": "https://changelog.com/gotime/223"
+    },
+    {
+      "title": "Making the command line glamorous",
+      "published": "2022-03-25",
+      "url": "https://changelog.com/gotime/222"
+    },
+    {
+      "title": "Mastering Go",
+      "published": "2022-03-17",
+      "url": "https://changelog.com/gotime/221"
+    },
+    {
+      "title": "Bob Logblaw Log Blog",
+      "published": "2022-03-10",
+      "url": "https://changelog.com/gotime/220"
+    },
+    {
+      "title": "Why immutable databases?",
+      "published": "2022-03-03",
+      "url": "https://changelog.com/gotime/219"
+    },
+    {
+      "title": "Going with GraphQL",
+      "published": "2022-02-24",
+      "url": "https://changelog.com/gotime/218"
+    },
+    {
+      "title": "The *other* features in Go 1.18",
+      "published": "2022-02-17",
+      "url": "https://changelog.com/gotime/217"
+    },
+    {
+      "title": "Building and using APIs with Go",
+      "published": "2022-02-10",
+      "url": "https://changelog.com/gotime/216"
+    },
+    {
+      "title": "MLOps in Go",
+      "published": "2022-02-03",
+      "url": "https://changelog.com/gotime/215"
+    },
+    {
+      "title": "Migrations without migraines",
+      "published": "2022-01-27",
+      "url": "https://changelog.com/gotime/214"
+    },
+    {
+      "title": "AI-driven development in Go",
+      "published": "2022-01-20",
+      "url": "https://changelog.com/gotime/213"
+    },
+    {
+      "title": "Go beyond work",
+      "published": "2022-01-13",
+      "url": "https://changelog.com/gotime/212"
+    },
+    {
+      "title": "Gophers Say! GopherCon Edition",
+      "published": "2022-01-06",
+      "url": "https://changelog.com/gotime/211"
+    },
+    {
+      "title": "The funny bits from 2021",
+      "published": "2022-01-03",
+      "url": "https://changelog.com/gotime/funny-bits-2021"
+    },
+    {
+      "title": "Mat asks the Go Team anything",
+      "published": "2021-12-16",
+      "url": "https://changelog.com/gotime/210"
+    },
+    {
+      "title": "Coding Go in the blind",
+      "published": "2021-12-09",
+      "url": "https://changelog.com/gotime/209"
+    },
+    {
+      "title": "Our first decade with Go",
+      "published": "2021-12-02",
+      "url": "https://changelog.com/gotime/208"
+    },
+    {
+      "title": "Maintenance in the open",
+      "published": "2021-11-25",
+      "url": "https://changelog.com/gotime/207"
+    },
+    {
+      "title": "Eventually consistent (managing data at scale)",
+      "published": "2021-11-18",
+      "url": "https://changelog.com/gotime/206"
+    },
+    {
+      "title": "Hacking with Go: Part 1",
+      "published": "2021-11-11",
+      "url": "https://changelog.com/gotime/205"
+    },
+    {
+      "title": "Discussing Go's annual developer survey",
+      "published": "2021-11-04",
+      "url": "https://changelog.com/gotime/204"
+    },
+    {
+      "title": "Just about managing",
+      "published": "2021-10-28",
+      "url": "https://changelog.com/gotime/203"
+    },
+    {
+      "title": "Maintaining ourselves",
+      "published": "2021-10-21",
+      "url": "https://changelog.com/gotime/202"
+    },
+    {
+      "title": "eBPF and Go",
+      "published": "2021-10-14",
+      "url": "https://changelog.com/gotime/201"
+    },
+    {
+      "title": "Gophers Say What!?",
+      "published": "2021-10-07",
+      "url": "https://changelog.com/gotime/200"
+    },
+    {
+      "title": "Go on hardware: TinyGo in the wild",
+      "published": "2021-09-30",
+      "url": "https://changelog.com/gotime/199"
+    },
+    {
+      "title": "The little known team that keeps Go going",
+      "published": "2021-09-23",
+      "url": "https://changelog.com/gotime/198"
+    },
+    {
+      "title": "Books that teach Go",
+      "published": "2021-09-16",
+      "url": "https://changelog.com/gotime/197"
+    },
+    {
+      "title": "Building actually maintainable software",
+      "published": "2021-09-09",
+      "url": "https://changelog.com/gotime/196"
+    },
+    {
+      "title": "To build, or to buy, that is the question",
+      "published": "2021-09-02",
+      "url": "https://changelog.com/gotime/195"
+    },
+    {
+      "title": "Don't forget about memory management",
+      "published": "2021-08-26",
+      "url": "https://changelog.com/gotime/194"
+    },
+    {
+      "title": "Caddy V2",
+      "published": "2021-08-19",
+      "url": "https://changelog.com/gotime/193"
+    },
+    {
+      "title": "Data streaming and Benthos",
+      "published": "2021-08-12",
+      "url": "https://changelog.com/gotime/192"
+    },
+    {
+      "title": "Opening up the opinion box",
+      "published": "2021-08-05",
+      "url": "https://changelog.com/gotime/191"
+    },
+    {
+      "title": "How to make mistakes in Go",
+      "published": "2021-07-29",
+      "url": "https://changelog.com/gotime/190"
+    },
+    {
+      "title": "Do devs need a product manager?",
+      "published": "2021-07-22",
+      "url": "https://changelog.com/gotime/189"
+    },
+    {
+      "title": "SIV and the V2+ issue",
+      "published": "2021-07-15",
+      "url": "https://changelog.com/gotime/188"
+    },
+    {
+      "title": "Fuzzing in the standard library",
+      "published": "2021-07-08",
+      "url": "https://changelog.com/gotime/187"
+    },
+    {
+      "title": "Pop quiz time! 😱",
+      "published": "2021-07-01",
+      "url": "https://changelog.com/gotime/186"
+    },
+    {
+      "title": "Giving TDD a Go",
+      "published": "2021-06-24",
+      "url": "https://changelog.com/gotime/185"
+    },
+    {
+      "title": "All about Porter",
+      "published": "2021-06-17",
+      "url": "https://changelog.com/gotime/184"
+    },
+    {
+      "title": "Using Go in unusual ways",
+      "published": "2021-06-10",
+      "url": "https://changelog.com/gotime/183"
+    },
+    {
+      "title": "Go Battlesnake Go!",
+      "published": "2021-06-03",
+      "url": "https://changelog.com/gotime/182"
+    },
+    {
+      "title": "Building for Ethereum in Go",
+      "published": "2021-05-27",
+      "url": "https://changelog.com/gotime/181"
+    },
+    {
+      "title": "Are frameworks getting an Encore?",
+      "published": "2021-05-20",
+      "url": "https://changelog.com/gotime/180"
+    },
+    {
+      "title": "Event-driven systems",
+      "published": "2021-05-13",
+      "url": "https://changelog.com/gotime/179"
+    },
+    {
+      "title": "What makes wonderful workshops?",
+      "published": "2021-05-06",
+      "url": "https://changelog.com/gotime/178"
+    },
+    {
+      "title": "Building startups with Go",
+      "published": "2021-04-29",
+      "url": "https://changelog.com/gotime/177"
+    },
+    {
+      "title": "TCP & UDP",
+      "published": "2021-04-22",
+      "url": "https://changelog.com/gotime/176"
+    },
+    {
+      "title": "The ultimate guide to crafting your GopherCon proposal",
+      "published": "2021-04-15",
+      "url": "https://changelog.com/gotime/175"
+    },
+    {
+      "title": "Trials and tribulations of testing in Go",
+      "published": "2021-04-08",
+      "url": "https://changelog.com/gotime/174"
+    },
+    {
+      "title": "Releasing with (and without) GoReleaser",
+      "published": "2021-04-01",
+      "url": "https://changelog.com/gotime/173"
+    },
+    {
+      "title": "Design philosophy",
+      "published": "2021-03-25",
+      "url": "https://changelog.com/gotime/172"
+    },
+    {
+      "title": "go:embed",
+      "published": "2021-03-18",
+      "url": "https://changelog.com/gotime/171"
+    },
+    {
+      "title": "Talkin' 'bout code generation",
+      "published": "2021-03-11",
+      "url": "https://changelog.com/gotime/170"
+    },
+    {
+      "title": "Go at Clever",
+      "published": "2021-03-04",
+      "url": "https://changelog.com/gotime/169"
+    },
+    {
+      "title": "Indecent (language) Proposals: Part 2",
+      "published": "2021-02-25",
+      "url": "https://changelog.com/gotime/168"
+    },
+    {
+      "title": "The art of reading the docs",
+      "published": "2021-02-18",
+      "url": "https://changelog.com/gotime/167"
+    },
+    {
+      "title": "Indecent (language) Proposals: Part 1",
+      "published": "2021-02-11",
+      "url": "https://changelog.com/gotime/166"
+    },
+    {
+      "title": "When Go programs end",
+      "published": "2021-02-04",
+      "url": "https://changelog.com/gotime/165"
+    },
+    {
+      "title": "Why writing is important",
+      "published": "2021-01-28",
+      "url": "https://changelog.com/gotime/164"
+    },
+    {
+      "title": "CUE: Configuration superpowers for everyone",
+      "published": "2021-01-21",
+      "url": "https://changelog.com/gotime/163"
+    },
+    {
+      "title": "We're talkin' CI/CD",
+      "published": "2021-01-14",
+      "url": "https://changelog.com/gotime/162"
+    },
+    {
+      "title": "Go Panic!",
+      "published": "2021-01-07",
+      "url": "https://changelog.com/gotime/161"
+    },
+    {
+      "title": "Go in other spoken languages",
+      "published": "2020-12-17",
+      "url": "https://changelog.com/gotime/160"
+    },
+    {
+      "title": "What to expect when you’re NOT expecting",
+      "published": "2020-12-10",
+      "url": "https://changelog.com/gotime/159"
+    },
+    {
+      "title": "The engineer who changed the game",
+      "published": "2020-12-04",
+      "url": "https://changelog.com/gotime/takeover-clh-s6e1"
+    },
+    {
+      "title": "Play with Go",
+      "published": "2020-12-03",
+      "url": "https://changelog.com/gotime/158"
+    },
+    {
+      "title": "The secret life of gophers",
+      "published": "2020-11-26",
+      "url": "https://changelog.com/gotime/157"
+    },
+    {
+      "title": "When distributed systems Go wrong",
+      "published": "2020-11-19",
+      "url": "https://changelog.com/gotime/156"
+    },
+    {
+      "title": "What would you remove from Go?",
+      "published": "2020-11-12",
+      "url": "https://changelog.com/gotime/155"
+    },
+    {
+      "title": "How Go helped save HealthCare.gov",
+      "published": "2020-11-05",
+      "url": "https://changelog.com/gotime/154"
+    },
+    {
+      "title": "GitHub's Go-powered CLI",
+      "published": "2020-10-29",
+      "url": "https://changelog.com/gotime/153"
+    },
+    {
+      "title": "#GoVirCon",
+      "published": "2020-10-22",
+      "url": "https://changelog.com/gotime/152"
+    },
+    {
+      "title": "Introducing your team to Go",
+      "published": "2020-10-15",
+      "url": "https://changelog.com/gotime/151"
+    },
+    {
+      "title": "Cloud Native Go",
+      "published": "2020-10-08",
+      "url": "https://changelog.com/gotime/150"
+    },
+    {
+      "title": "There's a lot to learn about teaching Go",
+      "published": "2020-10-01",
+      "url": "https://changelog.com/gotime/149"
+    },
+    {
+      "title": "The one with Brad Fitzpatrick",
+      "published": "2020-09-24",
+      "url": "https://changelog.com/gotime/148"
+    },
+    {
+      "title": "Community Q&A",
+      "published": "2020-09-17",
+      "url": "https://changelog.com/gotime/147"
+    },
+    {
+      "title": "Hits of the Summer",
+      "published": "2020-09-10",
+      "url": "https://changelog.com/gotime/146"
+    },
+    {
+      "title": "Füźžįñg",
+      "published": "2020-09-03",
+      "url": "https://changelog.com/gotime/145"
+    },
+    {
+      "title": "Building desktop apps with Go + web tech",
+      "published": "2020-08-27",
+      "url": "https://changelog.com/gotime/144"
+    },
+    {
+      "title": "context.Context",
+      "published": "2020-08-20",
+      "url": "https://changelog.com/gotime/143"
+    },
+    {
+      "title": "All about that infra(structure)",
+      "published": "2020-08-13",
+      "url": "https://changelog.com/gotime/142"
+    },
+    {
+      "title": "{\"encoding\":\"json\"}",
+      "published": "2020-08-06",
+      "url": "https://changelog.com/gotime/141"
+    },
+    {
+      "title": "The latest on Generics",
+      "published": "2020-07-30",
+      "url": "https://changelog.com/gotime/140"
+    },
+    {
+      "title": "The future of Testify",
+      "published": "2020-07-23",
+      "url": "https://changelog.com/gotime/139"
+    },
+    {
+      "title": "Your first week with Go",
+      "published": "2020-07-16",
+      "url": "https://changelog.com/gotime/138"
+    },
+    {
+      "title": "Focusing in on PostgreSQL",
+      "published": "2020-07-09",
+      "url": "https://changelog.com/gotime/137"
+    },
+    {
+      "title": "Go in production at Pace.dev",
+      "published": "2020-07-02",
+      "url": "https://changelog.com/gotime/136"
+    },
+    {
+      "title": "We have regrets",
+      "published": "2020-06-25",
+      "url": "https://changelog.com/gotime/135"
+    },
+    {
+      "title": "Beginnings",
+      "published": "2020-06-19",
+      "url": "https://changelog.com/gotime/134"
+    },
+    {
+      "title": "Reflection and meta programming",
+      "published": "2020-06-11",
+      "url": "https://changelog.com/gotime/133"
+    },
+    {
+      "title": "The trouble with databases",
+      "published": "2020-05-28",
+      "url": "https://changelog.com/gotime/132"
+    },
+    {
+      "title": "On community and safety",
+      "published": "2020-05-21",
+      "url": "https://changelog.com/gotime/131"
+    },
+    {
+      "title": "Challenges of distributed messaging systems",
+      "published": "2020-05-14",
+      "url": "https://changelog.com/gotime/130"
+    },
+    {
+      "title": "Black Hat Go",
+      "published": "2020-05-07",
+      "url": "https://changelog.com/gotime/129"
+    },
+    {
+      "title": "Immediate mode GUIs",
+      "published": "2020-04-30",
+      "url": "https://changelog.com/gotime/128"
+    },
+    {
+      "title": "WebRTC in Go",
+      "published": "2020-04-23",
+      "url": "https://changelog.com/gotime/127"
+    },
+    {
+      "title": "The monolith vs microservices debate",
+      "published": "2020-04-16",
+      "url": "https://changelog.com/gotime/126"
+    },
+    {
+      "title": "Organizing for the community",
+      "published": "2020-04-09",
+      "url": "https://changelog.com/gotime/125"
+    },
+    {
+      "title": "Enterprise Go?",
+      "published": "2020-04-02",
+      "url": "https://changelog.com/gotime/124"
+    },
+    {
+      "title": "WFH",
+      "published": "2020-03-26",
+      "url": "https://changelog.com/gotime/123"
+    },
+    {
+      "title": "The Zen of Go",
+      "published": "2020-03-19",
+      "url": "https://changelog.com/gotime/122"
+    },
+    {
+      "title": "It is Go Time!",
+      "published": "2020-03-16",
+      "url": "https://changelog.com/gotime/trailer-1"
+    },
+    {
+      "title": "Pow! Pow! Power tools!",
+      "published": "2020-03-12",
+      "url": "https://changelog.com/gotime/121"
+    },
+    {
+      "title": "On the verge of new AI possibilities",
+      "published": "2020-03-05",
+      "url": "https://changelog.com/gotime/120"
+    },
+    {
+      "title": "Stop the presses",
+      "published": "2020-02-27",
+      "url": "https://changelog.com/gotime/119"
+    },
+    {
+      "title": "Quack like a wha-?",
+      "published": "2020-02-20",
+      "url": "https://changelog.com/gotime/118"
+    },
+    {
+      "title": "Telemetry and the art of measuring what matters",
+      "published": "2020-02-13",
+      "url": "https://changelog.com/gotime/117"
+    },
+    {
+      "title": "Unusual uses for Go: GUIs",
+      "published": "2020-02-06",
+      "url": "https://changelog.com/gotime/116"
+    },
+    {
+      "title": "Grokking Go.dev",
+      "published": "2020-01-30",
+      "url": "https://changelog.com/gotime/115"
+    },
+    {
+      "title": "Cloudy with a chance of Kelsey Hightower",
+      "published": "2020-01-21",
+      "url": "https://changelog.com/gotime/114"
+    },
+    {
+      "title": "Go at Heroku",
+      "published": "2020-01-16",
+      "url": "https://changelog.com/gotime/takeover-codeish-46"
+    },
+    {
+      "title": "Go at Cloudflare",
+      "published": "2020-01-14",
+      "url": "https://changelog.com/gotime/113"
+    },
+    {
+      "title": "defer GoTime()",
+      "published": "2020-01-07",
+      "url": "https://changelog.com/gotime/112"
+    },
+    {
+      "title": "Bugs are in the air",
+      "published": "2019-12-24",
+      "url": "https://changelog.com/gotime/111"
+    },
+    {
+      "title": "The fireside edition 🔥",
+      "published": "2019-12-17",
+      "url": "https://changelog.com/gotime/110"
+    },
+    {
+      "title": "Concurrency, parallelism, and async design",
+      "published": "2019-12-10",
+      "url": "https://changelog.com/gotime/109"
+    },
+    {
+      "title": "Graph databases",
+      "published": "2019-11-27",
+      "url": "https://changelog.com/gotime/108"
+    },
+    {
+      "title": "Compilers and interpreters",
+      "published": "2019-11-22",
+      "url": "https://changelog.com/gotime/107"
+    },
+    {
+      "title": "Code editors and language servers",
+      "published": "2019-11-11",
+      "url": "https://changelog.com/gotime/106"
+    },
+    {
+      "title": "Kubernetes and Cloud Native",
+      "published": "2019-11-01",
+      "url": "https://changelog.com/gotime/105"
+    },
+    {
+      "title": "Building search tools in Go",
+      "published": "2019-10-24",
+      "url": "https://changelog.com/gotime/104"
+    },
+    {
+      "title": "All about caching",
+      "published": "2019-10-17",
+      "url": "https://changelog.com/gotime/103"
+    },
+    {
+      "title": "On application design",
+      "published": "2019-10-09",
+      "url": "https://changelog.com/gotime/102"
+    },
+    {
+      "title": "Security for Gophers",
+      "published": "2019-10-03",
+      "url": "https://changelog.com/gotime/101"
+    },
+    {
+      "title": "Creating the Go programming language",
+      "published": "2019-09-25",
+      "url": "https://changelog.com/gotime/100"
+    },
+    {
+      "title": "Hiring and nurturing junior developers",
+      "published": "2019-09-20",
+      "url": "https://changelog.com/gotime/99"
+    },
+    {
+      "title": "Generics in Go",
+      "published": "2019-09-11",
+      "url": "https://changelog.com/gotime/98"
+    },
+    {
+      "title": "LIVE from Gophercon UK",
+      "published": "2019-09-04",
+      "url": "https://changelog.com/gotime/97"
+    },
+    {
+      "title": "Serverless and Go",
+      "published": "2019-09-03",
+      "url": "https://changelog.com/gotime/96"
+    },
+    {
+      "title": "The infrastructure effect: COBOL and Go",
+      "published": "2019-08-27",
+      "url": "https://changelog.com/gotime/takeover-clh-s3e5"
+    },
+    {
+      "title": "The importance of representation",
+      "published": "2019-08-20",
+      "url": "https://changelog.com/gotime/95"
+    },
+    {
+      "title": "Structuring your Go apps",
+      "published": "2019-08-09",
+      "url": "https://changelog.com/gotime/94"
+    },
+    {
+      "title": "If you've never been to GopherCon...",
+      "published": "2019-08-05",
+      "url": "https://changelog.com/gotime/93"
+    },
+    {
+      "title": "Go is eating the world of software",
+      "published": "2019-07-23",
+      "url": "https://changelog.com/gotime/the-changelog-354"
+    },
+    {
+      "title": "Web development in Go",
+      "published": "2019-07-16",
+      "url": "https://changelog.com/gotime/92"
+    },
+    {
+      "title": "if err != nil",
+      "published": "2019-07-11",
+      "url": "https://changelog.com/gotime/91"
+    },
+    {
+      "title": "Go tooling",
+      "published": "2019-07-03",
+      "url": "https://changelog.com/gotime/90"
+    },
+    {
+      "title": "The art of execution",
+      "published": "2019-06-12",
+      "url": "https://changelog.com/gotime/89"
+    },
+    {
+      "title": "Go 💚 open source",
+      "published": "2019-06-07",
+      "url": "https://changelog.com/gotime/88"
+    },
+    {
+      "title": "Functional programming?",
+      "published": "2019-05-29",
+      "url": "https://changelog.com/gotime/87"
+    },
+    {
+      "title": "Go modules and the Athens project",
+      "published": "2019-05-22",
+      "url": "https://changelog.com/gotime/86"
+    },
+    {
+      "title": "Go for beginners",
+      "published": "2019-05-15",
+      "url": "https://changelog.com/gotime/85"
+    },
+    {
+      "title": "Hardware hacking with TinyGo and Gopherbot",
+      "published": "2019-05-08",
+      "url": "https://changelog.com/gotime/84"
+    },
+    {
+      "title": "It's time to talk about testing",
+      "published": "2019-05-02",
+      "url": "https://changelog.com/gotime/83"
+    },
+    {
+      "title": "Hiring and job interviews",
+      "published": "2019-04-23",
+      "url": "https://changelog.com/gotime/82"
+    },
+    {
+      "title": "All about APIs!",
+      "published": "2019-04-16",
+      "url": "https://changelog.com/gotime/81"
+    },
+    {
+      "title": "Go 2 and the future of Go",
+      "published": "2019-04-09",
+      "url": "https://changelog.com/gotime/80"
+    },
+    {
+      "title": "New Go branding strategy",
+      "published": "2018-05-07",
+      "url": "https://changelog.com/gotime/79"
+    },
+    {
+      "title": "Hacking drones with Go",
+      "published": "2018-04-30",
+      "url": "https://changelog.com/gotime/78"
+    },
+    {
+      "title": "BONUS – Go and WebAssembly (Wasm)",
+      "published": "2018-04-25",
+      "url": "https://changelog.com/gotime/bonus-77"
+    },
+    {
+      "title": "Dependencies and the future of Go",
+      "published": "2018-04-23",
+      "url": "https://changelog.com/gotime/77"
+    },
+    {
+      "title": "Building a distributed index with Go",
+      "published": "2018-04-13",
+      "url": "https://changelog.com/gotime/76"
+    },
+    {
+      "title": "GoLand IDE and managing Gopher Slack",
+      "published": "2018-04-06",
+      "url": "https://changelog.com/gotime/75"
+    },
+    {
+      "title": "Gophercises and creating content for Gophers",
+      "published": "2018-03-30",
+      "url": "https://changelog.com/gotime/74"
+    },
+    {
+      "title": "CockroachDB and distributed databases in Go",
+      "published": "2018-03-23",
+      "url": "https://changelog.com/gotime/73"
+    },
+    {
+      "title": "Learning and teaching Go",
+      "published": "2018-03-22",
+      "url": "https://changelog.com/gotime/72"
+    },
+    {
+      "title": "Go is for everyone",
+      "published": "2018-03-22",
+      "url": "https://changelog.com/gotime/71"
+    },
+    {
+      "title": "From Russia with love",
+      "published": "2018-03-16",
+      "url": "https://changelog.com/gotime/70"
+    },
+    {
+      "title": "Golang Flow, FaaS, and Buffalo",
+      "published": "2018-03-09",
+      "url": "https://changelog.com/gotime/69"
+    },
+    {
+      "title": "SPECIAL — Ask us anything! (pt. 2)",
+      "published": "2018-03-01",
+      "url": "https://changelog.com/gotime/68"
+    },
+    {
+      "title": "Supporting the Go community",
+      "published": "2018-02-23",
+      "url": "https://changelog.com/gotime/67"
+    },
+    {
+      "title": "Performance, fuzzing & magic",
+      "published": "2018-02-16",
+      "url": "https://changelog.com/gotime/66"
+    },
+    {
+      "title": "GopherCon Brazil & Genetics",
+      "published": "2018-02-06",
+      "url": "https://changelog.com/gotime/65"
+    },
+    {
+      "title": "InfluxDB & IoT Data",
+      "published": "2018-01-29",
+      "url": "https://changelog.com/gotime/64"
+    },
+    {
+      "title": "Changelog Takeover — K8s and Virtual Kubelet",
+      "published": "2018-01-15",
+      "url": "https://changelog.com/gotime/63"
+    },
+    {
+      "title": "Building Blocks",
+      "published": "2017-12-01",
+      "url": "https://changelog.com/gotime/62"
+    },
+    {
+      "title": "Loggregator, gRPC, Diodes",
+      "published": "2017-11-25",
+      "url": "https://changelog.com/gotime/61"
+    },
+    {
+      "title": "Why WADL When You Can Swagger?",
+      "published": "2017-11-17",
+      "url": "https://changelog.com/gotime/60"
+    },
+    {
+      "title": "Improved Improved Improved (i3)",
+      "published": "2017-11-10",
+      "url": "https://changelog.com/gotime/59"
+    },
+    {
+      "title": "Full-time Open Source",
+      "published": "2017-11-03",
+      "url": "https://changelog.com/gotime/58"
+    },
+    {
+      "title": "Presenting a Pragmatic Perspective",
+      "published": "2017-09-15",
+      "url": "https://changelog.com/gotime/57"
+    },
+    {
+      "title": "Container Security and Demystifying Complexity",
+      "published": "2017-09-08",
+      "url": "https://changelog.com/gotime/56"
+    },
+    {
+      "title": "Dep, Cross-platform, and Getting Started",
+      "published": "2017-08-31",
+      "url": "https://changelog.com/gotime/55"
+    },
+    {
+      "title": "Go at Walmart (and Scale)",
+      "published": "2017-08-18",
+      "url": "https://changelog.com/gotime/54"
+    },
+    {
+      "title": "GopherCon 2017: A Retrospective",
+      "published": "2017-08-18",
+      "url": "https://changelog.com/gotime/53"
+    },
+    {
+      "title": "All About The Go Compiler",
+      "published": "2017-08-07",
+      "url": "https://changelog.com/gotime/52"
+    },
+    {
+      "title": "Infosec research and app security",
+      "published": "2017-07-19",
+      "url": "https://changelog.com/gotime/51"
+    },
+    {
+      "title": "Bringing Kubernetes to Azure",
+      "published": "2017-07-06",
+      "url": "https://changelog.com/gotime/50"
+    },
+    {
+      "title": "Adventures in VS Code",
+      "published": "2017-06-13",
+      "url": "https://changelog.com/gotime/49"
+    },
+    {
+      "title": "Restic and backups (done right)",
+      "published": "2017-06-01",
+      "url": "https://changelog.com/gotime/48"
+    },
+    {
+      "title": "Docker, Moby, Containers",
+      "published": "2017-05-25",
+      "url": "https://changelog.com/gotime/47"
+    },
+    {
+      "title": "Periph.io, Drivers, Hardware",
+      "published": "2017-05-12",
+      "url": "https://changelog.com/gotime/46"
+    },
+    {
+      "title": "SPECIAL — Ask Us Anything!",
+      "published": "2017-05-04",
+      "url": "https://changelog.com/gotime/45"
+    },
+    {
+      "title": "Go4 and Contributing to Go",
+      "published": "2017-04-27",
+      "url": "https://changelog.com/gotime/44"
+    },
+    {
+      "title": "Getting Better, Mentoring, Drawing Gophers",
+      "published": "2017-04-20",
+      "url": "https://changelog.com/gotime/43"
+    },
+    {
+      "title": "Race detection, firmware, production-grade Go",
+      "published": "2017-04-13",
+      "url": "https://changelog.com/gotime/42"
+    },
+    {
+      "title": "Distributed Messaging and Network Clients",
+      "published": "2017-04-06",
+      "url": "https://changelog.com/gotime/41"
+    },
+    {
+      "title": "Game Development and Rebuilding Microservices",
+      "published": "2017-03-31",
+      "url": "https://changelog.com/gotime/40"
+    },
+    {
+      "title": "Splice, Audio, Compassion",
+      "published": "2017-03-24",
+      "url": "https://changelog.com/gotime/39"
+    },
+    {
+      "title": "Go Developer Survey",
+      "published": "2017-03-16",
+      "url": "https://changelog.com/gotime/38"
+    },
+    {
+      "title": "Gobot, Hardware, Gatekeeping",
+      "published": "2017-03-09",
+      "url": "https://changelog.com/gotime/37"
+    },
+    {
+      "title": "Dependency Management, Semver, Community Consensus",
+      "published": "2017-03-02",
+      "url": "https://changelog.com/gotime/36"
+    },
+    {
+      "title": "Honeycomb, Complex Systems, Saving Sanity",
+      "published": "2017-02-23",
+      "url": "https://changelog.com/gotime/35"
+    },
+    {
+      "title": "Pachyderm, Provenance, Data Lakes",
+      "published": "2017-02-16",
+      "url": "https://changelog.com/gotime/34"
+    },
+    {
+      "title": "Gopherize.me, GitHub Stars, BitBar",
+      "published": "2017-02-09",
+      "url": "https://changelog.com/gotime/33"
+    },
+    {
+      "title": "Hellogopher, whosthere?",
+      "published": "2017-02-02",
+      "url": "https://changelog.com/gotime/32"
+    },
+    {
+      "title": "Go, Jocko, Kafka",
+      "published": "2017-01-26",
+      "url": "https://changelog.com/gotime/31"
+    },
+    {
+      "title": "Discussing Imposter Syndrome",
+      "published": "2017-01-19",
+      "url": "https://changelog.com/gotime/30"
+    },
+    {
+      "title": "Go and Buffalo Live from Dunkin' Donuts",
+      "published": "2017-01-12",
+      "url": "https://changelog.com/gotime/29"
+    },
+    {
+      "title": "Creating a programming language",
+      "published": "2016-12-23",
+      "url": "https://changelog.com/gotime/28"
+    },
+    {
+      "title": "The Go Compiler and Go 1.8",
+      "published": "2016-12-15",
+      "url": "https://changelog.com/gotime/27"
+    },
+    {
+      "title": "Teaching and Learning Go",
+      "published": "2016-12-14",
+      "url": "https://changelog.com/gotime/26"
+    },
+    {
+      "title": "Go Kit, Dependency Management, Microservices",
+      "published": "2016-12-13",
+      "url": "https://changelog.com/gotime/25"
+    },
+    {
+      "title": "Juju, Jujucharms, Gorram",
+      "published": "2016-11-10",
+      "url": "https://changelog.com/gotime/24"
+    },
+    {
+      "title": "Open Sourcing Chain's Developer Platform",
+      "published": "2016-11-03",
+      "url": "https://changelog.com/gotime/23"
+    },
+    {
+      "title": "Go work groups and hardware projects",
+      "published": "2016-10-27",
+      "url": "https://changelog.com/gotime/22"
+    },
+    {
+      "title": "Building a startup on Go",
+      "published": "2016-10-20",
+      "url": "https://changelog.com/gotime/21"
+    },
+    {
+      "title": "Kubernetes, Containers, Go",
+      "published": "2016-10-13",
+      "url": "https://changelog.com/gotime/20"
+    },
+    {
+      "title": "Programming Practices, Exercism, Open Source",
+      "published": "2016-10-06",
+      "url": "https://changelog.com/gotime/19"
+    },
+    {
+      "title": "Go in 5 Minutes & design patterns",
+      "published": "2016-09-22",
+      "url": "https://changelog.com/gotime/18"
+    },
+    {
+      "title": "Monorepos, Mentoring, Testing",
+      "published": "2016-09-15",
+      "url": "https://changelog.com/gotime/17"
+    },
+    {
+      "title": "SOLID Go Design",
+      "published": "2016-09-08",
+      "url": "https://changelog.com/gotime/16"
+    },
+    {
+      "title": "The Go Standard Library",
+      "published": "2016-09-01",
+      "url": "https://changelog.com/gotime/15"
+    },
+    {
+      "title": "Matt Holt on CaddyServer, the ACME Protocol, TLS",
+      "published": "2016-08-25",
+      "url": "https://changelog.com/gotime/14"
+    },
+    {
+      "title": "Francesc Campoy on GopherCon and understanding nil",
+      "published": "2016-08-18",
+      "url": "https://changelog.com/gotime/13"
+    },
+    {
+      "title": "Beyang Liu on Go at Sourcegraph and Writing Better Code",
+      "published": "2016-08-10",
+      "url": "https://changelog.com/gotime/12"
+    },
+    {
+      "title": "Jessie Frazelle on Maintaining Open Source, Docker, dotfiles",
+      "published": "2016-08-10",
+      "url": "https://changelog.com/gotime/11"
+    },
+    {
+      "title": "State of Go Survey and Go at Heroku",
+      "published": "2016-08-01",
+      "url": "https://changelog.com/gotime/10"
+    },
+    {
+      "title": "Scott Mansfield on Go at Netflix",
+      "published": "2016-07-28",
+      "url": "https://changelog.com/gotime/9"
+    },
+    {
+      "title": "Asim Aslam on Micro, the Go Microservice Toolkit",
+      "published": "2016-07-27",
+      "url": "https://changelog.com/gotime/8"
+    },
+    {
+      "title": "Raphaël Simon on goa, the Framework for Building Microservices",
+      "published": "2016-07-26",
+      "url": "https://changelog.com/gotime/7"
+    },
+    {
+      "title": "Bill Kennedy on Mechanical Sympathy",
+      "published": "2016-06-23",
+      "url": "https://changelog.com/gotime/6"
+    },
+    {
+      "title": "Sarah Adams on Test2Doc and Women Who Go",
+      "published": "2016-06-21",
+      "url": "https://changelog.com/gotime/5"
+    },
+    {
+      "title": "Go and Data Science",
+      "published": "2016-06-16",
+      "url": "https://changelog.com/gotime/4"
+    },
+    {
+      "title": "Early Go Adoption",
+      "published": "2016-06-10",
+      "url": "https://changelog.com/gotime/3"
+    },
+    {
+      "title": "Go Community Discussions",
+      "published": "2016-06-02",
+      "url": "https://changelog.com/gotime/2"
+    },
+    {
+      "title": "It's Go Time!",
+      "published": "2016-05-19",
+      "url": "https://changelog.com/gotime/1"
+    }
+  ]
+}

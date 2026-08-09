@@ -1,0 +1,3696 @@
+{
+  "show": "Software Engineering Radio",
+  "slug": "se-radio",
+  "appleId": 120906714,
+  "feedUrl": "https://rss.libsyn.com/shows/21070/destinations/23379.xml",
+  "homeUrl": "https://se-radio.net",
+  "canonicalPattern": "https://se-radio.net/YYYY/MM/episode-<n>-<slug>",
+  "episodeCount": 737,
+  "episodes": [
+    {
+      "title": "SE Radio 732: Jason Gorman on The Effective Use of AI For Software Development",
+      "published": "2026-08-05",
+      "url": "https://se-radio.net/2026/08/se-radio-732-jason-gorman-on-the-effective-use-of-ai-for-software-development/"
+    },
+    {
+      "title": "SE Radio 731: Sonali Varde on AI and the Engineering Manager Role",
+      "published": "2026-07-29",
+      "url": "https://se-radio.net/2026/07/se-radio-731-sonali-varde-on-ai-and-the-engineering-manager-role/"
+    },
+    {
+      "title": "SE Radio 730: Birgitta Boeckeler on Harness Engineering for AI Agents",
+      "published": "2026-07-22",
+      "url": "https://se-radio.net/2026/07/se-radio-730-birgitta-boeckeler-on-harness-engineering-for-ai-agents/"
+    },
+    {
+      "title": "SE Radio 729: Garth Mollett on AI Supply Chain Security",
+      "published": "2026-07-15",
+      "url": "https://se-radio.net/2026/07/se-radio-729-garth-mollett-on-ai-supply-chain-security/"
+    },
+    {
+      "title": "SE Radio 728: Clare Liguori on AWS Strands SDK for AI Agents",
+      "published": "2026-07-08",
+      "url": "https://se-radio.net/2026/07/se-radio-728-clare-liguori-on-aws-strand-sdk-for-ai-agents/"
+    },
+    {
+      "title": "SE Radio 727: Jeroen Janssens and Thijs Nieuwdorp on Using Polars",
+      "published": "2026-07-02",
+      "url": "https://se-radio.net/2026/07/se-radio-727-jeroen-janssens-and-thijs-nieuwdorp-on-using-polars/"
+    },
+    {
+      "title": "SE Radio 726: Scott Kingsley on the Swagger Ecosystem",
+      "published": "2026-06-24",
+      "url": "https://se-radio.net/2026/06/se-radio-726-scott-kingsley-on-the-swagger-ecosystem/"
+    },
+    {
+      "title": "SE Radio 725: Danny Yang and Sam Goldman on the Pyrefly Type Checker",
+      "published": "2026-06-18",
+      "url": "https://se-radio.net/2026/06/se-radio-725-danny-yang-and-sam-goldman-on-the-pyrefly-type-checker/"
+    },
+    {
+      "title": "SE Radio 724: Jure Leskovec on Relational Graph and Foundational Models",
+      "published": "2026-06-10",
+      "url": "https://se-radio.net/2026/06/se-radio-724-jure-leskovec-on-relational-graph-and-foundational-models/"
+    },
+    {
+      "title": "SE Radio 723: Dave Airlie on Linux Kernel Maintenance",
+      "published": "2026-06-03",
+      "url": "https://se-radio.net/2026/06/se-radio-723-dave-airlie-on-linux-kernel-maintenance/"
+    },
+    {
+      "title": "SE Radio 722: Dwayne McDaniel on the Engineering Challenges of Secrets Management",
+      "published": "2026-05-27",
+      "url": "https://se-radio.net/2026/05/se-radio-722-dwayne-mcdaniel-on-the-engineering-challenges-of-secrets-management/"
+    },
+    {
+      "title": "SE Radio 721: Rob Moffat on Risk-First Software Development",
+      "published": "2026-05-20",
+      "url": "https://se-radio.net/2026/05/se-radio-721-rob-moffat-on-risk-first-software-development/"
+    },
+    {
+      "title": "SE Radio 720: Martin Dilger on Understanding Eventsourcing",
+      "published": "2026-05-13",
+      "url": "https://se-radio.net/2026/05/se-radio-720-martin-dilger-on-understanding-eventsourcing/"
+    },
+    {
+      "title": "SE Radio 719: Birol Yildiz on Building an Agentic AI SRE",
+      "published": "2026-05-06",
+      "url": "https://se-radio.net/2026/05/se-radio-719-birol-yildiz-on-building-an-agentic-ai-sre/"
+    },
+    {
+      "title": "SE Radio 718: Will Sentance on JS Modernization",
+      "published": "2026-04-29",
+      "url": "https://se-radio.net/2026/04/se-radio-718-will-sentance-on-js-modernization/"
+    },
+    {
+      "title": "SE Radio 717: Eric Tschetter on Decoupling Observability",
+      "published": "2026-04-23",
+      "url": "https://se-radio.net/2026/04/se-radio-717-eric-tschetter-on-decoupling-observability/"
+    },
+    {
+      "title": "SE Radio 716: Martin Kleppmann Local-First Software",
+      "published": "2026-04-15",
+      "url": "https://se-radio.net/2026/04/se-radio-716-martin-kleppmann-local-first-software/"
+    },
+    {
+      "title": "SE Radio 715: Sahaj Garg on Designing for Ambiguity in Human Input",
+      "published": "2026-04-08",
+      "url": "https://se-radio.net/2026/04/se-radio-715-sahaj-garg-on-designing-for-ambiguity-in-human-input/"
+    },
+    {
+      "title": "SE Radio 714: Costa Alexoglou on Remote Pair Programming",
+      "published": "2026-04-01",
+      "url": "https://se-radio.net/2026/04/se-radio-714-costa-alexoglou-on-remote-pair-programming/"
+    },
+    {
+      "title": "SE Radio 713: Héctor Ramón Jiménez on Building a GUI library in Rust",
+      "published": "2026-03-25",
+      "url": "https://se-radio.net/2026/03/se-radio-713-hector-ramon-jimenez-on-building-a-gui-library-in-rust/"
+    },
+    {
+      "title": "SE Radio 712: Dan Lorenc on Sigstore",
+      "published": "2026-03-18",
+      "url": "https://se-radio.net/2026/03/se-radio-712-dan-lorenc-on-sigstore/"
+    },
+    {
+      "title": "SE Radio 711: Scott Hanselman on AI-Assisted Development Tools",
+      "published": "2026-03-11",
+      "url": "https://se-radio.net/2026/03/se-radio-711-scott-hanselman-on-ai-assisted-development-tools/"
+    },
+    {
+      "title": "SE Radio 710: Marc Brooker on Spec-Driven AI Dev",
+      "published": "2026-03-04",
+      "url": "https://se-radio.net/2026/03/se-radio-710-marc-brooker-on-spec-driven-ai-dev/"
+    },
+    {
+      "title": "SE Radio 709: Bryan Cantrill on the Data Center Control Plane",
+      "published": "2026-02-26",
+      "url": "https://se-radio.net/2026/02/se-radio-709-bryan-cantrill-on-the-data-center-control-plane/"
+    },
+    {
+      "title": "SE Radio 708: Jens Gustedt on C in 2026",
+      "published": "2026-02-19",
+      "url": "https://se-radio.net/2026/02/se-radio-708-jens-gustedt-on-c-in-2026/"
+    },
+    {
+      "title": "SE Radio 707: Subhajit Paul on ERP Automation and AI",
+      "published": "2026-02-12",
+      "url": "https://se-radio.net/2026/02/se-radio-707-subhajit-paul-on-erp-automation-and-ai/"
+    },
+    {
+      "title": "SE Radio 706: Yechezkel \"Chez\" Rabinovich on Observability Tool Migration Techniques",
+      "published": "2026-02-04",
+      "url": "https://se-radio.net/2026/02/se-radio-706-yechezkel-chez-rabinovich-on-observability-tool-migration-techniques/"
+    },
+    {
+      "title": "SE Radio 705: Murat Erder and Eoin Woods on Continuous Architecture",
+      "published": "2026-01-27",
+      "url": "https://se-radio.net/2026/01/se-radio-705-murat-erder-and-eoin-woods-on-continuous-architecture/"
+    },
+    {
+      "title": "SE Radio 704: Sriram Panyam on System Design Interviews",
+      "published": "2026-01-21",
+      "url": "https://se-radio.net/2026/01/se-radio-704-sriram-panyam-on-system-design-interviews/"
+    },
+    {
+      "title": "SE Radio 703: Sahaj Garg on Low Latency AI",
+      "published": "2026-01-14",
+      "url": "https://se-radio.net/2026/01/se-radio-702-derick-schaefer-on-modern-clis/"
+    },
+    {
+      "title": "SE Radio 702: Derick Schaefer on Modern CLIs",
+      "published": "2026-01-07",
+      "url": "https://se-radio.net/2026/01/se-radio-702-derick-schaefer-on-modern-clis/"
+    },
+    {
+      "title": "SE Radio 701: Max Guernsey, III and Luniel de Beer on Readiness in Software Engineering",
+      "published": "2025-12-30",
+      "url": "https://se-radio.net/2025/12/se-radio-701-max-guernsey-iii-and-luniel-de-beeron-on-readiness-in-software-engineering/"
+    },
+    {
+      "title": "SE Radio 700: Mojtaba Sarooghi on Waiting Rooms for High-Traffic Events",
+      "published": "2025-12-23",
+      "url": "https://se-radio.net/2025/12/se-radio-700-mojtaba-sarooghi-on-waiting-rooms-for-high-traffic-events/"
+    },
+    {
+      "title": "SE Radio 699: Benjamin Brial on Internal Dev Platforms",
+      "published": "2025-12-17",
+      "url": "https://se-radio.net/2025/12/se-radio-699-benjamin-brial-on-internal-dev-platforms/"
+    },
+    {
+      "title": "SE Radio 698: Srujana Merugu on How to build an LLM App",
+      "published": "2025-12-09",
+      "url": "https://se-radio.net/2025/12/se-radio-698-srujana-merugu-on-how-to-build-an-llm-app/"
+    },
+    {
+      "title": "SE Radio 697: Philip Kiely on Multi-Model AI",
+      "published": "2025-12-03",
+      "url": "https://se-radio.net/2025/12/se-radio-697-philip-kiely-on-multi-model-ai/"
+    },
+    {
+      "title": "SE Radio 696: Flavia Saldanha on Data Engineering for AI",
+      "published": "2025-11-25",
+      "url": "https://se-radio.net/2025/11/se-radio-696-flavia-saldanha-on-data-engineering-for-ai/"
+    },
+    {
+      "title": "SE Radio 695: Dave Thomas on Building eBooks Infrastructure",
+      "published": "2025-11-19",
+      "url": "https://se-radio.net/2025/11/se-radio-695-dave-thomas-on-building-ebooks-infrastructure/"
+    },
+    {
+      "title": "SE Radio 694: Jennings Anderson and Amy Rose on Overture Maps",
+      "published": "2025-11-12",
+      "url": "https://se-radio.net/2025/11/se-radio-694-jennings-anderson-and-amy-rose-on-overture-maps/"
+    },
+    {
+      "title": "SE Radio 693: Mark Williamson on AI-Assisted Debugging",
+      "published": "2025-11-06",
+      "url": "https://se-radio.net/2025/11/se-radio-693-mark-williamson-on-ai-assisted-debugging/"
+    },
+    {
+      "title": "SE Radio 692: Sourabh Satish on Prompt Injection",
+      "published": "2025-10-28",
+      "url": "https://se-radio.net/2025/10/se-radio-692-sourabh-satish-on-prompt-injection/"
+    },
+    {
+      "title": "SE Radio 691: Kacper Łukawski on Qdrant Vector Database",
+      "published": "2025-10-22",
+      "url": "https://se-radio.net/2025/10/se-radio-691-kacper-lukawski-on-qdrant-vector-database/"
+    },
+    {
+      "title": "SE Radio 690: Florian Gilcher on Rust for Safety-Critical Systems",
+      "published": "2025-10-14",
+      "url": "https://se-radio.net/2025/10/se-radio-690-florian-gilcher-on-rust-for-safety-critical-systems/"
+    },
+    {
+      "title": "SE Radio 689: Amey Desai on the Model Context Protocol",
+      "published": "2025-10-08",
+      "url": "https://se-radio.net/2025/10/se-radio-689-amey-desai-on-the-model-context-protocol/"
+    },
+    {
+      "title": "SE Radio 688: Daniel Stenberg on Removing Rust from Curl",
+      "published": "2025-10-01",
+      "url": "https://se-radio.net/2025/10/se-radio-688-daniel-stenberg-on-removing-rust-from-curl/"
+    },
+    {
+      "title": "SE Radio 687: Elizabeth Figura on Proton and Wine",
+      "published": "2025-09-25",
+      "url": "https://se-radio.net/2025/09/se-radio-687-elizabeth-figura-on-proton-and-wine/"
+    },
+    {
+      "title": "SE Radio 686: François Daoust on W3C",
+      "published": "2025-09-17",
+      "url": "https://se-radio.net/2025/09/se-radio-686-francois-daoust-on-w3c/"
+    },
+    {
+      "title": "SE Radio 685: Will Wilson on Deterministic Simulation Testing",
+      "published": "2025-09-10",
+      "url": "https://se-radio.net/2025/09/se-radio-685-will-wilson-on-deterministic-simulation-testing/"
+    },
+    {
+      "title": "SE Radio 684: Dan Bergh Johnsson and Daniel Deogun on Secure By Design",
+      "published": "2025-09-04",
+      "url": "https://se-radio.net/2025/09/se-radio-684-dan-bergh-johnsson-and-daniel-deogun-on-secure-by-design/"
+    },
+    {
+      "title": "SE Radio 683: Artie Shevchenko on Programmers as Code Health Guardians",
+      "published": "2025-08-28",
+      "url": "https://se-radio.net/2025/08/se-radio-683-artie-shevchenko-on-programmers-as-code-health-guardians/"
+    },
+    {
+      "title": "SE Radio 682: Duncan McGregor and Nat Pryce on Refactoring from Java to Kotlin",
+      "published": "2025-08-21",
+      "url": "https://se-radio.net/2025/08/se-radio-682-duncan-mcgregor-and-nat-pryce-on-refactoring-from-java-to-kotlin/"
+    },
+    {
+      "title": "SE Radio 681: Qian Li on DBOS Durable Execution/Serverless Computing Platform",
+      "published": "2025-08-13",
+      "url": "https://se-radio.net/2025/08/se-radio-681-qian-li-on-dbos-durable-execution-serverless-computing-platform/"
+    },
+    {
+      "title": "SE Radio 680: Luke Hinds on Privacy and Security of AI Coding Assistants",
+      "published": "2025-08-07",
+      "url": "https://se-radio.net/2025/08/se-radio-680-luke-hinds-on-privacy-and-security-of-ai-coding-assistants/"
+    },
+    {
+      "title": "SE Radio 679: Wesley Beary on API Design",
+      "published": "2025-07-30",
+      "url": "https://se-radio.net/2025/07/se-radio-679-wesley-beary-on-api-design/"
+    },
+    {
+      "title": "SE Radio 678: Chris Love on Kubernetes Security",
+      "published": "2025-07-23",
+      "url": "https://se-radio.net/2025/07/se-radio-678-chris-love-on-kubernetes-security/"
+    },
+    {
+      "title": "SE Radio 677: Jacob Visovatti and Conner Goodrum on Testing ML Models for Enterprise Products",
+      "published": "2025-07-15",
+      "url": "https://se-radio.net/2025/07/se-radio-677-jacob-visovatti-and-conner-goodrum-on-testing-ml-models-for-enterprise-products/"
+    },
+    {
+      "title": "SE Radio 676: Samuel Colvin on the Pydantic Ecosystem",
+      "published": "2025-07-10",
+      "url": "https://se-radio.net/2025/07/se-radio-676-samuel-colvin-on-the-pydantic-ecosystem/"
+    },
+    {
+      "title": "SE Radio 675: Brian Demers on Observability into the Toolchain",
+      "published": "2025-07-01",
+      "url": "https://se-radio.net/2025/07/se-radio-675-brian-demers-on-observability-into-the-toolchain/"
+    },
+    {
+      "title": "SE Radio 674: Vilhelm von Ehrenheim on Autonomous Testing",
+      "published": "2025-06-25",
+      "url": "https://se-radio.net/2025/06/se-radio-674-vilhelm-von-ehrenheim-on-autonomous-testing/"
+    },
+    {
+      "title": "SE Radio 673: Abhinav Kimothi on Retrieval-Augmented Generation",
+      "published": "2025-06-18",
+      "url": "https://se-radio.net/2025/06/se-radio-673-abhinav-kimothi-on-retrieval-augmented-generation/"
+    },
+    {
+      "title": "SE Radio 672: Luca Palmieri on Rust In Production",
+      "published": "2025-06-12",
+      "url": "https://se-radio.net/2025/06/se-radio-672-luca-palmieri-on-rust-in-production/"
+    },
+    {
+      "title": "SE Radio 671: Carson Gross on HTMX",
+      "published": "2025-06-04",
+      "url": "https://se-radio.net/2025/06/se-radio-671-carson-gross-on-htmx/"
+    },
+    {
+      "title": "SE Radio 670: Matthias Endler on Prototype in Rust",
+      "published": "2025-05-29",
+      "url": "https://se-radio.net/2025/05/se-radio-670-matthias-endler-on-prototype-in-rust/"
+    },
+    {
+      "title": "SE Radio 669: Will McGugan on Text-Based User Interfaces",
+      "published": "2025-05-20",
+      "url": "https://se-radio.net/2025/05/se-radio-669-will-mcgugan-on-text-based-user-interfaces/"
+    },
+    {
+      "title": "SE Radio 668: Steve Summers on Securing Test and Measurement Equipment",
+      "published": "2025-05-13",
+      "url": "https://se-radio.net/2025/05/se-radio-668-steve-summers-on-securing-test-and-measurement-equipment/"
+    },
+    {
+      "title": "SE Radio 667: Ashley Peacock on Cloudflare",
+      "published": "2025-05-07",
+      "url": "https://se-radio.net/2025/05/se-radio-667-ashley-peacock-on-cloudflare/"
+    },
+    {
+      "title": "SE Radio 666: Eran Yahav on the Tabnine AI Coding Assistant",
+      "published": "2025-04-29",
+      "url": "https://se-radio.net/2025/04/se-radio-666-eran-yahav-on-the-tabnine-ai-coding-assistant/"
+    },
+    {
+      "title": "SE Radio 665: Malcolm Matalka on Developing in OCaml with Zero Frameworks",
+      "published": "2025-04-23",
+      "url": "https://se-radio.net/2025/04/se-radio-665-malcolm-matalka-on-developing-in-ocaml-with-zero-frameworks/"
+    },
+    {
+      "title": "SE Radio 664: Emre Baran and Alex Olivier on Stateless Decoupled Authorization Frameworks",
+      "published": "2025-04-15",
+      "url": "https://se-radio.net/2025/04/se-radio-664-emre-baran-and-alex-olivier-on-stateless-decoupled-authorization-frameworks/"
+    },
+    {
+      "title": "SE Radio 663: Tyler Flint on Managing External APIs",
+      "published": "2025-04-08",
+      "url": "https://se-radio.net/2025/04/se-radio-663-tyler-flint-on-managing-external-apis/"
+    },
+    {
+      "title": "SE Radio 662: Vlad Khononov on Balancing Coupling in Software Design",
+      "published": "2025-04-01",
+      "url": "https://se-radio.net/2025/04/se-radio-662-vlad-khononov-on-balancing-coupling-in-software-design/"
+    },
+    {
+      "title": "SE Radio 661: Sunil Mallya on Small Language Models",
+      "published": "2025-03-25",
+      "url": "https://se-radio.net/2025/03/se-radio-661-sunil-mallya-on-small-language-models/"
+    },
+    {
+      "title": "SE Radio 660: Pete Warden on TinyML",
+      "published": "2025-03-18",
+      "url": "https://se-radio.net/2025/03/se-radio-660-pete-warden-on-tinyml/"
+    },
+    {
+      "title": "SE Radio 659: Brenden Matthews on Idiomatic Rust",
+      "published": "2025-03-12",
+      "url": "https://se-radio.net/2025/03/se-radio-659-brenden-matthews-on-idiomatic-rust/"
+    },
+    {
+      "title": "SE Radio 658: Tanya Janca on Secure Coding",
+      "published": "2025-03-06",
+      "url": "https://se-radio.net/2025/03/se-radio-658-tanya-janca-on-secure-coding/"
+    },
+    {
+      "title": "SE Radio 657: Hong Minhee on ActivityPub and the Fediverse",
+      "published": "2025-02-27",
+      "url": "https://se-radio.net/2025/02/se-radio-657-hong-minhee-on-activitypub-and-the-fediverse/"
+    },
+    {
+      "title": "SE Radio 656: Ivett Ördög on Rewrite versus Refactor",
+      "published": "2025-02-20",
+      "url": "https://se-radio.net/2025/02/se-radio-656-ivett-ordog-on-rewrite-versus-refactor/"
+    },
+    {
+      "title": "SE Radio 655: Charles Humble on Professional Skills for Software Engineers",
+      "published": "2025-02-13",
+      "url": "https://se-radio.net/2025/02/se-radio-655-charles-humble-on-professional-skills-for-software-engineers/"
+    },
+    {
+      "title": "SE Radio 654: Chris Patterson on MassTransit and Event-Driven Systems",
+      "published": "2025-02-04",
+      "url": "https://se-radio.net/2025/02/se-radio-654-chris-patterson-on-masstransit-and-event-driven-systems/"
+    },
+    {
+      "title": "SE Radio 653: Asanka Abeysinghe on Cell-Based Architecture",
+      "published": "2025-01-30",
+      "url": "https://se-radio.net/2025/01/se-radio-653-asanka-abeysinghe-on-cell-based-architecture/"
+    },
+    {
+      "title": "SE Radio 652: Christian Mesh on OpenTofu",
+      "published": "2025-01-21",
+      "url": "https://se-radio.net/2025/01/se-radio-652-christian-mesh-on-opentofu/"
+    },
+    {
+      "title": "SE Radio 651: Paul Frazee on Bluesky and the AT Protocol",
+      "published": "2025-01-17",
+      "url": "https://se-radio.net/2025/01/se-radio-651-paul-frazee-on-bluesky-and-the-at-protocol/"
+    },
+    {
+      "title": "SE Radio 650: Robert Seacord on What's New in the C Programming Language",
+      "published": "2025-01-17",
+      "url": "https://se-radio.net/2025/01/se-radio-650-robert-seacord-on-whats-new-in-the-c-programming-language/"
+    },
+    {
+      "title": "SE Radio 649: Lukas Gentele on Kubernetes vClusters",
+      "published": "2025-01-02",
+      "url": "https://se-radio.net/2025/01/se-radio-649-lukas-gentele-on-kubernetes-vclusters/"
+    },
+    {
+      "title": "SE Radio 648: Matthew Adams on AI Threat Modeling and Stride GPT",
+      "published": "2024-12-27",
+      "url": "https://se-radio.net/2024/12/se-radio-648-matthew-adams-on-ai-threat-modeling-and-stride-gpt/"
+    },
+    {
+      "title": "SE Radio 647: Praveen Gujar on Gen AI for Digital Ad Tech Platforms",
+      "published": "2024-12-17",
+      "url": "https://se-radio.net/2024/12/se-radio-647-praveen-gujar-on-gen-ai-for-digital-ad-tech-platforms/"
+    },
+    {
+      "title": "SE Radio 646: Matthew Skelton on Team Topologies",
+      "published": "2024-12-11",
+      "url": "https://se-radio.net/2024/12/se-radio-646-matthew-skelton-on-team-topologies/"
+    },
+    {
+      "title": "SE Radio 645: Vinay Tripathi on BGP Optimization",
+      "published": "2024-12-04",
+      "url": "https://se-radio.net/2024/12/se-radio-645-vinay-tripathi-on-bgp-optimization/"
+    },
+    {
+      "title": "SE Radio 644: Tim McNamara on Error Handling in Rust",
+      "published": "2024-11-27",
+      "url": "https://se-radio.net/2024/11/se-radio-644-tim-mcnamara-on-error-handling-in-rust/"
+    },
+    {
+      "title": "SE Radio 643: Ganesh Datta on Production Readiness",
+      "published": "2024-11-20",
+      "url": "https://se-radio.net/2024/11/se-radio-643-ganesh-datta-on-production-readiness/"
+    },
+    {
+      "title": "SE Radio 642: Simon Wijckmans on Third-Party Browser Script Security",
+      "published": "2024-11-13",
+      "url": "https://se-radio.net/2024/11/se-radio-642-simon-wijckmans-on-third-party-browser-script-security/"
+    },
+    {
+      "title": "SE Radio 641: Catherine Nelson on Machine Learning in Data Science",
+      "published": "2024-11-06",
+      "url": "https://se-radio.net/2024/11/se-radio-641-catherine-nelson-on-machine-learning-in-data-science/"
+    },
+    {
+      "title": "SE Radio 640: Jonathan Horvath on Physical Security",
+      "published": "2024-10-30",
+      "url": "https://se-radio.net/2024/10/se-radio-640-jonathan-horvath-on-physical-security/"
+    },
+    {
+      "title": "SE Radio 639: Cody Ebberson on Regulated Industries",
+      "published": "2024-10-23",
+      "url": "https://se-radio.net/2024/10/se-radio-639-cody-ebberson-on-regulated-industries/"
+    },
+    {
+      "title": "SE Radio 638: Nick Tune and Jean-Georges Perrin on Architecture Modernization",
+      "published": "2024-10-17",
+      "url": "https://se-radio.net/2024/10/se-radio-638-nick-tune-and-jean-georges-perrin-on-architecture-modernization/"
+    },
+    {
+      "title": "SE Radio 637: Steve Smith on Software Quality",
+      "published": "2024-10-10",
+      "url": "https://se-radio.net/2024/10/se-radio-637-steve-smith-on-software-quality/"
+    },
+    {
+      "title": "SE Radio 636: Sriram Panyam on SaaS Control Planes",
+      "published": "2024-10-02",
+      "url": "https://se-radio.net/2024/10/se-radio-636-sriram-panyam-on-saas-control-planes/"
+    },
+    {
+      "title": "SE Radio 635: Stevie Caldwell on Zero-Trust Architecture",
+      "published": "2024-09-26",
+      "url": "https://se-radio.net/2024/09/se-radio-635-stevie-caldwell-on-zero-trust-architecture/"
+    },
+    {
+      "title": "SE Radio 634: Jim Bugwadia on Kubernetes Policy as Code",
+      "published": "2024-09-25",
+      "url": "https://se-radio.net/2024/09/se-radio-634-jim-bugwadia-on-kubernetes-policy-as-code/"
+    },
+    {
+      "title": "SE Radio 633: Itamar Friedman on Automated Testing with Generative AI",
+      "published": "2024-09-11",
+      "url": "https://se-radio.net/2024/09/se-radio-633-itamar-friedman-on-automated-testing-with-generative-ai/"
+    },
+    {
+      "title": "SE Radio 632: Goran Petrovic on Mutation Testing at Google",
+      "published": "2024-09-05",
+      "url": "https://se-radio.net/2024/09/se-radio-632-goran-petrovic-on-mutation-testing-at-google/"
+    },
+    {
+      "title": "SE Radio 631: Abhay Paroha on Cloud Migration for Oil and Gas Operations",
+      "published": "2024-08-28",
+      "url": "https://se-radio.net/2024/08/se-radio-631-abhay-paroha-on-cloud-migration-for-oil-and-gas-operations/"
+    },
+    {
+      "title": "SE Radio 630: Luis Rodríguez on the SSH Backdoor Attack",
+      "published": "2024-08-22",
+      "url": "https://se-radio.net/2024/08/se-radio-630-luis-rodriguez-on-the-ssh-backdoor-attack/"
+    },
+    {
+      "title": "SE Radio 629: Emily Bache on Katas and the Importance of Practice",
+      "published": "2024-08-13",
+      "url": "https://se-radio.net/2024/08/se-radio-629-emily-bache-on-katas-and-the-importance-of-practice/"
+    },
+    {
+      "title": "SE Radio 628: Hans Dockter on Developer Productivity",
+      "published": "2024-08-07",
+      "url": "https://se-radio.net/2024/08/se-radio-628-hans-dockter-on-developer-productivity/"
+    },
+    {
+      "title": "SE Radio 627: Chuck Weindorf on Leaders and Software Engineers",
+      "published": "2024-07-31",
+      "url": "https://se-radio.net/2024/07/se-radio-627-chuck-weindorf-on-leaders-and-software-engineers/"
+    },
+    {
+      "title": "SE Radio 626: Ipek Ozkaya on Gen AI for Software Architecture",
+      "published": "2024-07-23",
+      "url": "https://se-radio.net/2024/07/se-radio-626-ipek-ozkaya-on-gen-ai-for-software-architecture/"
+    },
+    {
+      "title": "SE Radio 625: Jonathan Schneider on Automated Refactoring with OpenRewrite",
+      "published": "2024-07-16",
+      "url": "https://se-radio.net/2024/07/se-radio-625-jonathan-schneider-on-automated-refactoring-with-openrewrite/"
+    },
+    {
+      "title": "SE Radio 624: Marcelo Trylesinski on FastAPI",
+      "published": "2024-07-16",
+      "url": "https://se-radio.net/2024/07/se-radio-624-marcelo-trylesinski-on-fastapi/"
+    },
+    {
+      "title": "SE Radio 623: Michael J. Freedman on TimescaleDB",
+      "published": "2024-07-03",
+      "url": "https://se-radio.net/2024/07/se-radio-623-mike-freedman-on-timescaledb/"
+    },
+    {
+      "title": "SE Radio 622: Wolf Vollprecht on Python Tooling in Rust",
+      "published": "2024-06-26",
+      "url": "https://se-radio.net/2024/06/se-radio-622-wolf-vollprecht-on-python-tooling-in-rust/"
+    },
+    {
+      "title": "SE Radio 621: Xe Iaso on Fly.io",
+      "published": "2024-06-19",
+      "url": "https://se-radio.net/2024/06/se-radio-621-xe-iaso-on-fly-io/"
+    },
+    {
+      "title": "SE Radio 620: Parker Selbert and Shannon Selbert on Robust Job Processing in Elixir",
+      "published": "2024-06-12",
+      "url": "https://se-radio.net/2024/06/se-radio-620-parker-selbert-and-shannon-selbert-on-robust-job-processing-in-elixir/"
+    },
+    {
+      "title": "SE Radio 619: James Strong on Kubernetes Networking",
+      "published": "2024-06-05",
+      "url": "https://se-radio.net/2024/06/se-radio-619-james-strong-on-kubernetes-networking/"
+    },
+    {
+      "title": "SE Radio 618: Andreas Møller on No-Code Platforms",
+      "published": "2024-05-29",
+      "url": "https://se-radio.net/2024/05/se-radio-618-andreas-moller-on-no-code-platforms/"
+    },
+    {
+      "title": "SE Radio 617: Frances Buontempo on Modern C++",
+      "published": "2024-05-23",
+      "url": "https://se-radio.net/2024/05/se-radio-617-frances-buontempo-on-modern-c/"
+    },
+    {
+      "title": "SE Radio 616: Ori Saporta on the Role of the Software Architect",
+      "published": "2024-05-15",
+      "url": "https://se-radio.net/2024/05/se-radio-616-ori-saporta-on-the-role-of-the-software-architect/"
+    },
+    {
+      "title": "SE Radio 615: Kent Beck on \"Tidy First?\"",
+      "published": "2024-05-10",
+      "url": "https://se-radio.net/2024/05/se-radio-615-kent-beck-on-tidy-first/"
+    },
+    {
+      "title": "SE Radio 614: Wouter Groeneveld on Creative Problem Solving for Software Development",
+      "published": "2024-05-03",
+      "url": "https://se-radio.net/2024/05/se-radio-614-wouter-groeneveld-on-creative-problem-solving-for-software-development/"
+    },
+    {
+      "title": "SE Radio 613: Shahar Binyamin on GraphQL Security",
+      "published": "2024-04-24",
+      "url": "https://se-radio.net/2024/04/se-radio-613-shachar-binyamin-on-graphql-security/"
+    },
+    {
+      "title": "SE Radio 612: Eyal Solomon on API Consumption Management",
+      "published": "2024-04-16",
+      "url": "https://se-radio.net/2024/04/se-radio-612-eyal-solomon-on-api-consumption-management/"
+    },
+    {
+      "title": "SE Radio 611: Ines Montani on Natural Language Processing",
+      "published": "2024-04-09",
+      "url": "https://se-radio.net/2024/04/se-radio-611-ines-montani-on-natural-language-processing/"
+    },
+    {
+      "title": "SE Radio 610: Phillip Carter on Observability for Large Language Models",
+      "published": "2024-04-03",
+      "url": "https://se-radio.net/2024/04/se-radio-610-phillip-carter-on-observability-for-large-language-models/"
+    },
+    {
+      "title": "SE Radio 609: Hyrum Wright on Software Engineering at Google",
+      "published": "2024-03-28",
+      "url": "https://se-radio.net/2024/03/se-radio-609-hyrum-wright-on-software-engineering-at-google/"
+    },
+    {
+      "title": "SE Radio 608: Lane Wagner on Revisiting the Go Language",
+      "published": "2024-03-20",
+      "url": "https://se-radio.net/2024/03/se-radio-608-lane-wagner-on-revisiting-the-go-language/"
+    },
+    {
+      "title": "SE Radio 607: John Frandsen on Geospatial Technologies",
+      "published": "2024-03-12",
+      "url": "https://se-radio.net/2024/03/se-radio-607-john-frandsen-on-geospatial-technologies/"
+    },
+    {
+      "title": "SE Radio 606: Charlie Jones on Third-Party Software Supply Chain Risks",
+      "published": "2024-03-07",
+      "url": "https://se-radio.net/2024/03/se-radio-606-charlie-jones-on-third-party-software-supply-chain-risks/"
+    },
+    {
+      "title": "SE Radio 605: Yingjun Wu on Streaming Databases",
+      "published": "2024-02-28",
+      "url": "https://se-radio.net/2024/02/se-radio-605-yingjun-wu-on-streaming-databases/"
+    },
+    {
+      "title": "SE Radio 604: Karl Wiegers and Candase Hokanson on Software Requirements Essentials",
+      "published": "2024-02-22",
+      "url": "https://se-radio.net/2024/02/se-radio-604-karl-wiegers-and-candase-hokanson-on-software-requirements-essentials/"
+    },
+    {
+      "title": "SE Radio 603: Rishi Singh on Using GenAI for Test Code Generation",
+      "published": "2024-02-15",
+      "url": "https://se-radio.net/2024/02/se-radio-603-rishi-singh-on-using-genai-for-test-code-generation/"
+    },
+    {
+      "title": "SE Radio 602: Nicolas Carlo on Improving Legacy Code",
+      "published": "2024-02-07",
+      "url": "https://se-radio.net/2024/02/se-radio-602-nicolas-carlo-on-improving-legacy-code/"
+    },
+    {
+      "title": "SE Radio 601: Han Yuan on Reorganizations",
+      "published": "2024-01-31",
+      "url": "https://se-radio.net/2024/02/se-radio-601-han-yuan-on-reorganizations/"
+    },
+    {
+      "title": "SE Radio 600: William Morgan on Kubernetes Sidecars and Service Mesh",
+      "published": "2024-01-26",
+      "url": "https://se-radio.net/2024/01/se-radio-600-william-morgan-on-kubernetes-sidecars-and-service-mesh/"
+    },
+    {
+      "title": "SE Radio 599: Jason C. McDonald on Quantified Tasks",
+      "published": "2024-01-17",
+      "url": "https://se-radio.net/2024/01/se-radio-599-jason-c-mcdonald-on-quantified-tasks/"
+    },
+    {
+      "title": "SE Radio 598: Jonathan Crossland on the AMMERSE Framework",
+      "published": "2024-01-11",
+      "url": "https://se-radio.net/2024/01/se-radio-598-jonathan-crossland-on-the-ammerse-framework/"
+    },
+    {
+      "title": "SE Radio 597: Coral Calero Muñoz and Félix García on Green Software",
+      "published": "2024-01-08",
+      "url": "https://se-radio.net/2024/01/se-radio-597-coral-calero-munoz-and-felix-garcia-on-green-software/"
+    },
+    {
+      "title": "SE Radio 596: Maxim Fateev on Durable Execution with Temporal",
+      "published": "2023-12-27",
+      "url": "https://se-radio.net/2023/12/se-radio-596-maxim-fateev-on-durable-execution-with-temporalse-radio-596/"
+    },
+    {
+      "title": "SE Radio 595: Llewelyn Falco on Approval Testing",
+      "published": "2023-12-19",
+      "url": "https://se-radio.net/2023/12/se-radio-595-llewelyn-falco-on-approval-testing/"
+    },
+    {
+      "title": "SE Radio 594: Sean Moriarity on Deep Learning with Elixir and Axon",
+      "published": "2023-12-14",
+      "url": "https://se-radio.net/2023/12/se-radio-594-sean-moriarity-on-deep-learning-with-elixir-and-axon/"
+    },
+    {
+      "title": "SE Radio 593: Eric Olden on Identity Orchestration",
+      "published": "2023-12-07",
+      "url": "https://se-radio.net/2023/12/se-radio-593-eric-olden-on-identity-orchestrationse-radio-593/"
+    },
+    {
+      "title": "SE Radio 592: Jaxon Repp on Distributed Data Infrastructure",
+      "published": "2023-11-30",
+      "url": "https://se-radio.net/2023/11/se-radio-592-jaxon-repp-on-distributed-data-infrastructure/"
+    },
+    {
+      "title": "SE Radio 591: Yechezkel Rabinovich on Kubernetes Observability",
+      "published": "2023-11-22",
+      "url": "https://se-radio.net/2023/11/se-radio-591-yechezkel-rabinovich-on-kubernetes-observability/"
+    },
+    {
+      "title": "SE Radio 590: Andy Suderman on Standing Up Kubernetes",
+      "published": "2023-11-15",
+      "url": "https://se-radio.net/2023/11/se-radio-590-andy-suderman-on-standing-up-kubernetes/"
+    },
+    {
+      "title": "SE Radio 589: Zac Hatfield-Dodds on Property-Based Testing in Python",
+      "published": "2023-11-09",
+      "url": "https://se-radio.net/2023/11/se-radio-589-zac-hatfield-dodds-on-property-based-testing-in-python/"
+    },
+    {
+      "title": "SE Radio 588: José Valim on Elixir, Machine Learning, and Livebook",
+      "published": "2023-11-02",
+      "url": "https://se-radio.net/2023/11/se-radio-588-jose-valim-on-elixir-machine-learning-and-livebook/"
+    },
+    {
+      "title": "SE Radio 587: M. Scott Ford on Managing Dependency Freshness",
+      "published": "2023-10-25",
+      "url": "https://se-radio.net/2023/10/se-radio-587-m-scott-ford-on-managing-dependency-freshness/"
+    },
+    {
+      "title": "SE Radio 586: Nikhil Shetty on Virtual Private Cloud",
+      "published": "2023-10-20",
+      "url": "https://se-radio.net/2023/10/se-radio-586-nikhil-shetty-on-virtual-private-cloud/"
+    },
+    {
+      "title": "SE Radio 585: Adam Frank on Continuous Delivery vs Continuous Deployment",
+      "published": "2023-10-11",
+      "url": "https://se-radio.net/2023/10/se-radio-585-adam-frank-on-continuous-delivery-vs-continuous-deployment/"
+    },
+    {
+      "title": "SE Radio 584: Charles Weir on Ruthless Security for Busy Developers",
+      "published": "2023-10-05",
+      "url": "https://se-radio.net/2023/10/se-radio-584-charles-weir-on-ruthless-security-for-busy-developers/"
+    },
+    {
+      "title": "SE Radio 583: Lukas Fittl on Postgres Performance",
+      "published": "2023-09-28",
+      "url": "https://se-radio.net/2023/09/se-radio-583-lukas-fittl-on-postgres-performance/"
+    },
+    {
+      "title": "SE Radio 582: Leo Porter and Daniel Zingaro on Learning to Program with LLMs",
+      "published": "2023-09-20",
+      "url": "https://se-radio.net/2023/09/se-radio-582-leo-porter-and-daniel-zingaro-on-using-llms-in-the-classroom/"
+    },
+    {
+      "title": "SE Radio 581: Zach Lloyd on Terminal Emulators",
+      "published": "2023-09-14",
+      "url": "https://se-radio.net/2023/09/se-radio-581-zach-lloyd-on-terminal-emulators/"
+    },
+    {
+      "title": "SE Radio 580: Josh Doody on Mastering Business Communication for Software Engineers",
+      "published": "2023-09-07",
+      "url": "https://se-radio.net/2023/09/se-radio-580-josh-doody-on-mastering-business-communication-for-software-engineers/"
+    },
+    {
+      "title": "SE Radio 579: Arun Gupta on Open Source Strategy and Community",
+      "published": "2023-09-01",
+      "url": "https://se-radio.net/2023/08/se-radio-579-arun-gupta-on-open-source-strategy-and-community/"
+    },
+    {
+      "title": "SE Radio 578: Ori Mankali on Secrets Management using Distributed Fragments Cryptography",
+      "published": "2023-08-22",
+      "url": "https://se-radio.net/2023/08/se-radio-578-ori-mankali-on-secrets-management-using-distributed-fragments-cryptography/"
+    },
+    {
+      "title": "SE Radio 577: Casey Muratori on Clean Code, Horrible Performance?",
+      "published": "2023-08-18",
+      "url": "https://se-radio.net/2023/08/se-radio-577-casey-muratori-on-clean-code-horrible-performance/"
+    },
+    {
+      "title": "SE Radio 576: Jens Neuse on Back Ends for Front Ends",
+      "published": "2023-08-09",
+      "url": "https://se-radio.net/2023/08/se-radio-576-jens-neuse-on-back-ends-for-front-ends/"
+    },
+    {
+      "title": "SE Radio 575: Nir Valtman on Pipelineless Security",
+      "published": "2023-08-01",
+      "url": "https://se-radio.net/2023/08/se-radio-575-nir-valtman-on-pipelineless-security/"
+    },
+    {
+      "title": "SE Radio 574: Chad Michel on Software as an Engineering Discipline",
+      "published": "2023-07-27",
+      "url": "https://se-radio.net/2023/07/se-radio-574-chad-michel-on-software-as-an-engineering-discipline/"
+    },
+    {
+      "title": "SE Radio 573: Varun Singh on Evolution of Internet Protocols",
+      "published": "2023-07-19",
+      "url": "https://se-radio.net/2023/07/se-radio-573-varun-singh-on-evolution-of-internet-protocols/"
+    },
+    {
+      "title": "SE Radio 572: Gregory Kapfhammer on Flaky Tests",
+      "published": "2023-07-13",
+      "url": "https://se-radio.net/2023/07/se-radio-572-greg-kapfhammer-on-flaky-tests/"
+    },
+    {
+      "title": "SE Radio 571: Jeroen Mulder on Multi-Cloud Governance",
+      "published": "2023-07-05",
+      "url": "https://se-radio.net/2023/07/se-radio-571-jeroen-mulder-on-multi-cloud-governance/"
+    },
+    {
+      "title": "SE Radio 570: Stanisław Barzowski on the jsonnet Language",
+      "published": "2023-06-27",
+      "url": "https://se-radio.net/2023/06/se-radio-570-stanislaw-barzowski-on-the-jsonnet-language/"
+    },
+    {
+      "title": "SE Radio 569: Vladyslav Ukis on Rolling out SRE in an Enterprise",
+      "published": "2023-06-22",
+      "url": "https://se-radio.net/2023/06/se-radio-569-vladyslav-ukis-on-rolling-out-sre-in-an-enterprise/"
+    },
+    {
+      "title": "SE Radio 568: Simon Bennetts on OWASP Dynamic Application Security Testing Tool ZAP",
+      "published": "2023-06-14",
+      "url": "https://se-radio.net/2023/06/se-radio-568-simon-bennetts-on-owasp-dynamic-application-security-testing-tool-zap/"
+    },
+    {
+      "title": "SE Radio 567: Dave Cross on GitHub Actions",
+      "published": "2023-06-06",
+      "url": "https://se-radio.net/2023/06/se-radio-567-dave-cross-on-github-actions/"
+    },
+    {
+      "title": "SE Radio 566: Ashley Peacock on Diagramming in Software Engineering",
+      "published": "2023-05-31",
+      "url": "https://se-radio.net/2023/05/se-radio-566-ashley-peacock-on-diagramming-in-software-engineering/"
+    },
+    {
+      "title": "SE Radio 565: Luca Galante on Platform Engineering",
+      "published": "2023-05-23",
+      "url": "https://se-radio.net/se-radio-565-luca-galante-on-platform-engineering"
+    },
+    {
+      "title": "SE Radio 564: Paul Hammant on Trunk-Based Development",
+      "published": "2023-05-17",
+      "url": "https://se-radio.net/2023/05/se-radio-564-paul-hammant-on-trunk-based-development/"
+    },
+    {
+      "title": "SE Radio 563: David Cramer on Error Tracking",
+      "published": "2023-05-10",
+      "url": "https://se-radio.net/2023/05/se-radio-563-david-cramer-on-error-tracking/"
+    },
+    {
+      "title": "SE Radio 562: Bastian Gruber on Rust Web Development",
+      "published": "2023-05-03",
+      "url": "https://se-radio.net/2023/05/se-radio-562-bastian-gruber-on-rust-web-development/"
+    },
+    {
+      "title": "SE Radio 561: Dan DeMers on Dataware",
+      "published": "2023-04-27",
+      "url": "https://se-radio.net/2023/04/se-radio-561-dan-demers-on-dataware/"
+    },
+    {
+      "title": "SE Radio 560: Sugu Sougoumarane on Distributed SQL with Vitess",
+      "published": "2023-04-19",
+      "url": "https://se-radio.net/2023/04/se-radio-561-dan-demers-on-dataware/"
+    },
+    {
+      "title": "SE Radio 559: Ross Anderson on Software Obsolescence",
+      "published": "2023-04-12",
+      "url": "https://se-radio.net/2023/04/se-radio-559-ross-anderson-on-software-obsolescence/"
+    },
+    {
+      "title": "SE Radio 558: Michael Fazio on Modern Android Development",
+      "published": "2023-04-05",
+      "url": "https://se-radio.net/se-radio-558-michael-fazio-on-modern-android-development"
+    },
+    {
+      "title": "SE Radio 557: Timothy Beamish on React and Next.js",
+      "published": "2023-03-28",
+      "url": "https://se-radio.net/2023/03/se-radio-557-timothy-beamish-on-react-and-next-js/"
+    },
+    {
+      "title": "SE Radio 556: Alex Boten on Open Telemetry",
+      "published": "2023-03-23",
+      "url": "https://se-radio.net/2023/03/se-radio-556-alex-boten-on-open-telemetry/"
+    },
+    {
+      "title": "SE Radio 555: On Freund on Upskilling",
+      "published": "2023-03-15",
+      "url": "https://se-radio.net/2023/03/se-radio-555-on-freund-on-upskilling/"
+    },
+    {
+      "title": "SE Radio 554: Adam Tornhill on Behavioral Code Analysis",
+      "published": "2023-03-08",
+      "url": "https://se-radio.net/2023/03/episode-554-adam-tornhill-on-behavioral-code-analysis/"
+    },
+    {
+      "title": "SE Radio 553: Luca Casonato on Deno",
+      "published": "2023-03-01",
+      "url": "https://se-radio.net/2023/03/episode-553-luca-casonato-on-deno/"
+    },
+    {
+      "title": "SE Radio 552: Matt Frisbie on Browser Extensions",
+      "published": "2023-02-23",
+      "url": "https://se-radio.net/2023/02/episode-552-matt-frisbie-on-browser-extensions/"
+    },
+    {
+      "title": "SE Radio 551: Vidal Graupera on Manager 1-1 with Direct Reports",
+      "published": "2023-02-15",
+      "url": "https://se-radio.net/2023/02/episode-551-vidal-graupera-on-manager-one-on-one-meetings-with-direct-reports/"
+    },
+    {
+      "title": "SE Radio 550: J.R. Storment and Mike Fuller on Cloud FinOps (Financial Operations)",
+      "published": "2023-02-09",
+      "url": "https://se-radio.net/2023/02/episode-550-j-r-storment-and-mike-fuller-on-cloud-finops-financial-operations/"
+    },
+    {
+      "title": "SE Radio 549: William Falcon Optimizing Deep Learning Models",
+      "published": "2023-02-03",
+      "url": "https://se-radio.net/2023/02/episode-549-william-falcon-on-optimizing-deep-learning-models/"
+    },
+    {
+      "title": "SE Radio 548: Alex Hidalgo on Implementing Service Level Objectives",
+      "published": "2023-01-25",
+      "url": "https://se-radio.net/2023/01/episode-548-alex-hidalgo-on-implementing-service-level-objectives/"
+    },
+    {
+      "title": "SE Radio 547: Nicholas Manson on Identity Management for Cloud Applications",
+      "published": "2023-01-18",
+      "url": "https://se-radio.net/2023/01/episode-547-nicholas-manson-on-identity-management-for-cloud-applications/"
+    },
+    {
+      "title": "SE Radio 546: Dietrich Ayala on the InterPlanetary File System",
+      "published": "2023-01-12",
+      "url": "https://se-radio.net/2023/01/episode-546-dietrich-ayala-on-the-interplanetary-file-system/"
+    },
+    {
+      "title": "SE Radio 545: John deVadoss on Design Philosophies that Drive .NET/Azure",
+      "published": "2023-01-04",
+      "url": "https://se-radio.net/2023/01/episode-545-john-devadoss-on-design-philosophies-that-drive-net-azure/"
+    },
+    {
+      "title": "SE Radio 544: Ganesh Datta on DevOps vs Site Reliability Engineering",
+      "published": "2022-12-28",
+      "url": "https://se-radio.net/2022/12/episode-544-ganesh-datta-on-devops-vs-site-reliability-engineering/"
+    },
+    {
+      "title": "SE Radio 543: Jon Smart on Patterns and Anti-Patterns for Successful Software Delivery in Enterprises",
+      "published": "2022-12-21",
+      "url": "https://se-radio.net/2022/12/episode-543-jon-smart-on-patterns-and-anti-patterns-for-successful-software-delivery-in-enterprises/"
+    },
+    {
+      "title": "SE Radio 542: Brendan Callum on Contract-Driven APIs",
+      "published": "2022-12-15",
+      "url": "https://se-radio.net/2022/12/episode-542-brendan-callum-on-contract-driven-apis/"
+    },
+    {
+      "title": "SE Radio 541: Jordan Harband and Donald Fischer on Securing the Supply Chain",
+      "published": "2022-12-07",
+      "url": "https://se-radio.net/2022/12/episode-541-jordan-harband-and-donald-fischer-on-securing-the-supply-chain/"
+    },
+    {
+      "title": "SE Radio 540: Joe Nash on DevRel",
+      "published": "2022-12-01",
+      "url": "https://se-radio.net/2022/12/episode-540-joe-nash-on-devrel/"
+    },
+    {
+      "title": "SE Radio 539: Adam Dymitruk on Event Modeling",
+      "published": "2022-11-23",
+      "url": "https://www.se-radio.net/2022/11/episode-539-adam-dymitruk-on-event-modeling"
+    },
+    {
+      "title": "SE Radio 538: Roberto Di Cosmo on Archiving Public Software at Massive Scale",
+      "published": "2022-11-18",
+      "url": "https://www.se-radio.net/2022/11/episode-538-roberto-di-cosmo-on-archiving-public-software-at-massive-scale/"
+    },
+    {
+      "title": "SE Radio 537: Adam Warski on Scala and Tapir",
+      "published": "2022-11-09",
+      "url": "https://se-radio.net/2022/11/episode-537-adam-warski-on-scala-and-tapir/"
+    },
+    {
+      "title": "SE Radio 536: Ryan Magee on Software Engineering in Physics Research",
+      "published": "2022-11-02",
+      "url": "https://se-radio.net/2022/11/episode-536-ryan-magee-on-software-engineering-in-physics-research/"
+    },
+    {
+      "title": "SE Radio 535: Dan Lorenc on Supply Chain Attacks",
+      "published": "2022-10-25",
+      "url": "https://se-radio.net/2022/10/episode-535-dan-lorenc-on-supply-chain-attacks/"
+    },
+    {
+      "title": "SE Radio 534: Andy Dang on AI/ML Observability",
+      "published": "2022-10-20",
+      "url": "https://se-radio.net/2022/10/episode-534-andy-dang-on-ai-ml-observability/"
+    },
+    {
+      "title": "SE Radio 533: Eddie Aftandilian on GitHub Copilot",
+      "published": "2022-10-11",
+      "url": "https://se-radio.net/2022/10/episode-533-eddie-aftandilian-on-github-copilot/"
+    },
+    {
+      "title": "SE Radio 532: Peter Wyatt and Duff Johnson on 30 Years of PDF",
+      "published": "2022-10-05",
+      "url": "https://se-radio.net/2022/10/episode-532-peter-wyatt-and-duff-johnson-on-30-years-of-pdf/"
+    },
+    {
+      "title": "SE Radio 531: Xe Iaso on Tailscale",
+      "published": "2022-09-30",
+      "url": "https://se-radio.net/2022/09/episode-531-xe-iaso-on-tailscale/"
+    },
+    {
+      "title": "SE Radio 530: Tanmai Gopal on GraphQL",
+      "published": "2022-09-21",
+      "url": "https://se-radio.net/2022/09/episode-530-tanmai-gopal-on-graphql/"
+    },
+    {
+      "title": "SE Radio 529: Jeff Perry on Career Management for Software Engineers",
+      "published": "2022-09-14",
+      "url": "https://se-radio.net/2022/09/episode-529-jeff-perry-on-career-management-for-software-engineers/"
+    },
+    {
+      "title": "SE Radio 528: Jonathan Shariat on Designing to Avoid Worst Case Outcomes",
+      "published": "2022-09-07",
+      "url": "https://se-radio.net/2022/09/episode-528-jonathan-shariat-on-designing-to-avoid-worst-case-outcomes/"
+    },
+    {
+      "title": "SE Radio 527: Adrian Kennard and Kevin Hones on Writing a Network OS from Scratch",
+      "published": "2022-08-30",
+      "url": "https://se-radio.net/2022/08/episode-527-adrian-kennard-and-kevin-hones-on-writing-a-network-os-from-scratch/"
+    },
+    {
+      "title": "SE Radio 526: Brian Campbell on Proof of Possession Defenses",
+      "published": "2022-08-24",
+      "url": "https://se-radio.net/2022/08/episode-526-brian-campbell-on-proof-of-possession-defenses/"
+    },
+    {
+      "title": "SE Radio 525: Randy Shoup on Evolving Architecture and Organization at eBay",
+      "published": "2022-08-17",
+      "url": "https://se-radio.net/2022/08/episode-525-randy-shoup-on-evolving-architecture-and-organization-at-ebay/"
+    },
+    {
+      "title": "SE Radio 524: Abi Noda on Developer Experience",
+      "published": "2022-08-11",
+      "url": "https://se-radio.net/2022/08/episode-524-abi-noda-on-developer-experience/"
+    },
+    {
+      "title": "SE Radio 523: Jessi Ashdown and Uri Gilad on Data Governance",
+      "published": "2022-08-03",
+      "url": "https://se-radio.net/2022/08/episode-523-jessi-ashdown-and-uri-gilad-on-data-governance/"
+    },
+    {
+      "title": "SE Radio 522: Noah Gift on MLOps",
+      "published": "2022-07-27",
+      "url": "https://se-radio.net/2022/07/episode-522-noah-gift-on-mlops/"
+    },
+    {
+      "title": "SE Radio 521: Phillip Mayhew on Test Automation in Gaming",
+      "published": "2022-07-21",
+      "url": "https://se-radio.net/2022/07/episode-521-phillip-mayhew-on-test-automation-in-gaming/"
+    },
+    {
+      "title": "SE Radio 520: John Ousterhout on A Philosophy of Software Design",
+      "published": "2022-07-12",
+      "url": "https://se-radio.net/2022/07/episode-520-john-ousterhout-on-a-philosophy-of-software-design/"
+    },
+    {
+      "title": "SE Radio 519: Kumar Ramaiyer on Building a SaaS",
+      "published": "2022-07-06",
+      "url": "https://se-radio.net/2022/07/episode-519-kumar-ramaiyer-on-building-a-saas/"
+    },
+    {
+      "title": "SE Radio 518: Karl Wiegers on Software Engineering Lessons",
+      "published": "2022-06-29",
+      "url": "https://se-radio.net/2022/06/episode-518-karl-wiegers-on-software-engineering-lessons/"
+    },
+    {
+      "title": "SE Radio 517: Jordan Adler on Code Generators",
+      "published": "2022-06-21",
+      "url": "https://se-radio.net/2022/06/episode-517-jordan-adler-on-code-generators/"
+    },
+    {
+      "title": "SE Radio 516: Brian Okken on Testing in Python with Pytest",
+      "published": "2022-06-16",
+      "url": "https://se-radio.net/2022/06/episode-516-brian-okken-on-testing-in-python-with-pytest/"
+    },
+    {
+      "title": "Edpisode 515: Swizec Teller on Becoming a Senior Engineer",
+      "published": "2022-06-08",
+      "url": "https://se-radio.net/2022/06/episode-515-swizec-teller-on-becoming-a-senior-engineer/"
+    },
+    {
+      "title": "SE Radio 514: Vandana Verma on the Owasp Top 10",
+      "published": "2022-05-31",
+      "url": "https://se-radio.net/2022/05/episode-514-vandana-verma-on-the-owasp-top-10/"
+    },
+    {
+      "title": "SE Radio 513: Gil Hoffer on Applying DevOps Practices to Managing Business Applications",
+      "published": "2022-05-25",
+      "url": "https://se-radio.net/2022/05/episode-513-gil-hoffer-on-applying-devops-practices-to-managing-business-applications/"
+    },
+    {
+      "title": "Episode 513: Gil Hoffer on Applying DevOps Practices to Managing Business Applications",
+      "published": "2022-05-25",
+      "url": "https://se-radio.net/episode-513-gil-hoffer-on-applying-devops-practices-to-managing-business-applications"
+    },
+    {
+      "title": "SE Radio 512: Tim Post on Rubber Duck Debugging",
+      "published": "2022-05-17",
+      "url": "https://se-radio.net/2022/05/episode-512-tim-post-on-rubber-duck-debugging/"
+    },
+    {
+      "title": "SE Radio 511: Ant Wilson on Supabase (Postgres as a Service)",
+      "published": "2022-05-10",
+      "url": "https://se-radio.net/2022/05/episode-511-ant-wilson-on-supabase-postgres-as-a-service/"
+    },
+    {
+      "title": "SE Radio 510: Deepthi Sigireddi on How Vitess Scales MySQL",
+      "published": "2022-05-04",
+      "url": "https://se-radio.net/2022/05/episode-510-deepthi-sigireddi-on-how-vitess-scales-mysql/"
+    },
+    {
+      "title": "SE Radio 509: Matt Butcher and Matt Farina on Helm Charts",
+      "published": "2022-04-26",
+      "url": "https://se-radio.net/2022/04/episode-509-matt-butcher-and-matt-farina-on-helm-charts/"
+    },
+    {
+      "title": "SE Radio 508: Jérôme Laban on Cross Platform UI",
+      "published": "2022-04-19",
+      "url": "https://se-radio.net/2022/04/episode-508-jerome-laban-on-cross-platform-ui/"
+    },
+    {
+      "title": "SE Radio 507: Kevin Hu on Data Observability",
+      "published": "2022-04-13",
+      "url": "https://se-radio.net/2022/04/episode-507-kevin-hu-on-data-observability/"
+    },
+    {
+      "title": "SE Radio 506: Rob Hirschfeld on Bare Metal Infrastructure",
+      "published": "2022-04-06",
+      "url": "https://se-radio.net/2022/04/episode-506-rob-hirschfeld-on-bare-metal-infrastructure/"
+    },
+    {
+      "title": "SE Radio 505: Daniel Stenberg on 25 years with cURL",
+      "published": "2022-03-29",
+      "url": "https://se-radio.net/2022/03/episode-505-daniel-stenberg-on-25-years-with-curl/"
+    },
+    {
+      "title": "Episode 505: Daniel Stenberg on 25 years with cURL",
+      "published": "2022-03-29",
+      "url": "https://se-radio.net/episode-505-daniel-stenberg-on-25-years-with-curl"
+    },
+    {
+      "title": "SE Radio 504: Frank McSherry on Materialize",
+      "published": "2022-03-22",
+      "url": "https://se-radio.net/2022/03/episode-504-frank-mcsherry-on-materialize/"
+    },
+    {
+      "title": "SE Radio 503: Diarmuid McDonnell on Web Scraping",
+      "published": "2022-03-16",
+      "url": "https://se-radio.net/2022/03/episode-503-diarmuid-mcdonnell-on-web-scraping/"
+    },
+    {
+      "title": "SE Radio 502: Omer Katz on Distributed Task Queues Using Celery",
+      "published": "2022-03-11",
+      "url": "https://se-radio.net/2022/03/episode-502-omer-katz-on-distributed-task-queues-using-celery/"
+    },
+    {
+      "title": "SE Radio 501: Bob Ducharme on Creating Technical Documentation for Software Projects",
+      "published": "2022-03-01",
+      "url": "https://se-radio.net/2022/03/episode-501-bob-ducharme-on-creating-technical-documentation-for-software-projects/"
+    },
+    {
+      "title": "SE Radio 500: Sergey Gorbunov on Blockchain Interoperability",
+      "published": "2022-02-23",
+      "url": "https://se-radio.net/2022/02/episode-500-sergey-gorbunov-on-blockchain-interoperability/"
+    },
+    {
+      "title": "SE Radio 499: Uma Chingunde on Building a PaaS",
+      "published": "2022-02-15",
+      "url": "https://se-radio.net/2022/02/episode-499-uma-chingunde-on-building-a-paas/"
+    },
+    {
+      "title": "SE Radio 498: James Socol on Continuous Integration and Continuous Delivery (CICD)",
+      "published": "2022-02-09",
+      "url": "https://se-radio.net/2022/02/episode-498-james-socol-on-continuous-integration-and-continuous-delivery-ci-cd/"
+    },
+    {
+      "title": "SE Radio 497: Richard L. Sites on Understanding Software Dynamics",
+      "published": "2022-02-01",
+      "url": "https://se-radio.net/2022/02/episode-497-richard-l-sites-on-understanding-software-dynamics/"
+    },
+    {
+      "title": "SE Radio 496: Bruce Momjian on Multi-Version Concurrency Control in Postgres (MVCC)",
+      "published": "2022-01-25",
+      "url": "https://se-radio.net/2022/01/episode-496-bruce-momjian-on-multi-version-concurrency-control-in-postgres-mvcc/"
+    },
+    {
+      "title": "SE Radio 495: Vaughn Vernon on Strategic Monoliths and Microservices",
+      "published": "2022-01-19",
+      "url": "https://se-radio.net/2022/01/episode-495-vaughn-vernon-on-strategic-monoliths-and-microservices/"
+    },
+    {
+      "title": "SE Radio 494: Robert Seacord on Avoiding Defects in C Programming",
+      "published": "2022-01-12",
+      "url": "https://se-radio.net/2022/01/episode-494-robert-seacord-on-avoiding-defects-in-c-programming/"
+    },
+    {
+      "title": "Episode 494: Robert Seacord on Avoiding Defects in C Programming",
+      "published": "2022-01-12",
+      "url": "https://seradio.libsyn.com/episode-494-robert-seacord-on-avoiding-defects-in-c-programming"
+    },
+    {
+      "title": "SE Radio 493: Ram Sriharsha on Vectors in Machine Learning",
+      "published": "2022-01-04",
+      "url": "https://se-radio.net/2022/01/episode-493-ram-sriharsha-on-vectors-in-machine-learning/"
+    },
+    {
+      "title": "SE Radio 492: Sam Scott on Building a Consistent and Global Authorization Service",
+      "published": "2021-12-28",
+      "url": "https://se-radio.net/2021/12/episode-492-sam-scott-on-building-a-consistent-and-global-authorization-service/"
+    },
+    {
+      "title": "SE Radio 491: Chase Kocher on The Recruiting LifeCycle",
+      "published": "2021-12-21",
+      "url": "https://se-radio.net/2021/12/episode-491-chase-kocher-on-the-recruiting-lifecycle/"
+    },
+    {
+      "title": "SE Radio 490: Tim McNamara on Rust 2021 Edition",
+      "published": "2021-12-14",
+      "url": "https://se-radio.net/2021/12/episode-490-tim-mcnamara-on-rust-2021-edition/"
+    },
+    {
+      "title": "SE Radio 489: Sam Boyer Package Management",
+      "published": "2021-12-08",
+      "url": "https://se-radio.net/2021/12/episode-489-sam-boyer-on-package-management/"
+    },
+    {
+      "title": "SE Radio 488: Chris Riccomini and Dmitriy Ryaboy on the Missing Readme",
+      "published": "2021-12-01",
+      "url": "https://se-radio.net/2021/12/episode-488-chris-riccomini-and-dmitriy-ryaboy-on-the-missing-readme/"
+    },
+    {
+      "title": "SE Radio 487: Davide Bedin on Dapr Distributed Application Runtime",
+      "published": "2021-11-23",
+      "url": "https://se-radio.net/2021/11/episode-487-davide-bedin-on-dapr-distributed-application-runtime/"
+    },
+    {
+      "title": "SE Radio 486: Bob Nystrom on Dart",
+      "published": "2021-11-17",
+      "url": "https://se-radio.net/2021/11/episode-486-bob-nystrom-on-dart/"
+    },
+    {
+      "title": "SE Radio 485: Howard Chu on B+tree Data Structure in Depth",
+      "published": "2021-11-09",
+      "url": "https://se-radio.net/2021/11/episode-485-howard-chu-on-btree-data-structure-in-depth/"
+    },
+    {
+      "title": "SE Radio 484: Audrey Lawrence on Timeseries Databases",
+      "published": "2021-11-02",
+      "url": "https://se-radio.net/2021/11/episode-484-audrey-lawrence-on-timeseries-databases/"
+    },
+    {
+      "title": "SE Radio 483: Alexander Pugh on Robotic Process Automation",
+      "published": "2021-10-27",
+      "url": "https://se-radio.net/2021/10/episode-483-alexander-pugh-on-robotic-process-automation/"
+    },
+    {
+      "title": "SE Radio 482: Luke Hoban on Infrastructure as Code",
+      "published": "2021-10-20",
+      "url": "https://se-radio.net/2021/10/episode-482-luke-hoban-on-infrastructure-as-code/"
+    },
+    {
+      "title": "SE Radio 481: Ipek Ozkaya on Managing Technical Debt",
+      "published": "2021-10-12",
+      "url": "https://se-radio.net/2021/10/episode-481-ipek-ozkaya-on-managing-technical-debt/"
+    },
+    {
+      "title": "SE Radio 480: Venky Naganathan on Chatbots",
+      "published": "2021-10-06",
+      "url": "https://se-radio.net/2021/10/episode-480-venky-naganathan-on-chatbots/"
+    },
+    {
+      "title": "SE Radio 479: Luis Ceze on the Apache TVM Machine Learning Compiler",
+      "published": "2021-09-29",
+      "url": "https://se-radio.net/2021/09/episode-479-luis-ceze-on-the-apache-tvm-machine-learning-compiler/"
+    },
+    {
+      "title": "SE Radio 478: Satish Mohan on Network Segmentation",
+      "published": "2021-09-24",
+      "url": "https://se-radio.net/2021/09/episode-478-satish-mohan-on-network-segmentation/"
+    },
+    {
+      "title": "SE Radio 477: Josef Strzibny on Self Hosting Applications",
+      "published": "2021-09-15",
+      "url": "https://se-radio.net/2021/09/episode-477-josef-strzibny-on-self-hosting-applications/"
+    },
+    {
+      "title": "SE Radio 476: Leonid Shevtsov on Transactional Email",
+      "published": "2021-09-08",
+      "url": "https://se-radio.net/2021/09/episode-476-leonid-shevtsov-on-transactional-email/"
+    },
+    {
+      "title": "SE Radio 475: Rey Bango on Secure Coding Veracode",
+      "published": "2021-08-31",
+      "url": "https://se-radio.net/2021/08/episode-475-rey-bango-on-secure-coding-veracode/"
+    },
+    {
+      "title": "SE Radio 474: Paul Butcher on Fuzz Testing",
+      "published": "2021-08-24",
+      "url": "https://se-radio.net/2021/08/episode-474-paul-butcher-on-fuzz-testing/"
+    },
+    {
+      "title": "SE Radio 473: Mike Del Balso on Feature Stores",
+      "published": "2021-08-17",
+      "url": "https://se-radio.net/2021/08/episode-473-mike-del-balso-on-feature-stores/"
+    },
+    {
+      "title": "SE Radio 472: Liran Haimovitch on Handling Customer Issues",
+      "published": "2021-08-11",
+      "url": "https://se-radio.net/2021/08/episode-472-liran-haimovitch-on-handling-customer-issues-long-form-show-notes/"
+    },
+    {
+      "title": "SE Radio 471: Jason Meller on Choosing the Right Tech Stack for a Greenfield Project",
+      "published": "2021-08-03",
+      "url": "https://se-radio.net/2021/08/episode-471-jason-meller-on-choosing-the-right-tech-stack-for-a-greenfield-project/"
+    },
+    {
+      "title": "SE Radio 470: L. Peter Deutsch on the Fallacies of Distributed Computing",
+      "published": "2021-07-27",
+      "url": "https://se-radio.net/2021/07/episode-470-l-peter-deutsch-on-the-fallacies-of-distributed-computing/"
+    },
+    {
+      "title": "SE Radio 469: Dhruba Borthakur on Embedding Real-time Analytics in Applications",
+      "published": "2021-07-22",
+      "url": "https://se-radio.net/2021/07/episode-469-dhruba-borthakur-on-embedding-real-time-analytics-in-applications/"
+    },
+    {
+      "title": "SE Radio 468: Iljitsch van Beijnum on Internet Routing and BGP",
+      "published": "2021-07-13",
+      "url": "https://se-radio.net/2021/07/episode-468-iljitsch-van-beijnum-on-internet-routing-and-bgp/"
+    },
+    {
+      "title": "SE Radio 467: Kim Carter on Dynamic Application Security Testing",
+      "published": "2021-07-07",
+      "url": "https://se-radio.net/2021/07/episode-467-kim-carter-on-dynamic-application-security-testing/"
+    },
+    {
+      "title": "SE Radio 466: Casey Aylward on Venture Capital for Software Investing",
+      "published": "2021-06-29",
+      "url": "https://se-radio.net/2021/06/episode-466-casey-aylward-on-venture-capital-for-software-investing/"
+    },
+    {
+      "title": "SE Radio 465: Kevlin Henney and Trisha Gee on 97 Things Every Java Programmer Should Know",
+      "published": "2021-06-22",
+      "url": "https://se-radio.net/2021/06/episode-465-kevlin-henney-and-trisha-gee-on-97-things-every-java-programmer-should-know/"
+    },
+    {
+      "title": "SE Radio 464: Rowland Savage on Getting Acquired",
+      "published": "2021-06-16",
+      "url": "https://se-radio.net/2021/06/episode-464-rowland-savage-on-getting-acquired/"
+    },
+    {
+      "title": "SE Radio 463: Yaniv Tal on Web 3.0 and the Graph",
+      "published": "2021-06-10",
+      "url": "https://se-radio.net/2021/06/episode-463-yaniv-tal-on-web-3-0-and-the-graph/"
+    },
+    {
+      "title": "SE Radio 462: Felienne on the Programmers Brain",
+      "published": "2021-06-02",
+      "url": "https://se-radio.net/2021/06/episode-462-felienne-on-the-programmers-brain/"
+    },
+    {
+      "title": "SE Radio 461: Michael Ashburne and Maxwell Huffman on Quality Assurance",
+      "published": "2021-05-26",
+      "url": "https://se-radio.net/2021/05/episode-461-michael-ashburne-and-maxwell-huffman-on-quality-assurance/"
+    },
+    {
+      "title": "SE Radio 460: Evan Weaver on FaunaDB",
+      "published": "2021-05-18",
+      "url": "https://se-radio.net/2021/05/episode-460-evan-weaver-on-faunadb/"
+    },
+    {
+      "title": "SE Radio 459: Otakar Nieder on Gaming vs Simulation Engines",
+      "published": "2021-05-12",
+      "url": "https://se-radio.net/2021/05/episode-459-otakar-nieder-on-gaming-vs-simulation-engines/"
+    },
+    {
+      "title": "SE Radio 458: Daniel Roth on Blazor",
+      "published": "2021-05-06",
+      "url": "https://se-radio.net/2021/05/episode-458-daniel-roth-on-blazor/"
+    },
+    {
+      "title": "SE Radio 457: Jeffery D Smith on DevOps Anti Patterns",
+      "published": "2021-04-27",
+      "url": "https://se-radio.net/2021/04/episode-457-jeffery-d-smith-on-devops-anti-patterns/"
+    },
+    {
+      "title": "SE Radio 456: Tomer Shiran on Data Lakes",
+      "published": "2021-04-21",
+      "url": "https://se-radio.net/2021/04/episode-456-tomer-shiran-on-data-lakes/"
+    },
+    {
+      "title": "SE Radio 455: Jamie Riedesel on Software Telemetry",
+      "published": "2021-04-13",
+      "url": "https://se-radio.net/2021/04/episode-455-jamie-riedesel-on-software-telemetry/"
+    },
+    {
+      "title": "SE Radio 454: Thomas Richter Postgres as an OLAP database",
+      "published": "2021-04-09",
+      "url": "https://se-radio.net/2021/04/episode-454-thomas-richter-on-postgres-as-an-olap-database/"
+    },
+    {
+      "title": "SE Radio 453: Aaron Rinehart on Security Chaos Engineering",
+      "published": "2021-03-30",
+      "url": "https://se-radio.net/2021/03/episode-453-aaron-rinehart-on-security-chaos-engineering/"
+    },
+    {
+      "title": "SE Radio 452: Scott Hanselman on .NET",
+      "published": "2021-03-23",
+      "url": "https://se-radio.net/2021/03/episode-452-scott-hanselman-on-net/"
+    },
+    {
+      "title": "SE Radio 451: Luke Kysow on Service Mesh",
+      "published": "2021-03-16",
+      "url": "https://se-radio.net/2021/03/episode-451-luke-kysow-on-service-mesh/"
+    },
+    {
+      "title": "SE Radio 450: Hadley Wickham on R and Tidyverse",
+      "published": "2021-03-09",
+      "url": "https://se-radio.net/2021/03/episode-450-hadley-wickham-on-r-and-tidyverse/"
+    },
+    {
+      "title": "SE Radio 449: Dan Moore on Build vs Buy",
+      "published": "2021-03-05",
+      "url": "https://se-radio.net/2021/03/episode-449-dan-moore-on-build-vs-buy/"
+    },
+    {
+      "title": "SE Radio 448: Matt Arbesfeld Starting Your Own Software Company",
+      "published": "2021-02-27",
+      "url": "https://se-radio.net/2021/02/episode-448-matt-arbesfeld-starting-your-own-software-company/"
+    },
+    {
+      "title": "SE Radio 447: Michael Perry on Immutable Architecture",
+      "published": "2021-02-18",
+      "url": "https://se-radio.net/2021/02/episode-447-michael-perry-on-immutable-architecture/"
+    },
+    {
+      "title": "SE Radio 446: Nigel Poulton on Kubernetes Fundamentals",
+      "published": "2021-02-10",
+      "url": "https://se-radio.net/2021/02/episode-446-nigel-poulton-on-kubernetes-fundamentals/"
+    },
+    {
+      "title": "SE Radio 445: Thomas Graf on eBPF (extended Berkeley Packet Filter)",
+      "published": "2021-02-02",
+      "url": "https://se-radio.net/2021/02/episode-445-thomas-graf-on-ebpf-extended-berkeley-packet-filter/"
+    },
+    {
+      "title": "SE Radio 444: Tug Grall on Redis",
+      "published": "2021-01-29",
+      "url": "https://se-radio.net/2021/01/episode-444tug-grall-on-redis/"
+    },
+    {
+      "title": "SE Radio 443: Shawn Wildermuth on Diversity and Inclusion in the Workplace",
+      "published": "2021-01-20",
+      "url": "https://se-radio.net/2021/01/episode-443-shawn-wildermuth-on-inclusivity/"
+    },
+    {
+      "title": "SE Radio 442: Arin Bhowmick on UX Design for Enterprise Applications",
+      "published": "2021-01-14",
+      "url": "https://se-radio.net/2021/01/episode-442-arin-bhowmick-on-ux-design-for-enterprise-applications/"
+    },
+    {
+      "title": "Episode 441: James Smith on Shipping Software - With Bugs",
+      "published": "2021-01-05",
+      "url": "https://se-radio.net/2021/01/episode-441-shipping-software-with-bugs/"
+    },
+    {
+      "title": "Episode 440: Alexis Richardson on gitops",
+      "published": "2020-12-24",
+      "url": "https://se-radio.net/2020/12/episode-440-alexis-richardson-on-gitops/"
+    },
+    {
+      "title": "Episode 439: JP Aumasson on Cryptography",
+      "published": "2020-12-18",
+      "url": "https://se-radio.net/2020/12/episode-439-jp-aumasson-on-cryptography/"
+    },
+    {
+      "title": "Episode 438: Andy Powell on Lessons Learned from a Major Cyber Attack",
+      "published": "2020-12-12",
+      "url": "https://se-radio.net/2020/12/episode-438-andy-powell-on-lessons-learned-from-a-major-cyber-attack/"
+    },
+    {
+      "title": "Episode 437: Tim Sneath on the Architecture of Flutter",
+      "published": "2020-12-08",
+      "url": "https://se-radio.net/2020/12/episode-437-tim-sneath-on-architecture-of-flutter/"
+    },
+    {
+      "title": "SE Radio 436: Apache Samza with Yi Pan",
+      "published": "2020-11-24",
+      "url": "https://se-radio.net/2020/11/episode-436-apache-samza-with-yi-pan/"
+    },
+    {
+      "title": "Episode 435: Julie Lerman on Object Relational Mappers and Entity Framework",
+      "published": "2020-11-17",
+      "url": "https://se-radio.net/2020/11/episode-435-julie-lerman-on-object-relational-mappers-and-entity-framework/"
+    },
+    {
+      "title": "Episode 435: Julie Lerman on Object Relational Mappers and Entity Framework",
+      "published": "2020-11-17",
+      "url": "https://seradio.libsyn.com/episode-435-julie-lerman-on-object-relational-mappers-and-entity-framework"
+    },
+    {
+      "title": "Episode 434: Steven Skiena on Preparing for the Data Structures and Algorithm Job Interview",
+      "published": "2020-11-10",
+      "url": "https://se-radio.net/2020/11/episode-434-steven-skiena-on-preparing-for-the-data-structures-and-algorithm-job-interview/"
+    },
+    {
+      "title": "Episode 433: Jay Kreps on ksqlDB",
+      "published": "2020-11-06",
+      "url": "https://se-radio.net/2020/11/episode-433-jay-kreps-on-ksqldb/"
+    },
+    {
+      "title": "Episode 432: Brian D Foy on Perl 7",
+      "published": "2020-10-30",
+      "url": "https://se-radio.net/2020/10/episode-432-brian-d-foy-on-perl-7/"
+    },
+    {
+      "title": "Episode 431: Ken Youens-Clark on Learning Python",
+      "published": "2020-10-23",
+      "url": "https://se-radio.net/2020/10/episode-431-ken-youens-clark-on-learning-python/"
+    },
+    {
+      "title": "Episode 430: Marco Faella on Seriously Good Software",
+      "published": "2020-10-16",
+      "url": "https://se-radio.net/2020/10/episode-430-marco-faella-on-seriously-good-software/"
+    },
+    {
+      "title": "Episode 429: Rob Skillington on High Cardinality Alerting and Monitoring",
+      "published": "2020-10-08",
+      "url": "https://se-radio.net/2020/10/episode-429-rob-skillington-on-high-cardinality-alerting-and-monitoring/"
+    },
+    {
+      "title": "Episode 428: Matt Lacey on Mobile App Usability",
+      "published": "2020-09-30",
+      "url": "https://se-radio.net/2020/09/episode-428-matt-lacey-on-mobile-app-usability/"
+    },
+    {
+      "title": "Episode 427: Sven Schleier and Jeroen Willemsen on Mobile Application Security",
+      "published": "2020-09-23",
+      "url": "https://se-radio.net/2020/09/episode-427-sven-schleier-and-jeroen-willemsen-on-mobile-application-security/"
+    },
+    {
+      "title": "Episode 426: Philip Kiely on Writing for Software Developers",
+      "published": "2020-09-15",
+      "url": "https://se-radio.net/2020/09/episode-426-philip-kiely-on-writing-for-software-developers/"
+    },
+    {
+      "title": "Episode 425: Paul Smith on The Crystal Programming Language and the Lucky Web Framework",
+      "published": "2020-09-09",
+      "url": "https://se-radio.net/2020/09/episode-425-paul-smith-on-the-crystal-programming-language-and-the-lucky-web-framework/"
+    },
+    {
+      "title": "Episode 424: Sean Knapp on Dataflow Pipeline Automation",
+      "published": "2020-09-02",
+      "url": "https://se-radio.net/2020/09/episode-424-sean-knapp-on-dataflow-pipeline-automation/"
+    },
+    {
+      "title": "423: Ryan Singer on Remote Work",
+      "published": "2020-08-25",
+      "url": "https://se-radio.net/2020/08/episode-423-ryan-singer-on-remote-work/"
+    },
+    {
+      "title": "Episode 422: Michael Geers on Micro Frontends",
+      "published": "2020-08-17",
+      "url": "https://se-radio.net/2020/08/episode-422-michael-geers-on-micro-frontends/"
+    },
+    {
+      "title": "Episode 421: Doug Fawley on gRPC",
+      "published": "2020-08-11",
+      "url": "https://se-radio.net/2020/08/episode-421-doug-fawley-on-grpc/"
+    },
+    {
+      "title": "Episode 420: Ryan Ripley on Making Scrum Work",
+      "published": "2020-08-06",
+      "url": "https://se-radio.net/2020/08/episode-420-ryan-ripley-on-making-scrum-work/"
+    },
+    {
+      "title": "Episode 419: John Ellithorpe on the Role of a CTO",
+      "published": "2020-07-28",
+      "url": "https://se-radio.net/2020/07/episode-419-john-ellithorpe-on-the-role-of-a-cto/"
+    },
+    {
+      "title": "Episode 418: Vladimir Khorikov on Functional Programming in Enterprise Applications",
+      "published": "2020-07-22",
+      "url": "https://se-radio.net/2020/07/episode-418-functional-programming-in-enterprise-applications/"
+    },
+    {
+      "title": "Episode 417: Alex Petrov on Database Storage Engines",
+      "published": "2020-07-16",
+      "url": "https://se-radio.net/2020/07/episode-417-alex-petrov-on-database-storage-engines/"
+    },
+    {
+      "title": "416: Adam Shostack on Threat Modeling",
+      "published": "2020-07-09",
+      "url": "https://se-radio.net/2020/07/episode-416-adam-shostack-on-threat-modeling/"
+    },
+    {
+      "title": "Episode 415: Berkay on Incident Management",
+      "published": "2020-06-30",
+      "url": "https://se-radio.net/2020/06/episode-415-berkay-on-incident-management/"
+    },
+    {
+      "title": "Episode 414: Jens Gustedt on Modern C",
+      "published": "2020-06-23",
+      "url": "https://se-radio.net/2020/06/episode-414-jens-gustedt-on-modern-c/"
+    },
+    {
+      "title": "Episode 413: Spencer Kimball on CockroachDB",
+      "published": "2020-06-16",
+      "url": "https://se-radio.net/2020/06/episode-413-spencer-kimball-on-cockroachdb/"
+    },
+    {
+      "title": "Episode 412: Sam Gavis Hughson on Technical Interviews",
+      "published": "2020-06-09",
+      "url": "https://se-radio.net/2020/06/episode-412-sam-gavis-hughson-on-technical-interviews/"
+    },
+    {
+      "title": "Episode 411: Aaron Vonderhaar on Elm",
+      "published": "2020-05-28",
+      "url": "https://se-radio.net/2020/05/episode-411-aaron-vonderhaar-on-elm/"
+    },
+    {
+      "title": "Episode 410: Sara Leen on Localizing and Porting Japanese Games",
+      "published": "2020-05-19",
+      "url": "https://se-radio.net/2020/05/episode-410-sara-leen-on-localizing-and-porting-japanese-games/"
+    },
+    {
+      "title": "Episode 409: Joe Kutner on the Twelve Factor App",
+      "published": "2020-05-14",
+      "url": "https://se-radio.net/2020/05/episode-409-joe-kutner-on-the-twelve-factor-app/"
+    },
+    {
+      "title": "Episode 408: Mike McCourt on Voice and Speech Analysis",
+      "published": "2020-05-04",
+      "url": "https://se-radio.net/2020/05/episode-408-mike-mccourt-on-voice-and-speech-analysis/"
+    },
+    {
+      "title": "Episode 407: Juval Lowy on Righting Software",
+      "published": "2020-04-24",
+      "url": "https://se-radio.net/2020/04/episode-407-juval-lowy-on-righting-software/"
+    },
+    {
+      "title": "Episode 406: Torin Sandall on Distributed Policy Enforcement",
+      "published": "2020-04-14",
+      "url": "https://se-radio.net/2020/04/episode-406-torin-sandall-on-distributed-policy-enforcement/"
+    },
+    {
+      "title": "Episode 405: Yevgeniy Brikman on Infrastructure as Code Best Practices",
+      "published": "2020-04-07",
+      "url": "https://se-radio.net/2020/04/episode-405-yevgeniy-brikman-on-infrastructure-as-code-best-practices/"
+    },
+    {
+      "title": "Episode 404: Bert Hubert on DNS Security",
+      "published": "2020-03-26",
+      "url": "https://se-radio.net/2020/03/episode-404-bert-hubert-on-dns-security/"
+    },
+    {
+      "title": "Episode 403: Karl Hughes on Speaking at Tech Conferences",
+      "published": "2020-03-18",
+      "url": "https://se-radio.net/2020/03/episode-403-karl-hughes-on-speaking-at-tech-conferences/"
+    },
+    {
+      "title": "Episode 402: Rich Harris on the Svelte JavaScript Framework",
+      "published": "2020-03-12",
+      "url": "https://se-radio.net/2020/03/episode-402-rich-harris-on-the-svelte-javascript-framework/"
+    },
+    {
+      "title": "SE Radio 401: Jeremy Miller on Waterfall Versus Agile",
+      "published": "2020-03-03",
+      "url": "https://se-radio.net/2020/03/episode-401-jeremy-miller-on-waterfall-versus-agile/"
+    },
+    {
+      "title": "Episode 400: Michaela Greiler on Code Reviews",
+      "published": "2020-02-26",
+      "url": "https://se-radio.net/2020/02/episode-400-michaela-greiler-on-code-reviews/"
+    },
+    {
+      "title": "Episode 399: Sumit Kumar on Building Maps using Leaflet",
+      "published": "2020-02-20",
+      "url": "https://se-radio.net/2020/02/episode-399-sumit-kumar-on-building-maps-using-leaflet/"
+    },
+    {
+      "title": "Episode 398: Apache Kudu with Adar Leiber Dembo",
+      "published": "2020-02-12",
+      "url": "https://se-radio.net/2020/02/episode-398-apache-kudu-with-adar-lieber-dembo/"
+    },
+    {
+      "title": "Episode 397: Pat Helland on Data Management with Microservices.mp3",
+      "published": "2020-02-06",
+      "url": "https://se-radio.net/2020/02/episode-397-pat-helland-on-data-management-with-microservices/"
+    },
+    {
+      "title": "Episode 396: Barry O'Reilly on Antifragile Architecture",
+      "published": "2020-01-24",
+      "url": "https://se-radio.net/2020/01/episode-396-barry-oreilly-on-antifragile-architecture/"
+    },
+    {
+      "title": "Episode 395: Katharine Jarmul on Security and Privacy in Machine Learning",
+      "published": "2020-01-10",
+      "url": "https://se-radio.net/2020/01/episode-395-katharine-jarmul-on-security-and-privacy-in-machine-learning/"
+    },
+    {
+      "title": "Episode 394: Chris McCord on Phoenix LiveView",
+      "published": "2020-01-03",
+      "url": "https://se-radio.net/2020/01/episode-394-chris-mccord-on-phoenix-liveview/"
+    },
+    {
+      "title": "Episode 393: Jay Kreps on Enterprise Integration Architecture with a Kafka Event Log",
+      "published": "2019-12-18",
+      "url": "https://se-radio.net/2019/12/episode-393-jay-kreps-on-enterprise-integration-architecture-with-a-kafka-event-log/"
+    },
+    {
+      "title": "Episode 392: Stephen Wolfram on Mathematica",
+      "published": "2019-12-13",
+      "url": "https://se-radio.net/2019/12/episode-392-stephen-wolfram-on-mathematica/"
+    },
+    {
+      "title": "Episode 391: Jeremy Howard on Deep Learning and fast.ai",
+      "published": "2019-12-05",
+      "url": "https://se-radio.net/2019/12/episode-391-jeremy-howard-on-deep-learning-and-fast-ai/"
+    },
+    {
+      "title": "SE Radio 390: Sam Procter on Security in Software Design",
+      "published": "2019-11-26",
+      "url": "https://se-radio.net/2019/11/se-radio-episode-390-sam-procter-on-security-in-software-design/"
+    },
+    {
+      "title": "Episode 389: Ryan Singer on Basecamp's Software Development Process",
+      "published": "2019-11-18",
+      "url": "https://se-radio.net/2019/11/episode-389-ryan-singer-on-basecamps-software-development-process/"
+    },
+    {
+      "title": "Episode 388: Bob Kepford on Decoupled Content Management Systems",
+      "published": "2019-11-12",
+      "url": "https://se-radio.net/2019/11/episode-388-bob-kepford-on-decoupled-content-management-systems/"
+    },
+    {
+      "title": "Episode 387: Abhinav Asthana on Designing and Testing APIs",
+      "published": "2019-11-07",
+      "url": "https://se-radio.net/2019/11/episode-387-abhinav-asthana-on-designing-and-testing-apis/"
+    },
+    {
+      "title": "Episode 386: Building Low Latency Applications with WebRTC",
+      "published": "2019-10-30",
+      "url": "https://se-radio.net/2019/10/episode-386-building-low-latency-applications-with-webrtc/"
+    },
+    {
+      "title": "Episode 385: Evan Gilman and Doug Barth on Zero-Trust Networks",
+      "published": "2019-10-22",
+      "url": "https://se-radio.net/2019/10/episode-385-evan-gilman-and-doug-barth-on-zero-trust-networks/"
+    },
+    {
+      "title": "Episode 384: Boris Cherny on TypeScript",
+      "published": "2019-10-16",
+      "url": "https://se-radio.net/2019/10/episode-384-boris-cherny-on-typescript/"
+    },
+    {
+      "title": "Episode 383: Neil Madden On Securing Your API",
+      "published": "2019-10-10",
+      "url": "https://se-radio.net/2019/10/episode-383-neil-madden-on-securing-your-api/"
+    },
+    {
+      "title": "Episode 382: Michael Chan on Learning ReactJS",
+      "published": "2019-09-26",
+      "url": "https://se-radio.net/2019/09/episode-382-michael-chan-on-learning-reactjs/"
+    },
+    {
+      "title": "Episode 381: Josh Long on Spring Boot",
+      "published": "2019-09-23",
+      "url": "https://se-radio.net/2019/09/episode-381-josh-long-on-spring-boot/"
+    },
+    {
+      "title": "Episode 380: Margaret Burnett on GenderMag",
+      "published": "2019-09-10",
+      "url": "https://se-radio.net/2019/09/episode-380-margaret-burnett-on-gender-cognitive-styles-usability-bugs/"
+    },
+    {
+      "title": "Episode 379: Claire Le Goues on Automated Program Repair",
+      "published": "2019-09-03",
+      "url": "https://se-radio.net/2019/09/episode-379-claire-le-goues-on-automated-program-repair/"
+    },
+    {
+      "title": "Episode 378: Joshua Davies on Attacking and Securing PKI",
+      "published": "2019-08-28",
+      "url": "https://se-radio.net/2019/08/episode-378-joshua-davies-on-attacking-and-securing-pki/"
+    },
+    {
+      "title": "Episode 377: Heidi Howard on Distributed Consensus",
+      "published": "2019-08-20",
+      "url": "https://se-radio.net/2019/08/episode-377-heidi-howard-on-distributed-consensus/"
+    },
+    {
+      "title": "Episode 376: Justin Richer On API Security with OAuth 2",
+      "published": "2019-08-13",
+      "url": "https://se-radio.net/2019/08/episode-376-justin-richer-on-api-security-with-oauth-2/"
+    },
+    {
+      "title": "Episode 375: Gabriel Gonzalez on Configuration",
+      "published": "2019-08-07",
+      "url": "https://se-radio.net/2019/08/episode-375-gabriel-gonzalez-on-configuration/"
+    },
+    {
+      "title": "Episode 374: Marcus Blankenship on Motivating Programmers",
+      "published": "2019-07-24",
+      "url": "https://se-radio.net/2019/07/episode-374-marcus-blankenship-on-motivating-programmers/"
+    },
+    {
+      "title": "Episode 373: Joel Spolsky on Startups Growth, and Valuation",
+      "published": "2019-07-18",
+      "url": "https://se-radio.net/2019/07/episode-373-joel-spolsky-on-startups-growth-and-valuation/"
+    },
+    {
+      "title": "Episode 372: Aaron Patterson on the Ruby Runtime",
+      "published": "2019-07-12",
+      "url": "https://se-radio.net/2019/07/episode-372-aaron-patterson-on-the-ruby-runtime/"
+    },
+    {
+      "title": "Episode 371: Howard Chu on the Lightning Memory Mapped Database (LMDB)",
+      "published": "2019-06-25",
+      "url": "https://se-radio.net/2019/06/episode-371-howard-chu-on-the-lightning-memory-mapped-database-lmdb/"
+    },
+    {
+      "title": "Episode 370: Chris Richardson on Microservice Patterns",
+      "published": "2019-06-18",
+      "url": "https://se-radio.net/2019/06/episode-370-chris-richardson-on-microservice-patterns/"
+    },
+    {
+      "title": "Episode 369: Derek Collison on Messaging Systems and NATS",
+      "published": "2019-06-11",
+      "url": "https://se-radio.net/2019/06/episode-369-derek-collison-on-messaging-systems-and-nats/"
+    },
+    {
+      "title": "Episode 368: Bryan Helmig on Managing Distributed Teams",
+      "published": "2019-05-30",
+      "url": "https://se-radio.net/2019/05/episode-368-bryan-helmig-on-managing-distributed-teams/"
+    },
+    {
+      "title": "Episode 367: Diomidis Spinellis on Debugging",
+      "published": "2019-05-21",
+      "url": "https://se-radio.net/2019/05/3544/"
+    },
+    {
+      "title": "366: Test Automation with Arnon Axelrod",
+      "published": "2019-05-16",
+      "url": "https://se-radio.net/2019/05/366-test-automation/"
+    },
+    {
+      "title": "365: Thorsten Ball on Building an Interpreter",
+      "published": "2019-05-07",
+      "url": "https://se-radio.net/2019/05/365-thorsten-ball-on-building-an-interpreter/"
+    },
+    {
+      "title": "364: Peter Zaitsev on Choosing the Right Open Source Database",
+      "published": "2019-04-30",
+      "url": "https://se-radio.net/2019/04/364-peter-zaitsev-on-choosing-the-right-open-source-database/"
+    },
+    {
+      "title": "363: Jonathan Boccara on Understanding Legacy Code",
+      "published": "2019-04-16",
+      "url": "https://se-radio.net/2019/04/363-jonathan-boccara-on-understanding-legacy-code/"
+    },
+    {
+      "title": "SE Radio 362: Simon Riggs on Advanced Features of PostgreSQL",
+      "published": "2019-04-10",
+      "url": "https://se-radio.net/2019/04/se-radio-episode-362-simon-riggs-on-advanced-features-of-postgresql/"
+    },
+    {
+      "title": "SE Radio 361: Daniel Berg on Istio Service Mesh",
+      "published": "2019-03-27",
+      "url": "https://se-radio.net/2019/03/se-radio-episode-361-daniel-berg-on-istio-service-mesh/"
+    },
+    {
+      "title": "SE Radio 360: Pete Koomen on A/B Testing",
+      "published": "2019-03-13",
+      "url": "https://se-radio.net/2019/03/se-radio-episode-360-pete-koomen-on-a-b-testing/"
+    },
+    {
+      "title": "SE Radio 359: Engineering Maturity with Jean-Denis Greze",
+      "published": "2019-03-06",
+      "url": "https://se-radio.net/2019/03/se-radio-episode-359-engineering-maturity-with-jean-denis-greze/"
+    },
+    {
+      "title": "SE Radio 358: Probabilistic Data Structure for Big Data Problems",
+      "published": "2019-02-27",
+      "url": "https://se-radio.net/2019/02/se-radio-episode-358-probabilistic-data-structure-for-big-data-problems/"
+    },
+    {
+      "title": "SE Radio 357: Adam Barr on Code Quality",
+      "published": "2019-02-20",
+      "url": "https://se-radio.net/2019/02/se-radio-episode-357-adam-barr-on-code-quality/"
+    },
+    {
+      "title": "SE Radio 356: Tim Coulter on Truffle, Smart Contracts and DApp Development with Truffle, Truffle Ecosystem and Roadmap",
+      "published": "2019-02-14",
+      "url": "https://se-radio.net/2019/02/se-radio-episode-356-tim-coulter-on-smart-contracts/"
+    },
+    {
+      "title": "SE Radio 355: Randy Shoup Scaling Technology and Organization",
+      "published": "2019-02-08",
+      "url": "https://se-radio.net/2019/02/se-radio-episode-355-randy-shoup-scaling-technology-and-organization/"
+    },
+    {
+      "title": "SE Radio 354: Avi Kivity on ScyllaDB.mp3",
+      "published": "2019-02-01",
+      "url": "https://se-radio.net/2019/02/se-radio-episode-354-avi-kivity-on-scylladb/"
+    },
+    {
+      "title": "SE Radio 353: Max Neunhoffer on Multi-model databases and ArangoDB",
+      "published": "2019-01-25",
+      "url": "https://se-radio.net/2019/01/se-radio-episode-353-max-neunhoffer-on-multi-model-databases-and-arangodb/"
+    },
+    {
+      "title": "SE Radio 352: Johnathan Nightingale on Scaling Engineering Management",
+      "published": "2019-01-16",
+      "url": "https://se-radio.net/2019/01/se-radio-episode-352-johnathan-nightingale-on-scaling-engineering-management/"
+    },
+    {
+      "title": "Episode 351 - Bernd Rücker on Orchestrating Microservices with Workflow Management",
+      "published": "2019-01-10",
+      "url": "https://se-radio.net/2019/01/episode-351-bernd-rucker-on-orchestrating-microservices-with-workflow-management/"
+    },
+    {
+      "title": "SE Radio 350: Vivek Ravisankar on HackerRank",
+      "published": "2018-12-19",
+      "url": "https://se-radio.net/2018/12/se-radio-episode-350-vivek-ravisankar-on-hackerrank/"
+    },
+    {
+      "title": "SE Radio 349: Gary Rennie on Phoenix",
+      "published": "2018-12-12",
+      "url": "https://se-radio.net/2018/12/se-radio-episode-349-gary-rennie-on-phoenix/"
+    },
+    {
+      "title": "SE Radio 348 Riccardo Terrell on Concurrency",
+      "published": "2018-12-05",
+      "url": "https://se-radio.net/2018/12/se-radio-episode-348-riccardo-terrell-on-concurrency/"
+    },
+    {
+      "title": "SE Radio 347: Daniel Corbett on Load Balancing and HAProxy",
+      "published": "2018-11-28",
+      "url": "https://se-radio.net/2018/11/se-radio-episode-347-daniel-corbett-on-load-balancing-and-haproxy/"
+    },
+    {
+      "title": "SE Radio 346: Stephan Ewen on Streaming Architecture",
+      "published": "2018-11-14",
+      "url": "https://se-radio.net/2018/11/se-radio-episode-346-stephan-ewen-on-streaming-architecture/"
+    },
+    {
+      "title": "SE Radio 345: Tyler McMullen on Content Delivery Networks (CDNs)",
+      "published": "2018-11-07",
+      "url": "https://se-radio.net/2018/11/se-radio-episode-345-tyler-mcmullen-on-content-delivery-networks-cdns/"
+    },
+    {
+      "title": "SE Radio 344: Pat Helland on Web Scale",
+      "published": "2018-10-31",
+      "url": "https://se-radio.net/2018/10/se-radio-episode-344-pat-helland-on-web-scale/"
+    },
+    {
+      "title": "SE Radio 343: John Crain on Ethereum and Smart Contracts",
+      "published": "2018-10-24",
+      "url": "https://se-radio.net/2018/10/se-radio-episode-343-john-crain-on-ethereum-and-smart-contracts/"
+    },
+    {
+      "title": "SE Radio Episode 342 - István Lam on Privacy by Design with GDPR",
+      "published": "2018-10-18",
+      "url": "https://se-radio.net/2018/10/episode-342-istvan-lam-on-privacy-by-design-with-gdpr/"
+    },
+    {
+      "title": "SE Radio 341: Michael Hausenblas on Container Networking",
+      "published": "2018-10-10",
+      "url": "https://se-radio.net/2018/10/se-radio-episode-341-michael-hausenblas-on-container-networking/"
+    },
+    {
+      "title": "SE Radio 340: Lara Hogan and Deepa Subramaniam on Revitalizing a Cross-Functional Product Organization",
+      "published": "2018-10-03",
+      "url": "https://se-radio.net/2018/10/se-radio-episode-340-lara-hogan-and-deepa-subramaniam-on-revitalizing-a-cross-functional-product-organization/"
+    },
+    {
+      "title": "SE Radio 339: Jafar Soltani on Continuous Delivery for Multiplayer Games",
+      "published": "2018-09-26",
+      "url": "https://se-radio.net/2018/09/se-radio-episode-339-jafar-soltani-on-continuous-delivery-for-multiplayer-games/"
+    },
+    {
+      "title": "SE Radio 338: Brent Laster on the Jenkins 2 Build Server",
+      "published": "2018-09-19",
+      "url": "https://se-radio.net/2018/09/se-radio-episode-338-brent-laster-on-the-jenkins-2-build-server/"
+    },
+    {
+      "title": "SE Radio 337: Ben Sigelman on Distributed Tracing",
+      "published": "2018-09-11",
+      "url": "https://se-radio.net/2018/09/se-radio-episode-337-ben-sigelman-on-distributed-tracing/"
+    },
+    {
+      "title": "SE Radio 336: Saša Jurić on Elixir",
+      "published": "2018-08-28",
+      "url": "https://se-radio.net/2018/08/se-radio-336-sasa-juric-on-elixir/"
+    },
+    {
+      "title": "SE Radio 335: Maria Gorlatova on Edge Computing",
+      "published": "2018-08-20",
+      "url": "https://se-radio.net/2018/08/se-radio-episode-335-maria-gorlatova-on-edge-computing/"
+    },
+    {
+      "title": "SE Radio 334: David Calavera on Zero-downtime Migrations and Rollbacks with Kubernetes",
+      "published": "2018-08-14",
+      "url": "https://se-radio.net/2018/08/se-radio-episode-334-david-calavera-on-zero-downtime-migrations-and-rollbacks-with-kubernetes/"
+    },
+    {
+      "title": "SE Radio 333: Marian Petre and André van der Hoek on Software Design",
+      "published": "2018-08-06",
+      "url": "https://se-radio.net/2018/08/se-radio-episode-333-marian-petre-and-andre-van-der-hoek-on-software-design/"
+    },
+    {
+      "title": "SE Radio 332: John Doran on Fixing a Broken Development Process",
+      "published": "2018-07-31",
+      "url": "https://se-radio.net/2018/07/se-radio-episode-332-john-doran-on-fixing-a-broken-development-process/"
+    },
+    {
+      "title": "SE Radio 331: Kevin Goldsmith on Architecture and Organizational Design",
+      "published": "2018-07-24",
+      "url": "https://se-radio.net/2018/07/se-radio-episode-331-kevin-goldsmith-on-architecture-and-organizational-design/"
+    },
+    {
+      "title": "SE Radio 330: Natalie Silvanovich on Attack Surface Reduction",
+      "published": "2018-07-16",
+      "url": "https://se-radio.net/2018/07/se-radio-episode-330-natalie-silvanovich-on-attack-surface-reduction/"
+    },
+    {
+      "title": "SE Radio 329 Andreas Stefik on Accessibility for the Visually",
+      "published": "2018-06-26",
+      "url": "https://se-radio.net/2018/06/se-radio-episode-329-andreas-stefik-on-accessibility-for-the-visually-impaired/"
+    },
+    {
+      "title": "SE Radio 328: Bruce Momjian on the Postgres Query Planner",
+      "published": "2018-06-19",
+      "url": "https://se-radio.net/2018/06/se-radio-episode-329-andreas-stefik-on-accessibility-for-the-visually-impaired/"
+    },
+    {
+      "title": "SE Radio 327: Glynn Bird on Developer Productivity with Open Source",
+      "published": "2018-06-12",
+      "url": "https://se-radio.net/2018/06/se-radio-episode-327-glynn-bird-on-developer-productivity-with-open-source/"
+    },
+    {
+      "title": "SE Radio 326 Dmitry Jeremov and Svetlana Isakova on the Kotlin Programming Language",
+      "published": "2018-06-05",
+      "url": "https://se-radio.net/2018/06/se-radio-episode-326-dmitry-jemerov-and-svetlana-isakova-on-the-kotlin-programming-language/"
+    },
+    {
+      "title": "SE Radio 325: Tammy Butow on Chaos Engineering",
+      "published": "2018-05-29",
+      "url": "https://se-radio.net/2018/05/se-radio-episode-325-tammy-butow-on-chaos-engineering/"
+    },
+    {
+      "title": "SE Radio 324: Marc Hoffmann on Code Test Coverage Analysis and Tools",
+      "published": "2018-05-21",
+      "url": "https://se-radio.net/2018/05/se-radio-episode-324-marc-hoffmann-on-code-test-coverage-analysis-and-tools/"
+    },
+    {
+      "title": "SE Radio 323: Lin Clark on WebAssembly",
+      "published": "2018-05-07",
+      "url": "https://se-radio.net/2018/05/se-radio-episode-323-lin-clark-on-webassembly/"
+    },
+    {
+      "title": "SE Radio 322: Bill Venners on Property Based Tests",
+      "published": "2018-04-30",
+      "url": "https://se-radio.net/2018/05/se-radio-episode-322-bill-venners-on-property-based-tests/"
+    },
+    {
+      "title": "SE Radio 321: Péter Budai on End to End Encryption",
+      "published": "2018-04-10",
+      "url": "https://se-radio.net/2018/04/se-radio-episode-321-peter-budai-on-end-to-end-encryption/"
+    },
+    {
+      "title": "SE Radio 320: Nate Taggart on Serverless Paradigm",
+      "published": "2018-03-27",
+      "url": "https://se-radio.net/2018/03/se-radio-episode-320-nate-taggart-on-serverless-paradigm/"
+    },
+    {
+      "title": "SE Radio 319: Nicole Hubbard on Migrating from VMs to Kubernetes",
+      "published": "2018-03-13",
+      "url": "https://se-radio.net/2018/03/se-radio-episode-319-nicole-hubbard-on-migrating-from-vms-to-kubernetes/"
+    },
+    {
+      "title": "SE Radio Episode 318: Veronika Cheplygina on Image Recognition",
+      "published": "2018-02-20",
+      "url": "https://se-radio.net/2018/02/se-radio-episode-318-veronika-cheplygina-on-image-recognition/"
+    },
+    {
+      "title": "SE Radio 317: Travis Kimmel on Measuring Software Engineering Productivity",
+      "published": "2018-02-06",
+      "url": "https://se-radio.net/2018/02/se-radio-episode-317-travis-kimmel-on-measuring-software-engineering-productivity/"
+    },
+    {
+      "title": "SE Radio 316: Nicolai Parlog on Java 9",
+      "published": "2018-01-30",
+      "url": "https://se-radio.net/2018/01/se-radio-episode-316-nicolai-parlog-on-java-9/"
+    },
+    {
+      "title": "SE Radio 315: Jeroen Janssens on Tools for Data Science",
+      "published": "2018-01-23",
+      "url": "https://se-radio.net/2018/01/se-radio-episode-315-jeroen-janssens-on-tools-for-data-science/"
+    },
+    {
+      "title": "SE Radio 314: Scott Piper on Cloud Security",
+      "published": "2018-01-15",
+      "url": "https://se-radio.net/2018/01/se-radio-episode-314-scott-piper-on-cloud-security/"
+    },
+    {
+      "title": "SE Radio 313: Conor Delanbanque on Hiring and Retaining DevOps",
+      "published": "2017-12-18",
+      "url": "https://se-radio.net/2017/12/se-radio-episode-313-conor-delanbanque-on-devops-hiring-and-retaining-devops/"
+    },
+    {
+      "title": "SE Radio 312: Sachin Gadre on the Internet of Things",
+      "published": "2017-12-12",
+      "url": "https://se-radio.net/2017/12/se-radio-episode-312-sachin-gadre-on-the-internet-of-things/"
+    },
+    {
+      "title": "SE Radio 311: Armon Dadgar on Secrets Management",
+      "published": "2017-12-05",
+      "url": "https://se-radio.net/2017/12/se-radio-episode-311-armon-dadgar-on-secrets-management/"
+    },
+    {
+      "title": "SE Radio 310: Kirk Pepperdine on Performance Optimization",
+      "published": "2017-11-28",
+      "url": "https://se-radio.net/2017/11/se-radio-episode-310-kirk-pepperdine-on-performance-optimization/"
+    },
+    {
+      "title": "SE Radio 309: Zane Lackey on Application Security",
+      "published": "2017-11-13",
+      "url": "https://se-radio.net/2017/11/se-radio-episode-309-zane-lackey-on-application-security/"
+    },
+    {
+      "title": "SE Radio Episode 308: Gregor Hohpe on It Architecture and IT Transformation",
+      "published": "2017-11-08",
+      "url": "https://se-radio.net/2017/11/se-radio-episode-308-gregor-hohpe-on-it-architecture-and-it-transformation/"
+    },
+    {
+      "title": "SE Radio 307: Harsh Sinha on Product Management",
+      "published": "2017-10-30",
+      "url": "https://se-radio.net/2017/10/se-radio-episode-307-harsh-sinha-on-product-management/"
+    },
+    {
+      "title": "SE Radio 306: Ron Lichty on Managing Programmers",
+      "published": "2017-10-16",
+      "url": "https://se-radio.net/2017/10/se-radio-episode-306-ron-lichty-on-managing-programmers/"
+    },
+    {
+      "title": "SE Radio 305: Charlie Berger on Predictive Applications",
+      "published": "2017-10-09",
+      "url": "https://se-radio.net/2017/10/se-radio-episode-305-charlie-berger-on-predictive-applications/"
+    },
+    {
+      "title": "SE Radio 304: Evgeny Shadchnev on Code Schools",
+      "published": "2017-09-25",
+      "url": "https://se-radio.net/2017/09/se-radio-episode-304-evgeny-shadchnev-on-code-schools/"
+    },
+    {
+      "title": "SE Radio 303: Zachary Burt on Freelancing as a Career Option",
+      "published": "2017-09-18",
+      "url": "https://se-radio.net/2017/09/se-radio-episode-303-zachary-burt-on-freelancing-as-a-career-option/"
+    },
+    {
+      "title": "SE Radio 302: Haroon Meer on Network Security",
+      "published": "2017-09-11",
+      "url": "https://se-radio.net/2017/09/se-radio-episode-302-haroon-meer-on-network-security/"
+    },
+    {
+      "title": "SE Radio 301: Jason Hand Handling Outages",
+      "published": "2017-08-28",
+      "url": "https://se-radio.net/2017/08/se-radio-episode-301-jason-hand-handling-outages/"
+    },
+    {
+      "title": "SE Radio 300: Jonathan Stark on Mobile App Development",
+      "published": "2017-08-15",
+      "url": "https://se-radio.net/2017/08/se-radio-episode-300-jonathan-stark-on-mobile-app-development/"
+    },
+    {
+      "title": "SE Radio 299: Edson Tirelli on Rules Engines",
+      "published": "2017-08-07",
+      "url": "https://se-radio.net/2017/08/se-radio-episode-299-edson-tirelli-on-rules-engines/"
+    },
+    {
+      "title": "SE Radio 298: Moshe Vardi on P versus NP",
+      "published": "2017-07-25",
+      "url": "https://se-radio.net/2017/07/se-radio-episode-298-moshe-vardi-on-p-versus-np/"
+    },
+    {
+      "title": "SE Radio 297: Kieren James-Lubin on Blockchain",
+      "published": "2017-07-18",
+      "url": "https://se-radio.net/2017/07/se-radio-episode-297-kieren-james-lubin-on-blockchain/"
+    },
+    {
+      "title": "SE Radio 296: Type-Driven Development with Edwin Brady",
+      "published": "2017-07-10",
+      "url": "https://se-radio.net/2017/07/se-radio-episode-296-type-driven-development-with-edwin-brady/"
+    },
+    {
+      "title": "SE Radio 295: Michael Feathers on Legacy Code",
+      "published": "2017-06-27",
+      "url": "https://se-radio.net/2017/06/se-radio-episode-295-michael-feathers-on-legacy-code/"
+    },
+    {
+      "title": "SE Radio 294: Asaf Yigal on Machine Learning in Log Analysis",
+      "published": "2017-06-19",
+      "url": "https://se-radio.net/2017/06/se-radio-episode-294-asaf-yigal-on-machine-learning-in-log-analysis/"
+    },
+    {
+      "title": "SE Radio 293: Yakov Fain on Angular",
+      "published": "2017-06-05",
+      "url": "https://se-radio.net/2017/06/se-radio-episode-293-yakov-fain-on-angular/"
+    },
+    {
+      "title": "SE Radio 292: Philipp Krenn on Elasticsearch",
+      "published": "2017-05-30",
+      "url": "https://se-radio.net/2017/05/se-radio-episode-292-philipp-krenn-on-elasticsearch/"
+    },
+    {
+      "title": "SE Radio 291: Morgan Wilde on LLVM",
+      "published": "2017-05-15",
+      "url": "https://se-radio.net/2017/05/se-radio-episode-291-morgan-wilde-on-llvm/"
+    },
+    {
+      "title": "SE Radio 290: Diogo Mónica on Docker Security",
+      "published": "2017-05-08",
+      "url": "https://se-radio.net/2017/05/se-radio-episode-290-diogo-monica-on-docker-security/"
+    },
+    {
+      "title": "SE Radio 289: James Turnbull on Declarative Programming with Terraform",
+      "published": "2017-04-25",
+      "url": "https://se-radio.net/2017/04/se-radio-episode-289-james-turnbull-on-declarative-programming-with-terraform/"
+    },
+    {
+      "title": "SE Radio 288: Francois Raynaud on DevSecOps",
+      "published": "2017-04-18",
+      "url": "https://se-radio.net/2017/04/se-radio-episode-288-devsecops/"
+    },
+    {
+      "title": "SE Radio 287: Success Skills for Architects with Neil Ford",
+      "published": "2017-04-11",
+      "url": "https://se-radio.net/2017/04/se-radio-episode-287-success-skills-for-architects-with-neil-ford/"
+    },
+    {
+      "title": "SE Radio 286: Katie Malone Intro to Machine Learning",
+      "published": "2017-03-28",
+      "url": "https://se-radio.net/2017/03/se-radio-episode-286-katie-malone-intro-to-machine-learning/"
+    },
+    {
+      "title": "SE Radio 285: James Cowling on Dropbox's Distributed Storage System",
+      "published": "2017-03-14",
+      "url": "https://se-radio.net/2017/03/se-radio-episode-285-james-cowling-on-dropboxs-distributed-storage-system/"
+    },
+    {
+      "title": "SE Radio 284: John Allspaw on System Failures: Preventing, Responding, and Learning From",
+      "published": "2017-03-07",
+      "url": "https://se-radio.net/2017/03/se-radio-episode-284-john-allspaw-on-system-failures-preventing-responding-and-learning-from/"
+    },
+    {
+      "title": "SE Radio 283: Alexander Tarlinder on Developer Testing",
+      "published": "2017-02-28",
+      "url": "https://se-radio.net/2017/03/se-radio-episode-283-alexander-tarlinder-on-developer-testing/"
+    },
+    {
+      "title": "SE Radio 282: Donny Nadolny on Debugging Distributed Systems",
+      "published": "2017-02-14",
+      "url": "https://se-radio.net/2017/02/se-radio-episode-282-donny-nadolny-on-debugging-distributed-systems/"
+    },
+    {
+      "title": "SE Radio 281: James Whittaker on Career Strategy",
+      "published": "2017-02-07",
+      "url": "https://se-radio.net/2017/02/se-radio-episode-281-james-whittaker-on-career-strategy/"
+    },
+    {
+      "title": "SE Radio 280: Gerald Weinberg on Bugs Errors and Software Quality",
+      "published": "2017-01-24",
+      "url": "https://se-radio.net/2017/01/se-radio-episode-280-gerald-weinberg-on-bugs-errors-and-software-quality/"
+    },
+    {
+      "title": "SE Radio 279: Florian Gilcher on Rust",
+      "published": "2017-01-10",
+      "url": "https://se-radio.net/2017/01/se-radio-episode-279-florian-gilcher-on-rust/"
+    },
+    {
+      "title": "SE Radio 278: Peter Hilton on Naming",
+      "published": "2016-12-20",
+      "url": "https://se-radio.net/2016/12/se-radio-episode-278-peter-hilton-on-naming/"
+    },
+    {
+      "title": "SE Radio 277: Gil Tene on Tail Latency",
+      "published": "2016-12-14",
+      "url": "https://se-radio.net/2016/12/se-radio-episode-277-gil-tene-on-tail-latency/"
+    },
+    {
+      "title": "SE Radio 276: Björn Rabenstein on Site Reliability Engineering",
+      "published": "2016-12-06",
+      "url": "https://se-radio.net/2016/12/se-radio-episode-276-bjorn-rabenstein-on-site-reliability-engineering/"
+    },
+    {
+      "title": "SE Radio 275: Josh Doody on Salary Negotiation for Software Engineers",
+      "published": "2016-11-22",
+      "url": "https://se-radio.net/2016/11/se-radio-episode-275-josh-doody-on-salary-negotiation-for-software-engineers/"
+    },
+    {
+      "title": "SE Radio 274: Sam Aaron on Sonic Pi",
+      "published": "2016-11-08",
+      "url": "https://se-radio.net/2016/11/se-radio-episode-274-sam-aaron-on-sonic-pi/"
+    },
+    {
+      "title": "SE Radio 273: Steve McConnell on Software Estimation",
+      "published": "2016-11-01",
+      "url": "https://se-radio.net/2016/11/se-radio-episode-273-steve-mcconnell-on-software-estimation/"
+    },
+    {
+      "title": "SE Radio 272: Frances Perry on Apache Beam",
+      "published": "2016-10-25",
+      "url": "https://se-radio.net/2016/10/se-radio-episode-272-frances-perry-on-apache-beam/"
+    },
+    {
+      "title": "SE Radio Episode 271: Idit Levine on Unikernelsl",
+      "published": "2016-10-11",
+      "url": "https://se-radio.net/2016/10/se-radio-episode-271-idit-levine-on-unikernelsl/"
+    },
+    {
+      "title": "SE Radio 270: Brian Brazil on Prometheus Monitoring",
+      "published": "2016-10-04",
+      "url": "https://se-radio.net/2016/10/se-radio-episode-270-brian-brazil-on-prometheus-monitoring/"
+    },
+    {
+      "title": "SE Radio 269: Phillip Carter on F#",
+      "published": "2016-09-27",
+      "url": "https://se-radio.net/2016/09/se-radio-episode-269-phillip-carter-on-f/"
+    },
+    {
+      "title": "SE Radio 268: Kief Morris on Infrastructure as Code",
+      "published": "2016-09-13",
+      "url": "https://se-radio.net/2016/09/se-radio-episode-268-kief-morris-on-infrastructure-as-code/"
+    },
+    {
+      "title": "SE Radio 267: Jürgen Höller on Reactive Spring and Spring 5.0",
+      "published": "2016-09-06",
+      "url": "https://se-radio.net/2016/09/se-radio-episode-267-jurgen-holler-on-reactive-spring-and-spring-5-0/"
+    },
+    {
+      "title": "SE Radio 266: Charles Nutter on the JVM as a Language Platform",
+      "published": "2016-08-16",
+      "url": "https://se-radio.net/2016/08/se-radio-episode-266-charles-nutter-on-the-jvm-as-a-language-platform/"
+    },
+    {
+      "title": "SE Radio 265: Pat Kua on Becoming a Tech Lead",
+      "published": "2016-08-05",
+      "url": "https://se-radio.net/2016/08/se-radio-episode-265-pat-kua-on-becoming-a-tech-lead/"
+    },
+    {
+      "title": "SE Radio 264: James Phillips on Service Discovery",
+      "published": "2016-08-02",
+      "url": "https://se-radio.net/2016/08/se-radio-episode-264-james-phillips-on-service-discovery/"
+    },
+    {
+      "title": "SE Radio 263: Camille Fournier on Real-World Distributed Systems",
+      "published": "2016-07-19",
+      "url": "https://se-radio.net/2016/07/se-radio-episode-263-camille-fournier-on-real-world-distributed-systems/"
+    },
+    {
+      "title": "SE Radio Episode 262: Software Quality with Bill Curtis",
+      "published": "2016-07-12",
+      "url": "https://se-radio.net/2016/07/se-radio-episode-262-software-quality-with-bill-curtis/"
+    },
+    {
+      "title": "SE Radio 261: David Heinemeier-Hansson on the State of Rails Monoliths and More",
+      "published": "2016-06-28",
+      "url": "https://se-radio.net/2016/06/se-radio-episode-261-david-heinemeier-hansson-on-the-state-of-rails-monoliths-and-more/"
+    },
+    {
+      "title": "SE Radio 260: Haoyuan Li on Alluxio",
+      "published": "2016-06-14",
+      "url": "https://se-radio.net/2016/06/se-radio-episode-260-haoyuan-li-on-alluxio/"
+    },
+    {
+      "title": "SE Radio 259: John Purrier on OpenStack",
+      "published": "2016-06-07",
+      "url": "https://se-radio.net/2016/06/se-radio-episode-259-john-purrier-on-openstack/"
+    },
+    {
+      "title": "SE Radio 258: Cody Voellinger on Recruiting Software Engineers",
+      "published": "2016-05-24",
+      "url": "https://se-radio.net/2016/05/se-radio-episode-258-cody-voellinger-on-recruiting-software-engineers/"
+    },
+    {
+      "title": "SE Radio 257: Michael Nygard on Clojure in Practice",
+      "published": "2016-05-17",
+      "url": "https://se-radio.net/2016/05/se-radio-episode-257-michael-nygard-on-clojure-in-practice/"
+    },
+    {
+      "title": "SE Radio 256: Jay Fields on Working Effectively with Unit Tests",
+      "published": "2016-05-03",
+      "url": "https://se-radio.net/2016/05/se-radio-episode-256-jay-fields-on-working-effectively-with-unit-tests/"
+    },
+    {
+      "title": "SE Radio 255: Monica Beckwith on Java Garbage Collection",
+      "published": "2016-04-26",
+      "url": "https://se-radio.net/2016/04/se-radio-episode-255-monica-beckwith-on-java-garbage-collection/"
+    },
+    {
+      "title": "SE Radio 254: Mike Barker on the LMAX Architecture",
+      "published": "2016-04-11",
+      "url": "https://se-radio.net/2016/04/se-radio-episode-254-mike-barker-on-the-lmax-architecture/"
+    },
+    {
+      "title": "SE Radio 253: Fred George on Developer Anarchy",
+      "published": "2016-03-23",
+      "url": "https://se-radio.net/2016/03/se-radio-episode-253-fred-george-on-developer-anarchy/"
+    },
+    {
+      "title": "SE Radio 252: Christopher Meiklejohn on CRDTs",
+      "published": "2016-03-15",
+      "url": "https://se-radio.net/2016/03/se-radio-episode-252-christopher-meiklejohn-on-crdts/"
+    },
+    {
+      "title": "SE Radio 251: Martin Klose on Code Retreats",
+      "published": "2016-03-03",
+      "url": "https://se-radio.net/2016/03/se-radio-episode-251-martin-klose-on-code-retreats/"
+    },
+    {
+      "title": "SE Radio 250: Jürgen Laartz and Alexander Budzier on Why Large IT Projects Fail",
+      "published": "2016-02-22",
+      "url": "https://se-radio.net/2016/02/se-radio-epislode-250-jurgen-laartz-and-alexander-budzier-on-why-large-it-projects-fail/"
+    },
+    {
+      "title": "SE Radio 249: Vaughn Vernon on Reactive Programming with the Actor Model",
+      "published": "2016-02-11",
+      "url": "https://se-radio.net/2016/02/se-radio-episode-249-vaughn-vernon-on-reactive-programming-with-the-actor-model/"
+    },
+    {
+      "title": "SE Radio 248: Axel Rauschmayer on JavaScript and ECMAScript 6",
+      "published": "2016-01-28",
+      "url": "https://se-radio.net/2016/01/se-radio-episode-248-axel-rauschmayer-on-javascript-and-ecmascript-6/"
+    },
+    {
+      "title": "SE Radio 247: Andrew Phillips on DevOps",
+      "published": "2016-01-20",
+      "url": "https://se-radio.net/2016/01/se-radio-episode-247-andrew-phillips-on-devops/"
+    },
+    {
+      "title": "SE Radio 246: John Wilkes on Borg and Kubernetes",
+      "published": "2016-01-07",
+      "url": "https://se-radio.net/2016/01/se-radio-show-246-john-wilkes-on-borg-and-kubernetes/"
+    },
+    {
+      "title": "SE Radio 245: John Sonmez on Marketing Yourself and Managing Your Career",
+      "published": "2015-12-28",
+      "url": "https://se-radio.net/2015/12/se-radio-episode-245-john-sonmez-on-marketing-yourself-and-managing-your-career/"
+    },
+    {
+      "title": "SE Radio 244: Gernot Starke on Architecture Documentation using arc42",
+      "published": "2015-12-16",
+      "url": "https://se-radio.net/2015/12/se-radio-episode-244-gernot-starke-on-architecture-documentation-using-arc42/"
+    },
+    {
+      "title": "SE Radio 243: RethinkDB with Slava Akhmechet",
+      "published": "2015-11-20",
+      "url": "https://se-radio.net/2015/12/se-radio-episode-243-rethinkdb-with-slava-akhmechet/"
+    },
+    {
+      "title": "SE Radio 242: Dave Thomas on Innovating Legacy Systems",
+      "published": "2015-11-13",
+      "url": "https://se-radio.net/2015/11/se-radio-episode-242-dave-thomas-on-innovating-legacy-systems/"
+    },
+    {
+      "title": "SE Radio 241: Kyle Kingsbury on Consensus in Distributed Systems",
+      "published": "2015-11-03",
+      "url": "https://se-radio.net/2015/11/se-radio-episode-241-kyle-kingsbury-on-consensus-in-distributed-systems/"
+    },
+    {
+      "title": "SE Radio 240: The Groovy Language with Cédric Champeau",
+      "published": "2015-10-22",
+      "url": "https://se-radio.net/2015/10/se-radio-episode-240-the-groovy-language-with-cedric-champeau/"
+    },
+    {
+      "title": "SE Radio 239: Andrew Clay Shafer on Modern Platform-as-a-Service",
+      "published": "2015-10-02",
+      "url": "https://se-radio.net/2015/10/se-radio-episode-239-andrew-clay-shafer-on-modern-platform-as-a-service/"
+    },
+    {
+      "title": "SE Radio 237: Go Behind the Scenes and Meet the SE Radio Team",
+      "published": "2015-09-22",
+      "url": "https://se-radio.net/2015/09/se-radio-episode-237-software-engineering-radio-go-behind-the-scenes-and-meet-the-team/"
+    },
+    {
+      "title": "SE Radio 238: Linda Rising on the Agile Brain",
+      "published": "2015-09-11",
+      "url": "https://se-radio.net/2015/09/se-radio-episode-238-linda-rising-on-the-agile-brain/"
+    },
+    {
+      "title": "SE Radio 236: Rebecca Parsons on Evolutionary Architecture",
+      "published": "2015-08-21",
+      "url": "https://se-radio.net/2015/08/se-radio-episode-236-rebecca-parsons-on-evolutionary-architecture/"
+    },
+    {
+      "title": "SE Radio 235: Ben Hindman on Apache Mesos",
+      "published": "2015-08-17",
+      "url": "https://se-radio.net/2015/08/se-radio-episode-235-ben-hindman-on-apache-mesos/"
+    },
+    {
+      "title": "SE Radio 234: Barry O'Reilly on Lean Enterprise",
+      "published": "2015-08-04",
+      "url": "https://se-radio.net/2015/08/se-radio-episode-234-barry-oreilly-on-lean-enterprise/"
+    },
+    {
+      "title": "SE Radio 233: Fangjin Yang on OLAP and the Druid Real-Time Analytical Data Store",
+      "published": "2015-07-28",
+      "url": "https://se-radio.net/2015/07/se-radio-episode-233-fangjin-yang-on-olap-and-the-druid-real-time-analytical-data-store/"
+    },
+    {
+      "title": "SE Radio 232: Mark Nottingham on HTTP/2",
+      "published": "2015-07-16",
+      "url": "https://se-radio.net/2015/07/episode-232-mark-nottingham-on-http2/"
+    },
+    {
+      "title": "SE Radio 231: Joshua Suereth and Matthew Farwell on SBT and Software Builds",
+      "published": "2015-07-01",
+      "url": "https://se-radio.net/2015/07/se-radio-episode-231-joshua-suereth-and-matthew-farwell-on-sbt-and-software-builds/"
+    },
+    {
+      "title": "SE Radio 230: Shubhra Khar on NodeJS",
+      "published": "2015-06-26",
+      "url": "https://se-radio.net/2015/06/episode-230-shubhra-khar-on-nodejs/"
+    },
+    {
+      "title": "SE Radio 229: Flavio Junqueira on Distributed Coordination with Apache ZooKeeper",
+      "published": "2015-06-16",
+      "url": "https://se-radio.net/2015/06/episode-229-flavio-junqueira-on-distributed-coordination-with-apache-zookeeper/"
+    },
+    {
+      "title": "SE Radio 228: Software Architecture Sketches with Simon Brown",
+      "published": "2015-06-10",
+      "url": "https://se-radio.net/2015/06/episode-228-software-architecture-sketches-with-simon-brown/"
+    },
+    {
+      "title": "SE Radio 227: Eric Brewer: The CAP Theorem Then and Now",
+      "published": "2015-05-27",
+      "url": "https://se-radio.net/2015/05/the-cap-theorem-then-and-now/"
+    },
+    {
+      "title": "SE Radio 226: Eric Evans on Domain-Driven Design at 10 Years",
+      "published": "2015-05-13",
+      "url": "https://se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/"
+    },
+    {
+      "title": "SE Radio 225: Brendan Gregg on Systems Performance",
+      "published": "2015-04-14",
+      "url": "https://se-radio.net/2015/04/se-radio-episode-225-brendan-gregg-on-systems-performance/"
+    },
+    {
+      "title": "SE Radio 224: Sven Johann and Eberhard Wolff on Technical Debt",
+      "published": "2015-03-31",
+      "url": "https://se-radio.net/2015/04/episode-224-sven-johann-and-eberhard-wolff-on-technical-debt/"
+    },
+    {
+      "title": "SE Radio 223: Joram Barrez on the Activiti Business Process Management Platform",
+      "published": "2015-03-18",
+      "url": "https://se-radio.net/2015/03/episode-223-joram-barrez-on-the-activiti-business-process-management-platform/"
+    },
+    {
+      "title": "SE Radio 222: Nathan Marz on Real-Time Processing with Apache Storm",
+      "published": "2015-03-06",
+      "url": "https://se-radio.net/2015/03/episode-222-nathan-marz-on-real-time-processing-with-apache-storm/"
+    },
+    {
+      "title": "SE Radio 221: Jez Humble on Continuous Delivery",
+      "published": "2015-02-24",
+      "url": "https://se-radio.net/2015/02/episode-221-jez-humble-on-continuous-delivery/"
+    },
+    {
+      "title": "SE Radio 220: Jon Gifford on Logging and Logging Infrastructure",
+      "published": "2015-02-18",
+      "url": "https://se-radio.net/2015/02/episode-220-jon-gifford-on-logging-and-logging-infrastructure/"
+    },
+    {
+      "title": "SE Radio 219: Apache Kafka with Jun Rao",
+      "published": "2015-02-09",
+      "url": "https://se-radio.net/2015/02/episode-219-apache-kafka-with-jun-rao/"
+    },
+    {
+      "title": "SE Radio 218: Udi Dahan on CQRS (Command Query Responsibility Segregation)",
+      "published": "2015-01-30",
+      "url": "https://se-radio.net/2015/01/episode-218-udi-dahan-on-cqrs-command-query-responsibility-segregation/"
+    },
+    {
+      "title": "SE Radio 217: James Turnbull on Docker",
+      "published": "2015-01-07",
+      "url": "https://se-radio.net/2015/01/episode-217-james-turnbull-on-docker/"
+    },
+    {
+      "title": "SE Radio 216: Adrian Cockcroft on the Modern Cloud-based Platform",
+      "published": "2014-12-09",
+      "url": "https://se-radio.net/2014/12/episode-216-adrian-cockcroft-on-the-modern-cloud-based-platform/"
+    },
+    {
+      "title": "SE Radio 215: Gang of Four – 20 Years Later",
+      "published": "2014-11-20",
+      "url": "https://se-radio.net/2014/11/episode-215-gang-of-four-20-years-later/"
+    },
+    {
+      "title": "SE Radio 214: Grant Ingersoll on his book, Taming Text",
+      "published": "2014-11-11",
+      "url": "https://se-radio.net/2014/11/episode-214-grant-ingersoll-on-his-book-taming-text/"
+    },
+    {
+      "title": "SE Radio 213: James Lewis on Microservices",
+      "published": "2014-10-29",
+      "url": "https://se-radio.net/2014/10/episode-213-james-lewis-on-microservices/"
+    },
+    {
+      "title": "SE Radio 212: Randy Shoup on Company Culture",
+      "published": "2014-10-22",
+      "url": "https://se-radio.net/2014/10/episode-212-randy-shoup-on-company-culture/"
+    },
+    {
+      "title": "SE Radio 211: Continuous Delivery on Windows with Rachel Laycock and Max Lincoln",
+      "published": "2014-09-30",
+      "url": "https://se-radio.net/2014/09/episode-211-continuous-delivery-on-windows-with-rachel-laycock-and-max-lincoln/"
+    },
+    {
+      "title": "SE Radio 210: Stefan Tilkov on Architecture and Micro Services",
+      "published": "2014-09-17",
+      "url": "https://se-radio.net/2014/09/episode-210-stefan-tilkov-on-architecture-and-micro-services/"
+    },
+    {
+      "title": "SE Radio 209: Josiah Carlson on Redis",
+      "published": "2014-09-05",
+      "url": "https://se-radio.net/2014/09/episode-210-stefan-tilkov-on-architecture-and-micro-services/"
+    },
+    {
+      "title": "SE Radio 208: Randy Shoup on Hiring in the Software Industry",
+      "published": "2014-08-26",
+      "url": "https://se-radio.net/2014/08/episode-208-randy-shoup-on-hiring-in-the-software-industry/"
+    },
+    {
+      "title": "SE Radio 207: Mitchell Hashimoto on the Vagrant Project",
+      "published": "2014-07-28",
+      "url": "https://se-radio.net/2014/07/episode-207-mitchell-hashimoto-on-the-vagrant-project/"
+    },
+    {
+      "title": "SE Radio 206: Ken Collier on Agile Analytics",
+      "published": "2014-07-18",
+      "url": "https://se-radio.net/2014/07/episode-206-ken-collier-on-agile-analytics/"
+    },
+    {
+      "title": "SE Radio 205: Martin Lippert on Eclipse Flux",
+      "published": "2014-06-27",
+      "url": "https://se-radio.net/2014/06/episode-205-martin-lippert-on-eclipse-flux/"
+    },
+    {
+      "title": "SE Radio 204: Anil Madhavapeddy on the Mirage Cloud Operating System and the OCaml Language",
+      "published": "2014-05-30",
+      "url": "https://se-radio.net/2014/05/episode-204-anil-madhavapeddy-on-the-mirage-cloud-operating-system-and-the-ocaml-language/"
+    },
+    {
+      "title": "SE Radio 203: Leslie Lamport on Distributed Systems",
+      "published": "2014-04-29",
+      "url": "https://se-radio.net/2014/04/episode-203-leslie-lamport-on-distributed-systems/"
+    },
+    {
+      "title": "Episode 202: Andrew Gerrand on Go",
+      "published": "2014-03-14",
+      "url": "http://www.se-radio.net/?p=1445"
+    },
+    {
+      "title": "Episode 201: Martin Thompson on Mechanical Sympathy",
+      "published": "2014-02-19",
+      "url": "http://www.se-radio.net/?p=1437"
+    },
+    {
+      "title": "Episode 200: Markus Völter on Language Design and Domain Specific Languages",
+      "published": "2014-01-13",
+      "url": "http://www.se-radio.net/?p=1420"
+    },
+    {
+      "title": "Episode 199: Michael Stonebraker on Current Developments in Databases",
+      "published": "2013-12-05",
+      "url": "http://www.se-radio.net/?p=1389"
+    },
+    {
+      "title": "Episode 198: Wil van der Aalst on Workflow Management Systems",
+      "published": "2013-09-30",
+      "url": "http://www.se-radio.net/?p=1378"
+    },
+    {
+      "title": "Episode 197: Lars Vogel on Android",
+      "published": "2013-09-06",
+      "url": "http://www.se-radio.net/?p=1373"
+    },
+    {
+      "title": "Episode 196: Personal Kanban with Jim Benson",
+      "published": "2013-07-31",
+      "url": "http://www.se-radio.net/?p=1368"
+    },
+    {
+      "title": "SE Radio 195: Ellen Gottensdiener and Mary Gorman",
+      "published": "2013-06-19",
+      "url": "https://se-radio.net/2013/06/episode-195-ellen-gottensdiener-and-mary-gorman/"
+    },
+    {
+      "title": "Episode 194: Michael Hunger on Graph Databases",
+      "published": "2013-05-22",
+      "url": "http://www.se-radio.net/?p=1348"
+    },
+    {
+      "title": "Episode 193: Apache Mahout",
+      "published": "2013-04-22",
+      "url": "http://www.se-radio.net/?p=1339"
+    },
+    {
+      "title": "Episode 192: Open Source Development: Perspectives From Management Science",
+      "published": "2013-02-13",
+      "url": "http://www.se-radio.net/?p=1325"
+    },
+    {
+      "title": "Episode 191: Massively Open Online Courses",
+      "published": "2013-01-07",
+      "url": "http://www.se-radio.net/?p=1310"
+    },
+    {
+      "title": "Episode 190: Lean (Software) Development",
+      "published": "2012-12-18",
+      "url": "http://www.se-radio.net/?p=1295"
+    },
+    {
+      "title": "Episode 189: Eric Lubow on Polyglot Persistence",
+      "published": "2012-11-16",
+      "url": "http://www.se-radio.net/?p=1270"
+    },
+    {
+      "title": "Episode 188: Requirements in Agile Projects",
+      "published": "2012-09-12",
+      "url": "http://www.se-radio.net/?p=1256"
+    },
+    {
+      "title": "Episode 187: Grant Ingersoll on the Solr Search Engine",
+      "published": "2012-07-18",
+      "url": "http://www.se-radio.net/?p=1239"
+    },
+    {
+      "title": "SE Radio 186: Martin Fowler and Pramod Sadalage on Agile Database Development",
+      "published": "2012-06-01",
+      "url": "https://se-radio.net/2012/06/episode-186-martin-fowler-and-pramod-sadalage-on-agile-database-development/"
+    },
+    {
+      "title": "Episode 185: Dwight Merriman on Replication",
+      "published": "2012-04-10",
+      "url": "http://www.se-radio.net/?p=1203"
+    },
+    {
+      "title": "Episode 184: The Mainframe with Jeff Frey",
+      "published": "2012-03-14",
+      "url": "http://www.se-radio.net/?p=1172"
+    },
+    {
+      "title": "Episode 183: SE Radio becomes part of IEEE Software",
+      "published": "2012-02-07",
+      "url": "http://www.se-radio.net/?p=1147"
+    },
+    {
+      "title": "SE Radio 182: Domain-Specific Languages with Martin Fowler and Rebecca Parsons",
+      "published": "2012-01-25",
+      "url": "https://se-radio.net/2012/01/episode-182-domain-specific-languages-with-martin-fowler-and-rebecca-parsons/"
+    },
+    {
+      "title": "Episode 181: Distributed Scrum with Rini van Solingen",
+      "published": "2011-12-07",
+      "url": "http://www.se-radio.net/?p=1125"
+    },
+    {
+      "title": "Episode 180: Leading Agile Developers with Jurgen Appelo",
+      "published": "2011-10-25",
+      "url": "http://www.se-radio.net/?p=1120"
+    },
+    {
+      "title": "Episode 179: Cassandra with Jonathan Ellis",
+      "published": "2011-10-08",
+      "url": "http://www.se-radio.net/?p=1102"
+    },
+    {
+      "title": "Episode 178: Akka With Jonas Boner",
+      "published": "2011-08-10",
+      "url": "http://www.se-radio.net/?p=1091"
+    },
+    {
+      "title": "Episode 177: IBM i (OS/400) Operating System with Steve Will",
+      "published": "2011-07-06",
+      "url": "http://www.se-radio.net/?p=1084"
+    },
+    {
+      "title": "Episode 176: Quantum Computing with Martin Laforest",
+      "published": "2011-06-03",
+      "url": "http://www.se-radio.net/?p=1074"
+    },
+    {
+      "title": "Episode 175: Game Development with Andrew Brownsword",
+      "published": "2011-05-06",
+      "url": "http://www.se-radio.net/?p=1062"
+    },
+    {
+      "title": "Episode 174: Chip Manufacturing and Waferscanners",
+      "published": "2011-04-08",
+      "url": "http://www.se-radio.net/?p=1050"
+    },
+    {
+      "title": "Episode 173: Feature-Oriented Software Development with Sven Apel – Pt 2",
+      "published": "2011-03-19",
+      "url": "http://www.se-radio.net/?p=1041"
+    },
+    {
+      "title": "Episode 172: Feature-Oriented Software Development with Sven Apel – Pt 1",
+      "published": "2011-02-19",
+      "url": "http://www.se-radio.net/?p=1030"
+    },
+    {
+      "title": "Episode 171: Scala Update with Martin Odersky",
+      "published": "2011-02-02",
+      "url": "http://www.se-radio.net/?p=1008"
+    },
+    {
+      "title": "Episode 170: Large Agile Software Development with Bas Vodde",
+      "published": "2011-01-05",
+      "url": "http://www.se-radio.net/?p=977"
+    },
+    {
+      "title": "Episode 169: Memory Grid Architecture with Nati Shalom",
+      "published": "2010-11-30",
+      "url": "http://www.se-radio.net/?p=892"
+    },
+    {
+      "title": "Episode 168: Being a Consultant",
+      "published": "2010-10-22",
+      "url": "http://www.se-radio.net/?p=867"
+    },
+    {
+      "title": "Episode 167: The History of JUnit and the Future of Testing with Kent Beck",
+      "published": "2010-09-26",
+      "url": "http://www.se-radio.net/?p=762"
+    },
+    {
+      "title": "Episode 166: Living Architectures with John Wiegand",
+      "published": "2010-08-18",
+      "url": "http://www.se-radio.net/?p=740"
+    },
+    {
+      "title": "Episode 165: NoSQL and MongoDB with Dwight Merriman",
+      "published": "2010-07-16",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/QYFFMmYEnbo/"
+    },
+    {
+      "title": "Episode 164: Agile Testing with Lisa Crispin",
+      "published": "2010-06-16",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/A4CMJVf1fOA/"
+    },
+    {
+      "title": "Episode 163: State of the Union",
+      "published": "2010-06-03",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/X2CPIxwQ5sw/"
+    },
+    {
+      "title": "Episode 162: Project Voldemort with Jay Kreps",
+      "published": "2010-05-16",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/x4cIsPfgiFM/"
+    },
+    {
+      "title": "Episode 161: Agile Product Management with Roman Pichler",
+      "published": "2010-05-03",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/sSTAV3Ju53I/"
+    },
+    {
+      "title": "Episode 160: AspectJ and Spring AOP with Ramnivas Laddad",
+      "published": "2010-04-19",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/z1GlYJ_AAnA/"
+    },
+    {
+      "title": "Episode 159: C++0X with Scott Meyers",
+      "published": "2010-04-05",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/LOmd4ACdwV8/"
+    },
+    {
+      "title": "Episode 158: Rich Hickey on Clojure",
+      "published": "2010-03-22",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/SIvxVfkAQLk/"
+    },
+    {
+      "title": "Episode 157: Hadoop with Philip Zeyliger",
+      "published": "2010-03-08",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/-xVFNhQY0uA/"
+    },
+    {
+      "title": "Episode 156: Kanban with David Anderson",
+      "published": "2010-02-22",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/rarWD4hW6fM/"
+    },
+    {
+      "title": "Episode 155: Johannes Link & Lasse Koskela on TDD",
+      "published": "2010-02-08",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/RMCLHPnMikM/"
+    },
+    {
+      "title": "Episode 154: Ola Bini on Ioke",
+      "published": "2010-01-25",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/2j3t1HcuGUs/"
+    },
+    {
+      "title": "Episode 153: Jan Bosch on Product Lines and Software Ecosystems",
+      "published": "2010-01-11",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/4pdmCwq2UQo/"
+    },
+    {
+      "title": "Episode 152: MISRA with Johan Bezem",
+      "published": "2009-12-28",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/haDlmh1lenw/"
+    },
+    {
+      "title": "Episode 151: Intentional Software with Shane Clifford",
+      "published": "2009-12-14",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/sad6H2-2i_o/"
+    },
+    {
+      "title": "Episode 150: Software Craftsmanship with Bob Martin",
+      "published": "2009-11-30",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/le9pHyRAKCY/"
+    },
+    {
+      "title": "Episode 149: Difference between Software Engineering and Computer Science with Chuck Connell",
+      "published": "2009-11-16",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/mKB0ODyjVao/"
+    },
+    {
+      "title": "Episode 148: Software Archaeology with Dave Thomas",
+      "published": "2009-11-02",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/WXQZZn40mGc/"
+    },
+    {
+      "title": "Episode 147: Software Development Manager",
+      "published": "2009-10-19",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/1xoPp7sm6dI/"
+    },
+    {
+      "title": "Episode 146: Interesting Patterns at EuroPLoP 2009",
+      "published": "2009-10-05",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/981snz-k5WE/"
+    },
+    {
+      "title": "Episode 145: Spring in 2009 with Eberhard Wolff",
+      "published": "2009-09-21",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/XK7rHfCw-nA/"
+    },
+    {
+      "title": "Episode 144: The Maxine Research Virtual Machine with Doug Simon",
+      "published": "2009-09-07",
+      "url": "http://feedproxy.google.com/~r/se-radio/~3/dpEQLMAsEXM/"
+    },
+    {
+      "title": "SE Radio 143: API Design with Jim des Rivieres",
+      "published": "2009-08-24",
+      "url": "https://se-radio.net/2009/08/episode-143-api-design-with-jim-des-rivieres/"
+    },
+    {
+      "title": "SE Radio 142: Sustainable Architecture with Kevlin Henney and Klaus Marquardt",
+      "published": "2009-08-10",
+      "url": "https://se-radio.net/2009/08/episode-142-sustainable-architecture-with-kevlin-henney-and-klaus-marquardt/"
+    },
+    {
+      "title": "Episode 141: Second Life and Mono with Jim Purbrick",
+      "published": "2009-07-27",
+      "url": "https://se-radio.net/2009/07/episode-141-second-life-and-mono-with-jim-purbrick/"
+    },
+    {
+      "title": "SE Radio 140: Newspeak and Pluggable Types with Gilad Bracha",
+      "published": "2009-07-13",
+      "url": "https://se-radio.net/2009/07/episode-140-newspeak-and-pluggable-types-with-gilad-bracha/"
+    },
+    {
+      "title": "Episode 139: Fearless Change with Linda Rising",
+      "published": "2009-06-29",
+      "url": "https://se-radio.net/2009/06/episode-139-fearless-change-with-linda-rising/"
+    },
+    {
+      "title": "Episode 138: Learning as a Part of Development with Allan Kelly",
+      "published": "2009-06-15",
+      "url": "https://se-radio.net/2009/06/episode-138-learning-as-a-part-of-development-with-allan-kelly/"
+    },
+    {
+      "title": "Episode 137: SQL with Jim Melton",
+      "published": "2009-06-05",
+      "url": "https://se-radio.net/2009/06/episode-137-sql-with-jim-melton/"
+    },
+    {
+      "title": "Episode 136: Past Present and Future of MDA with David Frankel",
+      "published": "2009-05-26",
+      "url": "https://se-radio.net/2009/05/episode-136-past-present-and-future-of-mda-with-david-frankel/"
+    },
+    {
+      "title": "Episode 135: Introduction to Software Configuration Management with Petri Ahonen",
+      "published": "2009-05-16",
+      "url": "https://se-radio.net/2009/05/episode-135-introduction-to-software-configuration-management-with-petri-ahonen/"
+    },
+    {
+      "title": "Episode 134: Release It with Michael Nygard",
+      "published": "2009-05-06",
+      "url": "https://se-radio.net/2009/05/episode-134-release-it-with-michael-nygard/"
+    },
+    {
+      "title": "Episode 133: Continuous Integration with Chris Read",
+      "published": "2009-04-26",
+      "url": "https://se-radio.net/2009/04/episode-133-continuous-integration-with-chris-read/"
+    },
+    {
+      "title": "Episode 132: Top 10 Architecture Mistakes with Eoin Woods",
+      "published": "2009-04-16",
+      "url": "https://se-radio.net/2009/04/episode-132-top-10-architecture-mistakes-with-eoin-woods/"
+    },
+    {
+      "title": "Episode 131: Adrenaline Junkies with Tom DeMarco and Peter Hruschka",
+      "published": "2009-04-06",
+      "url": "https://se-radio.net/2009/04/episode-131-adrenaline-junkies-with-demarco-and-hruschka/"
+    },
+    {
+      "title": "SE Radio 130: Code Visualization with Michele Lanza",
+      "published": "2009-03-27",
+      "url": "https://se-radio.net/2009/03/episode-130-code-visualization-with-michele-lanza/"
+    },
+    {
+      "title": "Episode 129: F# with Luke Hoban",
+      "published": "2009-03-17",
+      "url": "https://se-radio.net/2009/03/episode-129-f-with-luke-hoban/"
+    },
+    {
+      "title": "Episode 128: Web App Security with Bruce Sams",
+      "published": "2009-03-07",
+      "url": "https://se-radio.net/2009/03/episode-128-web-app-security-with-bruce-sams/"
+    },
+    {
+      "title": "Episode 127: Usability with Joachim Machate",
+      "published": "2009-02-25",
+      "url": "https://se-radio.net/2009/02/episode-127-usability-with-joachim-machate/"
+    },
+    {
+      "title": "SE Radio 126: Jetbrains MPS with Konstantin Solomatov",
+      "published": "2009-02-15",
+      "url": "https://se-radio.net/2009/02/episode-126-jetbrains-mps-with-konstantin-solomatov/"
+    },
+    {
+      "title": "Episode 125: Performance Engineering with Chris Grindstaff",
+      "published": "2009-02-05",
+      "url": "https://se-radio.net/2009/02/episode-125-performance-engineering-with-chris-grindstaff/"
+    },
+    {
+      "title": "SE Radio 124: OpenJDK with Dalibor Topic",
+      "published": "2009-01-26",
+      "url": "https://se-radio.net/2009/01/episode-124-openjdk-with-dalibor-topic/"
+    },
+    {
+      "title": "SE Radio 123: Microsoft OSLO with Don Box and Doug Purdy",
+      "published": "2009-01-16",
+      "url": "https://se-radio.net/2009/01/episode-123-microsoft-oslo-with-don-box-and-doug-purdy/"
+    },
+    {
+      "title": "SE Radio 122: Interview Janos Sztipanovits",
+      "published": "2009-01-06",
+      "url": "https://se-radio.net/2009/01/episode-122-interview-janos-sztipanovits/"
+    },
+    {
+      "title": "Episode 121: OR Mappers with Michael Plöd",
+      "published": "2008-12-27",
+      "url": "https://se-radio.net/2008/12/episode-121-or-mappers-with-michael-plod/"
+    },
+    {
+      "title": "Episode 120: OCL with Anneke Kleppe",
+      "published": "2008-12-17",
+      "url": "https://se-radio.net/2008/12/episode-120-ocl-with-anneke-kleppe/"
+    },
+    {
+      "title": "Episode 119: DSLs in Practice with JP Tolvanen",
+      "published": "2008-12-07",
+      "url": "https://se-radio.net/2008/12/episode-119-dsls-in-practice-with-jp-tolvanen/"
+    },
+    {
+      "title": "Episode 118: Eelco Visser on Parsers",
+      "published": "2008-11-27",
+      "url": "https://se-radio.net/2008/11/episode-118-eelco-visser-on-parsers/"
+    },
+    {
+      "title": "SE Radio 117: Bran Selic on UML",
+      "published": "2008-11-17",
+      "url": "https://se-radio.net/2008/11/episode-117-bran-selic-on-uml/"
+    },
+    {
+      "title": "SE Radio 116: The Semantic Web with Jim Hendler",
+      "published": "2008-11-07",
+      "url": "https://se-radio.net/2008/11/episode-116-the-semantic-web-with-jim-hendler/"
+    },
+    {
+      "title": "SE Radio 115: Architecture Analysis with Bernhard Merkle",
+      "published": "2008-10-28",
+      "url": "https://se-radio.net/2008/10/episode-115-architecture-analysis/"
+    },
+    {
+      "title": "SE Radio 114: Christof Ebert on Requirements Engineering",
+      "published": "2008-10-18",
+      "url": "https://se-radio.net/2008/10/episode-114-christof-ebert-on-requirements-engineering/"
+    },
+    {
+      "title": "Episode 113: Building Platforms with Jeff McAffer",
+      "published": "2008-10-08",
+      "url": "https://se-radio.net/2008/10/episode-113-building-platforms-with-jeff-mcaffer/"
+    },
+    {
+      "title": "Episode 112: Roles in Software Engineering II",
+      "published": "2008-09-28",
+      "url": "https://se-radio.net/2008/09/episode-112-roles-in-software-engineering-ii/"
+    },
+    {
+      "title": "Episode 111: About Us 2008",
+      "published": "2008-09-22",
+      "url": "https://se-radio.net/2008/09/episode-111-about-us-2008/"
+    },
+    {
+      "title": "Episode 110: Roles in Software Engineering I",
+      "published": "2008-09-18",
+      "url": "https://se-radio.net/2008/09/episode-110-roles-in-software-engineering-i/"
+    },
+    {
+      "title": "Episode 109: eBay's Architecture Principles with Randy Shoup",
+      "published": "2008-09-08",
+      "url": "https://se-radio.net/2008/09/episode-109-ebays-architecture-principles-with-randy-shoup/"
+    },
+    {
+      "title": "Episode 108: Simon Peyton Jones on Functional Programming and Haskell",
+      "published": "2008-08-29",
+      "url": "https://se-radio.net/2008/08/episode-108-simon-peyton-jones-on-functional-programming-and-haskell/"
+    },
+    {
+      "title": "Episode 107: Andrew Watson on the OMG",
+      "published": "2008-08-19",
+      "url": "https://se-radio.net/2008/08/episode-107-andrew-watson-on-the-omg/"
+    },
+    {
+      "title": "SE Radio 106: Introduction to AOP",
+      "published": "2008-08-09",
+      "url": "https://se-radio.net/2008/08/episode-106-introduction-to-aop/"
+    },
+    {
+      "title": "Episode 105: Retrospectives with Linda Rising",
+      "published": "2008-07-30",
+      "url": "https://se-radio.net/2008/07/episode-105-retrospectives-with-linda-rising/"
+    },
+    {
+      "title": "Episode 104: Plugin Architectures",
+      "published": "2008-07-20",
+      "url": "https://se-radio.net/2008/07/episode-104-plugin-architectures/"
+    },
+    {
+      "title": "Episode 103: 10 years of Agile Experiences",
+      "published": "2008-07-10",
+      "url": "https://se-radio.net/2008/07/episode-103-10-years-of-agile-experiences/"
+    },
+    {
+      "title": "Episode 102: Relational Databases",
+      "published": "2008-06-30",
+      "url": "https://se-radio.net/2008/06/episode-102-relational-databases/"
+    },
+    {
+      "title": "Episode 101: Andreas Zeller on Debugging",
+      "published": "2008-06-20",
+      "url": "https://se-radio.net/2008/06/episode-101-andreas-zeller-on-debugging/"
+    },
+    {
+      "title": "Episode 100: Software in Space",
+      "published": "2008-06-10",
+      "url": "https://se-radio.net/2008/06/episode-100-software-in-space/"
+    },
+    {
+      "title": "Episode 99: Transactions",
+      "published": "2008-05-31",
+      "url": "https://se-radio.net/2008/05/episode-99-transactions/"
+    },
+    {
+      "title": "Episode 98: Stefan Tilkov on REST",
+      "published": "2008-05-23",
+      "url": "https://se-radio.net/2008/05/episode-98-stefan-tilkov-on-rest/"
+    },
+    {
+      "title": "Episode 97: Interview Anders Hejlsberg",
+      "published": "2008-05-16",
+      "url": "https://se-radio.net/2008/05/episode-97-interview-anders-hejlsberg/"
+    },
+    {
+      "title": "Episode 96: Interview Krzysztof Czarnecki",
+      "published": "2008-05-08",
+      "url": "https://se-radio.net/2008/05/episode-96-interview-krzysztof-czarnecki/"
+    },
+    {
+      "title": "Episode 95: The New Guardian.co.uk website with Matt Wall and Erik DoernenBurg",
+      "published": "2008-05-01",
+      "url": "https://se-radio.net/2008/05/episode-95-the-new-guardian-co-uk-website-with-matt-wall-and-erik-doernenburg/"
+    },
+    {
+      "title": "Episode 94: Open Source Business Models with Dirk Riehle",
+      "published": "2008-04-23",
+      "url": "https://se-radio.net/2008/04/episode-94-open-source-business-models-with-dirk-riehle/"
+    },
+    {
+      "title": "Episode 93: Lessons Learned From Architecture Reviews with Rebecca Wirfs-Brock",
+      "published": "2008-04-15",
+      "url": "https://se-radio.net/2008/04/episode-93-lessons-learned-from-architecture-reviews-with-rebecca-wirfs-brock/"
+    },
+    {
+      "title": "SE Radio 92: Introduction to Game Development with Oliver Jucknath",
+      "published": "2008-04-07",
+      "url": "https://se-radio.net/2008/04/episode-92-introduction-to-game-development/"
+    },
+    {
+      "title": "Episode 91: Kevlin Henney on C++",
+      "published": "2008-03-30",
+      "url": "https://se-radio.net/2008/03/episode-91-kevlin-henney-on-c/"
+    },
+    {
+      "title": "Episode 90: Product Line Engineering, Pt. 3, with Charles Krueger",
+      "published": "2008-03-22",
+      "url": "https://se-radio.net/2008/03/episode-90-product-line-engineering-pt-3-with-charles-krueger/"
+    },
+    {
+      "title": "Episode 89: Joe Armstrong on Erlang",
+      "published": "2008-03-12",
+      "url": "https://se-radio.net/2008/03/episode-89-joe-armstrong-on-erlang/"
+    },
+    {
+      "title": "Episode 88: The Singularity Research OS with Galen Hunt",
+      "published": "2008-03-02",
+      "url": "https://se-radio.net/2008/03/episode-88-the-singularity-research-os-with-galen-hunt/"
+    },
+    {
+      "title": "Episode 87: Software Components",
+      "published": "2008-02-21",
+      "url": "https://se-radio.net/2008/02/episode-87-software-components/"
+    },
+    {
+      "title": "Episode 86: Interview Dave Thomas",
+      "published": "2008-02-11",
+      "url": "https://se-radio.net/2008/02/episode-86-interview-dave-thomas/"
+    },
+    {
+      "title": "Episode 85: Web Services with Olaf Zimmermann",
+      "published": "2008-02-01",
+      "url": "https://se-radio.net/2008/02/episode-85-web-services-with-olaf-zimmermann/"
+    },
+    {
+      "title": "Episode 84: Dick Gabriel on Lisp",
+      "published": "2008-01-22",
+      "url": "https://se-radio.net/2008/01/episode-84-dick-gabriel-on-lisp/"
+    },
+    {
+      "title": "Episode 83: Jeff DeLuca on Feature Driven Development",
+      "published": "2008-01-12",
+      "url": "https://se-radio.net/2008/01/episode-83-jeff-deluca-on-feature-driven-development/"
+    },
+    {
+      "title": "Episode 82: Organization of Large Code Bases with Juergen Hoeller",
+      "published": "2008-01-02",
+      "url": "https://se-radio.net/2008/01/episode-82-organization-of-large-code-bases-with-juergen-hoeller/"
+    },
+    {
+      "title": "Episode 81: Interview Erich Gamma",
+      "published": "2007-12-23",
+      "url": "https://se-radio.net/2007/12/episode-81-interview-erich-gamma/"
+    },
+    {
+      "title": "Episode 80: OSGi with Peter Kriens and BJ Hargrave",
+      "published": "2007-12-13",
+      "url": "https://se-radio.net/2007/12/episode-80-osgi-with-peter-kriens-and-bj-hargrave/"
+    },
+    {
+      "title": "Episode 79: Small Memory Software with Weir and Noble",
+      "published": "2007-12-03",
+      "url": "https://se-radio.net/2007/12/episode-79-small-memory-software-with-weir-and-noble/"
+    },
+    {
+      "title": "Episode 78: Fault Tolerance with Bob Hanmer Pt. 2",
+      "published": "2007-11-23",
+      "url": "https://se-radio.net/2007/11/episode-78-fault-tolerance-with-bob-hanmer-pt-2/"
+    },
+    {
+      "title": "Episode 77: Fault Tolerance with Bob Hanmer Pt. 1",
+      "published": "2007-11-13",
+      "url": "https://se-radio.net/2007/11/episode-77-fault-tolerance-with-bob-hanmer-pt-1/"
+    },
+    {
+      "title": "Episode 76: Special Episode on the Patterns Journal",
+      "published": "2007-11-09",
+      "url": "https://se-radio.net/2007/11/episode-76-special-episode-on-the-patterns-journal/"
+    },
+    {
+      "title": "Episode 75: The New Website",
+      "published": "2007-11-04",
+      "url": "https://se-radio.net/2007/11/episode-75-the-new-website/"
+    },
+    {
+      "title": "Episode 74: Enterprise Architecture II",
+      "published": "2007-11-03",
+      "url": "https://se-radio.net/2007/11/episode-74-enterprise-architecture-ii/"
+    },
+    {
+      "title": "Episode 73: Real Time Systems with Bruce Powel Douglass",
+      "published": "2007-10-24",
+      "url": "https://se-radio.net/2007/10/episode-73-real-time-systems-with-bruce-powel-douglass/"
+    },
+    {
+      "title": "Episode 72: Erik Meijer on LINQ",
+      "published": "2007-10-17",
+      "url": "https://se-radio.net/2007/10/episode-72-erik-meijer-on-linq/"
+    },
+    {
+      "title": "Episode 71: Survey Results",
+      "published": "2007-10-13",
+      "url": "https://se-radio.net/2007/10/episode-71-survey-results/"
+    },
+    {
+      "title": "Episode 70: Gerard Meszaros on XUnit Test Patterns",
+      "published": "2007-10-04",
+      "url": "https://se-radio.net/2007/10/episode-70-gerard-meszaros-on-xunit-test-patterns/"
+    },
+    {
+      "title": "Episode 69: Nico Josuttis on SOA (SOA Pt. 3)",
+      "published": "2007-09-24",
+      "url": "https://se-radio.net/2007/09/episode-69-nico-josuttis-on-soa-soa-pt-3/"
+    },
+    {
+      "title": "Episode 68: Dan Grossman on Garbage Collection and Transactional Memory",
+      "published": "2007-09-14",
+      "url": "https://se-radio.net/2007/09/episode-68-dan-grossman-on-garbage-collection-and-transactional-memory/"
+    },
+    {
+      "title": "Episode 67: Roundtable on MDSD and PLE",
+      "published": "2007-09-04",
+      "url": "https://se-radio.net/2007/09/episode-67-roundtable-on-mdsd-and-ple/"
+    },
+    {
+      "title": "Episode 66: Gary McGraw on Security",
+      "published": "2007-08-24",
+      "url": "https://se-radio.net/2007/08/episode-66-gary-mcgraw-on-security/"
+    },
+    {
+      "title": "Episode 65: Introduction to Embedded Systems",
+      "published": "2007-08-14",
+      "url": "https://se-radio.net/2007/08/episode-65-introduction-to-embedded-systems/"
+    },
+    {
+      "title": "Episode 64: Luke Hohmann on Architecture and Business",
+      "published": "2007-08-04",
+      "url": "https://se-radio.net/2007/08/episode-64-luke-hohmann-on-architecture-and-business/"
+    },
+    {
+      "title": "Episode 63: A Pattern Language for Distributed Systems with Henney and Buschmann",
+      "published": "2007-07-25",
+      "url": "https://se-radio.net/2007/07/episode-63-a-pattern-language-for-distributed-systems-with-henney-and-buschmann/"
+    },
+    {
+      "title": "Episode 62: Martin Odersky on Scala",
+      "published": "2007-07-15",
+      "url": "https://se-radio.net/2007/07/episode-62-martin-odersky-on-scala/"
+    },
+    {
+      "title": "Episode 61: Internals of GCC with Morgan Deters",
+      "published": "2007-07-05",
+      "url": "https://se-radio.net/2007/07/episode-61-internals-of-gcc/"
+    },
+    {
+      "title": "Episode 60: Roman Pichler on Scrum",
+      "published": "2007-06-25",
+      "url": "https://se-radio.net/2007/06/episode-60-roman-pichler-on-scrum/"
+    },
+    {
+      "title": "Episode 59: Static Code Analysis",
+      "published": "2007-06-16",
+      "url": "https://se-radio.net/2007/06/episode-59-static-code-analysis/"
+    },
+    {
+      "title": "Episode 58: Product Line Engineering Pt. 2",
+      "published": "2007-06-06",
+      "url": "https://se-radio.net/2007/06/episode-58-product-line-engineering-pt-2/"
+    },
+    {
+      "title": "Episode 57: Compile-Time Metaprogramming with Laurence Tratt",
+      "published": "2007-05-27",
+      "url": "https://se-radio.net/2007/05/episode-57-compile-time-metaprogramming/"
+    },
+    {
+      "title": "Episode 56: Sensor Networks with Steffan Schaefer",
+      "published": "2007-05-17",
+      "url": "https://se-radio.net/2007/05/episode-56-sensor-networks/"
+    },
+    {
+      "title": "Episode 55: Refactoring Pt. 2",
+      "published": "2007-05-07",
+      "url": "https://se-radio.net/2007/05/episode-55-refactoring-pt-2/"
+    },
+    {
+      "title": "Episode 54: Interview Frank Buschmann",
+      "published": "2007-04-27",
+      "url": "https://se-radio.net/2007/04/episode-54-interview-frank-buschmann/"
+    },
+    {
+      "title": "Episode 53: Product Line Engineering Pt. 1",
+      "published": "2007-04-17",
+      "url": "https://se-radio.net/2007/04/episode-53-product-line-engineering-pt-1/"
+    },
+    {
+      "title": "Episode 52: DSL Development in Ruby",
+      "published": "2007-04-07",
+      "url": "https://se-radio.net/2007/04/episode-52-dsl-development-in-ruby/"
+    },
+    {
+      "title": "Episode 51: Design By Contract",
+      "published": "2007-03-28",
+      "url": "https://se-radio.net/2007/03/episode-51-design-by-contract/"
+    },
+    {
+      "title": "Episode 50: Announcements and Requests",
+      "published": "2007-03-22",
+      "url": "https://se-radio.net/2007/03/episode-50-announcements-and-requests/"
+    },
+    {
+      "title": "Episode 49: Dynamic Languages for Static Minds",
+      "published": "2007-03-18",
+      "url": "https://se-radio.net/2007/03/episode-49-dynamic-languages-for-static-minds/"
+    },
+    {
+      "title": "Episode 48: Interview Dragos Manolescua",
+      "published": "2007-03-08",
+      "url": "https://se-radio.net/2007/03/episode-48-interview-dragos-manolescua/"
+    },
+    {
+      "title": "Episode 47: Interview Grady Booch",
+      "published": "2007-02-26",
+      "url": "https://se-radio.net/2007/02/episode-47-interview-grady-booch/"
+    },
+    {
+      "title": "Episode 46: Refactoring Pt. 1",
+      "published": "2007-02-16",
+      "url": "https://se-radio.net/2007/02/episode-46-refactoring-pt-1/"
+    },
+    {
+      "title": "Episode 45: Round Table on Ultra Large Scale Systems",
+      "published": "2007-02-06",
+      "url": "https://se-radio.net/2007/02/episode-45-round-table-on-ultra-large-scale-systems/"
+    },
+    {
+      "title": "Episode 44: Interview Brian Goetz and David Holmes",
+      "published": "2007-01-27",
+      "url": "https://se-radio.net/2007/01/episode-44-interview-brian-goetz-and-david-holmes/"
+    },
+    {
+      "title": "Episode 43: eXtreme Programming Pt.2",
+      "published": "2007-01-17",
+      "url": "https://se-radio.net/2007/01/episode-43-extreme-programming-pt-2/"
+    },
+    {
+      "title": "Episode 42: Interview Gregor Hohpe",
+      "published": "2007-01-07",
+      "url": "https://se-radio.net/2007/01/episode-42-interview-gregor-hohpe/"
+    },
+    {
+      "title": "Episode 41: Architecture Patterns (Architecture Pt. 4)",
+      "published": "2006-12-27",
+      "url": "https://se-radio.net/2006/12/episode-41-architecture-patterns-architecture-pt-4/"
+    },
+    {
+      "title": "Episode 40: Interview Werner Vogels",
+      "published": "2006-12-16",
+      "url": "https://se-radio.net/2006/12/episode-40-interview-werner-vogels/"
+    },
+    {
+      "title": "Episode 39: Interview Steve Vinoski",
+      "published": "2006-12-06",
+      "url": "https://se-radio.net/2006/12/episode-39-interview-steve-vinoski/"
+    },
+    {
+      "title": "Episode 38: Interview James Noble",
+      "published": "2006-11-26",
+      "url": "https://se-radio.net/2006/11/episode-38-interview-james-noble/"
+    },
+    {
+      "title": "Episode 37: eXtreme Programming Pt.1",
+      "published": "2006-11-18",
+      "url": "https://se-radio.net/2006/11/episode-37-extreme-programming-pt-1/"
+    },
+    {
+      "title": "Episode 36: Interview Guy Steele",
+      "published": "2006-11-10",
+      "url": "https://se-radio.net/2006/11/episode-36-interview-guy-steele/"
+    },
+    {
+      "title": "Episode 35: Roadmap",
+      "published": "2006-11-08",
+      "url": "https://se-radio.net/2006/11/episode-35-roadmap/"
+    },
+    {
+      "title": "Episode 34: Enterprise Architecture",
+      "published": "2006-11-02",
+      "url": "https://se-radio.net/2006/11/episode-34-enterprise-architecture/"
+    },
+    {
+      "title": "Episode 33: Service Oriented Architecture, Pt.2b",
+      "published": "2006-10-23",
+      "url": "https://se-radio.net/2006/10/episode-33-service-oriented-architecture-pt-2b/"
+    },
+    {
+      "title": "Episode 32: Service Oriented Architecture, Pt.2a",
+      "published": "2006-10-13",
+      "url": "https://se-radio.net/2006/10/episode-32-service-oriented-architecture-pt-2a/"
+    },
+    {
+      "title": "Episode 31: Agile Documentation",
+      "published": "2006-10-03",
+      "url": "https://se-radio.net/2006/10/episode-31-agile-documentation/"
+    },
+    {
+      "title": "Episode 30: Architecture Pt.3",
+      "published": "2006-09-22",
+      "url": "https://se-radio.net/2006/09/episode-30-architecture-pt-3/"
+    },
+    {
+      "title": "Episode 29: Concurrency Pt.3",
+      "published": "2006-09-12",
+      "url": "https://se-radio.net/2006/09/episode-29-concurrency-pt-3/"
+    },
+    {
+      "title": "Episode 28: Type Systems",
+      "published": "2006-09-02",
+      "url": "https://se-radio.net/2006/09/episode-28-type-systems/"
+    },
+    {
+      "title": "Episode 27: Service Oriented Architecture Pt.1",
+      "published": "2006-08-23",
+      "url": "https://se-radio.net/2006/08/episode-27-service-oriented-architecture-pt-1/"
+    },
+    {
+      "title": "Episode 26: Interview Jutta Eckstein",
+      "published": "2006-08-13",
+      "url": "https://se-radio.net/2006/08/episode-26-interview-jutta-eckstein/"
+    },
+    {
+      "title": "Episode 25: Architecture Pt. 2",
+      "published": "2006-08-03",
+      "url": "https://se-radio.net/2006/08/episode-25-architecture-pt-2/"
+    },
+    {
+      "title": "Episode 24: Development Processes Pt.1",
+      "published": "2006-07-24",
+      "url": "https://se-radio.net/2006/07/episode-24-development-processes-pt-1/"
+    },
+    {
+      "title": "Episode 23: Architecture Pt. 1",
+      "published": "2006-07-14",
+      "url": "https://se-radio.net/2006/07/episode-23-architecture-pt-1/"
+    },
+    {
+      "title": "Episode 22: Feedback",
+      "published": "2006-07-09",
+      "url": "https://se-radio.net/2006/07/episode-22-feedback/"
+    },
+    {
+      "title": "Episode 21: Error Handling Pt. 2",
+      "published": "2006-07-04",
+      "url": "https://se-radio.net/2006/07/episode-21-error-handling-pt-2/"
+    },
+    {
+      "title": "Episode 20: Interview Michael Stal",
+      "published": "2006-06-24",
+      "url": "https://se-radio.net/2006/06/episode-20-interview-michael-stal/"
+    },
+    {
+      "title": "Episode 19: Concurrency Pt. 2",
+      "published": "2006-06-14",
+      "url": "https://se-radio.net/2006/06/episode-19-concurrency-pt-2/"
+    },
+    {
+      "title": "Episode 18: Resource Management",
+      "published": "2006-06-04",
+      "url": "https://se-radio.net/2006/06/episode-18-resource-management/"
+    },
+    {
+      "title": "Episode 17: Feedback and Roadmap",
+      "published": "2006-05-29",
+      "url": "https://se-radio.net/2006/05/episode-17-feedback-and-roadmap/"
+    },
+    {
+      "title": "Episode 16: MDSD Pt. 3, Hands-On",
+      "published": "2006-05-25",
+      "url": "https://se-radio.net/2006/05/episode-16-mdsd-pt-3-hands-on/"
+    },
+    {
+      "title": "Episode 15: The Future of Enterprise Java",
+      "published": "2006-05-15",
+      "url": "https://se-radio.net/2006/05/episode-15-the-future-of-enterprise-java/"
+    },
+    {
+      "title": "Episode 14: Interview Ted Neward",
+      "published": "2006-05-05",
+      "url": "https://se-radio.net/2006/05/episode-14-interview-ted-neward/"
+    },
+    {
+      "title": "Episode 13: Ruby in Practice",
+      "published": "2006-04-26",
+      "url": "https://se-radio.net/2006/04/episode-13-ruby-in-practice/"
+    },
+    {
+      "title": "Episode 12: Concurrency Pt. 1",
+      "published": "2006-04-18",
+      "url": "https://se-radio.net/2006/04/episode-12-concurrency-pt-1/"
+    },
+    {
+      "title": "Episode 11: Interview Gregor Kiczales",
+      "published": "2006-04-08",
+      "url": "https://se-radio.net/2006/04/episode-11-interview-gregor-kiczales/"
+    },
+    {
+      "title": "Episode 10: Remoting Pt. 2",
+      "published": "2006-03-29",
+      "url": "https://se-radio.net/2006/03/episode-10-remoting-pt-2/"
+    },
+    {
+      "title": "Episode 9: Remoting Pt.1 and Listener Feedback",
+      "published": "2006-03-19",
+      "url": "https://se-radio.net/2006/03/episode-9-remoting-pt-1-and-listener-feedback/"
+    },
+    {
+      "title": "Episode 8: Interview Eric Evans",
+      "published": "2006-03-08",
+      "url": "https://se-radio.net/2006/03/episode-8-interview-eric-evans/"
+    },
+    {
+      "title": "Episode 7: Error Handling",
+      "published": "2006-02-27",
+      "url": "https://se-radio.net/2006/02/episode-7-error-handling/"
+    },
+    {
+      "title": "Episode 6: Model-Driven Software Development Pt. 2",
+      "published": "2006-02-18",
+      "url": "https://se-radio.net/2006/02/episode-6-model-driven-software-development-pt-2/"
+    },
+    {
+      "title": "Episode 5: Model-Driven Software Development Pt. 1",
+      "published": "2006-02-09",
+      "url": "https://se-radio.net/2006/02/episode-5-model-driven-software-development-pt-1/"
+    },
+    {
+      "title": "Episode 4: Scripting Languages",
+      "published": "2006-02-01",
+      "url": "https://se-radio.net/2006/02/episode-4-scripting-languages/"
+    },
+    {
+      "title": "SE Radio 3: Interview Doug Schmidt",
+      "published": "2006-01-25",
+      "url": "https://se-radio.net/2006/01/episode-3-interview-doug-schmidt/"
+    },
+    {
+      "title": "Episode 2: Dependencies",
+      "published": "2006-01-24",
+      "url": "https://se-radio.net/2006/01/episode-2-dependencies/"
+    },
+    {
+      "title": "Episode 1: Patterns",
+      "published": "2006-01-22",
+      "url": "https://se-radio.net/2006/01/episode-1-patterns/"
+    },
+    {
+      "title": "Episode 0: About",
+      "published": "2006-01-21",
+      "url": "https://se-radio.net/2006/01/episode-0-about/"
+    }
+  ]
+}

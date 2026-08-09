@@ -1,0 +1,4921 @@
+{
+  "show": "Manager Tools",
+  "slug": "manager-tools",
+  "appleId": 74198801,
+  "feedUrl": "https://files.manager-tools.com/public/feeds/manager-tools-podcasts.xml",
+  "homeUrl": "https://www.manager-tools.com",
+  "canonicalPattern": "https://www.manager-tools.com/YYYY/MM/<slug>",
+  "episodeCount": 982,
+  "episodes": [
+    {
+      "title": "Your Job Includes Teaching Professionalism - Chapter 1 - Timeliness - Part 2",
+      "published": "2026-08-03",
+      "url": "https://www.manager-tools.com/2026/08/your-job-includes-teaching-professionalism-chapter-1-timeliness-part-2"
+    },
+    {
+      "title": "Your Job Includes Teaching Professionalism - Chapter 1 - Timeliness - Part 1",
+      "published": "2026-07-27",
+      "url": "https://www.manager-tools.com/2026/07/your-job-includes-teaching-professionalism-chapter-1-timeliness-part-1"
+    },
+    {
+      "title": "Culture - Chapter 3 - Performance!",
+      "published": "2026-07-20",
+      "url": "https://www.manager-tools.com/2026/07/culture-chapter-3-performance"
+    },
+    {
+      "title": "Give Positive Feedback Just For Doing Their Job! - Part 2",
+      "published": "2026-07-13",
+      "url": "https://www.manager-tools.com/2026/07/give-positive-feedback-just-doing-their-job-part-2"
+    },
+    {
+      "title": "Give Positive Feedback Just For Doing Their Job! - Part 1",
+      "published": "2026-07-06",
+      "url": "https://www.manager-tools.com/2026/07/give-positive-feedback-just-doing-their-job-part-1"
+    },
+    {
+      "title": "Sourcing And Your Bench",
+      "published": "2026-06-29",
+      "url": "https://www.manager-tools.com/2026/06/sourcing-and-your-bench"
+    },
+    {
+      "title": "How To Work With Competencies",
+      "published": "2026-06-22",
+      "url": "https://www.manager-tools.com/2026/06/how-work-competencies"
+    },
+    {
+      "title": "Presenting Mistakes - Chapter 2 - Rigidity",
+      "published": "2026-06-15",
+      "url": "https://www.manager-tools.com/2026/06/presenting-mistakes-chapter-2-rigidity"
+    },
+    {
+      "title": "Company Change With A Promotion Is Unlikely - For Managers - Part 2",
+      "published": "2026-06-08",
+      "url": "https://www.manager-tools.com/2026/06/company-change-promotion-unlikely-managers-part-2"
+    },
+    {
+      "title": "Company Change With A Promotion Is Unlikely - For Managers - Part 1",
+      "published": "2026-06-01",
+      "url": "https://www.manager-tools.com/2026/06/company-change-promotion-unlikely-managers-part-1"
+    },
+    {
+      "title": "Teaching Your Directs How To Interview - Chapter 1 - Basics - Part 2",
+      "published": "2026-05-25",
+      "url": "https://www.manager-tools.com/2026/05/teaching-your-directs-how-interview-chapter-1-basics-part-2"
+    },
+    {
+      "title": "Teaching Your Directs How To Interview - Chapter 1 - Basics - Part 1",
+      "published": "2026-05-18",
+      "url": "https://www.manager-tools.com/2026/05/teaching-your-directs-how-interview-chapter-1-basics-part-1"
+    },
+    {
+      "title": "Presenting Failures - Chapter 1 - Front Of The Room Behaviors",
+      "published": "2026-05-11",
+      "url": "https://www.manager-tools.com/2026/05/presenting-failures-chapter-1-front-room-behaviors"
+    },
+    {
+      "title": "Top 10 Hiring Mistakes - #6 - The Warm Body Problem",
+      "published": "2026-05-04",
+      "url": "https://www.manager-tools.com/2026/05/top-10-hiring-mistakes-6-warm-body-problem"
+    },
+    {
+      "title": "Job Requirements - Beware The Ratchet!",
+      "published": "2026-04-27",
+      "url": "https://www.manager-tools.com/2026/04/job-requirements-beware-ratchet"
+    },
+    {
+      "title": "Fill The Vacuum! - Communicate Your Vision - Chapter 1",
+      "published": "2026-04-20",
+      "url": "https://www.manager-tools.com/2026/04/fill-vacuum-communicate-your-vision-chapter-1"
+    },
+    {
+      "title": "Network Building - The St. Jude Rule",
+      "published": "2026-04-13",
+      "url": "https://www.manager-tools.com/2026/04/network-building-st-jude-rule"
+    },
+    {
+      "title": "Building Peer Relationships - Part 2",
+      "published": "2026-04-06",
+      "url": "https://www.manager-tools.com/2026/04/building-peer-relationships-part-2"
+    },
+    {
+      "title": "Building Peer Relationships - Part 1",
+      "published": "2026-03-30",
+      "url": "https://www.manager-tools.com/2026/03/building-peer-relationships-part-1"
+    },
+    {
+      "title": "Top Ten Hiring Mistakes - #7 - Being Swayed",
+      "published": "2026-03-23",
+      "url": "https://www.manager-tools.com/2026/03/top-ten-hiring-mistakes-7-being-swayed"
+    },
+    {
+      "title": "The Difference Between Line And Staff Leadership",
+      "published": "2026-03-16",
+      "url": "https://www.manager-tools.com/2026/03/difference-between-line-and-staff-leadership"
+    },
+    {
+      "title": "Three Current Modern Management Scams - Part 2",
+      "published": "2026-03-09",
+      "url": "https://www.manager-tools.com/2026/03/three-current-modern-management-scams-part-2"
+    },
+    {
+      "title": "Three Current Modern Management Scams - Part 1",
+      "published": "2026-03-02",
+      "url": "https://www.manager-tools.com/2026/03/three-current-modern-management-scams-part-1"
+    },
+    {
+      "title": "Why Does HR Make It So Hard To Fire People? - Part 2",
+      "published": "2026-02-23",
+      "url": "https://www.manager-tools.com/2026/02/why-does-hr-make-it-so-hard-fire-people-part-2"
+    },
+    {
+      "title": "Why Does HR Make It So Hard To Fire People? - Part 1",
+      "published": "2026-02-16",
+      "url": "https://www.manager-tools.com/2026/02/why-does-hr-make-it-so-hard-fire-people-part-1"
+    },
+    {
+      "title": "How To Be A Positive Interviewer - Part 2",
+      "published": "2026-02-09",
+      "url": "https://www.manager-tools.com/2026/02/how-be-positive-interviewer-part-2"
+    },
+    {
+      "title": "How To Be A Positive Interviewer - Part 1",
+      "published": "2026-02-02",
+      "url": "https://www.manager-tools.com/2026/02/how-be-positive-interviewer-part-1"
+    },
+    {
+      "title": "Top 10 Hiring Mistakes - #8 - Unprepared - Part 2",
+      "published": "2026-01-26",
+      "url": "https://www.manager-tools.com/2026/01/top-10-hiring-mistakes-8-unprepared-part-2"
+    },
+    {
+      "title": "Top 10 Hiring Mistakes - #8 - Unprepared - Part 1",
+      "published": "2026-01-19",
+      "url": "https://www.manager-tools.com/2026/01/top-10-hiring-mistakes-8-unprepared-part-1"
+    },
+    {
+      "title": "Management Is An Organizational System",
+      "published": "2026-01-12",
+      "url": "https://www.manager-tools.com/2026/01/management-organizational-system"
+    },
+    {
+      "title": "Development Plans Are Dumb (Hall of Fame Guidance)",
+      "published": "2026-01-05",
+      "url": "https://www.manager-tools.com/2026/01/development-plans-are-dumb"
+    },
+    {
+      "title": "Assumptive Goal Setting - HOF 2025",
+      "published": "2025-12-29",
+      "url": "https://www.manager-tools.com/2025/12/assumptive-goal-setting-hof-2025"
+    },
+    {
+      "title": "How to Set Annual Goals - HOF 2025",
+      "published": "2025-12-22",
+      "url": "https://www.manager-tools.com/2025/12/how-set-annual-goals-hof-2025"
+    },
+    {
+      "title": "One On Ones - How Much Personal? (Hall of Fame Guidance)",
+      "published": "2025-12-15",
+      "url": "https://www.manager-tools.com/2025/12/one-ones-how-much-personal"
+    },
+    {
+      "title": "My Boss Doesn't Support Company Guidance",
+      "published": "2025-12-08",
+      "url": "https://www.manager-tools.com/2025/12/my-boss-doesnt-support-company-guidance"
+    },
+    {
+      "title": "Delivering the Performance Review - HOF 2025",
+      "published": "2025-12-01",
+      "url": "https://www.manager-tools.com/2025/12/delivering-performance-review-hof-2025"
+    },
+    {
+      "title": "Preparing Performance Reviews - HOF 2025",
+      "published": "2025-11-24",
+      "url": "https://www.manager-tools.com/2025/11/preparing-performance-reviews-hof-2025"
+    },
+    {
+      "title": "The Executive's Two Responsibilities (MT)",
+      "published": "2025-11-17",
+      "url": "https://www.manager-tools.com/2025/11/executives-two-responsibilities-mt"
+    },
+    {
+      "title": "How To Present At A Conference - A Checklist - Part 2",
+      "published": "2025-11-03",
+      "url": "https://www.manager-tools.com/2025/11/how-present-conference-checklist-part-2"
+    },
+    {
+      "title": "How To Present At A Conference - A Checklist - Part 1",
+      "published": "2025-10-27",
+      "url": "https://www.manager-tools.com/2025/10/how-present-conference-checklist-part-1"
+    },
+    {
+      "title": "The Hip Pocket Presentation",
+      "published": "2025-10-20",
+      "url": "https://www.manager-tools.com/2025/10/hip-pocket-presentation"
+    },
+    {
+      "title": "The Love Speech",
+      "published": "2025-10-13",
+      "url": "https://www.manager-tools.com/2025/10/love-speech"
+    },
+    {
+      "title": "What To Do When You Get Promoted - Part 2",
+      "published": "2025-10-06",
+      "url": "https://www.manager-tools.com/2025/10/what-do-when-you-get-promoted-part-2"
+    },
+    {
+      "title": "What To Do When You Get Promoted - Part 1",
+      "published": "2025-09-29",
+      "url": "https://www.manager-tools.com/2025/09/what-do-when-you-get-promoted-part-1"
+    },
+    {
+      "title": "Career Insurance For Your Directs - Part 2",
+      "published": "2025-09-22",
+      "url": "https://www.manager-tools.com/2025/09/career-insurance-your-directs-part-2"
+    },
+    {
+      "title": "Career Insurance For Your Directs - Part 1",
+      "published": "2025-09-15",
+      "url": "https://www.manager-tools.com/2025/09/career-insurance-your-directs-part-1"
+    },
+    {
+      "title": "Google's Project Oxygen",
+      "published": "2025-09-08",
+      "url": "https://www.manager-tools.com/2025/09/googles-project-oxygen"
+    },
+    {
+      "title": "The Black Widow Mistake - Part 2 (Hall of Fame Guidance)",
+      "published": "2025-09-01",
+      "url": "https://www.manager-tools.com/2025/09/black-widow-mistake-part-2"
+    },
+    {
+      "title": "The Black Widow Mistake - Part 1 (Hall of Fame Guidance)",
+      "published": "2025-08-25",
+      "url": "https://www.manager-tools.com/2025/08/black-widow-mistake-part-1"
+    },
+    {
+      "title": "See One, Do One, Teach One",
+      "published": "2025-08-18",
+      "url": "https://www.manager-tools.com/2025/08/see-one-do-one-teach-one"
+    },
+    {
+      "title": "The Four Hidden Dangers of Not Delegating - Part 2",
+      "published": "2025-08-11",
+      "url": "https://www.manager-tools.com/2025/08/four-hidden-dangers-not-delegating-part-2"
+    },
+    {
+      "title": "The Four Hidden Dangers of Not Delegating - Part 1",
+      "published": "2025-08-04",
+      "url": "https://www.manager-tools.com/2025/08/four-hidden-dangers-not-delegating-part-1"
+    },
+    {
+      "title": "Proactive Reporting And The Bricklayer - Part 2",
+      "published": "2025-07-28",
+      "url": "https://www.manager-tools.com/2025/07/proactive-reporting-and-bricklayer-part-2"
+    },
+    {
+      "title": "Proactive Reporting And The Bricklayer - Part 1",
+      "published": "2025-07-21",
+      "url": "https://www.manager-tools.com/2025/07/proactive-reporting-and-bricklayer-part-1"
+    },
+    {
+      "title": "How To Go On Vacation - Part 2 - HOF 2025",
+      "published": "2025-07-14",
+      "url": "https://www.manager-tools.com/2025/07/how-go-vacation-part-2-hof-2025"
+    },
+    {
+      "title": "How To Go On Vacation - Part 1 - HOF 2025",
+      "published": "2025-07-07",
+      "url": "https://www.manager-tools.com/2025/07/how-go-vacation-part-1-hof-2025"
+    },
+    {
+      "title": "20th Anniversary Cast",
+      "published": "2025-06-30",
+      "url": "https://www.manager-tools.com/2025/06/20th-anniversary-cast"
+    },
+    {
+      "title": "Building Your Bench - Chapter 1 - Part 2",
+      "published": "2025-06-23",
+      "url": "https://www.manager-tools.com/2025/06/building-your-bench-chapter-1-part-2"
+    },
+    {
+      "title": "Building Your Bench - Chapter 1 - Part 1",
+      "published": "2025-06-16",
+      "url": "https://www.manager-tools.com/2025/06/building-your-bench-chapter-1-part-1"
+    },
+    {
+      "title": "HR May Not Be Your Friend - Part 2",
+      "published": "2025-06-09",
+      "url": "https://www.manager-tools.com/2025/06/hr-may-not-be-your-friend-part-2"
+    },
+    {
+      "title": "HR May Not Be Your Friend - Part 1",
+      "published": "2025-06-02",
+      "url": "https://www.manager-tools.com/2025/06/hr-may-not-be-your-friend-part-1"
+    },
+    {
+      "title": "The World's Best Feedback Organization",
+      "published": "2025-05-26",
+      "url": "https://www.manager-tools.com/2025/05/worlds-best-feedback-organization"
+    },
+    {
+      "title": "Everybody Has Too Much Work To Do! - Part 2",
+      "published": "2025-05-19",
+      "url": "https://www.manager-tools.com/2025/05/everybody-has-too-much-work-do-part-2"
+    },
+    {
+      "title": "Everybody Has Too Much Work To Do! - Part 1",
+      "published": "2025-05-12",
+      "url": "https://www.manager-tools.com/2025/05/everybody-has-too-much-work-do-part-1"
+    },
+    {
+      "title": "The Hidden Purpose Of Interviewing - External Validation - Part 2",
+      "published": "2025-05-05",
+      "url": "https://www.manager-tools.com/2025/05/hidden-purpose-interviewing-external-validation-part-2"
+    },
+    {
+      "title": "The Hidden Purpose Of Interviewing - External Validation - Part 1",
+      "published": "2025-04-28",
+      "url": "https://www.manager-tools.com/2025/04/hidden-purpose-interviewing-external-validation-part-1"
+    },
+    {
+      "title": "Working Hard - Chapter One - The Myth And The Basics - Part 2",
+      "published": "2025-04-21",
+      "url": "https://www.manager-tools.com/2025/04/working-hard-chapter-one-myth-and-basics-part-2"
+    },
+    {
+      "title": "Working Hard - Chapter One - The Myth And The Basics - Part 1",
+      "published": "2025-04-14",
+      "url": "https://www.manager-tools.com/2025/04/working-hard-chapter-one-myth-and-basics-part-1"
+    },
+    {
+      "title": "Introducing The Effective Senior Manager Conference",
+      "published": "2025-04-07",
+      "url": "https://www.manager-tools.com/2025/04/introducing-effective-senior-manager-conference"
+    },
+    {
+      "title": "Internal Hiring Process - Chapter 1 - Development Feedback",
+      "published": "2025-03-31",
+      "url": "https://www.manager-tools.com/2025/03/internal-hiring-process-chapter-1-development-feedback"
+    },
+    {
+      "title": "Swimming Upstream - Chapter One - Your Boss's Calendar - Part 2",
+      "published": "2025-03-24",
+      "url": "https://www.manager-tools.com/2025/03/swimming-upstream-chapter-one-your-bosss-calendar-part-2"
+    },
+    {
+      "title": "Swimming Upstream - Chapter One - Your Boss's Calendar - Part 1",
+      "published": "2025-03-17",
+      "url": "https://www.manager-tools.com/2025/03/swimming-upstream-chapter-one-your-bosss-calendar-part-1"
+    },
+    {
+      "title": "Why Scheduling Is The Most Important Component of One On Ones - Part 2",
+      "published": "2025-03-10",
+      "url": "https://www.manager-tools.com/2025/03/why-scheduling-most-important-component-one-ones-part-2"
+    },
+    {
+      "title": "Why Scheduling Is The Most Important Component of One On Ones - Part 1",
+      "published": "2025-03-03",
+      "url": "https://www.manager-tools.com/2025/03/why-scheduling-most-important-component-one-ones-part-1"
+    },
+    {
+      "title": "Why Is Negative Feedback So Hard? - Part 2",
+      "published": "2025-02-24",
+      "url": "https://www.manager-tools.com/2025/02/why-negative-feedback-so-hard-part-2"
+    },
+    {
+      "title": "Why Is Negative Feedback So Hard? - Part 1",
+      "published": "2025-02-17",
+      "url": "https://www.manager-tools.com/2025/02/why-negative-feedback-so-hard-part-1"
+    },
+    {
+      "title": "The Simple Quarterly Performance Review",
+      "published": "2025-02-10",
+      "url": "https://www.manager-tools.com/2025/02/simple-quarterly-performance-review"
+    },
+    {
+      "title": "The Purpose of Feedback - Part 3",
+      "published": "2025-02-03",
+      "url": "https://www.manager-tools.com/2025/02/purpose-feedback-part-3"
+    },
+    {
+      "title": "The Purpose of Feedback - Part 2",
+      "published": "2025-01-27",
+      "url": "https://www.manager-tools.com/2025/01/purpose-feedback-part-2"
+    },
+    {
+      "title": "The Purpose of Feedback - Part 1",
+      "published": "2025-01-20",
+      "url": "https://www.manager-tools.com/2025/01/purpose-feedback-part-1"
+    },
+    {
+      "title": "A Basic Team Culture Model For Managers - Part 2",
+      "published": "2025-01-13",
+      "url": "https://www.manager-tools.com/2025/01/basic-team-culture-model-managers-part-2"
+    },
+    {
+      "title": "A Basic Team Culture Model For Managers - Part 1",
+      "published": "2025-01-06",
+      "url": "https://www.manager-tools.com/2025/01/basic-team-culture-model-managers-part-1"
+    },
+    {
+      "title": "Assumptive Goal Setting - HOF 2024",
+      "published": "2024-12-30",
+      "url": "https://www.manager-tools.com/2024/12/how-set-annual-goals-hof-2024"
+    },
+    {
+      "title": "How to Set Annual Goals - HOF 2024",
+      "published": "2024-12-23",
+      "url": "https://www.manager-tools.com/2024/12/how-set-annual-goals-hof-2024"
+    },
+    {
+      "title": "The Tetris Workload Battle - Part 2",
+      "published": "2024-12-16",
+      "url": "https://www.manager-tools.com/2024/12/tetris-workload-battle-part-2"
+    },
+    {
+      "title": "The Tetris Workload Battle - Part 1",
+      "published": "2024-12-09",
+      "url": "https://www.manager-tools.com/2024/12/tetris-workload-battle-part-1"
+    },
+    {
+      "title": "How To Get Subordinate Managers To Do One On Ones - Part 2",
+      "published": "2024-12-02",
+      "url": "https://www.manager-tools.com/2024/12/how-get-subordinate-managers-do-one-ones-part-2"
+    },
+    {
+      "title": "Delivering the Performance Review - HOF 2024",
+      "published": "2024-11-25",
+      "url": "https://www.manager-tools.com/2024/11/preparing-performance-reviews-hof-2024"
+    },
+    {
+      "title": "Preparing Performance Reviews - HOF 2024",
+      "published": "2024-11-18",
+      "url": "https://www.manager-tools.com/2024/11/preparing-performance-reviews-hof-2024"
+    },
+    {
+      "title": "How To Get Subordinate Managers To Do One On Ones - Part 1",
+      "published": "2024-11-11",
+      "url": "https://www.manager-tools.com/2024/11/how-get-subordinate-managers-do-one-ones"
+    },
+    {
+      "title": "The Goal Of An Interview Is To Create A DECISION",
+      "published": "2024-11-04",
+      "url": "http://www.manager-tools.com/2024/11/goal-interview-create-decision"
+    },
+    {
+      "title": "The Feedback Sandwich",
+      "published": "2024-10-28",
+      "url": "http://www.manager-tools.com/2024/10/feedback-sandwich"
+    },
+    {
+      "title": "\"Is That What You Want” - Not Recommended",
+      "published": "2024-10-21",
+      "url": "http://www.manager-tools.com/2024/10/%E2%80%9C-what-you-want%E2%80%9D-not-recommended"
+    },
+    {
+      "title": "Celebrate Yellow Tasks - Part 2",
+      "published": "2024-10-14",
+      "url": "http://www.manager-tools.com/2024/10/celebrate-yellow-tasks-part-2"
+    },
+    {
+      "title": "Celebrate Yellow Tasks - Part 1",
+      "published": "2024-10-07",
+      "url": "http://www.manager-tools.com/2024/10/celebrate-yellow-tasks-part-1"
+    },
+    {
+      "title": "What If Your Direct Says No To Change?",
+      "published": "2024-09-30",
+      "url": "http://www.manager-tools.com/2024/09/what-if-your-direct-says-no-change"
+    },
+    {
+      "title": "How To Respond To A Grievance - Part 4",
+      "published": "2024-09-23",
+      "url": "http://www.manager-tools.com/2024/09/how-respond-grievance-part-4"
+    },
+    {
+      "title": "How To Respond To A Grievance - Part 3",
+      "published": "2024-09-16",
+      "url": "http://www.manager-tools.com/2024/09/how-respond-grievance-part-3"
+    },
+    {
+      "title": "How To Respond To A Grievance - Part 2",
+      "published": "2024-09-09",
+      "url": "http://www.manager-tools.com/2024/09/how-respond-grievance-part-2"
+    },
+    {
+      "title": "How To Respond To A Grievance - Part 1",
+      "published": "2024-09-02",
+      "url": "https://www.manager-tools.com/2024/09/how-respond-grievance-part-1"
+    },
+    {
+      "title": "What Number Twos Do - And Why - Part 2",
+      "published": "2024-08-26",
+      "url": "http://www.manager-tools.com/2024/08/what-number-twos-do-and-why-part-2"
+    },
+    {
+      "title": "What Number Twos Do - And Why - Part 1",
+      "published": "2024-08-19",
+      "url": "http://www.manager-tools.com/2024/08/what-number-twos-do-and-why-part-1"
+    },
+    {
+      "title": "Top Ten Hiring Mistakes - #9 - Comparing Candidates",
+      "published": "2024-08-12",
+      "url": "http://www.manager-tools.com/2024/08/top-ten-hiring-mistakes-9-comparing-candidates"
+    },
+    {
+      "title": "\"You're Asking For The Wrong Thing\"",
+      "published": "2024-08-05",
+      "url": "http://www.manager-tools.com/2024/08/youre-asking-wrong-thing"
+    },
+    {
+      "title": "Interviewing Is NOT A Two Way Street",
+      "published": "2024-07-29",
+      "url": "http://www.manager-tools.com/2024/07/interviewing-not-two-way-street"
+    },
+    {
+      "title": "Manager Tools Delegation Model - Updated",
+      "published": "2024-07-22",
+      "url": "http://www.manager-tools.com/2024/07/manager-tools-delegation-model-updated"
+    },
+    {
+      "title": "Manager Tools Coaching Model - Updated - Part 3",
+      "published": "2024-07-15",
+      "url": "http://www.manager-tools.com/2024/07/manager-tools-coaching-model-updated-part-3"
+    },
+    {
+      "title": "Manager Tools Coaching Model - Updated - Part 2",
+      "published": "2024-07-08",
+      "url": "http://www.manager-tools.com/2024/07/manager-tools-coaching-model-updated-part-2"
+    },
+    {
+      "title": "Manager Tools Coaching Model - Updated - Part 1",
+      "published": "2024-07-01",
+      "url": "http://www.manager-tools.com/2024/07/manager-tools-coaching-model-updated-part-1"
+    },
+    {
+      "title": "The Manager Tools Chatbot - Great Management Advice",
+      "published": "2024-06-24",
+      "url": "https://www.manager-tools.com/2024/06/manager-tools-chatbot-great-management-advice"
+    },
+    {
+      "title": "Rolling Out The Trinity - Updated - Part 3",
+      "published": "2024-06-17",
+      "url": "http://www.manager-tools.com/2024/06/rolling-out-trinity-updated-part-3"
+    },
+    {
+      "title": "Rolling Out The Trinity - Updated - Part 2",
+      "published": "2024-06-10",
+      "url": "http://www.manager-tools.com/2024/06/rolling-out-trinity-updated-part-2"
+    },
+    {
+      "title": "Rolling Out The Trinity - Updated - Part 1",
+      "published": "2024-06-03",
+      "url": "http://www.manager-tools.com/2024/06/rolling-out-trinity-updated-part-1"
+    },
+    {
+      "title": "Manager Tools Feedback Model - Updated - Part 3",
+      "published": "2024-05-27",
+      "url": "http://www.manager-tools.com/2024/05/manager-tools-feedback-model-updated-part-3"
+    },
+    {
+      "title": "Manager Tools Feedback Model - Updated - Part 2",
+      "published": "2024-05-20",
+      "url": "https://www.manager-tools.com/2024/05/manager-tools-feedback-model-updated-part-2"
+    },
+    {
+      "title": "Manager Tools Feedback Model - Updated - Part 1",
+      "published": "2024-05-13",
+      "url": "http://www.manager-tools.com/2024/05/manager-tools-feedback-model-updated-part-1"
+    },
+    {
+      "title": "Manager Tools One On Ones - Updated - Part 3",
+      "published": "2024-05-06",
+      "url": "https://www.manager-tools.com/2024/05/manager-tools-one-ones-updated-part-3"
+    },
+    {
+      "title": "Manager Tools One On Ones - Updated - Part 2",
+      "published": "2024-04-29",
+      "url": "http://www.manager-tools.com/2024/04/manager-tools-one-ones-updated-part-2"
+    },
+    {
+      "title": "Manager Tools One On Ones - Updated - Part 1",
+      "published": "2024-04-22",
+      "url": "https://www.manager-tools.com/2024/04/manager-tools-one-ones-updated-part-1"
+    },
+    {
+      "title": "The Proactive Manager - Chapter 2 - Meetings - Part 2",
+      "published": "2024-04-15",
+      "url": "http://www.manager-tools.com/2024/04/proactive-manager-chapter-2-meetings-part-2"
+    },
+    {
+      "title": "The Proactive Manager - Chapter 2 - Meetings - Part 1",
+      "published": "2024-04-08",
+      "url": "http://www.manager-tools.com/2024/04/proactive-manager-chapter-2-meetings-part-1"
+    },
+    {
+      "title": "The Proactive Manager - Chapter 1 - Reporting - Part 2",
+      "published": "2024-04-01",
+      "url": "http://www.manager-tools.com/2024/04/proactive-manager-chapter-1-reporting-part-2"
+    },
+    {
+      "title": "The Proactive Manager - Chapter 1 - Reporting - Part 1",
+      "published": "2024-03-25",
+      "url": "http://www.manager-tools.com/2024/03/proactive-manager-chapter-1-reporting-part-1"
+    },
+    {
+      "title": "How To Choose a Managerial Successor - Part 2",
+      "published": "2024-03-18",
+      "url": "http://www.manager-tools.com/2024/03/how-choose-managerial-successor-part-2"
+    },
+    {
+      "title": "How To Choose a Managerial Successor - Part 1",
+      "published": "2024-03-11",
+      "url": "http://www.manager-tools.com/2024/03/how-choose-managerial-successor-part-1"
+    },
+    {
+      "title": "The Power of Understanding In Relationships - Part 2",
+      "published": "2024-03-07",
+      "url": "https://www.manager-tools.com/2024/03/power-understanding-relationships-part-2"
+    },
+    {
+      "title": "Getting Chewed Out In Public",
+      "published": "2024-03-04",
+      "url": "http://www.manager-tools.com/2024/03/getting-chewed-out-public"
+    },
+    {
+      "title": "The Power of Understanding In Relationships - Part 1",
+      "published": "2024-02-29",
+      "url": "https://www.manager-tools.com/2024/02/power-understanding-relationships-part-1"
+    },
+    {
+      "title": "\"My Directs Are Too Busy\" - Part 2",
+      "published": "2024-02-26",
+      "url": "http://www.manager-tools.com/2024/02/my-directs-are-too-busy-part-2"
+    },
+    {
+      "title": "\"My Directs Are Too Busy\" - Part 1",
+      "published": "2024-02-19",
+      "url": "http://www.manager-tools.com/2024/02/my-directs-are-too-busy-part-1"
+    },
+    {
+      "title": "How To Handle A Sudden Demotion",
+      "published": "2024-02-12",
+      "url": "http://www.manager-tools.com/2024/02/how-handle-sudden-demotion"
+    },
+    {
+      "title": "Educate Your Directs On Performance Reviews Early - Part 2",
+      "published": "2024-02-05",
+      "url": "http://www.manager-tools.com/2024/02/educate-your-directs-performance-reviews-early-part-2"
+    },
+    {
+      "title": "Educate Your Directs On Performance Reviews Early - Part 1",
+      "published": "2024-01-29",
+      "url": "http://www.manager-tools.com/2024/01/educate-your-directs-performance-reviews-early-part-1"
+    },
+    {
+      "title": "Salary Discussions 2x2 Matrix Tool - Part 2",
+      "published": "2024-01-22",
+      "url": "http://www.manager-tools.com/2024/01/salary-discussions-2x2-matrix-tool-part-2"
+    },
+    {
+      "title": "Salary Discussions 2x2 Matrix Tool - Part 1",
+      "published": "2024-01-15",
+      "url": "http://www.manager-tools.com/2024/01/salary-discussions-2x2-matrix-tool-part-1"
+    },
+    {
+      "title": "Yes Or No Questions (YONKERS)",
+      "published": "2024-01-08",
+      "url": "http://www.manager-tools.com/2024/01/yes-or-no-questions-yonkers"
+    },
+    {
+      "title": "Assumptive Goal Setting - HOF 2024",
+      "published": "2024-01-01",
+      "url": "http://www.manager-tools.com/2024/01/assumptive-goal-setting-hof-2024"
+    },
+    {
+      "title": "How to Set Annual Goals - HOF 2023",
+      "published": "2023-12-25",
+      "url": "http://www.manager-tools.com/2023/12/how-set-annual-goals-hof-2023"
+    },
+    {
+      "title": "The Folly Of Rebranding Feedback - Part 2",
+      "published": "2023-12-18",
+      "url": "http://www.manager-tools.com/2023/12/folly-rebranding-feedback-part-2"
+    },
+    {
+      "title": "The Folly Of Rebranding Feedback - Part 1",
+      "published": "2023-12-11",
+      "url": "http://www.manager-tools.com/2023/12/folly-rebranding-feedback-part-1"
+    },
+    {
+      "title": "Effective Executive/Efficient Assistant - Part 3 - 2023",
+      "published": "2023-12-04",
+      "url": "http://www.manager-tools.com/2023/12/effective-executiveefficient-assistant-part-3-2023"
+    },
+    {
+      "title": "Effective Executive/Efficient Assistant - Part 2 - 2023",
+      "published": "2023-11-27",
+      "url": "http://www.manager-tools.com/2023/11/effective-executiveefficient-assistant-part-2-2023"
+    },
+    {
+      "title": "Effective Executive/Efficient Assistant - Part 1 - 2023",
+      "published": "2023-11-20",
+      "url": "http://www.manager-tools.com/2023/11/effective-executiveefficient-assistant-part-1-2023"
+    },
+    {
+      "title": "Preparing Performance Reviews - Part 2 - HOF 2023",
+      "published": "2023-11-13",
+      "url": "http://www.manager-tools.com/2023/11/preparing-performance-reviews-part-2-hof-2023"
+    },
+    {
+      "title": "Preparing Performance Reviews - Part 1 - HOF 2023",
+      "published": "2023-11-06",
+      "url": "http://www.manager-tools.com/2023/11/preparing-performance-reviews-part-1-hof-2023"
+    },
+    {
+      "title": "How To Action Engagement Survey Results - Chapter 3 - The Questions - Part 10",
+      "published": "2023-10-30",
+      "url": "http://www.manager-tools.com/2023/10/how-action-engagement-survey-results-chapter-3-questions-part-10"
+    },
+    {
+      "title": "How To Action Engagement Survey Results - Chapter 3 - The Questions - Part 9",
+      "published": "2023-10-23",
+      "url": "http://www.manager-tools.com/2023/10/how-action-engagement-survey-results-chapter-3-questions-part-9"
+    },
+    {
+      "title": "How To Action Engagement Survey Results - Chapter 3 - The Questions - Part 8",
+      "published": "2023-10-16",
+      "url": "http://www.manager-tools.com/2023/10/how-action-engagement-survey-results-chapter-3-questions-part-8"
+    },
+    {
+      "title": "How To Action Engagement Survey Results - Chapter 3 - The Questions - Part 7",
+      "published": "2023-10-09",
+      "url": "http://www.manager-tools.com/2023/10/how-action-engagement-survey-results-chapter-3-questions-part-7"
+    },
+    {
+      "title": "How To Action Engagement Survey Results - Chapter 3 - The Questions - Part 6",
+      "published": "2023-10-02",
+      "url": "http://www.manager-tools.com/2023/10/how-action-engagement-survey-results-chapter-3-questions-part-6"
+    },
+    {
+      "title": "How To Action Engagement Survey Results - Chapter 3 - The Questions - Part 5",
+      "published": "2023-09-25",
+      "url": "http://www.manager-tools.com/2023/09/how-action-engagement-survey-results-chapter-3-questions-part-5"
+    },
+    {
+      "title": "How To Action Engagement Survey Results - Chapter 3 - The Questions - Part 4",
+      "published": "2023-09-18",
+      "url": "http://www.manager-tools.com/2023/09/how-action-engagement-survey-results-chapter-3-questions-part-4"
+    },
+    {
+      "title": "How To Action Engagement Survey Results - Chapter 3 - The Questions - Part 3",
+      "published": "2023-09-11",
+      "url": "http://www.manager-tools.com/2023/09/how-action-engagement-survey-results-chapter-3-questions-part-3"
+    },
+    {
+      "title": "How To Action Engagement Survey Results - Chapter 3 - The Questions - Part 2",
+      "published": "2023-09-04",
+      "url": "http://www.manager-tools.com/2023/09/how-action-engagement-survey-results-chapter-3-questions-part-2"
+    },
+    {
+      "title": "How To Action Engagement Survey Results - Chapter 3 - The Questions - Part 1",
+      "published": "2023-08-28",
+      "url": "http://www.manager-tools.com/2023/08/how-action-engagement-survey-results-chapter-3-questions-part-1"
+    },
+    {
+      "title": "\"It's Not My Fault\"",
+      "published": "2023-08-21",
+      "url": "http://manager-tools.com/2023/08/its-not-my-fault"
+    },
+    {
+      "title": "Feedback Is Insurance",
+      "published": "2023-08-14",
+      "url": "https://www.manager-tools.com/2023/08/feedback-insurance"
+    },
+    {
+      "title": "The Secrets of a Great Handshake - 2023",
+      "published": "2023-08-07",
+      "url": "http://www.manager-tools.com/2023/08/secrets-great-handshake-2023"
+    },
+    {
+      "title": "Don't Throw A Blanket Over Your Team",
+      "published": "2023-07-31",
+      "url": "http://www.manager-tools.com/2023/07/dont-throw-blanket-over-your-team"
+    },
+    {
+      "title": "How To Action Engagement Survey Results - Chapter Two - Response And Conflicts",
+      "published": "2023-07-24",
+      "url": "http://www.manager-tools.com/2023/07/how-action-engagement-survey-results-chapter-two-response-and-conflicts"
+    },
+    {
+      "title": "Business Travel - Packing - Part 2 - 2023",
+      "published": "2023-07-17",
+      "url": "http://www.manager-tools.com/2023/07/business-travel-packing-part-2-2023"
+    },
+    {
+      "title": "Business Travel - Packing - Part 1 - 2023",
+      "published": "2023-07-10",
+      "url": "http://www.manager-tools.com/2023/07/business-travel-packing-part-1-2023"
+    },
+    {
+      "title": "How To Action Engagement Survey Results - Chapter One - Dimensions",
+      "published": "2023-07-03",
+      "url": "http://www.manager-tools.com/2023/07/how-action-engagement-survey-results-chapter-one-dimensions"
+    },
+    {
+      "title": "How To Handle Body Odor - Part 2 - 2023",
+      "published": "2023-06-26",
+      "url": "http://www.manager-tools.com/2023/06/how-handle-body-odor-part-2-2023"
+    },
+    {
+      "title": "How To Handle Body Odor - Part 1 - 2023",
+      "published": "2023-06-19",
+      "url": "http://www.manager-tools.com/2023/06/how-handle-body-odor-part-1-2023"
+    },
+    {
+      "title": "Culture Chapter 2 - Core Behaviors - Part 2",
+      "published": "2023-06-12",
+      "url": "http://www.manager-tools.com/2023/06/culture-chapter-2-core-behaviors-part-2"
+    },
+    {
+      "title": "Culture Chapter 2 - Core Behaviors - Part 1",
+      "published": "2023-06-05",
+      "url": "http://www.manager-tools.com/2023/06/culture-chapter-2-core-behaviors-part-1"
+    },
+    {
+      "title": "How to Write a Thank You Note - 2023",
+      "published": "2023-05-29",
+      "url": "http://www.manager-tools.com/2023/05/how-write-thank-you-note-2023"
+    },
+    {
+      "title": "How To Master Your Response To Your Engagement Survey - Part 5",
+      "published": "2023-05-22",
+      "url": "http://www.manager-tools.com/2023/05/how-master-your-response-your-engagement-survey-part-5"
+    },
+    {
+      "title": "How To Master Your Response To Your Engagement Survey - Part 4",
+      "published": "2023-05-15",
+      "url": "http://www.manager-tools.com/2023/05/how-master-your-response-your-engagement-survey-part-4"
+    },
+    {
+      "title": "How To Master Your Response To Your Engagement Survey - Part 3",
+      "published": "2023-05-08",
+      "url": "http://www.manager-tools.com/2023/05/how-master-your-response-your-engagement-survey-part-3"
+    },
+    {
+      "title": "How To Master Your Response To Your Engagement Survey - Part 2",
+      "published": "2023-05-01",
+      "url": "http://www.manager-tools.com/2023/05/how-master-your-response-your-engagement-survey-part-2"
+    },
+    {
+      "title": "How To Master Your Response To Your Engagement Survey - Part 1",
+      "published": "2023-04-24",
+      "url": "http://www.manager-tools.com/2023/04/how-master-your-response-your-engagement-survey-part-1"
+    },
+    {
+      "title": "Behavioral Effectiveness and MTDISC - Example 1 - Part 2",
+      "published": "2023-04-17",
+      "url": "http://www.manager-tools.com/2023/04/behavioral-effectiveness-and-mtdisc-example-1-part-2"
+    },
+    {
+      "title": "Behavioral Effectiveness and MTDISC - Example 1 - Part 1",
+      "published": "2023-04-10",
+      "url": "http://www.manager-tools.com/2023/04/behavioral-effectiveness-and-mtdisc-example-1-part-1"
+    },
+    {
+      "title": "You Don't Deserve a Promotion",
+      "published": "2023-04-03",
+      "url": "http://www.manager-tools.com/2023/04/you-dont-deserve-promotion"
+    },
+    {
+      "title": "Developing Professionals - Chapter 1 - Housekeeping",
+      "published": "2023-03-27",
+      "url": "http://www.manager-tools.com/2023/03/developing-professionals-chapter-1-housekeeping"
+    },
+    {
+      "title": "How To Lay Off A Direct - Part 4",
+      "published": "2023-03-20",
+      "url": "http://www.manager-tools.com/2023/03/how-lay-direct-part-4"
+    },
+    {
+      "title": "How To Lay Off A Direct - Part 3",
+      "published": "2023-03-13",
+      "url": "http://www.manager-tools.com/2023/03/how-lay-direct-part-3"
+    },
+    {
+      "title": "How To Lay Off A Direct - Part 2",
+      "published": "2023-03-06",
+      "url": "http://www.manager-tools.com/2023/03/how-lay-direct-part-2"
+    },
+    {
+      "title": "How To Lay Off A Direct - Part 1",
+      "published": "2023-02-27",
+      "url": "http://www.manager-tools.com/2023/02/how-lay-direct-part-1"
+    },
+    {
+      "title": "Culture Chapter 1 - Culture Is Behavior",
+      "published": "2023-02-20",
+      "url": "http://www.manager-tools.com/2023/02/culture-chapter-1-culture-behavior"
+    },
+    {
+      "title": "The Big 4 of Performance Communications - Part 3",
+      "published": "2023-02-13",
+      "url": "http://www.manager-tools.com/2023/02/big-4-performance-communications-part-3"
+    },
+    {
+      "title": "The Big 4 of Performance Communications - Part 2",
+      "published": "2023-02-06",
+      "url": "http://www.manager-tools.com/2023/02/big-4-performance-communications-part-2"
+    },
+    {
+      "title": "The Big 4 of Performance Communications - Part 1",
+      "published": "2023-01-30",
+      "url": "http://www.manager-tools.com/2023/01/big-4-performance-communications-part-1"
+    },
+    {
+      "title": "Never Believe The First Report From The Front",
+      "published": "2023-01-23",
+      "url": "http://www.manager-tools.com/2023/01/never-believe-first-report-front"
+    },
+    {
+      "title": "Hiring Is Not An HR Process - Chapter 2 - Part 3",
+      "published": "2023-01-16",
+      "url": "http://www.manager-tools.com/2023/01/hiring-not-hr-process-chapter-2-part-3"
+    },
+    {
+      "title": "Hiring Is Not An HR Process - Chapter 2 - Part 2",
+      "published": "2023-01-09",
+      "url": "http://www.manager-tools.com/2023/01/hiring-not-hr-process-chapter-2-part-2"
+    },
+    {
+      "title": "Hiring Is Not An HR Process - Chapter 2 - Part 1",
+      "published": "2023-01-02",
+      "url": "http://www.manager-tools.com/2023/01/hiring-not-hr-process-chapter-2-part-1"
+    },
+    {
+      "title": "Assumptive Goal Setting - HOF 2022",
+      "published": "2022-12-26",
+      "url": "http://www.manager-tools.com/2022/12/assumptive-goal-setting-hof-2022"
+    },
+    {
+      "title": "How to Set Annual Goals - HOF 2022",
+      "published": "2022-12-19",
+      "url": "http://www.manager-tools.com/2022/12/how-set-annual-goals-hof-2022"
+    },
+    {
+      "title": "The Manager Tools Interview Creation Tool",
+      "published": "2022-12-12",
+      "url": "https://www.manager-tools.com/2022/12/manager-tools-interview-creation-tool"
+    },
+    {
+      "title": "The Effective Manager Has a Playbook - Part 3",
+      "published": "2022-12-05",
+      "url": "http://www.manager-tools.com/2022/12/effective-manager-has-playbook-part-3"
+    },
+    {
+      "title": "Delivering The Performance Review - HOF 2022",
+      "published": "2022-11-28",
+      "url": "http://www.manager-tools.com/2022/11/delivering-performance-review-hof-2022"
+    },
+    {
+      "title": "Preparing Performance Reviews - HOF 2022",
+      "published": "2022-11-21",
+      "url": "http://www.manager-tools.com/2022/11/preparing-performance-reviews-hof-2022"
+    },
+    {
+      "title": "The Effective Manager Has a Playbook - Part 2",
+      "published": "2022-11-14",
+      "url": "http://www.manager-tools.com/2022/11/effective-manager-has-playbook-part-2"
+    },
+    {
+      "title": "The Effective Manager Has a Playbook - Part 1",
+      "published": "2022-11-07",
+      "url": "http://www.manager-tools.com/2022/11/effective-manager-has-playbook-part-1"
+    },
+    {
+      "title": "Good Lieutenants Make Good Captains - Chapter 1 - Part 2",
+      "published": "2022-10-24",
+      "url": "http://www.manager-tools.com/2022/10/good-lieutenants-make-good-captains-chapter-1-part-2"
+    },
+    {
+      "title": "Good Lieutenants Make Good Captains - Chapter 2 - The Trinity",
+      "published": "2022-10-31",
+      "url": "http://www.manager-tools.com/2022/10/good-lieutenants-make-good-captains-chapter-2-trinity"
+    },
+    {
+      "title": "Good Lieutenants Make Good Captains - Chapter 1 - Part 1",
+      "published": "2022-10-17",
+      "url": "http://www.manager-tools.com/2022/10/good-lieutenants-make-good-captains-chapter-1-part-1"
+    },
+    {
+      "title": "Project Management - Reporting - Chapter One - Part 2",
+      "published": "2022-10-10",
+      "url": "http://www.manager-tools.com/2022/10/project-management-reporting-chapter-one-part-2"
+    },
+    {
+      "title": "Project Management - Reporting - Chapter One - Part 1",
+      "published": "2022-10-03",
+      "url": "http://www.manager-tools.com/2022/10/project-management-reporting-chapter-one-part-1"
+    },
+    {
+      "title": "Winning The Feedback \"Argument\"",
+      "published": "2022-09-26",
+      "url": "http://www.manager-tools.com/2022/09/winning-feedback-argument"
+    },
+    {
+      "title": "My Directs Aren't Addressing My Agenda in One On Ones",
+      "published": "2022-09-19",
+      "url": "http://www.manager-tools.com/2022/09/my-directs-arent-addressing-my-agenda-one-ones"
+    },
+    {
+      "title": "The Three Levels of Presentation Mastery",
+      "published": "2022-09-12",
+      "url": "http://www.manager-tools.com/2022/09/three-levels-presentation-mastery"
+    },
+    {
+      "title": "The Kernel of Strategy - Part 2 (MT)",
+      "published": "2022-09-05",
+      "url": "http://www.manager-tools.com/2022/09/kernel-strategy-part-2-mt"
+    },
+    {
+      "title": "The Kernel of Strategy - Part 1 (MT)",
+      "published": "2022-08-29",
+      "url": "https://www.manager-tools.com/2022/08/kernel-strategy-part-1-mt"
+    },
+    {
+      "title": "Behavior is What Matters (MT)",
+      "published": "2022-08-22",
+      "url": "http://www.manager-tools.com/2022/08/behavior-what-matters-mt"
+    },
+    {
+      "title": "DISC Overview (MT)",
+      "published": "2022-08-15",
+      "url": "http://www.manager-tools.com/2022/08/disc-overview-mt"
+    },
+    {
+      "title": "2022 Recruitment Update - Part 2 (MT)",
+      "published": "2022-08-08",
+      "url": "http://www.manager-tools.com/2022/08/2022-recruitment-update-part-2-mt"
+    },
+    {
+      "title": "2022 Recruitment Update - Part 1 (MT)",
+      "published": "2022-08-01",
+      "url": "http://www.manager-tools.com/2022/08/2022-recruitment-update-part-1-mt"
+    },
+    {
+      "title": "Special Cast - Succession Planning",
+      "published": "2022-07-25",
+      "url": "http://www.manager-tools.com/2022/07/special-cast-succession-planning"
+    },
+    {
+      "title": "How to Prewire a Meeting - HOF 2022",
+      "published": "2022-07-18",
+      "url": "http://www.manager-tools.com/2022/07/how-prewire-meeting-hof-2022"
+    },
+    {
+      "title": "The Horstman Curve",
+      "published": "2022-07-11",
+      "url": "http://www.manager-tools.com/2022/07/horstman-curve"
+    },
+    {
+      "title": "The Juggling Koan - HOF 2022",
+      "published": "2022-07-04",
+      "url": "http://www.manager-tools.com/2022/07/juggling-koan-hof-2022"
+    },
+    {
+      "title": "Giving Feedback To Remote Directs - Part 3",
+      "published": "2022-06-27",
+      "url": "http://www.manager-tools.com/2022/06/giving-feedback-remote-directs-part-3"
+    },
+    {
+      "title": "Giving Feedback To Remote Directs - Part 2",
+      "published": "2022-06-20",
+      "url": "http://www.manager-tools.com/2022/06/giving-feedback-remote-directs-part-2"
+    },
+    {
+      "title": "Giving Feedback To Remote Directs - Part 1",
+      "published": "2022-06-13",
+      "url": "https://www.manager-tools.com/2022/06/giving-feedback-remote-directs-part-1"
+    },
+    {
+      "title": "Performance Reviews Are Not Feedback - Part 2",
+      "published": "2022-06-06",
+      "url": "http://www.manager-tools.com/2022/06/performance-reviews-are-not-feedback-part-2"
+    },
+    {
+      "title": "Performance Reviews Are Not Feedback - Part 1",
+      "published": "2022-05-30",
+      "url": "http://www.manager-tools.com/2022/05/performance-reviews-are-not-feedback-part-1"
+    },
+    {
+      "title": "Interview With a Talent Manager",
+      "published": "2022-05-23",
+      "url": "https://www.manager-tools.com/2022/05/interview-talent-manager"
+    },
+    {
+      "title": "MTDISC Behavior Change Template - Part 2",
+      "published": "2022-05-16",
+      "url": "http://www.manager-tools.com/2022/05/mtdisc-behavior-change-template-part-2"
+    },
+    {
+      "title": "MTDISC Behavior Change Template - Part 1",
+      "published": "2022-05-09",
+      "url": "http://www.manager-tools.com/2022/05/mtdisc-behavior-change-template-part-1"
+    },
+    {
+      "title": "How To Roll Out MTDISC To Your Team - Part 2",
+      "published": "2022-05-02",
+      "url": "https://www.manager-tools.com/2022/05/how-roll-out-mtdisc-your-team-part-2"
+    },
+    {
+      "title": "How To Roll Out MTDISC To Your Team - Part 1",
+      "published": "2022-04-25",
+      "url": "http://www.manager-tools.com/2022/04/how-roll-out-mtdisc-your-team"
+    },
+    {
+      "title": "Maggie Tucker Interview",
+      "published": "2022-04-18",
+      "url": "http://www.manager-tools.com/2022/04/maggie-tucker-interview"
+    },
+    {
+      "title": "Rules For Directors - Chapter 1 - Earning Trust (MT Version)",
+      "published": "2022-04-11",
+      "url": "http://www.manager-tools.com/2022/04/rules-directors-chapter-1-earning-trust-mt-version"
+    },
+    {
+      "title": "The War Room - Part 2 (MT)",
+      "published": "2022-04-04",
+      "url": "https://www.manager-tools.com/2022/04/war-room-part-2-mt"
+    },
+    {
+      "title": "The War Room - Part 1 (MT)",
+      "published": "2022-03-28",
+      "url": "http://www.manager-tools.com/2022/03/war-room-part-1-mt"
+    },
+    {
+      "title": "MTDISC Launch",
+      "published": "2022-03-21",
+      "url": "http://www.manager-tools.com/2022/03/mtdisc-launch"
+    },
+    {
+      "title": "The Previous Boss Rule - Part 2",
+      "published": "2022-03-14",
+      "url": "http://www.manager-tools.com/2022/03/previous-boss-rule-part-2"
+    },
+    {
+      "title": "The Previous Boss Rule - Part 1",
+      "published": "2022-03-07",
+      "url": "http://www.manager-tools.com/2022/03/previous-boss-rule-part-1"
+    },
+    {
+      "title": "Managerial Economics 101, 102 and 103: Reporting, Delegation, and Coaching - Part 2",
+      "published": "2022-02-28",
+      "url": "http://www.manager-tools.com/2022/02/managerial-economics-101-102-and-103-reporting-delegation-and-coaching-part-2"
+    },
+    {
+      "title": "Managerial Economics 101, 102 and 103: Reporting, Delegation, and Coaching - Part 1",
+      "published": "2022-02-21",
+      "url": "http://www.manager-tools.com/2022/02/managerial-economics-101-102-and-103-reporting-delegation-and-coaching-part-1"
+    },
+    {
+      "title": "Top Interviewer Mistakes - Chapter 1",
+      "published": "2022-02-14",
+      "url": "http://www.manager-tools.com/2022/02/top-interviewer-mistakes-chapter-1"
+    },
+    {
+      "title": "Deadlines Are Commitments",
+      "published": "2022-02-07",
+      "url": "http://www.manager-tools.com/2022/02/deadlines-are-commitments"
+    },
+    {
+      "title": "My Feelings Are Hurt - Part 2",
+      "published": "2022-01-31",
+      "url": "http://www.manager-tools.com/2022/01/my-feelings-are-hurt-part-2"
+    },
+    {
+      "title": "My Feelings Are Hurt - Part 1",
+      "published": "2022-01-24",
+      "url": "http://www.manager-tools.com/2022/01/my-feelings-are-hurt-part-1"
+    },
+    {
+      "title": "Politics 101 - Chapter 7 - Compromise",
+      "published": "2022-01-17",
+      "url": "http://www.manager-tools.com/2022/01/politics-101-chapter-7-compromise"
+    },
+    {
+      "title": "First Meeting New Direct Series - Family First - Part 2",
+      "published": "2022-01-10",
+      "url": "http://www.manager-tools.com/2022/01/first-meeting-new-direct-series-family-first-part-2"
+    },
+    {
+      "title": "First Meeting New Direct Series - Family First - Part 1",
+      "published": "2022-01-03",
+      "url": "http://www.manager-tools.com/2022/01/first-meeting-new-direct-series-family-first-part-1"
+    },
+    {
+      "title": "Assumptive Goal Setting - HOF 2021",
+      "published": "2021-12-27",
+      "url": "http://www.manager-tools.com/2021/12/assumptive-goal-setting-hof-2021"
+    },
+    {
+      "title": "How to Set Annual Goals - HOF 2021",
+      "published": "2021-12-20",
+      "url": "http://www.manager-tools.com/2021/12/how-set-annual-goals-hof-2021"
+    },
+    {
+      "title": "Hiring Is NOT An HR Process - Chapter 1",
+      "published": "2021-12-13",
+      "url": "http://www.manager-tools.com/2021/12/hiring-not-hr-process-chapter-1"
+    },
+    {
+      "title": "Management Vs. Leadership - Army Vs. Navy",
+      "published": "2021-12-06",
+      "url": "http://www.manager-tools.com/2021/12/management-vs-leadership-army-vs-navy"
+    },
+    {
+      "title": "Delivering The Performance Review - HOF 2021",
+      "published": "2021-11-29",
+      "url": "http://www.manager-tools.com/2021/11/delivering-performance-review-hof-2021"
+    },
+    {
+      "title": "Preparing Performance Reviews - HOF 2021",
+      "published": "2021-11-22",
+      "url": "http://www.manager-tools.com/2021/11/preparing-performance-reviews-hof-2021"
+    },
+    {
+      "title": "The Basics Of Measures - Chapter 1",
+      "published": "2021-11-15",
+      "url": "http://www.manager-tools.com/2021/11/basics-measures-chapter-1"
+    },
+    {
+      "title": "When You Are \"Required\" To Do Panel Interviews - Part 2",
+      "published": "2021-11-08",
+      "url": "http://www.manager-tools.com/2021/11/when-you-are-required-do-panel-interviews-part-2"
+    },
+    {
+      "title": "When You Are \"Required\" To Do Panel Interviews - Part 1",
+      "published": "2021-11-01",
+      "url": "http://www.manager-tools.com/2021/11/when-you-are-required-do-panel-interviews-part-1"
+    },
+    {
+      "title": "Hybrid Office Meetings",
+      "published": "2021-10-25",
+      "url": "http://www.manager-tools.com/2021/10/hybrid-office-meetings"
+    },
+    {
+      "title": "One On Ones In a Hybrid Office Environment",
+      "published": "2021-10-18",
+      "url": "http://www.manager-tools.com/2021/10/one-ones-hybrid-office-environment"
+    },
+    {
+      "title": "Back To The Office",
+      "published": "2021-10-11",
+      "url": "http://www.manager-tools.com/2021/10/back-office"
+    },
+    {
+      "title": "Coaching Is Self Development - Part 2",
+      "published": "2021-10-04",
+      "url": "http://www.manager-tools.com/2021/10/coaching-self-development-part-2"
+    },
+    {
+      "title": "Coaching Is Self Development - Part 1",
+      "published": "2021-09-27",
+      "url": "http://www.manager-tools.com/2021/09/coaching-self-development-part-1"
+    },
+    {
+      "title": "Performance Conversations Don't Lead To Career Conversations",
+      "published": "2021-09-20",
+      "url": "http://www.manager-tools.com/2021/09/performance-conversations-dont-lead-career-conversations"
+    },
+    {
+      "title": "The Manager And The Vaccine",
+      "published": "2021-09-13",
+      "url": "http://www.manager-tools.com/2021/09/manager-and-vaccine"
+    },
+    {
+      "title": "How To Train Your People - Chapter One - Introductions - Part 2",
+      "published": "2021-09-06",
+      "url": "http://www.manager-tools.com/2021/09/how-train-your-people-chapter-one-introductions-part-2"
+    },
+    {
+      "title": "How To Train Your People - Chapter One - Introductions - Part 1",
+      "published": "2021-08-30",
+      "url": "http://www.manager-tools.com/2021/08/how-train-your-people-chapter-one-introductions-part-1"
+    },
+    {
+      "title": "2021 Recruitment Update - Part 2 (MT)",
+      "published": "2021-08-23",
+      "url": "http://www.manager-tools.com/2021/08/2021-recruitment-update-part-2-mt"
+    },
+    {
+      "title": "2021 Recruitment Update - Part 1 (MT)",
+      "published": "2021-08-16",
+      "url": "http://www.manager-tools.com/2021/08/2021-recruitment-update-part-1-mt"
+    },
+    {
+      "title": "The Middleman Test Chapter 2 - Feedback",
+      "published": "2021-08-09",
+      "url": "http://www.manager-tools.com/2021/08/middleman-test-chapter-2-feedback"
+    },
+    {
+      "title": "Never O'Clock Chapter One",
+      "published": "2021-08-02",
+      "url": "http://www.manager-tools.com/2021/08/never-oclock-chapter-one"
+    },
+    {
+      "title": "The 95% Solution - Part 2",
+      "published": "2021-07-26",
+      "url": "http://www.manager-tools.com/2021/07/95-solution-part-2"
+    },
+    {
+      "title": "The 95% Solution - Part 1",
+      "published": "2021-07-19",
+      "url": "http://www.manager-tools.com/2021/07/95-solution-part-1"
+    },
+    {
+      "title": "Exploit Your Wiggle Room - Part 2",
+      "published": "2021-07-12",
+      "url": "http://www.manager-tools.com/2021/07/exploit-your-wiggle-room-part-2"
+    },
+    {
+      "title": "Exploit Your Wiggle Room - Part 1",
+      "published": "2021-07-05",
+      "url": "http://www.manager-tools.com/2021/07/exploit-your-wiggle-room-part-1"
+    },
+    {
+      "title": "The Sweet 16 Podcast",
+      "published": "2021-06-28",
+      "url": "http://www.manager-tools.com/2021/06/sweet-16-podcast"
+    },
+    {
+      "title": "Why Experienced Directs Need One On Ones",
+      "published": "2021-06-21",
+      "url": "http://www.manager-tools.com/2021/06/why-experienced-directs-need-one-ones"
+    },
+    {
+      "title": "Communicating In Advance of A Miss - Part 2",
+      "published": "2021-06-14",
+      "url": "http://www.manager-tools.com/2021/06/communicating-advance-miss-part-2"
+    },
+    {
+      "title": "Communicating In Advance of A Miss - Part 1",
+      "published": "2021-06-07",
+      "url": "http://www.manager-tools.com/2021/06/communicating-advance-miss-part-1"
+    },
+    {
+      "title": "Trinity Pushback - One On Ones - Why Weekly? - Part 2",
+      "published": "2021-05-31",
+      "url": "http://www.manager-tools.com/2021/05/trinity-pushback-one-ones-why-weekly-part-2"
+    },
+    {
+      "title": "Trinity Pushback - One On Ones - Why Weekly? - Part 1",
+      "published": "2021-05-24",
+      "url": "http://www.manager-tools.com/2021/05/trinity-pushback-one-ones-why-weekly-part-1"
+    },
+    {
+      "title": "Meetings: Anything Else?",
+      "published": "2021-05-17",
+      "url": "http://www.manager-tools.com/2021/05/meetings-anything-else"
+    },
+    {
+      "title": "Effective Meetings - Part 3 - HOF 2021",
+      "published": "2021-05-10",
+      "url": "http://www.manager-tools.com/2021/05/effective-meetings-part-3-hof-2021"
+    },
+    {
+      "title": "Effective Meetings - Part 2 - HOF 2021",
+      "published": "2021-05-03",
+      "url": "http://www.manager-tools.com/2021/05/effective-meetings-part-2-hof-2021"
+    },
+    {
+      "title": "Effective Meetings - Part 1 - HOF 2021",
+      "published": "2021-04-26",
+      "url": "http://www.manager-tools.com/2021/04/effective-meetings-part-1-hof-2021"
+    },
+    {
+      "title": "The Manager Tools Data - Feedback - Part 5",
+      "published": "2021-04-19",
+      "url": "http://www.manager-tools.com/2021/04/manager-tools-data-feedback-part-5"
+    },
+    {
+      "title": "The Manager Tools Data - Feedback - Part 4",
+      "published": "2021-04-12",
+      "url": "http://www.manager-tools.com/2021/04/manager-tools-data-feedback-part-4"
+    },
+    {
+      "title": "The Manager Tools Data - Feedback - Part 3",
+      "published": "2021-04-05",
+      "url": "http://www.manager-tools.com/2021/04/manager-tools-data-feedback-part-3"
+    },
+    {
+      "title": "The Manager Tools Data - Feedback - Part 2",
+      "published": "2021-03-29",
+      "url": "http://www.manager-tools.com/2021/03/manager-tools-data-feedback-part-2"
+    },
+    {
+      "title": "The Manager Tools Data - Feedback - Part 1",
+      "published": "2021-03-22",
+      "url": "http://www.manager-tools.com/2021/03/manager-tools-data-feedback-part-1"
+    },
+    {
+      "title": "Feedback 'Dialog' Is Stupid Guidance - Part 4",
+      "published": "2021-03-15",
+      "url": "http://www.manager-tools.com/2021/03/feedback-dialog-stupid-guidance-part-4"
+    },
+    {
+      "title": "Feedback 'Dialog' Is Stupid Guidance - Part 3",
+      "published": "2021-03-08",
+      "url": "http://www.manager-tools.com/2021/03/feedback-dialog-stupid-guidance-part-3"
+    },
+    {
+      "title": "Feedback 'Dialog' Is Stupid Guidance - Part 2",
+      "published": "2021-03-01",
+      "url": "http://www.manager-tools.com/2021/03/feedback-dialog-stupid-guidance-part-2"
+    },
+    {
+      "title": "Feedback 'Dialog' Is Stupid Guidance - Part 1",
+      "published": "2021-02-22",
+      "url": "http://www.manager-tools.com/2021/02/feedback-dialog-stupid-guidance-part-1"
+    },
+    {
+      "title": "Zero Week",
+      "published": "2021-02-15",
+      "url": "http://www.manager-tools.com/2021/02/zero-week"
+    },
+    {
+      "title": "How To Escalate - Part 3",
+      "published": "2021-02-08",
+      "url": "http://www.manager-tools.com/2021/02/how-escalate-part-3"
+    },
+    {
+      "title": "How To Escalate - Part 2",
+      "published": "2021-02-01",
+      "url": "http://www.manager-tools.com/2021/02/how-escalate-part-2"
+    },
+    {
+      "title": "How To Escalate - Part 1",
+      "published": "2021-01-25",
+      "url": "http://www.manager-tools.com/2021/01/how-escalate-part-1"
+    },
+    {
+      "title": "The Aunt Trap",
+      "published": "2021-01-18",
+      "url": "http://www.manager-tools.com/2021/01/aunt-trap"
+    },
+    {
+      "title": "Zero-Based Reporting",
+      "published": "2021-01-11",
+      "url": "http://www.manager-tools.com/2021/01/zero-based-reporting"
+    },
+    {
+      "title": "Getting Your Goals From Your Boss - HOF",
+      "published": "2021-01-04",
+      "url": "http://www.manager-tools.com/2021/01/getting-your-goals-your-boss-hof"
+    },
+    {
+      "title": "Assumptive Goal Setting - HOF 2020",
+      "published": "2020-12-28",
+      "url": "http://www.manager-tools.com/2020/12/assumptive-goal-setting-hof-2020"
+    },
+    {
+      "title": "How to Set Annual Goals - HOF 2020",
+      "published": "2020-12-21",
+      "url": "http://www.manager-tools.com/2020/12/how-set-annual-goals-hof-2020"
+    },
+    {
+      "title": "When a Direct Says No Repeatedly To Feedback - Part 4",
+      "published": "2020-12-14",
+      "url": "http://www.manager-tools.com/2020/12/when-direct-says-no-repeatedly-feedback-part-4"
+    },
+    {
+      "title": "When a Direct Says No Repeatedly To Feedback - Part 3",
+      "published": "2020-12-07",
+      "url": "http://www.manager-tools.com/2020/12/when-direct-says-no-repeatedly-feedback-part-3"
+    },
+    {
+      "title": "Delivering The Performance Review - HOF 2020",
+      "published": "2020-11-30",
+      "url": "http://www.manager-tools.com/2020/11/delivering-performance-review-hof-2020"
+    },
+    {
+      "title": "Preparing Performance Reviews - HOF 2020",
+      "published": "2020-11-23",
+      "url": "http://www.manager-tools.com/2020/11/preparing-performance-reviews-hof-2020"
+    },
+    {
+      "title": "When a Direct Says No Repeatedly To Feedback - Part 2",
+      "published": "2020-11-16",
+      "url": "http://www.manager-tools.com/2020/11/when-direct-says-no-repeatedly-feedback-part-2"
+    },
+    {
+      "title": "When a Direct Says No Repeatedly To Feedback - Part 1",
+      "published": "2020-11-09",
+      "url": "http://www.manager-tools.com/2020/11/when-direct-says-no-repeatedly-feedback-part-1"
+    },
+    {
+      "title": "Feedback: When Yes Means No - Part 2",
+      "published": "2020-11-02",
+      "url": "http://www.manager-tools.com/2020/11/feedback-when-yes-means-no-part-2"
+    },
+    {
+      "title": "Feedback: When Yes Means No - Part 1",
+      "published": "2020-10-26",
+      "url": "http://www.manager-tools.com/2020/10/feedback-when-yes-means-no-part-1"
+    },
+    {
+      "title": "Decisions, Not Choices - Part 2",
+      "published": "2020-10-19",
+      "url": "http://www.manager-tools.com/2020/10/decisions-not-choices-part-2"
+    },
+    {
+      "title": "Decisions, Not Choices - Part 1",
+      "published": "2020-10-12",
+      "url": "http://www.manager-tools.com/2020/10/decisions-not-choices-part-1"
+    },
+    {
+      "title": "Creating Organizational Hiring Criteria - Part 3",
+      "published": "2020-10-05",
+      "url": "https://www.manager-tools.com/2020/10/creating-organizational-hiring-criteria-part-3"
+    },
+    {
+      "title": "Creating Organizational Hiring Criteria - Part 2",
+      "published": "2020-09-28",
+      "url": "http://www.manager-tools.com/2020/09/creating-organizational-hiring-criteria-part-2"
+    },
+    {
+      "title": "Creating Organizational Hiring Criteria - Part 1",
+      "published": "2020-09-21",
+      "url": "http://www.manager-tools.com/2020/09/creating-organizational-hiring-criteria-part-1"
+    },
+    {
+      "title": "After You Get Your Goals - Part 3",
+      "published": "2020-09-14",
+      "url": "http://www.manager-tools.com/2020/09/after-you-get-your-goals-part-3"
+    },
+    {
+      "title": "After You Get Your Goals - Part 2",
+      "published": "2020-09-07",
+      "url": "http://www.manager-tools.com/2020/09/after-you-get-your-goals-part-2"
+    },
+    {
+      "title": "After You Get Your Goals - Part 1",
+      "published": "2020-08-31",
+      "url": "http://www.manager-tools.com/2020/08/after-you-get-your-goals-part-1"
+    },
+    {
+      "title": "Make Your Case To a Network Relationship",
+      "published": "2020-08-24",
+      "url": "http://www.manager-tools.com/2020/08/make-your-case-network-relationship"
+    },
+    {
+      "title": "The Weekly Thank You",
+      "published": "2020-08-17",
+      "url": "https://www.manager-tools.com/2020/08/weekly-thank-you"
+    },
+    {
+      "title": "Top Ten Hiring Mistakes - Mistake #10 - Being Surprised - Part 2",
+      "published": "2020-08-10",
+      "url": "https://www.manager-tools.com/2020/08/top-ten-hiring-mistakes-mistake-10-being-surprised-part-2"
+    },
+    {
+      "title": "Top Ten Hiring Mistakes - Mistake #10 - Being Surprised",
+      "published": "2020-08-03",
+      "url": "http://www.manager-tools.com/2020/08/top-ten-hiring-mistakes-mistake-10-being-surprised"
+    },
+    {
+      "title": "The Myth of the Feedback Myth - Part 3",
+      "published": "2020-07-27",
+      "url": "http://www.manager-tools.com/2020/07/myth-feedback-myth-part-3"
+    },
+    {
+      "title": "The Myth of the Feedback Myth - Part 2",
+      "published": "2020-07-20",
+      "url": "http://www.manager-tools.com/2020/07/myth-feedback-myth-part-2"
+    },
+    {
+      "title": "The Myth of the Feedback Myth - Part 1",
+      "published": "2020-07-13",
+      "url": "http://www.manager-tools.com/2020/07/myth-feedback-myth-part-1"
+    },
+    {
+      "title": "Interviewing on Zoom",
+      "published": "2020-07-06",
+      "url": "http://www.manager-tools.com/2020/07/interviewing-zoom"
+    },
+    {
+      "title": "The 15th Anniversary Show",
+      "published": "2020-06-29",
+      "url": "http://www.manager-tools.com/2020/06/15th-anniversary-show"
+    },
+    {
+      "title": "Internal Talent Markets - Chapter 1 - Free Agency",
+      "published": "2020-06-22",
+      "url": "http://www.manager-tools.com/2020/06/internal-talent-markets-chapter-1-free-agency"
+    },
+    {
+      "title": "Presenting In Zoom - Part 2",
+      "published": "2020-06-15",
+      "url": "http://www.manager-tools.com/2020/06/presenting-zoom-part-2"
+    },
+    {
+      "title": "Presenting In Zoom - Part 1",
+      "published": "2020-06-08",
+      "url": "http://www.manager-tools.com/2020/06/presenting-zoom-part-1"
+    },
+    {
+      "title": "Flavor Of The Month Pushback - Part 2",
+      "published": "2020-06-01",
+      "url": "http://www.manager-tools.com/2020/06/flavor-month-pushback-part-2"
+    },
+    {
+      "title": "Flavor Of The Month Pushback - Part 1",
+      "published": "2020-05-25",
+      "url": "http://www.manager-tools.com/2020/05/flavor-month-pushback-part-1"
+    },
+    {
+      "title": "Don't Do Skip Level One On Ones",
+      "published": "2020-05-18",
+      "url": "http://www.manager-tools.com/2020/05/dont-do-skip-level-one-ones"
+    },
+    {
+      "title": "COVID: No Dropping Dimes - Part 2",
+      "published": "2020-05-12",
+      "url": "http://www.manager-tools.com/2020/05/covid-no-dropping-dimes-part-2"
+    },
+    {
+      "title": "COVID: No Dropping Dimes - Part 1",
+      "published": "2020-05-11",
+      "url": "http://www.manager-tools.com/2020/05/covid-no-dropping-dimes-part-1"
+    },
+    {
+      "title": "COVID: How To Be Ready For A Hiring Market Upturn - Part 2",
+      "published": "2020-05-04",
+      "url": "http://www.manager-tools.com/2020/05/covid-how-be-ready-hiring-market-upturn-part-2"
+    },
+    {
+      "title": "COVID: How To Be Ready For A Hiring Market Upturn - Part 1",
+      "published": "2020-05-03",
+      "url": "http://www.manager-tools.com/2020/05/covid-how-be-ready-hiring-market-upturn-part-1"
+    },
+    {
+      "title": "COVID: Smart Interviewing In A Downturn",
+      "published": "2020-05-02",
+      "url": "http://www.manager-tools.com/2020/05/covid-smart-interviewing-downturn"
+    },
+    {
+      "title": "COVID: Bench Development in a Downturn",
+      "published": "2020-05-01",
+      "url": "http://www.manager-tools.com/2020/05/covid-bench-development-downturn"
+    },
+    {
+      "title": "COVID: Asking Your Network For An Opportunity",
+      "published": "2020-04-30",
+      "url": "http://www.manager-tools.com/2020/04/covid-asking-your-network-opportunity"
+    },
+    {
+      "title": "COVID: Handling Exit Interviews",
+      "published": "2020-04-29",
+      "url": "http://www.manager-tools.com/2020/04/covid-handling-exit-interviews"
+    },
+    {
+      "title": "COVID: Systematic Career Documentation - Part 2",
+      "published": "2020-04-28",
+      "url": "http://www.manager-tools.com/2020/04/covid-systematic-career-documentation-part-2"
+    },
+    {
+      "title": "COVID: Systematic Career Documentation - Part 1",
+      "published": "2020-04-27",
+      "url": "http://www.manager-tools.com/2020/04/covid-systematic-career-documentation-part-1"
+    },
+    {
+      "title": "COVID: Effective Layoff Announcement Response",
+      "published": "2020-04-26",
+      "url": "http://www.manager-tools.com/2020/04/covid-effective-layoff-announcement-response"
+    },
+    {
+      "title": "COVID: Layoff Signs And What To Do About Them - Part 2",
+      "published": "2020-04-25",
+      "url": "http://www.manager-tools.com/2020/04/covid-layoff-signs-and-what-do-about-them-part-2"
+    },
+    {
+      "title": "COVID: Layoff Signs And What To Do About Them - Part 1",
+      "published": "2020-04-24",
+      "url": "http://www.manager-tools.com/2020/04/covid-layoff-signs-and-what-do-about-them-part-1"
+    },
+    {
+      "title": "COVID: An Especially Important Relationship In A Downturn",
+      "published": "2020-04-23",
+      "url": "http://www.manager-tools.com/2020/04/covid-especially-important-relationship-downturn"
+    },
+    {
+      "title": "COVID: The Downturn Rite of Passage",
+      "published": "2020-04-22",
+      "url": "http://www.manager-tools.com/2020/04/covid-downturn-rite-passage"
+    },
+    {
+      "title": "COVID: Fighting The Downturn Silence",
+      "published": "2020-04-20",
+      "url": "http://www.manager-tools.com/2020/04/covid-fighting-downturn-silence"
+    },
+    {
+      "title": "COVID: Compassionate Layoffs?",
+      "published": "2020-04-06",
+      "url": "http://www.manager-tools.com/2020/04/covid-compassionate-layoffs"
+    },
+    {
+      "title": "Manager Tools Internal Pandemic Response - Part 3",
+      "published": "2020-04-01",
+      "url": "http://www.manager-tools.com/2020/04/manager-tools-internal-pandemic-response-part-3"
+    },
+    {
+      "title": "Manager Tools Internal Pandemic Response - Part 2",
+      "published": "2020-03-31",
+      "url": "http://www.manager-tools.com/2020/03/manager-tools-internal-pandemic-response-part-2"
+    },
+    {
+      "title": "Manager Tools Internal Pandemic Response - Part 1",
+      "published": "2020-03-30",
+      "url": "http://www.manager-tools.com/2020/03/manager-tools-internal-pandemic-response-part-1"
+    },
+    {
+      "title": "Pandemic Guidance Continued",
+      "published": "2020-03-23",
+      "url": "http://www.manager-tools.com/2020/03/pandemic-guidance-continued"
+    },
+    {
+      "title": "Managing During a Pandemic - The COVID-19 Cast - Part 2",
+      "published": "2020-03-17",
+      "url": "http://www.manager-tools.com/2020/03/managing-during-pandemic-covid-19-cast-part-2"
+    },
+    {
+      "title": "Managing During a Pandemic - The COVID-19 Cast - Part 1",
+      "published": "2020-03-16",
+      "url": "http://www.manager-tools.com/2020/03/managing-during-pandemic-covid-19-cast-part-1"
+    },
+    {
+      "title": "Coronavirus Guidance - The Steel Cage Death Match Meeting - Part 2",
+      "published": "2020-03-13",
+      "url": "http://www.manager-tools.com/2020/03/coronavirus-guidance-steel-cage-death-match-meeting-part-2"
+    },
+    {
+      "title": "Coronavirus Guidance - The Steel Cage Death Match Meeting - Part 1",
+      "published": "2020-03-12",
+      "url": "http://www.manager-tools.com/2020/03/coronavirus-guidance-steel-cage-death-match-meeting-part-1"
+    },
+    {
+      "title": "Coronavirus Guidance - Race, Don't Chase - Part 2",
+      "published": "2020-03-11",
+      "url": "http://www.manager-tools.com/2020/03/coronavirus-guidance-race-dont-chase-part-2"
+    },
+    {
+      "title": "Coronavirus Guidance - Race, Don't Chase - Part 1",
+      "published": "2020-03-10",
+      "url": "http://www.manager-tools.com/2020/03/coronavirus-guidance-race-dont-chase-part-1"
+    },
+    {
+      "title": "Coronavirus Guidance - Working Remotely - Chapter 3 - Contribution To The Team",
+      "published": "2020-03-09",
+      "url": "http://www.manager-tools.com/2020/03/coronavirus-guidance-working-remotely-chapter-3-contribution-team"
+    },
+    {
+      "title": "Coronavirus Guidance - Working Remotely - Chapter 1 - Get Results",
+      "published": "2020-03-08",
+      "url": "http://www.manager-tools.com/2020/03/coronavirus-guidance-working-remotely-chapter-1-get-results"
+    },
+    {
+      "title": "Coronavirus Guidance - Distant Manager Basics - For Directs - Part 2",
+      "published": "2020-03-07",
+      "url": "http://www.manager-tools.com/2020/03/coronavirus-guidance-distant-manager-basics-directs-part-2"
+    },
+    {
+      "title": "Coronavirus Guidance - Distant Manager Basics - For Directs - Part 1",
+      "published": "2020-03-06",
+      "url": "http://www.manager-tools.com/2020/03/coronavirus-guidance-distant-manager-basics-directs-part-1"
+    },
+    {
+      "title": "Coronavirus Guidance - Distant Manager Basics - Part 2",
+      "published": "2020-03-05",
+      "url": "http://www.manager-tools.com/2020/03/coronavirus-guidance-distant-manager-basics-part-2"
+    },
+    {
+      "title": "Coronavirus Guidance - Distant Manager Basics - Part 1",
+      "published": "2020-03-04",
+      "url": "http://www.manager-tools.com/2020/03/coronavirus-guidance-distant-manager-basics-part-1"
+    },
+    {
+      "title": "Coronavirus Guidance - Phone One on Ones",
+      "published": "2020-03-03",
+      "url": "http://www.manager-tools.com/2020/03/coronavirus-guidance-phone-one-ones"
+    },
+    {
+      "title": "Work-Life Balance: The Yellow Peanut M&M Analogy",
+      "published": "2020-03-02",
+      "url": "http://www.manager-tools.com/2020/03/work-life-balance-yellow-peanut-mm-analogy"
+    },
+    {
+      "title": "Training Is Not The Answer",
+      "published": "2020-02-24",
+      "url": "http://www.manager-tools.com/2020/02/training-not-answer"
+    },
+    {
+      "title": "The Interview Results Capture Meeting - HOF 2020",
+      "published": "2020-02-17",
+      "url": "http://www.manager-tools.com/2020/02/interview-results-capture-meeting-hof-2020"
+    },
+    {
+      "title": "Rules of Small Project Management - Chapter 1 - Deliverables Basics - Part 2",
+      "published": "2020-02-10",
+      "url": "http://www.manager-tools.com/2020/02/rules-small-project-management-chapter-1-deliverables-basics-part-2"
+    },
+    {
+      "title": "Rules of Small Project Management - Chapter 1 - Deliverables Basics - Part 1",
+      "published": "2020-02-03",
+      "url": "http://www.manager-tools.com/2020/02/rules-small-project-management-chapter-1-deliverables-basics-part-1"
+    },
+    {
+      "title": "Authenticity And The Manager Tools Trinity - Part 2",
+      "published": "2020-01-27",
+      "url": "http://www.manager-tools.com/2020/01/authenticity-and-manager-tools-trinity-part-2"
+    },
+    {
+      "title": "Authenticity And The Manager Tools Trinity - Part 1",
+      "published": "2020-01-20",
+      "url": "http://www.manager-tools.com/2020/01/authenticity-and-manager-tools-trinity-part-1"
+    },
+    {
+      "title": "Manager Tools and Race and Gender",
+      "published": "2020-01-13",
+      "url": "https://www.manager-tools.com/2020/01/manager-tools-and-race-and-gender"
+    },
+    {
+      "title": "The Effective Hiring Manager Missing Chapters - Reducing Interviewee Stress - Part 2",
+      "published": "2020-01-06",
+      "url": "http://www.manager-tools.com/2020/01/effective-hiring-manager-missing-chapters-reducing-interviewee-stress-part-2"
+    },
+    {
+      "title": "Assumptive Goal Setting - HOF 2019",
+      "published": "2019-12-30",
+      "url": "http://www.manager-tools.com/2019/12/assumptive-goal-setting-hof-2019"
+    },
+    {
+      "title": "How to Set Annual Goals - HOF 2019",
+      "published": "2019-12-23",
+      "url": "http://www.manager-tools.com/2019/12/how-set-annual-goals-hof-2019"
+    },
+    {
+      "title": "The Effective Hiring Manager Missing Chapters - Reducing Interviewee Stress - Part 1",
+      "published": "2019-12-16",
+      "url": "http://www.manager-tools.com/2019/12/effective-hiring-manager-missing-chapters-reducing-interviewee-stress-part-1"
+    },
+    {
+      "title": "Simple Interviewer Training - Part 2 - HOF 2019",
+      "published": "2019-12-09",
+      "url": "http://www.manager-tools.com/2019/12/simple-interviewer-training-part-2-hof-2019"
+    },
+    {
+      "title": "Simple Interviewer Training - Part 1 - HOF 2019",
+      "published": "2019-12-02",
+      "url": "http://www.manager-tools.com/2019/12/simple-interviewer-training-part-1-hof-2019"
+    },
+    {
+      "title": "Delivering The Performance Review - HOF 2019",
+      "published": "2019-11-25",
+      "url": "http://www.manager-tools.com/2019/11/delivering-performance-review-hof-2019"
+    },
+    {
+      "title": "Preparing Performance Reviews - HOF 2019",
+      "published": "2019-11-18",
+      "url": "http://www.manager-tools.com/2019/11/preparing-performance-reviews-hof-2019"
+    },
+    {
+      "title": "Solution to a Stalled Technical Career - HOF 2019",
+      "published": "2019-11-11",
+      "url": "http://www.manager-tools.com/2019/11/solution-stalled-technical-career-hof-2019"
+    },
+    {
+      "title": "The Effective Hiring Manager Missing Chapters - Reasons To Say No #1 - Unprepared",
+      "published": "2019-11-04",
+      "url": "http://www.manager-tools.com/2019/11/effective-hiring-manager-missing-chapters-reasons-say-no-1-unprepared"
+    },
+    {
+      "title": "M Conference Learnings and Highlights",
+      "published": "2019-10-28",
+      "url": "http://www.manager-tools.com/2019/10/m-conference-learnings-and-highlights"
+    },
+    {
+      "title": "Negative Feedback Pushback Examples - Part 2",
+      "published": "2019-10-21",
+      "url": "http://www.manager-tools.com/2019/10/negative-feedback-pushback-examples-part-2"
+    },
+    {
+      "title": "How To Turn Down a Job Candidate - HOF 2019",
+      "published": "2019-10-14",
+      "url": "http://www.manager-tools.com/2019/10/how-turn-down-job-candidate-hof-2019"
+    },
+    {
+      "title": "Negative Feedback Pushback Examples - Part 1",
+      "published": "2019-10-07",
+      "url": "http://www.manager-tools.com/2019/10/negative-feedback-pushback-examples-part-1"
+    },
+    {
+      "title": "Introducing The Effective Hiring Manager Book",
+      "published": "2019-09-30",
+      "url": "http://www.manager-tools.com/2019/09/introducing-effective-hiring-manager-book"
+    },
+    {
+      "title": "Don't Use Consensus",
+      "published": "2019-09-23",
+      "url": "https://www.manager-tools.com/2019/09/dont-use-consensus"
+    },
+    {
+      "title": "Feedback Is Not A Personal Attack",
+      "published": "2019-09-16",
+      "url": "http://www.manager-tools.com/2019/09/feedback-not-personal-attack"
+    },
+    {
+      "title": "First Meeting New Direct Series: Support The Team",
+      "published": "2019-09-09",
+      "url": "http://www.manager-tools.com/2019/09/first-meeting-new-direct-series-support-team"
+    },
+    {
+      "title": "Meeting Leadership - 6 Rules - Part 3",
+      "published": "2019-09-02",
+      "url": "http://www.manager-tools.com/2019/09/meeting-leadership-6-rules-part-3"
+    },
+    {
+      "title": "Meeting Leadership - 6 Rules - Part 2",
+      "published": "2019-08-26",
+      "url": "http://www.manager-tools.com/2019/08/meeting-leadership-6-rules-part-2"
+    },
+    {
+      "title": "Meeting Leadership - 6 Rules - Part 1",
+      "published": "2019-08-19",
+      "url": "http://www.manager-tools.com/2019/08/meeting-leadership-6-rules-part-1"
+    },
+    {
+      "title": "Use A Warning Order",
+      "published": "2019-08-12",
+      "url": "http://www.manager-tools.com/2019/08/use-warning-order"
+    },
+    {
+      "title": "Soft One On Ones - Part 2",
+      "published": "2019-08-05",
+      "url": "http://www.manager-tools.com/2019/08/soft-one-ones-part-2"
+    },
+    {
+      "title": "Soft One On Ones - Part 1",
+      "published": "2019-07-29",
+      "url": "http://www.manager-tools.com/2019/07/soft-one-ones-part-1"
+    },
+    {
+      "title": "How to Make a Job Offer - Part 2 - HOF 2019",
+      "published": "2019-07-22",
+      "url": "http://www.manager-tools.com/2019/07/how-make-job-offer-part-2-hof-2019"
+    },
+    {
+      "title": "The M Conference",
+      "published": "2019-07-15",
+      "url": "http://www.manager-tools.com/2019/07/m-conference"
+    },
+    {
+      "title": "How to Make a Job Offer - Part 1 - HOF 2019",
+      "published": "2019-07-08",
+      "url": "http://www.manager-tools.com/2019/07/how-make-job-offer-part-1-hof-2019"
+    },
+    {
+      "title": "Mistakes We've Made - Part 2",
+      "published": "2019-07-01",
+      "url": "http://www.manager-tools.com/2019/07/mistakes-weve-made-part-2"
+    },
+    {
+      "title": "Mistakes We've Made - Part 1",
+      "published": "2019-06-24",
+      "url": "http://www.manager-tools.com/2019/06/mistakes-weve-made-part-1"
+    },
+    {
+      "title": "How Do I Respond To \"How Do I Get Promoted?\" - Part 4",
+      "published": "2019-06-17",
+      "url": "http://www.manager-tools.com/2019/06/how-do-i-respond-how-do-i-get-promoted-part-4"
+    },
+    {
+      "title": "How Do I Respond To \"How Do I Get Promoted?\" - Part 3",
+      "published": "2019-06-10",
+      "url": "http://www.manager-tools.com/2019/06/how-do-i-respond-how-do-i-get-promoted-part-3"
+    },
+    {
+      "title": "How Do I Respond To \"How Do I Get Promoted?\" - Part 2",
+      "published": "2019-06-03",
+      "url": "http://www.manager-tools.com/2019/06/how-do-i-respond-how-do-i-get-promoted-part-2"
+    },
+    {
+      "title": "How Do I Respond To \"How Do I Get Promoted?\" - Part 1",
+      "published": "2019-05-27",
+      "url": "http://www.manager-tools.com/2019/05/how-do-i-respond-how-do-i-get-promoted-part-1"
+    },
+    {
+      "title": "One To One Interviews Are Safe - Part 2",
+      "published": "2019-05-20",
+      "url": "http://www.manager-tools.com/2019/05/one-one-interviews-are-safe-part-2"
+    },
+    {
+      "title": "One To One Interviews Are Safe - Part 1",
+      "published": "2019-05-13",
+      "url": "http://www.manager-tools.com/2019/05/one-one-interviews-are-safe-part-1"
+    },
+    {
+      "title": "Email Compendium - Part 4",
+      "published": "2019-05-06",
+      "url": "http://www.manager-tools.com/2019/05/email-compendium-part-4"
+    },
+    {
+      "title": "Email Compendium - Part 3",
+      "published": "2019-04-29",
+      "url": "http://www.manager-tools.com/2019/04/email-compendium-part-3"
+    },
+    {
+      "title": "Email Compendium - Part 2",
+      "published": "2019-04-22",
+      "url": "http://www.manager-tools.com/2019/04/email-compendium-part-2"
+    },
+    {
+      "title": "Email Compendium - Part 1",
+      "published": "2019-04-15",
+      "url": "http://www.manager-tools.com/2019/04/email-compendium-part-1"
+    },
+    {
+      "title": "When A Boss Asks For Candor - Part 2",
+      "published": "2019-04-08",
+      "url": "http://www.manager-tools.com/2019/04/when-boss-asks-candor-part-2"
+    },
+    {
+      "title": "When A Boss Asks For Candor - Part 1",
+      "published": "2019-04-01",
+      "url": "http://www.manager-tools.com/2019/04/when-boss-asks-candor-part-1"
+    },
+    {
+      "title": "Common One-On-One Mistakes - Chapter 2 - Not Following Through",
+      "published": "2019-03-25",
+      "url": "http://www.manager-tools.com/2019/03/common-one-one-mistakes-chapter-2-not-following-through"
+    },
+    {
+      "title": "First Meeting With A New Direct Series - Overcommunicate",
+      "published": "2019-03-18",
+      "url": "http://www.manager-tools.com/2019/03/first-meeting-new-direct-series-overcommunicate"
+    },
+    {
+      "title": "You Did Not Demonstrate - HOF 2019",
+      "published": "2019-03-11",
+      "url": "http://www.manager-tools.com/2019/03/you-did-not-demonstrate-hof-2019"
+    },
+    {
+      "title": "Role Power Revisited - You Speak For The CEO - Part 2",
+      "published": "2019-03-04",
+      "url": "http://www.manager-tools.com/2019/03/role-power-revisited-you-speak-ceo-part-2"
+    },
+    {
+      "title": "Role Power Revisited - You Speak For The CEO - Part 1",
+      "published": "2019-02-24",
+      "url": "http://www.manager-tools.com/2019/02/role-power-revisited-you-speak-ceo-part-1"
+    },
+    {
+      "title": "How To Evaluate Interviewees - Chapter 1 - Use Of Names",
+      "published": "2019-02-17",
+      "url": "http://www.manager-tools.com/2019/02/how-evaluate-interviewees-chapter-1-use-names"
+    },
+    {
+      "title": "The Manager Tools Data - One-On-Ones - Part 4",
+      "published": "2019-02-10",
+      "url": "http://www.manager-tools.com/2019/02/manager-tools-data-one-ones-part-4"
+    },
+    {
+      "title": "The Manager Tools Data - One-On-Ones - Part 3",
+      "published": "2019-02-03",
+      "url": "http://www.manager-tools.com/2019/02/manager-tools-data-one-ones-part-3"
+    },
+    {
+      "title": "The Manager Tools Data - One-On-Ones - Part 2",
+      "published": "2019-01-27",
+      "url": "http://www.manager-tools.com/2019/01/manager-tools-data-one-ones-part-2"
+    },
+    {
+      "title": "The Manager Tools Data - One-On-Ones - Part 1",
+      "published": "2019-01-20",
+      "url": "http://www.manager-tools.com/2019/01/manager-tools-data-one-ones-part-1"
+    },
+    {
+      "title": "Should HR Do My Phone Screens Before I Interview?",
+      "published": "2019-01-13",
+      "url": "http://www.manager-tools.com/2019/01/should-hr-do-my-phone-screens-i-interview"
+    },
+    {
+      "title": "The Interview Results Capture Meeting - HOF 2018",
+      "published": "2018-12-30",
+      "url": "http://www.manager-tools.com/2018/12/interview-results-capture-meeting-hof-2018"
+    },
+    {
+      "title": "Effective Hiring: Set The Bar High! - HOF 2018",
+      "published": "2018-12-23",
+      "url": "http://www.manager-tools.com/2018/12/effective-hiring-set-bar-high-hof-2018"
+    },
+    {
+      "title": "Trinity Pushback - Feedback Is Nitpicking - Part 2",
+      "published": "2018-12-16",
+      "url": "http://www.manager-tools.com/2018/12/trinity-pushback-feedback-nitpicking-part-2"
+    },
+    {
+      "title": "Trinity Pushback - Feedback Is Nitpicking - Part 1",
+      "published": "2018-12-09",
+      "url": "http://www.manager-tools.com/2018/12/trinity-pushback-feedback-nitpicking-part-1"
+    },
+    {
+      "title": "Is This Normal? Episode 3 - Part 2",
+      "published": "2018-12-02",
+      "url": "http://www.manager-tools.com/2018/12/normal-episode-3-part-2"
+    },
+    {
+      "title": "Is This Normal? Episode 3 - Part 1",
+      "published": "2018-11-25",
+      "url": "http://www.manager-tools.com/2018/11/normal-episode-3-part-1"
+    },
+    {
+      "title": "Delivering The Performance Review - HOF 2018",
+      "published": "2018-11-20",
+      "url": "http://www.manager-tools.com/2018/11/delivering-performance-review-hof-2018"
+    },
+    {
+      "title": "Preparing Performance Reviews - HOF 2018",
+      "published": "2018-11-18",
+      "url": "http://www.manager-tools.com/2018/11/preparing-performance-reviews-hof-2018"
+    },
+    {
+      "title": "Hire Slow, Fire Fast Is Wrong - Part 2",
+      "published": "2018-11-11",
+      "url": "http://www.manager-tools.com/2018/11/hire-slow-fire-fast-wrong-part-2"
+    },
+    {
+      "title": "Hire Slow, Fire Fast Is Wrong - Part 1",
+      "published": "2018-11-04",
+      "url": "http://www.manager-tools.com/2018/11/hire-slow-fire-fast-wrong-part-1"
+    },
+    {
+      "title": "The Tyranny of Unpublished Processes - Part 2",
+      "published": "2018-10-28",
+      "url": "http://www.manager-tools.com/2018/10/tyranny-unpublished-processes-part-2"
+    },
+    {
+      "title": "The Tyranny of Unpublished Processes - Part 1",
+      "published": "2018-10-21",
+      "url": "http://www.manager-tools.com/2018/10/tyranny-unpublished-processes-part-1"
+    },
+    {
+      "title": "Case Study Interviews - Part 4",
+      "published": "2018-10-07",
+      "url": "http://www.manager-tools.com/2018/10/case-study-interviews-part-4"
+    },
+    {
+      "title": "Case Study Interviews - Part 3",
+      "published": "2018-09-30",
+      "url": "http://www.manager-tools.com/2018/10/case-study-interviews-part-3"
+    },
+    {
+      "title": "Case Study Interviews - Part 2",
+      "published": "2018-09-23",
+      "url": "http://www.manager-tools.com/2018/09/case-study-interviews-part-2"
+    },
+    {
+      "title": "Case Study Interviews - Part 1",
+      "published": "2018-09-17",
+      "url": "http://www.manager-tools.com/2018/09/case-study-interviews-part-1"
+    },
+    {
+      "title": "Inaugural MT Case Study Responses - and What Happened - Part 2",
+      "published": "2018-09-09",
+      "url": "http://www.manager-tools.com/2018/09/inaugural-mt-case-study-responses-and-what-happened-part-2"
+    },
+    {
+      "title": "Inaugural MT Case Study Responses - and What Happened - Part 1",
+      "published": "2018-09-02",
+      "url": "https://www.manager-tools.com/2018/09/inaugural-mt-case-study-responses-and-what-happened-part-1"
+    },
+    {
+      "title": "Case Studies and The Inaugural MT Interactive Case - Part 2",
+      "published": "2018-08-26",
+      "url": "http://www.manager-tools.com/2018/08/case-studies-and-inaugural-mt-interactive-case-part-2"
+    },
+    {
+      "title": "Case Studies and The Inaugural MT Interactive Case - Part 1",
+      "published": "2018-08-19",
+      "url": "http://www.manager-tools.com/2018/08/case-studies-and-inaugural-mt-interactive-case-part-1"
+    },
+    {
+      "title": "Politics 101 - Chapter 6 - Politics Are Just Relationships - Part 4",
+      "published": "2018-08-12",
+      "url": "http://www.manager-tools.com/2018/08/politics-101-chapter-6-politics-are-just-relationships-part-4"
+    },
+    {
+      "title": "Politics 101 - Chapter 6 - Politics Are Just Relationships - Part 3",
+      "published": "2018-08-05",
+      "url": "http://www.manager-tools.com/2018/08/politics-101-chapter-6-politics-are-just-relationships-part-3"
+    },
+    {
+      "title": "Politics 101 - Chapter 6 - Politics Are Just Relationships - Part 2",
+      "published": "2018-07-29",
+      "url": "http://www.manager-tools.com/2018/07/politics-101-chapter-6-politics-are-just-relationships-part-2"
+    },
+    {
+      "title": "Politics 101 - Chapter 6 - Politics Are Just Relationships - Part 1",
+      "published": "2018-07-22",
+      "url": "http://www.manager-tools.com/2018/07/politics-101-chapter-6-politics-are-just-relationships-part-1"
+    },
+    {
+      "title": "Technology in One On Ones",
+      "published": "2018-07-15",
+      "url": "http://www.manager-tools.com/2018/07/technology-one-ones"
+    },
+    {
+      "title": "Horstman's Law of Uncertainty - HOF",
+      "published": "2018-07-08",
+      "url": "http://www.manager-tools.com/2018/07/horstmans-law-uncertainty-hof"
+    },
+    {
+      "title": "Sexual Harassment Revisited - Chapter 1 - No Hugging",
+      "published": "2018-07-01",
+      "url": "http://www.manager-tools.com/2018/07/sexual-harassment-revisited-chapter-1-no-hugging"
+    },
+    {
+      "title": "Employee Retention - HOF",
+      "published": "2018-06-24",
+      "url": "http://www.manager-tools.com/2018/06/employee-retention-hof"
+    },
+    {
+      "title": "The Manager Tools Onboarding Checklist - Part 2",
+      "published": "2018-06-17",
+      "url": "http://www.manager-tools.com/2018/06/manager-tools-onboarding-checklist-part-2"
+    },
+    {
+      "title": "The Manager Tools Onboarding Checklist - Part 1",
+      "published": "2018-06-10",
+      "url": "http://www.manager-tools.com/2018/06/manager-tools-onboarding-checklist-part-1"
+    },
+    {
+      "title": "Onboarding Chapter 1 - The Basics - Part 5 - Q and A Continued",
+      "published": "2018-06-03",
+      "url": "http://www.manager-tools.com/2018/06/onboarding-chapter-1-basics-part-5-q-continued"
+    },
+    {
+      "title": "Onboarding Chapter 1 - The Basics - Part 4 - Q and A",
+      "published": "2018-05-27",
+      "url": "http://www.manager-tools.com/2018/05/onboarding-chapter-1-basics-part-4-q"
+    },
+    {
+      "title": "Onboarding Chapter 1 - The Basics - Part 3",
+      "published": "2018-05-20",
+      "url": "http://www.manager-tools.com/2018/05/onboarding-chapter-1-basics-part-3"
+    },
+    {
+      "title": "Onboarding Chapter 1 - The Basics - Part 2",
+      "published": "2018-05-13",
+      "url": "http://www.manager-tools.com/2018/05/onboarding-chapter-1-basics-part-2"
+    },
+    {
+      "title": "Onboarding Chapter 1 - The Basics - Part 1",
+      "published": "2018-05-06",
+      "url": "http://www.manager-tools.com/2018/05/onboarding-chapter-1-basics"
+    },
+    {
+      "title": "Soft Coaching - Running Meetings - Part 2",
+      "published": "2018-04-29",
+      "url": "http://www.manager-tools.com/2018/04/soft-coaching-running-meetings-part-2"
+    },
+    {
+      "title": "Soft Coaching - Running Meetings - Part 1",
+      "published": "2018-04-22",
+      "url": "http://www.manager-tools.com/2018/04/soft-coaching-running-meetings"
+    },
+    {
+      "title": "Trinity Pushback - One On Ones - Creative People - Part 2",
+      "published": "2018-04-15",
+      "url": "http://www.manager-tools.com/2018/04/trinity-pushback-one-ones-creative-people-part-2"
+    },
+    {
+      "title": "Trinity Pushback - One On Ones - Creative People - Part 1",
+      "published": "2018-04-08",
+      "url": "http://www.manager-tools.com/2018/04/trinity-pushback-one-ones-creative-people-part-1"
+    },
+    {
+      "title": "The Three Types of Power (And One To Rule Them) - Part 4",
+      "published": "2018-04-01",
+      "url": "http://www.manager-tools.com/2018/04/three-types-power-and-one-rule-them-part-4"
+    },
+    {
+      "title": "The Three Types of Power (And One To Rule Them) - Part 3",
+      "published": "2018-03-25",
+      "url": "http://www.manager-tools.com/2018/03/three-types-power-and-one-rule-them-part-3"
+    },
+    {
+      "title": "The Three Types of Power (And One To Rule Them) - Part 2",
+      "published": "2018-03-18",
+      "url": "http://www.manager-tools.com/2018/03/three-types-power-and-one-rule-them-part-2"
+    },
+    {
+      "title": "The Three Types of Power (And One To Rule Them) - Part 1",
+      "published": "2018-03-11",
+      "url": "http://www.manager-tools.com/2018/03/three-types-power-and-one-rule-them-part-1"
+    },
+    {
+      "title": "How To Create A Simple Behavioral Interview Question - HOF",
+      "published": "2018-03-04",
+      "url": "http://www.manager-tools.com/2018/03/how-create-simple-behavioral-interview-question-hof"
+    },
+    {
+      "title": "How To Train Your Organization - Chapter 1 - Who and When",
+      "published": "2018-02-25",
+      "url": "http://www.manager-tools.com/2018/02/how-train-your-organization-chapter-1-who-and-when"
+    },
+    {
+      "title": "Are Executives Managers? - Part 2",
+      "published": "2018-02-18",
+      "url": "http://www.manager-tools.com/2018/02/are-executives-managers-part-2"
+    },
+    {
+      "title": "Are Executives Managers? - Part 1",
+      "published": "2018-02-11",
+      "url": "http://www.manager-tools.com/2018/02/are-executives-managers-part-1"
+    },
+    {
+      "title": "Measuring Priorities Through Questions",
+      "published": "2018-02-04",
+      "url": "http://www.manager-tools.com/2018/02/measuring-priorities-through-questions"
+    },
+    {
+      "title": "The Manager Tools Performance Review System - Part 4",
+      "published": "2018-01-21",
+      "url": "http://www.manager-tools.com/2018/01/manager-tools-performance-review-system-part-4"
+    },
+    {
+      "title": "The Manager Tools Performance Review System - Part 3",
+      "published": "2018-01-14",
+      "url": "http://www.manager-tools.com/2018/01/manager-tools-performance-review-system-part-3"
+    },
+    {
+      "title": "The Manager Tools Performance Review System - Part 2",
+      "published": "2018-01-07",
+      "url": "http://www.manager-tools.com/2018/01/manager-tools-performance-review-system-part-2"
+    },
+    {
+      "title": "The Basics of Calendar Management - HOF",
+      "published": "2017-12-31",
+      "url": "http://www.manager-tools.com/2017/12/basics-calendar-management-hof"
+    },
+    {
+      "title": "How to Prewire a Meeting - HOF 2017",
+      "published": "2017-12-24",
+      "url": "http://www.manager-tools.com/2017/12/how-prewire-meeting-hof-2017"
+    },
+    {
+      "title": "The Manager Tools Performance Review System - Part 1",
+      "published": "2017-12-17",
+      "url": "http://www.manager-tools.com/2017/12/manager-tools-performance-review-system-part-1"
+    },
+    {
+      "title": "Don't Get Rid of Your Performance Reviews - Part 4",
+      "published": "2017-12-10",
+      "url": "http://www.manager-tools.com/2017/12/dont-get-rid-your-performance-reviews-part-4"
+    },
+    {
+      "title": "Don't Get Rid of Your Performance Reviews - Part 3",
+      "published": "2017-12-03",
+      "url": "http://www.manager-tools.com/2017/12/dont-get-rid-your-performance-reviews-part-3"
+    },
+    {
+      "title": "Delivering The Performance Review - HOF 2017",
+      "published": "2017-11-29",
+      "url": "http://www.manager-tools.com/2017/11/delivering-performance-review-hof-2017"
+    },
+    {
+      "title": "Preparing Performance Reviews - HOF 2017",
+      "published": "2017-11-26",
+      "url": "http://www.manager-tools.com/2017/11/preparing-performance-reviews-hof-2017"
+    },
+    {
+      "title": "Don't Get Rid of Your Performance Reviews - Part 2",
+      "published": "2017-11-19",
+      "url": "http://www.manager-tools.com/2017/11/dont-get-rid-your-performance-reviews-part-2"
+    },
+    {
+      "title": "Don't Get Rid of Your Performance Reviews - Part 1",
+      "published": "2017-11-12",
+      "url": "http://www.manager-tools.com/2017/11/dont-get-rid-your-performance-reviews-part-1"
+    },
+    {
+      "title": "The Manager Tools One-Page Performance Review - Part 2",
+      "published": "2017-11-05",
+      "url": "http://www.manager-tools.com/2017/11/manager-tools-one-page-performance-review-part-2"
+    },
+    {
+      "title": "The Manager Tools One-Page Performance Review - Part 1",
+      "published": "2017-10-29",
+      "url": "https://www.manager-tools.com/2017/10/manager-tools-one-page-performance-review-part-1"
+    },
+    {
+      "title": "A Different Feedback Model Question",
+      "published": "2017-10-22",
+      "url": "https://www.manager-tools.com/2017/10/different-feedback-model-question"
+    },
+    {
+      "title": "You're Not a Psychologist - Part 2",
+      "published": "2017-10-15",
+      "url": "http://www.manager-tools.com/2017/10/youre-not-psychologist-part-2"
+    },
+    {
+      "title": "You're Not a Psychologist - Part 1",
+      "published": "2017-10-08",
+      "url": "http://www.manager-tools.com/2017/10/youre-not-psychologist-part-1"
+    },
+    {
+      "title": "Wade Foster Interview",
+      "published": "2017-10-01",
+      "url": "http://www.manager-tools.com/2017/10/wade-foster-interview"
+    },
+    {
+      "title": "Behaviors To Improve Focus - Part 3",
+      "published": "2017-09-24",
+      "url": "http://www.manager-tools.com/2017/09/behaviors-improve-focus-part-3"
+    },
+    {
+      "title": "Behaviors To Improve Focus - Part 2",
+      "published": "2017-09-17",
+      "url": "http://www.manager-tools.com/2017/09/behaviors-improve-focus-part-2"
+    },
+    {
+      "title": "Behaviors To Improve Focus - Part 1",
+      "published": "2017-09-10",
+      "url": "http://www.manager-tools.com/2017/09/behaviors-improve-focus-part-1"
+    },
+    {
+      "title": "Rolling Out One On Ones - The Briefing",
+      "published": "2017-09-03",
+      "url": "http://www.manager-tools.com/2017/09/rolling-out-one-ones-briefing"
+    },
+    {
+      "title": "First Meeting With A New Direct - Results",
+      "published": "2017-08-27",
+      "url": "http://www.manager-tools.com/2017/08/first-meeting-new-direct-results"
+    },
+    {
+      "title": "Resistant Directs In One On Ones - Chapter 2 - Part 2",
+      "published": "2017-08-20",
+      "url": "http://www.manager-tools.com/2017/08/resistant-directs-one-ones-chapter-2-part-2"
+    },
+    {
+      "title": "Resistant Directs In One On Ones - Chapter 2 - Part 1",
+      "published": "2017-08-13",
+      "url": "http://www.manager-tools.com/2017/08/resistant-directs-one-ones-chapter-2-part-1"
+    },
+    {
+      "title": "The Bridge Between Feedback And Coaching - Part 3",
+      "published": "2017-08-06",
+      "url": "http://www.manager-tools.com/2017/08/bridge-between-feedback-and-coaching-part-3"
+    },
+    {
+      "title": "The Bridge Between Feedback And Coaching - Part 2",
+      "published": "2017-07-30",
+      "url": "http://www.manager-tools.com/2017/07/bridge-between-feedback-and-coaching-part-2"
+    },
+    {
+      "title": "The Bridge Between Feedback And Coaching - Part 1",
+      "published": "2017-07-23",
+      "url": "http://www.manager-tools.com/2017/07/bridge-between-feedback-and-coaching-part-1"
+    },
+    {
+      "title": "What Do You Want To Do And Where Do You Want To Do It?",
+      "published": "2017-07-16",
+      "url": "http://www.manager-tools.com/2017/07/what-do-you-want-do-and-where-do-you-want-do-it"
+    },
+    {
+      "title": "How To Evaluate Answers To The Weakness Question - Part 3",
+      "published": "2017-07-09",
+      "url": "http://www.manager-tools.com/2017/07/how-evaluate-answers-weakness-question-part-3"
+    },
+    {
+      "title": "How To Evaluate Answers To The Weakness Question - Part 2",
+      "published": "2017-07-02",
+      "url": "http://www.manager-tools.com/2017/07/how-evaluate-answers-weakness-question-part-2"
+    },
+    {
+      "title": "How To Evaluate Answers To The Weakness Question - Part 1",
+      "published": "2017-06-25",
+      "url": "http://www.manager-tools.com/2017/06/how-evaluate-answers-weakness-question-part-1"
+    },
+    {
+      "title": "My Direct Disagrees With Me Privately - Part 2",
+      "published": "2017-06-18",
+      "url": "http://www.manager-tools.com/2017/06/my-direct-disagrees-me-privately-part-2"
+    },
+    {
+      "title": "My Direct Disagrees With Me Privately - Part 1",
+      "published": "2017-06-11",
+      "url": "https://www.manager-tools.com/2017/06/my-direct-disagrees-me-privately-part-1"
+    },
+    {
+      "title": "Retaining Disgruntled Staff As a New Manager",
+      "published": "2017-06-04",
+      "url": "https://www.manager-tools.com/2017/06/retaining-disgruntled-staff-new-manager"
+    },
+    {
+      "title": "When NOT To Use Email - Part 2",
+      "published": "2017-05-28",
+      "url": "http://www.manager-tools.com/2017/05/when-not-use-email-part-2"
+    },
+    {
+      "title": "When NOT To Use Email - Part 1",
+      "published": "2017-05-21",
+      "url": "http://www.manager-tools.com/2017/05/when-not-use-email-part-1"
+    },
+    {
+      "title": "The Pinch Crunch Relationship Model",
+      "published": "2017-05-14",
+      "url": "http://www.manager-tools.com/2017/05/pinch-crunch-relationship-model"
+    },
+    {
+      "title": "Executive Tools - Measuring Your Organization's One On Ones - Part 2",
+      "published": "2017-05-07",
+      "url": "http://www.manager-tools.com/2017/05/executive-tools-measuring-your-organizations-one-ones-part-2"
+    },
+    {
+      "title": "Executive Tools - Measuring Your Organization's One On Ones - Part 1",
+      "published": "2017-04-30",
+      "url": "http://www.manager-tools.com/2017/05/executive-tools-measuring-your-organizations-one-ones-part-1"
+    },
+    {
+      "title": "Manager Tools Middleman Test - Part 2",
+      "published": "2017-04-23",
+      "url": "http://www.manager-tools.com/2017/04/manager-tools-middleman-test-part-2"
+    },
+    {
+      "title": "Manager Tools Middleman Test - Part 1",
+      "published": "2017-04-16",
+      "url": "http://www.manager-tools.com/2017/04/manager-tools-middleman-test-part-1"
+    },
+    {
+      "title": "The Myth of the Working Manager",
+      "published": "2017-04-09",
+      "url": "http://www.manager-tools.com/2017/04/myth-working-manager"
+    },
+    {
+      "title": "Secrets of a Great Handshake - HOF",
+      "published": "2017-04-02",
+      "url": "http://www.manager-tools.com/2017/04/secrets-great-handshake-hof"
+    },
+    {
+      "title": "Adding Headcount Basics",
+      "published": "2017-03-26",
+      "url": "http://www.manager-tools.com/2017/03/adding-headcount-basics"
+    },
+    {
+      "title": "Teaching Decision Making - The Responsibility Ladder - Part 5",
+      "published": "2017-03-19",
+      "url": "http://www.manager-tools.com/2017/03/teaching-decision-making-responsibility-ladder-part-5"
+    },
+    {
+      "title": "Teaching Decision Making - The Responsibility Ladder - Part 4",
+      "published": "2017-03-12",
+      "url": "http://www.manager-tools.com/2017/03/teaching-decision-making-responsibility-ladder-part-4"
+    },
+    {
+      "title": "Teaching Decision Making - The Responsibility Ladder - Part 3",
+      "published": "2017-03-05",
+      "url": "http://www.manager-tools.com/2017/03/teaching-decision-making-responsibility-ladder-part-3"
+    },
+    {
+      "title": "Teaching Decision Making - The Responsibility Ladder - Part 2",
+      "published": "2017-02-26",
+      "url": "http://www.manager-tools.com/2017/02/teaching-decision-making-responsibility-ladder-part-2"
+    },
+    {
+      "title": "Teaching Decision Making - The Responsibility Ladder - Part 1",
+      "published": "2017-02-19",
+      "url": "http://www.manager-tools.com/2017/02/teaching-decision-making-responsibility-ladder-part-1"
+    },
+    {
+      "title": "One On Ones After Conflict",
+      "published": "2017-02-12",
+      "url": "http://www.manager-tools.com/2017/02/one-ones-after-conflict"
+    },
+    {
+      "title": "Simple Facilitation - Choosing a Plan - Part 3",
+      "published": "2017-02-05",
+      "url": "http://www.manager-tools.com/2017/02/simple-facilitation-choosing-plan-part-3"
+    },
+    {
+      "title": "Simple Facilitation - Choosing a Plan - Part 2",
+      "published": "2017-01-29",
+      "url": "http://www.manager-tools.com/2017/01/simple-facilitation-choosing-plan-part-2"
+    },
+    {
+      "title": "Simple Facilitation - Choosing a Plan - Part 1",
+      "published": "2017-01-22",
+      "url": "http://www.manager-tools.com/2017/01/simple-facilitation-choosing-plan-part-1"
+    },
+    {
+      "title": "The Written Review Scale - Less Absolute Value",
+      "published": "2017-01-15",
+      "url": "http://www.manager-tools.com/2017/01/written-review-scale-less-absolute-value"
+    },
+    {
+      "title": "How to Run Your Staff Meeting - Part 2 - HOF",
+      "published": "2017-01-08",
+      "url": "http://www.manager-tools.com/2017/01/how-run-your-staff-meeting-part-2-hof"
+    },
+    {
+      "title": "How to Run Your Staff Meeting - Part 1 - HOF",
+      "published": "2017-01-01",
+      "url": "http://www.manager-tools.com/2017/01/how-run-your-staff-meeting-part-1-hof"
+    },
+    {
+      "title": "A Professional Sense of Humor - Part 2",
+      "published": "2016-12-25",
+      "url": "http://www.manager-tools.com/2016/12/professional-sense-humor-part-2"
+    },
+    {
+      "title": "A Professional Sense of Humor - Part 1",
+      "published": "2016-12-18",
+      "url": "http://www.manager-tools.com/2016/12/professional-sense-humor-part-1"
+    },
+    {
+      "title": "Is This Normal? Episode 2",
+      "published": "2016-12-11",
+      "url": "http://www.manager-tools.com/2016/12/normal-episode-2"
+    },
+    {
+      "title": "Special Edition - The Wall Street Journal Features Manager Tools",
+      "published": "2016-12-07",
+      "url": "http://www.manager-tools.com/2016/12/special-edition-wall-street-journal-features-manager-tools"
+    },
+    {
+      "title": "Teach As If Teach Not Performance Communication",
+      "published": "2016-12-04",
+      "url": "http://www.manager-tools.com/2016/12/teach-if-teach-not-performance-communication"
+    },
+    {
+      "title": "Delivering The Performance Review - Part 2 - HOF",
+      "published": "2016-11-30",
+      "url": "http://www.manager-tools.com/2016/11/delivering-performance-review-part-2-hof"
+    },
+    {
+      "title": "Delivering The Performance Review - Part 1 - HOF",
+      "published": "2016-11-27",
+      "url": "http://www.manager-tools.com/2016/11/delivering-performance-review-part-1-hof"
+    },
+    {
+      "title": "Performance Reviews - Part 2 - HOF",
+      "published": "2016-11-23",
+      "url": "http://www.manager-tools.com/2016/11/performance-reviews-part-2-hof"
+    },
+    {
+      "title": "Performance Reviews - Part 1 - HOF",
+      "published": "2016-11-20",
+      "url": "http://www.manager-tools.com/2016/11/performance-reviews-part-1-hof"
+    },
+    {
+      "title": "Don't Vote! - How to Get Group Input on Decisions - Part 2",
+      "published": "2016-11-13",
+      "url": "http://www.manager-tools.com/2016/11/dont-vote-how-get-group-input-decisions-part-2"
+    },
+    {
+      "title": "Don't Vote! - How to Get Group Input on Decisions - Part 1",
+      "published": "2016-11-06",
+      "url": "http://www.manager-tools.com/2016/11/dont-vote-how-get-group-input-decisions"
+    },
+    {
+      "title": "No Surprises In Reviews",
+      "published": "2016-10-30",
+      "url": "http://www.manager-tools.com/2016/10/no-surprises-reviews"
+    },
+    {
+      "title": "Never Rank Candidates",
+      "published": "2016-10-23",
+      "url": "http://www.manager-tools.com/2016/10/never-rank-candidates"
+    },
+    {
+      "title": "Brainstorming - Part 1 - HOF",
+      "published": "2016-10-16",
+      "url": "http://www.manager-tools.com/2016/10/brainstorming-part-1-hof"
+    },
+    {
+      "title": "The Two Reasons To Fire Someone",
+      "published": "2016-10-09",
+      "url": "http://www.manager-tools.com/2016/10/two-reasons-fire-someone"
+    },
+    {
+      "title": "Trinity Frequently Asked Questions #1: Why Wait Three Weeks To Start?",
+      "published": "2016-10-02",
+      "url": "http://www.manager-tools.com/2016/10/trinity-frequently-asked-questions-1-why-wait-three-weeks-start"
+    },
+    {
+      "title": "Is This Normal?",
+      "published": "2016-09-25",
+      "url": "http://www.manager-tools.com/2016/09/normal"
+    },
+    {
+      "title": "Eliminating Bad Attitudes - Part 1",
+      "published": "2016-09-18",
+      "url": "http://www.manager-tools.com/2016/09/eliminating-bad-attitudes-part-1"
+    },
+    {
+      "title": "No Second Emails",
+      "published": "2016-09-11",
+      "url": "http://www.manager-tools.com/2016/09/no-second-emails"
+    },
+    {
+      "title": "Politics: Have Nothing Bad To Say",
+      "published": "2016-09-04",
+      "url": "http://www.manager-tools.com/2016/09/politics-have-nothing-bad-say"
+    },
+    {
+      "title": "8 Positive Feedback Examples",
+      "published": "2016-08-28",
+      "url": "http://www.manager-tools.com/2016/08/8-positive-feedback-examples"
+    },
+    {
+      "title": "Feedback on Status Reporting - Nothing is \"Fine\"",
+      "published": "2016-08-21",
+      "url": "http://www.manager-tools.com/2016/08/feedback-status-reporting-nothing-fine"
+    },
+    {
+      "title": "Forgive First Mistakes When Interviewing",
+      "published": "2016-08-14",
+      "url": "http://www.manager-tools.com/2016/08/forgive-first-mistakes-when-interviewing"
+    },
+    {
+      "title": "Meeting Distractions - Don't Wait To Give Feedback",
+      "published": "2016-08-07",
+      "url": "http://www.manager-tools.com/2016/08/meeting-distractions-dont-wait-give-feedback"
+    },
+    {
+      "title": "No Panel Interviews",
+      "published": "2016-07-31",
+      "url": "http://www.manager-tools.com/2016/08/no-panel-interviews"
+    },
+    {
+      "title": "Leading Change - Model And Measure - Part 2",
+      "published": "2016-07-24",
+      "url": "http://www.manager-tools.com/2016/07/leading-change-model-and-measure-part-2"
+    },
+    {
+      "title": "Leading Change - Model And Measure, Part 1",
+      "published": "2016-07-17",
+      "url": "https://www.manager-tools.com/2016/07/leading-change-model-and-measure-part-1"
+    },
+    {
+      "title": "The Effective Manager Book Promotion",
+      "published": "2016-07-10",
+      "url": "http://www.manager-tools.com/2016/07/effective-manager-book-promotion"
+    },
+    {
+      "title": "Brief Before You Change",
+      "published": "2016-07-03",
+      "url": "http://www.manager-tools.com/2016/07/brief-you-change"
+    },
+    {
+      "title": "How To Scan A Resume - Part 6",
+      "published": "2016-06-26",
+      "url": "http://www.manager-tools.com/2016/06/how-scan-resume-part-6"
+    },
+    {
+      "title": "How To Scan A Resume - Part 5",
+      "published": "2016-06-19",
+      "url": "http://www.manager-tools.com/2016/06/how-scan-resume-part-5"
+    },
+    {
+      "title": "How To Scan A Resume - Part 4",
+      "published": "2016-06-12",
+      "url": "http://www.manager-tools.com/2016/06/how-scan-resume-part-4"
+    },
+    {
+      "title": "How To Scan A Resume - Part 3",
+      "published": "2016-06-05",
+      "url": "http://www.manager-tools.com/2016/06/how-scan-resume-part-3"
+    },
+    {
+      "title": "How To Scan A Resume - Part 2",
+      "published": "2016-05-30",
+      "url": "http://www.manager-tools.com/2016/05/how-scan-resume-part-2"
+    },
+    {
+      "title": "How To Scan A Resume - Part 1",
+      "published": "2016-05-23",
+      "url": "http://www.manager-tools.com/2016/05/how-scan-resume-part-1"
+    },
+    {
+      "title": "The Foundations Of Presenting Mastery - Part 2",
+      "published": "2016-05-15",
+      "url": "http://www.manager-tools.com/2016/05/foundations-presenting-mastery-part-2"
+    },
+    {
+      "title": "The Foundations Of Presenting Mastery - Part 1",
+      "published": "2016-05-08",
+      "url": "http://www.manager-tools.com/2016/05/foundations-presenting-mastery-part-1"
+    },
+    {
+      "title": "Getting Your Goals From Your Boss - Part 3",
+      "published": "2016-05-01",
+      "url": "http://www.manager-tools.com/2016/05/getting-your-goals-your-boss-part-3"
+    },
+    {
+      "title": "Getting Your Goals From Your Boss - Part 2",
+      "published": "2016-04-24",
+      "url": "http://www.manager-tools.com/2016/04/getting-your-goals-your-boss-part-2"
+    },
+    {
+      "title": "Getting Your Goals From Your Boss - Part 1",
+      "published": "2016-04-17",
+      "url": "http://www.manager-tools.com/2016/04/getting-your-goals-your-boss-part-1"
+    },
+    {
+      "title": "Effective Teleconferencing - Part 2 - HOF",
+      "published": "2016-04-10",
+      "url": "http://www.manager-tools.com/2016/04/effective-teleconferencing-part-2-hof"
+    },
+    {
+      "title": "Effective Teleconferencing - Part 1 - HOF",
+      "published": "2016-04-03",
+      "url": "http://www.manager-tools.com/2016/04/effective-teleconferencing-part-1-hof"
+    },
+    {
+      "title": "Feedback and the Shot Across the Bow - HOF",
+      "published": "2016-03-27",
+      "url": "http://www.manager-tools.com/2016/03/feedback-and-shot-across-bow-hof"
+    },
+    {
+      "title": "MT-2006-08-28 Managing During Mergers and Acquisitions - Part 2",
+      "published": "2016-03-20",
+      "url": "http://www.manager-tools.com/2016/03/mt-2006-08-28-managing-during-mergers-and-acquisitions-part-2"
+    },
+    {
+      "title": "MT-2006-08-21 Managing During Mergers and Acquisitions - Part 1",
+      "published": "2016-03-13",
+      "url": "http://www.manager-tools.com/2016/03/mt-2006-08-21-managing-during-mergers-and-acquisitions-part-1"
+    },
+    {
+      "title": "Being Told \"No\" To Feedback - Part 2",
+      "published": "2016-03-06",
+      "url": "http://www.manager-tools.com/2016/03/being-told-no-feedback-part-2"
+    },
+    {
+      "title": "Being Told \"No\" To Feedback - Part 1",
+      "published": "2016-02-28",
+      "url": "http://www.manager-tools.com/2016/02/being-told-no-feedback"
+    },
+    {
+      "title": "The Effective Manager Value Chain: Fixing Deliverables - Part 3",
+      "published": "2016-02-21",
+      "url": "http://www.manager-tools.com/2016/02/effective-manager-value-chain-fixing-deliverables-part-3"
+    },
+    {
+      "title": "The Effective Manager Value Chain: Fixing Deliverables - Part 2",
+      "published": "2016-02-14",
+      "url": "http://www.manager-tools.com/2016/02/effective-manager-value-chain-fixing-deliverables-part-2"
+    },
+    {
+      "title": "The Effective Manager Value Chain: Fixing Deliverables - Part 1",
+      "published": "2016-02-07",
+      "url": "http://www.manager-tools.com/2016/02/effective-manager-value-chain-fixing-deliverables-part-1"
+    },
+    {
+      "title": "Simple Interviewer Training - Part 2",
+      "published": "2016-01-31",
+      "url": "http://www.manager-tools.com/2016/01/simple-interviewer-training-part-2"
+    },
+    {
+      "title": "Simple Interviewer Training - Part 1",
+      "published": "2016-01-24",
+      "url": "http://www.manager-tools.com/2016/01/simple-interviewer-training-part-1"
+    },
+    {
+      "title": "Feedback Grace Period",
+      "published": "2016-01-17",
+      "url": "http://www.manager-tools.com/2016/01/feedback-grace-period"
+    },
+    {
+      "title": "How To Do A Phone Screen Interview - Part 4",
+      "published": "2016-01-10",
+      "url": "http://www.manager-tools.com/2016/01/how-do-phone-screen-interview-part-4"
+    },
+    {
+      "title": "MT(2006) - Delivering The Performance Review - Part 2",
+      "published": "2016-01-03",
+      "url": "http://www.manager-tools.com/2016/01/mt2006-delivering-performance-review-part-2"
+    },
+    {
+      "title": "MT(2006) - Delivering The Performance Review - Part 1",
+      "published": "2016-01-03",
+      "url": "http://www.manager-tools.com/2016/01/mt2006-delivering-performance-review-part-1"
+    },
+    {
+      "title": "MT(2005) - Performance Reviews - Part 2",
+      "published": "2015-12-27",
+      "url": "http://www.manager-tools.com/2015/12/mt2005-performance-reviews-part-2"
+    },
+    {
+      "title": "MT(2005) - Performance Reviews - Part 1",
+      "published": "2015-12-27",
+      "url": "http://www.manager-tools.com/2015/12/mt2005-performance-reviews-part-1"
+    },
+    {
+      "title": "How To Do A Phone Screen Interview - Part 3",
+      "published": "2015-12-20",
+      "url": "http://www.manager-tools.com/2015/12/how-do-phone-screen-interview-part-3"
+    },
+    {
+      "title": "How To Do A Phone Screen Interview - Part 2",
+      "published": "2015-12-13",
+      "url": "http://www.manager-tools.com/2015/12/how-do-phone-screen-interview-part-2"
+    },
+    {
+      "title": "How To Do A Phone Screen Interview - Part 1",
+      "published": "2015-12-06",
+      "url": "http://www.manager-tools.com/2015/12/how-do-phone-screen-interview-part-1"
+    },
+    {
+      "title": "MT(2010) - Assign Work And Reporting",
+      "published": "2015-11-29",
+      "url": "http://www.manager-tools.com/2015/11/mt2010-assign-work-and-reporting"
+    },
+    {
+      "title": "I'm Working On - NOT",
+      "published": "2015-11-22",
+      "url": "http://www.manager-tools.com/2015/11/im-working-not"
+    },
+    {
+      "title": "No Surprises Reporting",
+      "published": "2015-11-15",
+      "url": "http://www.manager-tools.com/2015/11/no-surprises-reporting"
+    },
+    {
+      "title": "Your Door Is Not Always Open",
+      "published": "2015-11-08",
+      "url": "http://www.manager-tools.com/2015/11/your-door-not-always-open"
+    },
+    {
+      "title": "New Manager Tools Mobile App Announcement",
+      "published": "2015-11-06",
+      "url": "http://www.manager-tools.com"
+    },
+    {
+      "title": "MT(2006) - Employee Retention",
+      "published": "2015-11-01",
+      "url": "http://www.manager-tools.com/2015/11/mt2006-employee-retention"
+    },
+    {
+      "title": "Late Stage Coaching Revisited",
+      "published": "2015-10-26",
+      "url": "http://www.manager-tools.com/2015/10/late-stage-coaching-revisited"
+    },
+    {
+      "title": "Planning an Offsite - Part 5",
+      "published": "2015-10-18",
+      "url": "https://www.manager-tools.com/2015/10/planning-offsite-part-5"
+    },
+    {
+      "title": "Planning an Offsite - Part 4",
+      "published": "2015-10-11",
+      "url": "http://www.manager-tools.com/2015/10/planning-offsite-part-4"
+    },
+    {
+      "title": "Planning an Offsite - Part 3",
+      "published": "2015-10-04",
+      "url": "http://www.manager-tools.com/2015/10/planning-offsite-part-3"
+    },
+    {
+      "title": "Planning an Offsite - Part 2",
+      "published": "2015-09-27",
+      "url": "http://www.manager-tools.com/2015/09/planning-offsite-part-2"
+    },
+    {
+      "title": "Planning an Offsite - Part 1",
+      "published": "2015-09-20",
+      "url": "http://www.manager-tools.com/2015/09/planning-offsite-part-1"
+    },
+    {
+      "title": "How To Measure Feedback Implementation - Chapter 1 - Asking",
+      "published": "2015-09-13",
+      "url": "http://www.manager-tools.com/2015/09/how-measure-feedback-implementation-chapter-1-asking"
+    },
+    {
+      "title": "How To Respond To A Departure - Chapter One - Don't Hire",
+      "published": "2015-09-06",
+      "url": "http://www.manager-tools.com/2015/09/how-respond-departure-chapter-one-dont-hire"
+    },
+    {
+      "title": "First Meeting New Direct Series - Relationships Matter",
+      "published": "2015-08-30",
+      "url": "http://www.manager-tools.com/2015/08/first-meeting-new-direct-series-relationships-matter"
+    },
+    {
+      "title": "Leader's Intent - Part 2",
+      "published": "2015-08-23",
+      "url": "http://www.manager-tools.com/2015/08/leaders-intent-part-2"
+    },
+    {
+      "title": "Leader's Intent - Part 1",
+      "published": "2015-08-16",
+      "url": "http://www.manager-tools.com/2015/08/leaders-intent-part-1"
+    },
+    {
+      "title": "What You've Been Taught About Management is Wrong",
+      "published": "2015-08-10",
+      "url": "http://www.manager-tools.com/2015/08/what-youve-been-taught-about-management-wrong"
+    },
+    {
+      "title": "Uncommunicative Direct Conversation - This is NOT Micromanagement - Part 2",
+      "published": "2015-08-02",
+      "url": "http://www.manager-tools.com/2015/08/uncommunicative-direct-conversation-not-micromanagement-part-2"
+    },
+    {
+      "title": "Uncommunicative Direct Conversation - This is NOT Micromanagement - Part 1",
+      "published": "2015-07-26",
+      "url": "http://www.manager-tools.com/2015/07/uncommunicative-direct-conversation-not-micromanagement-part-1"
+    },
+    {
+      "title": "First Meeting New Direct Series - Tell The Truth - Part 2",
+      "published": "2015-07-19",
+      "url": "http://www.manager-tools.com/2015/07/first-meeting-new-direct-series-tell-truth-part-2"
+    },
+    {
+      "title": "First Meeting New Direct Series - Tell The Truth - Part 1",
+      "published": "2015-07-12",
+      "url": "http://www.manager-tools.com/2015/07/first-meeting-new-direct-series-tell-truth-part-1"
+    },
+    {
+      "title": "How to Prewire a Meeting",
+      "published": "2015-07-05",
+      "url": "http://www.manager-tools.com/2015/07/how-prewire-meeting"
+    },
+    {
+      "title": "Results and Retention - 10th Anniversary, Part 2",
+      "published": "2015-06-28",
+      "url": "http://www.manager-tools.com/2015/06/results-and-retention-10th-anniversary-part-2"
+    },
+    {
+      "title": "Results and Retention - 10th Anniversary, Part 1",
+      "published": "2015-06-22",
+      "url": "http://www.manager-tools.com/2015/06/results-and-retention-10th-anniversary-part-1"
+    },
+    {
+      "title": "Leading Change: The Ore Cart - Chapter 1",
+      "published": "2015-06-14",
+      "url": "http://www.manager-tools.com/2015/06/leading-change-ore-cart-chapter-1"
+    },
+    {
+      "title": "Overcoming Trinity Pushback - Chapter 2 - No Time For One on Ones - Part 2",
+      "published": "2015-06-07",
+      "url": "http://www.manager-tools.com/2015/06/overcoming-trinity-pushback-chapter-2-no-time-one-ones-part-2"
+    },
+    {
+      "title": "Overcoming Trinity Pushback - Chapter 2 - No Time For One on Ones - Part 1",
+      "published": "2015-05-31",
+      "url": "http://www.manager-tools.com/2015/05/overcoming-trinity-pushback-chapter-2-no-time-one-ones-part-1"
+    },
+    {
+      "title": "How To Go On Vacation - Part 2",
+      "published": "2015-05-25",
+      "url": "http://www.manager-tools.com/2015/05/how-go-vacation-part-2"
+    },
+    {
+      "title": "Manager Tools Effective Manager Video Course",
+      "published": "2015-05-20",
+      "url": "http://www.manager-tools.com/products/effective-manager-video-course/"
+    },
+    {
+      "title": "How To Go On Vacation - Part 1",
+      "published": "2015-05-18",
+      "url": "http://www.manager-tools.com/2015/05/how-go-vacation-part-1"
+    },
+    {
+      "title": "What To Do When Your Direct Complains About The Company - Part 2",
+      "published": "2015-05-11",
+      "url": "http://www.manager-tools.com/2015/05/what-do-when-your-direct-complains-about-company-part-2"
+    },
+    {
+      "title": "What To Do When Your Direct Complains About The Company - Part 1",
+      "published": "2015-05-03",
+      "url": "http://www.manager-tools.com/2015/05/what-do-when-your-direct-complains-about-company-part-1"
+    },
+    {
+      "title": "Managing a High C - Dangers - Part 2",
+      "published": "2015-04-27",
+      "url": "http://www.manager-tools.com/2015/04/managing-high-c-dangers-part-2"
+    },
+    {
+      "title": "Managing a High C - Dangers - Part 1",
+      "published": "2015-04-20",
+      "url": "http://www.manager-tools.com/2015/04/managing-high-c-dangers-part-1"
+    },
+    {
+      "title": "Manager Tools Effective Manager Video Course Announcment",
+      "published": "2015-04-17",
+      "url": "http://www.manager-tools.com/products/effective-manager-video-course/"
+    },
+    {
+      "title": "Conversational One on Ones",
+      "published": "2015-04-13",
+      "url": "http://www.manager-tools.com/2015/04/conversational-one-on-ones"
+    },
+    {
+      "title": "Hall of Fame: One on Ones - Part 1",
+      "published": "2015-04-06",
+      "url": "http://www.manager-tools.com/2015/04/hall-fame-one-ones-part-1"
+    },
+    {
+      "title": "How To Respond To a Request For A Raise - Part 3",
+      "published": "2015-03-30",
+      "url": "http://www.manager-tools.com/2015/03/how-respond-request-raise-part-3"
+    },
+    {
+      "title": "How To Respond To a Request For A Raise - Part 2",
+      "published": "2015-03-23",
+      "url": "https://www.manager-tools.com/2015/03/how-respond-request-raise-part-2"
+    },
+    {
+      "title": "How To Respond To a Request For A Raise - Part 1",
+      "published": "2015-03-15",
+      "url": "http://www.manager-tools.com/2015/03/how-respond-request-raise-part-1"
+    },
+    {
+      "title": "Too Full Calendar Solutions - Back To Back Meetings, Part 2",
+      "published": "2015-03-08",
+      "url": "http://www.manager-tools.com/2015/03/too-full-calendar-solutions-back-back-meetings-part-2"
+    },
+    {
+      "title": "Too Full Calendar Solutions - Back To Back Meetings, Part 1",
+      "published": "2015-03-01",
+      "url": "http://www.manager-tools.com/2015/03/too-full-calendar-solutions-back-back-meetings-part-1"
+    },
+    {
+      "title": "Too Full Calendar Solutions - Meeting Attendance Delegation - Part 2",
+      "published": "2015-02-23",
+      "url": "http://www.manager-tools.com/2015/02/too-full-calendar-solutions-meeting-attendance-delegation-part-2"
+    },
+    {
+      "title": "Too Full Calendar Solutions - Meeting Attendance Delegation - Part 1",
+      "published": "2015-02-16",
+      "url": "http://www.manager-tools.com/2015/02/too-full-calendar-solutions-meeting-attendance-delegation-part-1"
+    },
+    {
+      "title": "I Didn't Get The Title/Raise - Part 2",
+      "published": "2015-02-08",
+      "url": "http://www.manager-tools.com/2015/02/i-didnt-get-title-raise-part-2"
+    },
+    {
+      "title": "I Didn't Get The Title/Raise - Part 1",
+      "published": "2015-02-01",
+      "url": "http://www.manager-tools.com/2015/02/i-didnt-get-title-raise-part-1"
+    },
+    {
+      "title": "The Unspoken Commitment - Our 500th MT Cast",
+      "published": "2015-01-25",
+      "url": "http://www.manager-tools.com/2015/01/unspoken-commitment"
+    },
+    {
+      "title": "Meeting Notes - Dead Simple",
+      "published": "2015-01-18",
+      "url": "http://www.manager-tools.com/2015/01/meeting-notes-dead-simple"
+    },
+    {
+      "title": "Phone Trees",
+      "published": "2015-01-12",
+      "url": "http://www.manager-tools.com/2015/01/phone-trees"
+    },
+    {
+      "title": "Sending a Direct to an Industry Conference - Part 2 (Corrected)",
+      "published": "2015-01-05",
+      "url": "http://www.manager-tools.com/2015/01/sending-direct-industry-conference-part-2"
+    },
+    {
+      "title": "Sending a Direct to an Industry Conference - Part 1",
+      "published": "2014-12-29",
+      "url": "http://www.manager-tools.com/2014/12/sending-direct-industry-conference-part-1"
+    },
+    {
+      "title": "Calendar Soup",
+      "published": "2014-12-22",
+      "url": "http://www.manager-tools.com/2014/12/calendar-soup"
+    },
+    {
+      "title": "Effective Relationships - I’m a D, My Direct is a C - Part 4 (Updated)",
+      "published": "2014-12-16",
+      "url": "https://www.manager-tools.com/2014/12/effective-relationships-im-d-my-direct-c-part-4"
+    },
+    {
+      "title": "Effective Relationships - I’m a D, My Direct is a C - Part 3",
+      "published": "2014-12-08",
+      "url": "https://www.manager-tools.com/2014/12/effective-relationships-im-d-my-direct-c-part-3"
+    },
+    {
+      "title": "Effective Relationships - I’m a D, My Direct is a C - Part 2",
+      "published": "2014-11-30",
+      "url": "https://www.manager-tools.com/2014/11/effective-relationships-i'm-d-my-direct-c-part-2"
+    },
+    {
+      "title": "Effective Relationships - I’m a D, My Direct is a C - Part 1",
+      "published": "2014-11-23",
+      "url": "http://www.manager-tools.com/2014/11/effective-relationships-i'm-d-my-direct-c-part-1"
+    },
+    {
+      "title": "How To Turn Down a Job Candidate - Part 2",
+      "published": "2014-11-17",
+      "url": "http://www.manager-tools.com/2014/11/how-turn-down-job-candidate-part-2"
+    },
+    {
+      "title": "How To Turn Down a Job Candidate - Part 1",
+      "published": "2014-11-10",
+      "url": "http://www.manager-tools.com/2014/11/how-turn-down-job-candidate-part-1"
+    },
+    {
+      "title": "There Is No Magic In The Word Feedback",
+      "published": "2014-11-02",
+      "url": "http://www.manager-tools.com/2014/11/there-no-magic-word-feedback"
+    },
+    {
+      "title": "My Direct is Resigning Chapter 1 - Never Counter Offer - Part 3",
+      "published": "2014-10-27",
+      "url": "http://www.manager-tools.com/2014/10/my-direct-resigning-chapter-1-never-counter-offer-part-3"
+    },
+    {
+      "title": "My Direct is Resigning Chapter 1 - Never Counter Offer - Part 2",
+      "published": "2014-10-19",
+      "url": "http://www.manager-tools.com/2014/10/my-direct-resigning-chapter-1-never-counter-offer-part-2"
+    },
+    {
+      "title": "My Direct is Resigning Chapter 1 - Never Counter Offer - Part 1",
+      "published": "2014-10-13",
+      "url": "http://www.manager-tools.com/2014/10/my-direct-resigning-chapter-1-never-counter-offer-part-1/"
+    },
+    {
+      "title": "Expanded Email Guidance #1",
+      "published": "2014-10-06",
+      "url": "http://www.manager-tools.com/2014/10/expanded-email-guidance-1/"
+    },
+    {
+      "title": "Welcome To They - Professional Subordination - Chapter 2 - Part 2",
+      "published": "2014-09-29",
+      "url": "http://www.manager-tools.com/2014/09/welcome-they-professional-subordination-chapter-2-part-2/"
+    },
+    {
+      "title": "Welcome To They - Professional Subordination - Chapter 2",
+      "published": "2014-09-22",
+      "url": "http://www.manager-tools.com/2014/09/welcome-they-professional-subordination-chapter-2/"
+    },
+    {
+      "title": "Adjusting Recurring Agendas",
+      "published": "2014-09-15",
+      "url": "http://www.manager-tools.com/2014/09/adjusting-recurring-agendas/"
+    },
+    {
+      "title": "Get Your Directs a Mentor - Part 2",
+      "published": "2014-09-08",
+      "url": "http://www.manager-tools.com/2014/09/get-your-directs-a-mentor-part-2/"
+    },
+    {
+      "title": "Get Your Directs a Mentor",
+      "published": "2014-09-01",
+      "url": "http://www.manager-tools.com/2014/09/get-your-directs-a-mentor/"
+    },
+    {
+      "title": "Feedback Step 3 - Emotions Are Okay",
+      "published": "2014-08-24",
+      "url": "http://www.manager-tools.com/2014/08/feedback-step-3-emotions-are-okay/"
+    },
+    {
+      "title": "Have You Talked To Them?",
+      "published": "2014-08-18",
+      "url": "http://www.manager-tools.com/2014/08/have-you-talked-them/"
+    },
+    {
+      "title": "Notes From The Field - Q3 2014",
+      "published": "2014-08-11",
+      "url": "http://www.manager-tools.com/2014/08/notes-field-q3-2014/"
+    },
+    {
+      "title": "Meeting Self-Facilitation - Part 2",
+      "published": "2014-08-04",
+      "url": "http://www.manager-tools.com/2014/08/meeting-self-facilitation-part-2/"
+    },
+    {
+      "title": "Meeting Self-Facilitation",
+      "published": "2014-07-28",
+      "url": "http://www.manager-tools.com/2014/07/meeting-self-facilitation/"
+    },
+    {
+      "title": "Feedback Doesn't Preclude - Chapter 1",
+      "published": "2014-07-21",
+      "url": "http://www.manager-tools.com/2014/07/feedback-doesnt-preclude-chapter-1/"
+    },
+    {
+      "title": "Job Transparency For Development - Part 2",
+      "published": "2014-07-14",
+      "url": "http://www.manager-tools.com/2014/07/job-transparency-development-part-2/"
+    },
+    {
+      "title": "Job Transparency For Development",
+      "published": "2014-07-07",
+      "url": "http://www.manager-tools.com/2014/07/job-transparency-development/"
+    },
+    {
+      "title": "Licensee Call HR Question",
+      "published": "2014-06-30",
+      "url": "http://www.manager-tools.com/2014/06/licensee-call-hr-question/"
+    },
+    {
+      "title": "Disaster Recovery Part 1 - Check On Your People",
+      "published": "2014-06-23",
+      "url": "http://www.manager-tools.com/2014/06/disaster-recovery-part-1-check-your-people/"
+    },
+    {
+      "title": "When Angry, Disengage",
+      "published": "2014-06-16",
+      "url": "http://www.manager-tools.com/2014/06/when-angry-disengage/"
+    },
+    {
+      "title": "No Meetings Monday Morning",
+      "published": "2014-06-08",
+      "url": "http://www.manager-tools.com/2014/06/no-meetings-monday-morning/"
+    },
+    {
+      "title": "Boss One-on-One Pushback",
+      "published": "2014-06-02",
+      "url": "http://www.manager-tools.com/2014/06/boss-one-one-pushback/"
+    },
+    {
+      "title": "The Corky Story - Part 3",
+      "published": "2014-05-26",
+      "url": "http://www.manager-tools.com/2014/05/corky-story-part-3/"
+    },
+    {
+      "title": "The Corky Story - Part 2",
+      "published": "2014-05-19",
+      "url": "http://www.manager-tools.com/2014/05/corky-story-part-2/"
+    },
+    {
+      "title": "The Corky Story - Part 1",
+      "published": "2014-05-12",
+      "url": "http://www.manager-tools.com/2014/05/corky-story-part-1/"
+    },
+    {
+      "title": "Politics 101 – Chapter 5 – Favors Matter (Part 2)",
+      "published": "2014-05-05",
+      "url": "http://www.manager-tools.com/2014/05/politics-101-chapter-5-favors-matter-part-2/"
+    },
+    {
+      "title": "Politics 101 – Chapter 5 – Favors Matter (Part 1)",
+      "published": "2014-04-28",
+      "url": "http://www.manager-tools.com/2014/04/politics-101-chapter-5-favors-matter-part-1/"
+    },
+    {
+      "title": "THE Development Question",
+      "published": "2014-04-21",
+      "url": "http://www.manager-tools.com/2014/04/development-question/"
+    },
+    {
+      "title": "Span of Control Guidelines",
+      "published": "2014-04-14",
+      "url": "http://www.manager-tools.com/2014/04/span-control-guidelines/"
+    },
+    {
+      "title": "Don't Waste Your Vote - Part 2",
+      "published": "2014-04-07",
+      "url": "http://www.manager-tools.com/2014/04/dont-waste-your-vote-part-2/"
+    },
+    {
+      "title": "Don't Waste Your Vote - Part 1",
+      "published": "2014-03-31",
+      "url": "http://www.manager-tools.com/2014/03/dont-waste-your-vote-part-1/"
+    },
+    {
+      "title": "Insist on Behavior When Assisting",
+      "published": "2014-03-24",
+      "url": "http://www.manager-tools.com/2014/03/insist-behavior-when-assisting/"
+    },
+    {
+      "title": "Documentation Basics - Part 2",
+      "published": "2014-03-17",
+      "url": "http://www.manager-tools.com/2014/03/documentation-basics-part-2/"
+    },
+    {
+      "title": "Documentation Basics - Part 1",
+      "published": "2014-03-09",
+      "url": "http://www.manager-tools.com/2014/03/documentation-basics/"
+    },
+    {
+      "title": "Writing a Job Description - Part 2",
+      "published": "2014-03-03",
+      "url": "http://www.manager-tools.com/2014/03/writing-a-job-description-part-2/"
+    },
+    {
+      "title": "Writing a Job Description - Part 1",
+      "published": "2014-02-24",
+      "url": "http://www.manager-tools.com/2014/02/writing-a-job-description-part-1/"
+    },
+    {
+      "title": "Assume Positive Intent",
+      "published": "2014-02-17",
+      "url": "http://www.manager-tools.com/2014/02/assume-positive-intent/"
+    },
+    {
+      "title": "Handling Special Emails",
+      "published": "2014-02-10",
+      "url": "http://www.manager-tools.com/2014/02/handling-special-emails/"
+    },
+    {
+      "title": "Project Status is Never \"Fine\"",
+      "published": "2014-02-03",
+      "url": "http://www.manager-tools.com/2014/02/project-status-never-fine/"
+    },
+    {
+      "title": "Flexible Coaching Deadlines",
+      "published": "2014-01-27",
+      "url": "http://www.manager-tools.com/2014/01/flexible-coaching-deadlines/"
+    },
+    {
+      "title": "Communicating Lateness",
+      "published": "2014-01-20",
+      "url": "http://www.manager-tools.com/2014/01/communicating-lateness/"
+    },
+    {
+      "title": "Resolving Relationships That Have Gone Sour",
+      "published": "2014-01-02",
+      "url": "https://www.manager-tools.com/2014/01/resolving-relationships-have-gone-sour"
+    },
+    {
+      "title": "You Might Want to Consider ...",
+      "published": "2013-12-30",
+      "url": "http://www.manager-tools.com/2013/12/you-might-want-consider/"
+    },
+    {
+      "title": "Visual Record-Keeping - Part 2",
+      "published": "2013-12-23",
+      "url": "http://www.manager-tools.com/2013/12/visual-record-keeping-part-2/"
+    },
+    {
+      "title": "Visual Record-Keeping - Part 1",
+      "published": "2013-12-16",
+      "url": "http://www.manager-tools.com/2013/12/visual-record-keeping-part-1/"
+    },
+    {
+      "title": "Don't Change Metrics",
+      "published": "2013-12-09",
+      "url": "http://www.manager-tools.com/2013/12/dont-change-metrics/"
+    },
+    {
+      "title": "Horstman's Law Of Uncertainty",
+      "published": "2013-12-02",
+      "url": "http://www.manager-tools.com/2013/12/horstmans-law-uncertainty/"
+    },
+    {
+      "title": "Three Strikes Delegation",
+      "published": "2013-11-25",
+      "url": "http://www.manager-tools.com/2013/11/three-strikes-delegation/"
+    },
+    {
+      "title": "My Direct Doesn't Want To Change",
+      "published": "2013-11-18",
+      "url": "http://www.manager-tools.com/2013/11/my-direct-doesnt-want-change/"
+    },
+    {
+      "title": "Politics 101 - Chapter 4 - Know Thine Enemies",
+      "published": "2013-11-11",
+      "url": "http://www.manager-tools.com/2013/11/politics-101-chapter-4-know-thine-enemies/"
+    },
+    {
+      "title": "Horstman's Noon Rule of Scheduling",
+      "published": "2013-11-04",
+      "url": "http://www.manager-tools.com/2013/11/horstmans-noon-rule-scheduling/"
+    },
+    {
+      "title": "Hiring \"Overqualifieds\" - Part 4",
+      "published": "2013-10-28",
+      "url": "http://www.manager-tools.com/2013/10/hiring-overqualifieds-part-4/"
+    },
+    {
+      "title": "Hiring \"Overqualifieds\" - Part 3",
+      "published": "2013-10-21",
+      "url": "http://www.manager-tools.com/2013/10/hiring-overqualifieds-part-3/"
+    },
+    {
+      "title": "Hiring \"Overqualifieds\" - Part 2",
+      "published": "2013-10-14",
+      "url": "http://www.manager-tools.com/2013/10/hiring-overqualifieds-part-2/"
+    },
+    {
+      "title": "Hiring \"Overqualifieds\" - Part 1",
+      "published": "2013-10-07",
+      "url": "http://www.manager-tools.com/2013/10/hiring-overqualifieds-part-1/"
+    },
+    {
+      "title": "No Dropping Dimes - Part 2",
+      "published": "2013-09-30",
+      "url": "http://www.manager-tools.com/2013/09/no-dropping-dimes-part-2/"
+    },
+    {
+      "title": "No Dropping Dimes - Part 1",
+      "published": "2013-09-23",
+      "url": "http://www.manager-tools.com/2013/09/no-dropping-dimes-part-1/"
+    },
+    {
+      "title": "Direct Internal Passport",
+      "published": "2013-09-14",
+      "url": "http://www.manager-tools.com/2013/09/direct-internal-passport/"
+    },
+    {
+      "title": "Coaching Example - Interrupting (Part 3)",
+      "published": "2013-09-09",
+      "url": "http://www.manager-tools.com/2013/09/coaching-example-interrupting-part-3/"
+    },
+    {
+      "title": "Coaching Example - Interrupting (Part 2)",
+      "published": "2013-09-02",
+      "url": "http://www.manager-tools.com/2013/09/coaching-example-interrupting-part-2/"
+    },
+    {
+      "title": "Coaching Example - Interrupting (Part 1)",
+      "published": "2013-08-26",
+      "url": "http://www.manager-tools.com/2013/08/coaching-example-interrupting-part-1/"
+    },
+    {
+      "title": "Effective Interviewer Series - Logistics Clarity",
+      "published": "2013-08-19",
+      "url": "http://www.manager-tools.com/2013/08/effective-interviewer-series-logistics-clarity/"
+    },
+    {
+      "title": "First Meeting New Direct Series - Be Timely",
+      "published": "2013-08-11",
+      "url": "http://www.manager-tools.com/2013/08/first-meeting-new-direct-series-be-timely/"
+    },
+    {
+      "title": "You Did Not Demonstrate - Part 2",
+      "published": "2013-08-05",
+      "url": "http://www.manager-tools.com/2013/08/you-did-not-demonstrate-part-2/"
+    },
+    {
+      "title": "You Did Not Demonstrate - Part 1",
+      "published": "2013-07-29",
+      "url": "http://www.manager-tools.com/2013/07/you-did-not-demonstrate-part-1/"
+    },
+    {
+      "title": "Career Tools: Dealing With Objections - Part 2",
+      "published": "2013-07-24",
+      "url": "http://www.manager-tools.com/2013/07/dealing-with-objections-part-2/"
+    },
+    {
+      "title": "Career Tools: Dealing With Objections - Part 1",
+      "published": "2013-07-24",
+      "url": "http://www.manager-tools.com/2013/07/dealing-with-objections/"
+    },
+    {
+      "title": "Post-Resignation Team Meeting - Part 2",
+      "published": "2013-07-21",
+      "url": "http://www.manager-tools.com/2013/07/post-resignation-team-meeting-part-2/"
+    },
+    {
+      "title": "Post-Resignation Team Meeting - Part 1",
+      "published": "2013-07-14",
+      "url": "http://www.manager-tools.com/2013/07/post-resignation-team-meeting/"
+    },
+    {
+      "title": "The Collaborative Manager - Chapter 2 - Tell Some To Wait",
+      "published": "2013-07-07",
+      "url": "http://www.manager-tools.com/2013/07/collaborative-manager-chapter-2-tell-some-wait/"
+    },
+    {
+      "title": "Ordering Multiple Interviews - Part 2",
+      "published": "2013-06-30",
+      "url": "http://www.manager-tools.com/2013/06/ordering-multiple-interviews-part-2/"
+    },
+    {
+      "title": "Ordering Multiple Interviews - Part 1",
+      "published": "2013-06-23",
+      "url": "http://www.manager-tools.com/2013/06/ordering-multiple-interviews/"
+    },
+    {
+      "title": "Increasing Team Input Strategies Chapter 1 – Measure It",
+      "published": "2013-06-16",
+      "url": "http://www.manager-tools.com/2013/06/increase-team-input-strategies-chapter-1-measure-it/"
+    },
+    {
+      "title": "Questions To Ask Candidate References - Part 2",
+      "published": "2013-06-09",
+      "url": "http://www.manager-tools.com/2013/06/questions-ask-candidate-references-part-2/"
+    },
+    {
+      "title": "Questions To Ask Candidate References - Part 1",
+      "published": "2013-06-02",
+      "url": "http://www.manager-tools.com/2013/06/questions-ask-references-check-part-1/"
+    },
+    {
+      "title": "One On One Development Analysis Check",
+      "published": "2013-05-26",
+      "url": "http://www.manager-tools.com/2013/05/one-one-development-analysis-check/"
+    },
+    {
+      "title": "Measuring Feedback Chapter 2 Overweight Top Performers - Part 2",
+      "published": "2013-05-20",
+      "url": "http://www.manager-tools.com/2013/05/measuring-feedback-chapter-2-overweight-top-performers-part-2/"
+    },
+    {
+      "title": "Measuring Feedback Chapter 2 Overweight Top Performers - Part 1",
+      "published": "2013-05-12",
+      "url": "http://www.manager-tools.com/2013/05/measuring-feedback-chapter-2-overweight-top-performers-part-1/"
+    },
+    {
+      "title": "Politics 101 - Chapter 3 - The Myth Of The Just World (Part 2)",
+      "published": "2013-05-06",
+      "url": "http://www.manager-tools.com/2013/05/politics-101-chapter-3-myth-just-world-part-2/"
+    },
+    {
+      "title": "Politics 101 - Chapter 3 - The Myth Of The Just World (Part 1)",
+      "published": "2013-04-28",
+      "url": "http://www.manager-tools.com/2013/04/politics-101-chapter-3-myth-just-world-part-1/"
+    },
+    {
+      "title": "The Collaborative Manager - Chapter 1 - More Ideas",
+      "published": "2013-04-22",
+      "url": "http://www.manager-tools.com/2013/04/collaborative-manager-chapter-1-more-ideas/"
+    },
+    {
+      "title": "First Meeting With A New Direct - Ask Questions",
+      "published": "2013-04-14",
+      "url": "http://www.manager-tools.com/2013/04/first-meeting-with-a-new-direct-ask-questions/"
+    },
+    {
+      "title": "Project Management Basics - Now And Later Tasks",
+      "published": "2013-04-08",
+      "url": "http://www.manager-tools.com/2013/04/project-management-basics-now-and-later-tasks/"
+    },
+    {
+      "title": "Lists And Agendas In One On Ones",
+      "published": "2013-04-01",
+      "url": "http://www.manager-tools.com/2013/03/lists-and-agendas-one-ones/"
+    },
+    {
+      "title": "Diffusing Disagreements",
+      "published": "2013-03-25",
+      "url": "http://www.manager-tools.com/2013/03/diffusing-disagreements/"
+    },
+    {
+      "title": "Email Three Times A Day - Part 2",
+      "published": "2013-03-18",
+      "url": "http://www.manager-tools.com/2013/03/email-three-times-a-day-part-2/"
+    },
+    {
+      "title": "Email Three Times A Day - Part 1",
+      "published": "2013-03-11",
+      "url": "http://www.manager-tools.com/2013/03/email-three-times-a-day-part-1/"
+    },
+    {
+      "title": "Never Step Out Of The Middle",
+      "published": "2013-03-04",
+      "url": "http://www.manager-tools.com/2013/03/never-step-out-middle/"
+    },
+    {
+      "title": "Dealing With Vague Feedback - Part 2",
+      "published": "2013-02-25",
+      "url": "http://www.manager-tools.com/2013/02/dealing-with-vague-feedback-part-2/"
+    },
+    {
+      "title": "Dealing With Vague Feedback - Part 1",
+      "published": "2013-02-18",
+      "url": "http://www.manager-tools.com/2013/02/dealing-with-vague-feedback-part-1/"
+    },
+    {
+      "title": "Politics 101 - Chapter 2 - Meeting Prep: Who Wants What",
+      "published": "2013-02-11",
+      "url": "http://www.manager-tools.com/2013/02/politics-101-chapter-2-meeting-prep-who-wants-what/"
+    },
+    {
+      "title": "Thank You For The Bad News",
+      "published": "2013-02-03",
+      "url": "http://www.manager-tools.com/2013/02/thank-you-bad-news/"
+    },
+    {
+      "title": "Negative Feedback Before Its Time",
+      "published": "2013-01-28",
+      "url": "http://www.manager-tools.com/2013/01/negative-feedback-before-its-time/"
+    },
+    {
+      "title": "Positive Feedback Before Its Time",
+      "published": "2013-01-21",
+      "url": "http://www.manager-tools.com/2013/01/positive-feedback-before-its-time/"
+    },
+    {
+      "title": "Overcoming Trinity Pushback - Chapter 1 - \"One on Ones Are Micromanaging\"",
+      "published": "2013-01-14",
+      "url": "http://www.manager-tools.com/2013/01/overcoming-trinity-pushback-chapter-1-one-ones-are-micromanaging/"
+    },
+    {
+      "title": "How To Do Succession Planning - Chapter 4 - The Delivery Meeting",
+      "published": "2013-01-07",
+      "url": "http://www.manager-tools.com/2013/01/how-do-succession-planning-chapter-4-delivery-meeting/"
+    },
+    {
+      "title": "Rules of Politics – Chapter One – Count Your Votes",
+      "published": "2012-12-31",
+      "url": "http://www.manager-tools.com/2012/12/rules-politics-chapter-one-count-your-votes/"
+    },
+    {
+      "title": "Calendar Management Details – Chapter 2 Priorities In The Morning",
+      "published": "2012-12-24",
+      "url": "http://www.manager-tools.com/2012/12/calendar-management-details-chapter-2-priorities-morning/"
+    },
+    {
+      "title": "Your Directs' Resumes",
+      "published": "2012-12-17",
+      "url": "http://www.manager-tools.com/2012/12/your-directs-resumes/"
+    },
+    {
+      "title": "How To Do Succession Planning Chapter 3 – The Simple Form",
+      "published": "2012-12-10",
+      "url": "http://www.manager-tools.com/2012/11/how-do-succession-planning-chapter-3-simple-form/"
+    },
+    {
+      "title": "One on Ones While Traveling - Part 2",
+      "published": "2012-12-02",
+      "url": "http://www.manager-tools.com/2012/12/one-ones-while-traveling-part-2/"
+    },
+    {
+      "title": "Effective Documentation - Part 2",
+      "published": "2012-11-25",
+      "url": "http://www.manager-tools.com/2012/11/effective-documentation-part-2/"
+    },
+    {
+      "title": "Effective Documentation - Part 1",
+      "published": "2012-11-18",
+      "url": "http://www.manager-tools.com/2012/10/effective-documentation-part-1/"
+    },
+    {
+      "title": "How To Handle Meeting Killers – Chapter 6 Multitasking",
+      "published": "2012-11-12",
+      "url": "http://www.manager-tools.com/2012/11/how-handle-meeting-killers-chapter-6-multitasking/"
+    },
+    {
+      "title": "Calendar Management Details Chapter 1 – Shorten Free Time",
+      "published": "2012-11-05",
+      "url": "http://www.manager-tools.com/2012/10/calendar-management-details-chapter-1-shorten-free-time/"
+    },
+    {
+      "title": "One on Ones While Traveling - Part 1",
+      "published": "2012-10-28",
+      "url": "http://www.manager-tools.com/2012/10/one-ones-while-traveling-part-1/"
+    },
+    {
+      "title": "Inheriting A Poor Performer - Part 2",
+      "published": "2012-10-22",
+      "url": "http://www.manager-tools.com/2012/10/inheriting-a-poor-performer-part-2/"
+    },
+    {
+      "title": "Inheriting A Poor Performer - Part 1",
+      "published": "2012-10-15",
+      "url": "http://www.manager-tools.com/2012/10/inheriting-a-poor-performer-part-1/"
+    },
+    {
+      "title": "How To Handle Meeting Killers - The Rambler",
+      "published": "2012-10-08",
+      "url": "http://www.manager-tools.com/2012/10/how-handle-meeting-killers-rambler/"
+    },
+    {
+      "title": "Admit Your Mistakes",
+      "published": "2012-10-01",
+      "url": "http://www.manager-tools.com/2012/09/admit-your-mistakes/"
+    },
+    {
+      "title": "Never Ask A Question Of A Direct (Whose Answer You Don’t Intend to Honor)",
+      "published": "2012-09-23",
+      "url": "http://www.manager-tools.com/2012/09/never-ask-a-question-whose-answer-you-dont-intend-honor/"
+    },
+    {
+      "title": "Executive Career Management - If Not You Who?",
+      "published": "2012-09-15",
+      "url": "http://www.manager-tools.com/2012/09/if-not-you-who/"
+    },
+    {
+      "title": "How To Handle Meeting Killers - The Silent Plotter",
+      "published": "2012-09-09",
+      "url": "http://www.manager-tools.com/2012/09/how-handle-meeting-killers-silent-plotter/"
+    },
+    {
+      "title": "Work Family Balance - Chapter 1 - Go Home",
+      "published": "2012-09-02",
+      "url": "http://www.manager-tools.com/2012/08/work-family-balance-chapter-1-go-home/"
+    },
+    {
+      "title": "The Part After Feedback - Chapter One - Part 2",
+      "published": "2012-08-26",
+      "url": "http://www.manager-tools.com/2012/08/part-after-feedback-chapter-one-part-2/"
+    },
+    {
+      "title": "The Part After Feedback - Chapter One - Part 1",
+      "published": "2012-08-20",
+      "url": "http://www.manager-tools.com/2012/08/part-after-feedback-chapter-one-part-1/"
+    },
+    {
+      "title": "Ask For What You Want",
+      "published": "2012-08-12",
+      "url": "http://www.manager-tools.com/2012/08/ask-what-you-want/"
+    },
+    {
+      "title": "How To Deliver A Shot Across The Bow Review",
+      "published": "2012-08-06",
+      "url": "http://www.manager-tools.com/2012/07/how-deliver-a-shot-across-bow-review/"
+    },
+    {
+      "title": "How To Deliver An Unofficial Review",
+      "published": "2012-07-30",
+      "url": "http://www.manager-tools.com/2012/07/how-deliver-unofficial-review/"
+    },
+    {
+      "title": "How To Do Succession Planning - Chapter 2",
+      "published": "2012-07-23",
+      "url": "http://www.manager-tools.com/2012/07/how-do-succession-planning-chapter-2/"
+    },
+    {
+      "title": "How To Handle Meeting Killers - The Naysayer",
+      "published": "2012-07-16",
+      "url": "http://www.manager-tools.com/2012/07/how-handle-meeting-killers-naysayer/"
+    },
+    {
+      "title": "Self Development Informal 360 Degree",
+      "published": "2012-07-08",
+      "url": "http://www.manager-tools.com/2012/07/self-development-informal-360/"
+    },
+    {
+      "title": "Common One On One Mistakes - Chapter One - Agenda Fascism",
+      "published": "2012-07-02",
+      "url": "http://www.manager-tools.com/2012/06/common-one-one-mistakes-chapter-one-agenda-fascism/"
+    },
+    {
+      "title": "How To Handle Meeting Killers - The Dominator",
+      "published": "2012-06-25",
+      "url": "http://www.manager-tools.com/2012/06/how-handle-meeting-killers-dominator/"
+    },
+    {
+      "title": "How To Do One On Ones With Shift Workers",
+      "published": "2012-06-18",
+      "url": "http://www.manager-tools.com/2012/06/how-do-one-ones-with-shift-workers/"
+    },
+    {
+      "title": "How To Do Succession Planning Chapter 1 – Ready Now, Ready Next",
+      "published": "2012-06-11",
+      "url": "http://www.manager-tools.com/2012/06/how-do-succession-planning-chapter-1-ready-now-ready-next/"
+    },
+    {
+      "title": "The Morning Greeting",
+      "published": "2012-06-04",
+      "url": "http://www.manager-tools.com/2012/06/morning-greeting/"
+    },
+    {
+      "title": "How To Handle Meeting Killers - The Jokester",
+      "published": "2012-05-28",
+      "url": "http://www.manager-tools.com/2012/05/how-handle-meeting-killers-chapter-one-jokester/"
+    },
+    {
+      "title": "Big To Small Meeting Agendas",
+      "published": "2012-05-21",
+      "url": "http://www.manager-tools.com/2012/05/big-small-meeting-agendas/"
+    },
+    {
+      "title": "How To Address Social Media Abuse",
+      "published": "2012-05-14",
+      "url": "http://www.manager-tools.com/2012/05/how-address-social-media-abuse/"
+    },
+    {
+      "title": "\"But I LIKE Doing That Part Of My Job!\"",
+      "published": "2012-05-07",
+      "url": "http://www.manager-tools.com/2012/04/i-doing-part-my-job/"
+    },
+    {
+      "title": "Aggregated Behaviors Are Performance - Part 2",
+      "published": "2012-04-29",
+      "url": "http://www.manager-tools.com/2012/04/aggregated-behaviors-are-performance-part-2/"
+    },
+    {
+      "title": "Aggregated Behaviors Are Performance - Part 1",
+      "published": "2012-04-23",
+      "url": "http://www.manager-tools.com/2012/04/aggregated-behaviors-are-performance-part-1/"
+    },
+    {
+      "title": "Feedback From Your Directs - What To Say - Part 2",
+      "published": "2012-04-15",
+      "url": "http://www.manager-tools.com/2012/04/feedback-your-directs-what-say-part-2/"
+    },
+    {
+      "title": "Feedback From Your Directs - What To Say - Part 1",
+      "published": "2012-04-08",
+      "url": "http://www.manager-tools.com/2012/04/feedback-your-directs-what-say-part-1/"
+    },
+    {
+      "title": "And Not But Meeting Ground Rule",
+      "published": "2012-04-01",
+      "url": "http://www.manager-tools.com/2012/03/and-not-meeting-ground-rule/"
+    },
+    {
+      "title": "How To Use A RACI Matrix",
+      "published": "2012-03-26",
+      "url": "http://www.manager-tools.com/2012/03/how-use-a-raci-matrix/"
+    },
+    {
+      "title": "Ethics - Part 2",
+      "published": "2012-03-22",
+      "url": "http://www.manager-tools.com/2012/03/ethics-part-2-0/"
+    },
+    {
+      "title": "How To Avoid Reverse Delegation",
+      "published": "2012-03-19",
+      "url": "http://www.manager-tools.com/2012/03/how-avoid-reverse-delegation/"
+    },
+    {
+      "title": "Ethics - Part 1",
+      "published": "2012-03-15",
+      "url": "http://www.manager-tools.com/2012/03/ethics-part-1-0/"
+    },
+    {
+      "title": "Bench Evaluation Chapter 1: Probing",
+      "published": "2012-03-12",
+      "url": "http://www.manager-tools.com/2012/03/bench-evaluation-chapter-1-probing/"
+    },
+    {
+      "title": "Delegating To The Floor",
+      "published": "2012-03-04",
+      "url": "http://www.manager-tools.com/2012/02/delegating-floor/"
+    },
+    {
+      "title": "The Fruit Bowl At Meetings",
+      "published": "2012-02-26",
+      "url": "http://www.manager-tools.com/2012/02/fruit-bowl-meetings/"
+    },
+    {
+      "title": "Internal Support Roles And Responsibilities - Part 2",
+      "published": "2012-02-23",
+      "url": "http://www.manager-tools.com/audio/internal-support-roles-and-responsibilities-part-2/"
+    },
+    {
+      "title": "Do NOT Give Feedback To Your Boss",
+      "published": "2012-02-18",
+      "url": "http://www.manager-tools.com/2012/02/do-not-give-feedback-your-boss/"
+    },
+    {
+      "title": "Internal Support Roles And Responsibilities - Part 1",
+      "published": "2012-02-17",
+      "url": "http://www.manager-tools.com/2012/02/internal-support-roles-and-responsibilities-part-1"
+    },
+    {
+      "title": "Measuring Feedback Chapter 1 - Part 2",
+      "published": "2012-02-12",
+      "url": "http://www.manager-tools.com/2012/02/measuring-feedback-chapter-1-part-2/"
+    },
+    {
+      "title": "Measuring Feedback Chapter 1 - Part 1",
+      "published": "2012-02-06",
+      "url": "http://www.manager-tools.com/2012/01/measuring-feedback-chapter-1-part-1/"
+    },
+    {
+      "title": "The 45 Minute Meeting",
+      "published": "2012-01-29",
+      "url": "http://www.manager-tools.com/2012/01/45-minute-meeting/"
+    },
+    {
+      "title": "The First Rule Of Probing In An Interview",
+      "published": "2012-01-22",
+      "url": "http://www.manager-tools.com/2012/01/first-rule-probing-interview/"
+    },
+    {
+      "title": "Routine Town Hall Meetings - Part 2",
+      "published": "2012-01-15",
+      "url": "http://www.manager-tools.com/2012/01/routine-town-hall-meetings-part-2/"
+    },
+    {
+      "title": "Routine Town Hall Meetings - Part 1",
+      "published": "2012-01-08",
+      "url": "http://www.manager-tools.com/2012/01/routine-town-hall-meetings-part-1/"
+    },
+    {
+      "title": "New Direct - First Day Meeting (500th Cast)",
+      "published": "2012-01-02",
+      "url": "http://www.manager-tools.com/2011/12/new-direct-first-day-meeting-500th-cast/"
+    },
+    {
+      "title": "Ending A Bad Interview - Part 2",
+      "published": "2011-12-25",
+      "url": "http://www.manager-tools.com/2011/12/ending-a-bad-interview-part-2/"
+    },
+    {
+      "title": "Ending A Bad Interview - Part 1",
+      "published": "2011-12-19",
+      "url": "http://www.manager-tools.com/2011/11/ending-a-bad-interview-part-1/"
+    },
+    {
+      "title": "The Steel Cage Death Match Meetings - Part 2",
+      "published": "2011-12-11",
+      "url": "http://www.manager-tools.com/2011/12/steel-cage-death-match-meetings-part-2/"
+    },
+    {
+      "title": "The Steel Cage Death Match Meetings - Part 1",
+      "published": "2011-12-04",
+      "url": "http://www.manager-tools.com/2011/11/steel-cage-death-match-meetings-part-1/"
+    },
+    {
+      "title": "Project Status Reporting Simple Feedback - Part 2",
+      "published": "2011-11-27",
+      "url": "http://www.manager-tools.com/2011/11/project-status-reporting-simple-feedback-part-2/"
+    },
+    {
+      "title": "Project Status Reporting Simple Feedback - Part 1",
+      "published": "2011-11-20",
+      "url": "http://www.manager-tools.com/2011/11/project-status-reporting-simple-feedback-part-1/"
+    },
+    {
+      "title": "The Project Management Drumbeat Meeting - Part 2",
+      "published": "2011-11-13",
+      "url": "http://www.manager-tools.com/2011/11/project-management-drumbeat-meeting-part-2/"
+    },
+    {
+      "title": "The Project Management Drumbeat Meeting - Part 1",
+      "published": "2011-11-06",
+      "url": "http://www.manager-tools.com/2011/11/project-management-drumbeat-meeting-part-1/"
+    },
+    {
+      "title": "Taking Notes In Interviews - Chapter 1",
+      "published": "2011-10-30",
+      "url": "http://www.manager-tools.com/2011/10/taking-notes-interviews-chapter-1/"
+    },
+    {
+      "title": "Project Meeting Reporting - Part 2",
+      "published": "2011-10-23",
+      "url": "http://www.manager-tools.com/2011/10/project-meeting-reporting-part-2/"
+    },
+    {
+      "title": "Project Meeting Reporting - Part 1",
+      "published": "2011-10-16",
+      "url": "http://www.manager-tools.com/2011/10/project-meeting-reporting-part-1/"
+    },
+    {
+      "title": "One On One Note-Taking Recommendations",
+      "published": "2011-10-10",
+      "url": "http://www.manager-tools.com/2011/10/one-one-note-taking-recommendations/"
+    },
+    {
+      "title": "Top And Bottom Performer Reporting",
+      "published": "2011-10-03",
+      "url": "http://www.manager-tools.com/2011/10/top-and-bottom-performer-reporting/"
+    },
+    {
+      "title": "The Coaching Dilemma - Part 2",
+      "published": "2011-09-25",
+      "url": "http://www.manager-tools.com/2011/09/coaching-dilemma-part-2/"
+    },
+    {
+      "title": "The Coaching Dilemma - Part 1",
+      "published": "2011-09-18",
+      "url": "http://www.manager-tools.com/2011/09/coaching-dilemma-part-1/"
+    },
+    {
+      "title": "The Coaching Dilemma Introduction",
+      "published": "2011-09-15",
+      "url": "http://www.manager-tools.com/2011/09/coaching-dilemma-introduction/"
+    },
+    {
+      "title": "Right Of First Refusal - Part 2",
+      "published": "2011-09-12",
+      "url": "http://www.manager-tools.com/2011/09/right-first-refusal-part-2/"
+    },
+    {
+      "title": "Right Of First Refusal - Part 1",
+      "published": "2011-09-05",
+      "url": "http://www.manager-tools.com/2011/09/right-first-refusal-part-1/"
+    },
+    {
+      "title": "Contract Employee One On Ones - Part 2",
+      "published": "2011-08-28",
+      "url": "http://www.manager-tools.com/2011/08/contract-employee-one-ones-part-2/"
+    },
+    {
+      "title": "Contract Employee One On Ones - Part 1",
+      "published": "2011-08-21",
+      "url": "http://www.manager-tools.com/2011/08/contract-employee-one-ones-part-1/"
+    },
+    {
+      "title": "Bi-Monthly Skip Level Reviews - Part 2",
+      "published": "2011-08-15",
+      "url": "http://www.manager-tools.com/2011/08/bi-monthly-skip-level-reviews-part-2/"
+    },
+    {
+      "title": "Bi-Monthly Skip Level Reviews - Part 1",
+      "published": "2011-08-07",
+      "url": "http://www.manager-tools.com/2011/07/bi-monthly-skip-level-reviews-part-1/"
+    },
+    {
+      "title": "Travel EMP",
+      "published": "2011-07-31",
+      "url": "http://www.manager-tools.com/2011/08/travel-emp/"
+    },
+    {
+      "title": "Can I Be Friends With My Directs? - Part 2",
+      "published": "2011-07-24",
+      "url": "http://www.manager-tools.com/2011/07/can-i-be-friends-with-my-directs-part-2/"
+    },
+    {
+      "title": "Can I Be Friends With My Directs? - Part 1",
+      "published": "2011-07-18",
+      "url": "http://www.manager-tools.com/2011/07/can-i-be-friends-with-my-directs-part-1/"
+    },
+    {
+      "title": "There Is No Why In Feedback - Part 2",
+      "published": "2011-07-11",
+      "url": "http://www.manager-tools.com/2011/07/there-no-why-feedback-part-2/"
+    },
+    {
+      "title": "There Is No Why In Feedback - Part 1",
+      "published": "2011-07-03",
+      "url": "http://www.manager-tools.com/2011/06/there-no-why-feedback-part-1/"
+    },
+    {
+      "title": "Coaching Presenting Skills With Toastmasters",
+      "published": "2011-06-26",
+      "url": "http://www.manager-tools.com/2011/06/coaching-presentation-skills-with-toastmasters/"
+    },
+    {
+      "title": "Measuring The Trinity - Chapter 1",
+      "published": "2011-06-19",
+      "url": "http://www.manager-tools.com/2011/06/measuring-trinity-chapter-1/"
+    },
+    {
+      "title": "The One Third-Planning Rule - Part 2",
+      "published": "2011-06-12",
+      "url": "http://www.manager-tools.com/2011/06/one-third-planning-rule-part-2/"
+    },
+    {
+      "title": "The One Third-Planning Rule - Part 1",
+      "published": "2011-06-06",
+      "url": "http://www.manager-tools.com/2011/06/one-third-planning-rule-part-1/"
+    },
+    {
+      "title": "Over Assigning And Delegating Work - Part 3",
+      "published": "2011-05-30",
+      "url": "http://www.manager-tools.com/2011/05/over-assigning-and-delegating-work-part-3/"
+    },
+    {
+      "title": "Over Assigning And Delegating Work - Part 2",
+      "published": "2011-05-22",
+      "url": "http://www.manager-tools.com/2011/05/over-assigning-and-delegating-work-part-2/"
+    },
+    {
+      "title": "Over Assigning And Delegating Work - Part 1",
+      "published": "2011-05-15",
+      "url": "http://www.manager-tools.com/2011/05/over-assigning-and-delegating-work-part-1/"
+    },
+    {
+      "title": "Peer One on Ones - Part 2",
+      "published": "2011-05-08",
+      "url": "http://www.manager-tools.com/2011/05/peer-one-ones-part-2/"
+    },
+    {
+      "title": "Peer One on Ones - Part 1",
+      "published": "2011-05-01",
+      "url": "http://www.manager-tools.com/2011/04/peer-one-ones-part-1/"
+    },
+    {
+      "title": "Event Based Feedback",
+      "published": "2011-04-24",
+      "url": "http://www.manager-tools.com/2011/04/event-based-feedback/"
+    },
+    {
+      "title": "How To Manage A Disgruntled Non-Promoted Direct - Part 3",
+      "published": "2011-04-17",
+      "url": "http://www.manager-tools.com/2011/04/how-manage-a-disgruntled-non-promoted-direct-part-3/"
+    },
+    {
+      "title": "How To Manage A Disgruntled Non-Promoted Direct - Part 2",
+      "published": "2011-04-10",
+      "url": "http://www.manager-tools.com/2011/04/how-manage-a-disgruntled-non-promoted-direct-part-2/"
+    },
+    {
+      "title": "How To Manage A Disgruntled Non-Promoted Direct - Part 1",
+      "published": "2011-04-03",
+      "url": "http://www.manager-tools.com/2011/04/how-manage-a-disgruntled-non-promoted-direct-part-1/"
+    },
+    {
+      "title": "Internal Team Pre-Wires",
+      "published": "2011-03-27",
+      "url": "http://www.manager-tools.com/2011/03/internal-team-pre-wires/"
+    },
+    {
+      "title": "How To Run A SPOT Project Kickoff Meeting",
+      "published": "2011-03-20",
+      "url": "http://www.manager-tools.com/2011/03/how-run-a-spot-project-kickoff-meeting/"
+    },
+    {
+      "title": "How To Assign Work Tasks - Part 2",
+      "published": "2011-03-13",
+      "url": "http://www.manager-tools.com/2011/03/how-assign-work-tasks-part-2/"
+    },
+    {
+      "title": "How To Assign Work Tasks - Part 1",
+      "published": "2011-03-06",
+      "url": "http://www.manager-tools.com/2011/02/how-assign-work-tasks-part-1/"
+    },
+    {
+      "title": "How To Manage A Massive Workload Increase - Part 4",
+      "published": "2011-02-27",
+      "url": "http://www.manager-tools.com/2011/02/how-manage-a-massive-workload-increase-part-4/"
+    },
+    {
+      "title": "How To Manage A Massive Workload Increase - Part 3",
+      "published": "2011-02-20",
+      "url": "http://www.manager-tools.com/2011/02/how-manage-a-massive-workload-increase-part-3/"
+    },
+    {
+      "title": "How To Manage A Massive Workload Increase - Part 2",
+      "published": "2011-02-13",
+      "url": "http://www.manager-tools.com/2011/02/how-manage-a-massive-workload-increase-part-2/"
+    },
+    {
+      "title": "How To Manage A Massive Workload Increase - Part 1",
+      "published": "2011-02-07",
+      "url": "http://www.manager-tools.com/2011/02/how-manage-a-massive-workload-increase-part-1/"
+    },
+    {
+      "title": "Boss Meeting Prep - No Surprises",
+      "published": "2011-01-30",
+      "url": "http://www.manager-tools.com/2011/01/boss-meeting-prep-no-surprises/"
+    },
+    {
+      "title": "Conduct Multiple Interviews, Chapter 1 - Part 3",
+      "published": "2011-01-23",
+      "url": "http://www.manager-tools.com/2011/01/conduct-multiple-interviews-chapter-1-part-3/"
+    },
+    {
+      "title": "Conduct Multiple Interviews, Chapter 1 - Part 2",
+      "published": "2011-01-17",
+      "url": "http://www.manager-tools.com/2011/01/conduct-multiple-interviews-chapter-1-part-2/"
+    },
+    {
+      "title": "Conduct Multiple Interviews, Chapter 1 - Part 1",
+      "published": "2011-01-09",
+      "url": "http://www.manager-tools.com/2011/01/conduct-multiple-interviews-chapter-1-part-1/"
+    },
+    {
+      "title": "Assumptive Goal Setting",
+      "published": "2011-01-02",
+      "url": "http://www.manager-tools.com/2010/12/assumptive-goal-setting/"
+    },
+    {
+      "title": "Managers Are Communicated THROUGH",
+      "published": "2010-12-26",
+      "url": "http://www.manager-tools.com/2010/12/managers-are-communicated-through/"
+    },
+    {
+      "title": "Professional Subordination - Part 2",
+      "published": "2010-12-19",
+      "url": "http://www.manager-tools.com/2010/12/professional-subordination-part-2/"
+    },
+    {
+      "title": "Professional Subordination - Part 1",
+      "published": "2010-12-12",
+      "url": "http://www.manager-tools.com/2010/12/professional-subordination-part-1/"
+    },
+    {
+      "title": "Managing A High I: Dangers Part 2",
+      "published": "2010-12-05",
+      "url": "http://www.manager-tools.com/2010/12/managing-a-high-i-dangers-part-2/"
+    },
+    {
+      "title": "Managing A High I: Dangers Part 1",
+      "published": "2010-11-28",
+      "url": "http://www.manager-tools.com/2010/11/managing-a-high-i-dangers-part-1/"
+    },
+    {
+      "title": "Not Too Picky Feedback",
+      "published": "2010-11-21",
+      "url": "http://www.manager-tools.com/2010/11/not-too-picky-feedback/"
+    },
+    {
+      "title": "Mentoring With Political Smarts",
+      "published": "2010-11-14",
+      "url": "http://www.manager-tools.com/2010/11/mentoring-with-political-smarts/"
+    },
+    {
+      "title": "Calendar Changes And Your Admin",
+      "published": "2010-11-07",
+      "url": "http://www.manager-tools.com/2010/11/calendar-changes-and-your-admin/"
+    },
+    {
+      "title": "Simple Project Reporting Guidance",
+      "published": "2010-11-01",
+      "url": "http://www.manager-tools.com/2010/11/simple-project-reporting-guidance/"
+    },
+    {
+      "title": "Distant Manager Basics - Part 2",
+      "published": "2010-10-24",
+      "url": "http://www.manager-tools.com/2010/10/distant-manager-basics-part-2/"
+    },
+    {
+      "title": "Distant Manager Basics - Part 1",
+      "published": "2010-10-17",
+      "url": "http://www.manager-tools.com/2010/10/distant-manager-basics-part-1/"
+    },
+    {
+      "title": "Introducing Managerial Change",
+      "published": "2010-10-09",
+      "url": "http://www.manager-tools.com/2010/10/introducing-managerial-change/"
+    },
+    {
+      "title": "Resistant Directs In One on Ones",
+      "published": "2010-10-03",
+      "url": "http://www.manager-tools.com/2010/10/resistant-directs-one-ones/"
+    },
+    {
+      "title": "Managers and Governmental Politics – Part 2",
+      "published": "2010-09-27",
+      "url": "http://www.manager-tools.com/2010/09/managers-and-governmental-politics-part-2/"
+    },
+    {
+      "title": "Managers and Governmental Politics – Part 1",
+      "published": "2010-09-19",
+      "url": "http://www.manager-tools.com/2010/09/managers-and-governmental-politics-oil-and-water/"
+    },
+    {
+      "title": "Succession Planning - Extending Your Network",
+      "published": "2010-09-12",
+      "url": "http://www.manager-tools.com/2010/09/succession-planning-extending-your-network/"
+    },
+    {
+      "title": "Effective Meetings Starter Model - Part 2",
+      "published": "2010-09-07",
+      "url": "http://www.manager-tools.com/2010/09/effective-meetings-starter-model-part-2/"
+    },
+    {
+      "title": "Effective Meetings Starter Model - Part 1",
+      "published": "2010-08-30",
+      "url": "http://www.manager-tools.com/2010/08/effective-meetings-starter-model-part-1/"
+    },
+    {
+      "title": "One on Ones – Work or Personal?",
+      "published": "2010-08-22",
+      "url": "http://www.manager-tools.com/2010/08/one-ones-work-or-personal/"
+    },
+    {
+      "title": "One On Ones Are Business Meetings",
+      "published": "2010-08-15",
+      "url": "http://www.manager-tools.com/2010/08/one-ones-are-business-meetings/"
+    },
+    {
+      "title": "How To Handle Public Disagreement - Part 2",
+      "published": "2010-08-08",
+      "url": "http://www.manager-tools.com/2010/08/how-handle-public-disagreement-part-2/"
+    },
+    {
+      "title": "How To Handle Public Disagreement - Part 1",
+      "published": "2010-08-01",
+      "url": "http://www.manager-tools.com/2010/08/how-handle-public-disagreement-part-1/"
+    },
+    {
+      "title": "Third Party Negative Feedback – How To Decide",
+      "published": "2010-07-25",
+      "url": "http://www.manager-tools.com/2010/07/third-party-negative-feedback-how-to-decide/"
+    },
+    {
+      "title": "Skip Level Feedback",
+      "published": "2010-07-18",
+      "url": "http://www.manager-tools.com/2010/07/skip-level-feedback/"
+    },
+    {
+      "title": "Calendar Control #1 – Say No",
+      "published": "2010-07-12",
+      "url": "http://www.manager-tools.com/2010/07/calendar-control-say-no/"
+    },
+    {
+      "title": "Resolving Conflict With Internal Support Providers",
+      "published": "2010-07-09",
+      "url": "https://www.manager-tools.com/2010/07/resolving-conflict-with-internal-support-providers"
+    },
+    {
+      "title": "Assign Work AND Reporting",
+      "published": "2010-07-04",
+      "url": "http://www.manager-tools.com/2010/07/assign-work-and-reporting/"
+    },
+    {
+      "title": "Praise In Public, Criticize In Private Is WRONG",
+      "published": "2010-06-27",
+      "url": "http://www.manager-tools.com/2010/06/praise-public-criticize-private-wrong/"
+    },
+    {
+      "title": "Yes, Please Praise, Thank You",
+      "published": "2010-06-20",
+      "url": "http://www.manager-tools.com/2010/06/yes-please-praise-thank-you/"
+    },
+    {
+      "title": "Feedback – Public Or Private?",
+      "published": "2010-06-14",
+      "url": "http://www.manager-tools.com/2010/06/feedback-public-or-private/"
+    },
+    {
+      "title": "Feedback Immediacy",
+      "published": "2010-06-07",
+      "url": "http://www.manager-tools.com/2010/06/feedback-immediacy/"
+    },
+    {
+      "title": "When NOT To Give Feedback - Part 2",
+      "published": "2010-05-30",
+      "url": "http://www.manager-tools.com/2010/05/when-not-give-feedback-part-2/"
+    },
+    {
+      "title": "When NOT To Give Feedback - Part 1",
+      "published": "2010-05-23",
+      "url": "http://www.manager-tools.com/2010/05/when-not-give-feedback-part-1/"
+    },
+    {
+      "title": "Small Company Systems – The Rule of 150, Part 2",
+      "published": "2010-05-17",
+      "url": "http://www.manager-tools.com/2010/05/small-company-systems-the-rule-150-part-2/"
+    },
+    {
+      "title": "Small Company Systems – The Rule of 150, Part 1",
+      "published": "2010-05-10",
+      "url": "http://www.manager-tools.com/2010/05/small-company-systems-rule-of-150-part-1/"
+    },
+    {
+      "title": "How To Choose What To Delegate",
+      "published": "2010-05-03",
+      "url": "http://www.manager-tools.com/2010/05/how-choose-what-delegate/"
+    },
+    {
+      "title": "Influence Through Verbal Commitments - Part 2",
+      "published": "2010-04-26",
+      "url": "http://www.manager-tools.com/2010/04/influence-through-verbal-commitments-part-2/"
+    },
+    {
+      "title": "Influence Through Verbal Commitments - Part 1",
+      "published": "2010-04-18",
+      "url": "http://www.manager-tools.com/2010/04/influence-through-verbal-commitments-part-1/"
+    },
+    {
+      "title": "LinkedIn For Managers - Part 2",
+      "published": "2010-04-11",
+      "url": "http://www.manager-tools.com/2010/04/linkedin-managers-part-2/"
+    },
+    {
+      "title": "LinkedIn For Managers - Part 1",
+      "published": "2010-04-04",
+      "url": "http://www.manager-tools.com/2010/04/linkedin-managers-part-1/"
+    },
+    {
+      "title": "Rolling DOWN The Trinity",
+      "published": "2010-03-28",
+      "url": "http://www.manager-tools.com/2010/03/rolling-down-trinity/"
+    },
+    {
+      "title": "The Manager Tools Promotion Standard: 150% - Part 2",
+      "published": "2010-03-21",
+      "url": "http://www.manager-tools.com/2010/03/manager-tools-promotion-standard-150-part-2/"
+    },
+    {
+      "title": "The Manager Tools Promotion Standard: 150% - Part 1",
+      "published": "2010-03-14",
+      "url": "http://www.manager-tools.com/2010/03/manager-tools-promotion-standard-150-part-1/"
+    },
+    {
+      "title": "Delegate Your Reporting - Part 2",
+      "published": "2010-03-07",
+      "url": "http://www.manager-tools.com/2010/03/delegate-your-reporting-part-2/"
+    },
+    {
+      "title": "Delegate Your Reporting",
+      "published": "2010-02-28",
+      "url": "http://www.manager-tools.com/2010/02/delegate-your-reporting/"
+    },
+    {
+      "title": "High D Manager Simple Downfall",
+      "published": "2010-02-21",
+      "url": "http://www.manager-tools.com/2010/02/high-d-manager-simple-downfall/"
+    },
+    {
+      "title": "High S Manager Simple Downfall",
+      "published": "2010-02-14",
+      "url": "http://www.manager-tools.com/2010/02/high-s-manager-simple-downfall/"
+    },
+    {
+      "title": "Intra-Company Training Network Building",
+      "published": "2010-02-07",
+      "url": "http://www.manager-tools.com/2010/02/intra-company-training-network-building/"
+    },
+    {
+      "title": "Managing Cultural Diversity - The Wendii Curve",
+      "published": "2010-02-01",
+      "url": "http://www.manager-tools.com/2010/02/managing-cultural-diversity-wendii-curve/"
+    },
+    {
+      "title": "How To Manage An Arrogant Producer",
+      "published": "2010-01-23",
+      "url": "http://www.manager-tools.com/2010/01/how-manage-arrogant-producer/"
+    },
+    {
+      "title": "How To Stop Gossip",
+      "published": "2010-01-18",
+      "url": "http://www.manager-tools.com/2010/01/how-stop-gossip/"
+    },
+    {
+      "title": "The High I Manager Simple Downfall",
+      "published": "2010-01-10",
+      "url": "http://www.manager-tools.com/2010/01/high-i-manager-simple-downfall/"
+    },
+    {
+      "title": "Developing Subordinate Managers - Chapter 1",
+      "published": "2010-01-03",
+      "url": "http://www.manager-tools.com/2010/01/developing-subordinate-managers-chapter-1/"
+    },
+    {
+      "title": "Coaching/Feedback Template For Presentations",
+      "published": "2009-12-28",
+      "url": "http://www.manager-tools.com/2009/12/coachingfeedback-template-presentations/"
+    },
+    {
+      "title": "Favorite Candidate Interview Preparation - Part 2",
+      "published": "2009-12-20",
+      "url": "http://www.manager-tools.com/2009/12/favorite-candidate-interview-preparation-part-2/"
+    },
+    {
+      "title": "Favorite Candidate Interview Preparation - Part 1",
+      "published": "2009-12-13",
+      "url": "http://www.manager-tools.com/2009/12/favorite-candidate-interview-preparation-part-1/"
+    },
+    {
+      "title": "High C Manager Simple Downfall - Part 2",
+      "published": "2009-12-06",
+      "url": "http://www.manager-tools.com/2009/12/high-c-manager-simple-downfall-part-2/"
+    },
+    {
+      "title": "High C Manager Simple Downfall - Part 1",
+      "published": "2009-11-30",
+      "url": "http://www.manager-tools.com/2009/11/high-c-manager-simple-downfall-part-1/"
+    },
+    {
+      "title": "The One On One Refresh",
+      "published": "2009-11-22",
+      "url": "http://www.manager-tools.com/2009/11/one-one-refresh/"
+    },
+    {
+      "title": "My Boss Skips Me",
+      "published": "2009-11-16",
+      "url": "http://www.manager-tools.com/2009/11/my-boss-skips-me/"
+    },
+    {
+      "title": "Owning The Inputs - Part 2",
+      "published": "2009-11-09",
+      "url": "http://www.manager-tools.com/2009/11/owning-inputs-part-2/"
+    },
+    {
+      "title": "Owning The Inputs - Part 1",
+      "published": "2009-11-01",
+      "url": "http://www.manager-tools.com/2009/11/owning-inputs-part-1/"
+    },
+    {
+      "title": "Managers and Confidentiality",
+      "published": "2009-10-25",
+      "url": "http://www.manager-tools.com/2009/10/managers-and-confidentiality/"
+    },
+    {
+      "title": "The Management Trinity - Part 3",
+      "published": "2009-10-18",
+      "url": "http://www.manager-tools.com/2009/10/management-trinity-part-3/"
+    },
+    {
+      "title": "The Management Trinity - Part 2",
+      "published": "2009-10-12",
+      "url": "http://www.manager-tools.com/2009/10/management-trinity-part-2/"
+    },
+    {
+      "title": "The Management Trinity - Part 1",
+      "published": "2009-10-04",
+      "url": "http://www.manager-tools.com/2009/10/management-trinity-part-1/"
+    },
+    {
+      "title": "Timely Meetings – Part 2",
+      "published": "2009-09-27",
+      "url": "http://www.manager-tools.com/2009/09/timely-meetings-part-2/"
+    },
+    {
+      "title": "Timely Meetings – Part 1",
+      "published": "2009-09-20",
+      "url": "http://www.manager-tools.com/2009/09/timely-meetings-part-1/"
+    },
+    {
+      "title": "The First Question In Your One on One",
+      "published": "2009-09-14",
+      "url": "http://www.manager-tools.com/2009/09/first-question-your-one-one/"
+    },
+    {
+      "title": "Admin Trip Folders – Part 2",
+      "published": "2009-09-06",
+      "url": "http://www.manager-tools.com/2009/09/admin-trip-folders-part-2/"
+    },
+    {
+      "title": "Admin Trip Folders - Part 1",
+      "published": "2009-08-30",
+      "url": "http://www.manager-tools.com/2009/08/admin-trip-folders/"
+    },
+    {
+      "title": "Direct Relationships Acid Test",
+      "published": "2009-08-24",
+      "url": "http://www.manager-tools.com/2009/08/direct-relationships-acid-test/"
+    },
+    {
+      "title": "Quick and Dirty Choosing a Number Two",
+      "published": "2009-08-16",
+      "url": "http://www.manager-tools.com/2009/08/quick-and-dirty-choosing-a-number-two/"
+    },
+    {
+      "title": "Project Manager Feedback",
+      "published": "2009-08-09",
+      "url": "http://www.manager-tools.com/2009/08/project-manager-feedback/"
+    },
+    {
+      "title": "Team Formation – How Big?",
+      "published": "2009-08-03",
+      "url": "http://www.manager-tools.com/2009/08/team-formation-how-big/"
+    },
+    {
+      "title": "What To Delegate",
+      "published": "2009-07-25",
+      "url": "http://www.manager-tools.com/2009/07/what-to-delegate/"
+    },
+    {
+      "title": "Manager Tools Coaching Model - Updated - Part 3",
+      "published": "2009-07-19",
+      "url": "http://www.manager-tools.com/2024/07/manager-tools-coaching-model-updated-part-3"
+    },
+    {
+      "title": "Manager Tools Coaching Model - Updated - Part 2",
+      "published": "2009-07-19",
+      "url": "http://www.manager-tools.com/2024/07/manager-tools-coaching-model-updated-part-2"
+    },
+    {
+      "title": "Manager Tools Coaching Model - Updated - Part 1",
+      "published": "2009-07-12",
+      "url": "http://www.manager-tools.com/2024/07/manager-tools-coaching-model-updated-part-1"
+    },
+    {
+      "title": "Fighting The Downturn Silence",
+      "published": "2009-07-05",
+      "url": "http://www.manager-tools.com/2009/07/fighting-downturn-silence/"
+    },
+    {
+      "title": "Simple DiSC®, Delegation, And Project Management - Part 2",
+      "published": "2009-06-28",
+      "url": "http://www.manager-tools.com/2009/06/simple-disc-delegation-and-project-management-part-2/"
+    },
+    {
+      "title": "Simple DiSC, Delegation, And Project Management - Part 1",
+      "published": "2009-06-22",
+      "url": "http://www.manager-tools.com/2009/06/simple-disc-delegation-and-project-management-part-1/"
+    },
+    {
+      "title": "Change Leadership, What's My Visual - Part 2",
+      "published": "2009-06-14",
+      "url": "http://www.manager-tools.com/2009/06/change-leadership-whats-my-visual-part-2/"
+    },
+    {
+      "title": "Change Leadership, What's My Visual - Part 1",
+      "published": "2009-06-07",
+      "url": "http://www.manager-tools.com/2009/06/change-leadership-whats-my-visual-part-1/"
+    },
+    {
+      "title": "Project Manager One on Ones - Part 2",
+      "published": "2009-05-31",
+      "url": "http://www.manager-tools.com/2009/05/project-manager-one-ones-part-2/"
+    },
+    {
+      "title": "Project Manager One on Ones - Part 1",
+      "published": "2009-05-25",
+      "url": "http://www.manager-tools.com/2009/05/project-manager-one-ones-part-1/"
+    },
+    {
+      "title": "Phone One on Ones",
+      "published": "2009-05-17",
+      "url": "http://www.manager-tools.com/2009/05/phone-one-ones/"
+    },
+    {
+      "title": "Coaching the Meeting Delegation- Part 2",
+      "published": "2009-05-10",
+      "url": "http://www.manager-tools.com/2009/05/coaching-meeting-delegation-part-2/"
+    },
+    {
+      "title": "Coaching the Meeting Delegation- Part 1",
+      "published": "2009-05-03",
+      "url": "http://www.manager-tools.com/2009/05/coaching-meeting-delegation-part-1/"
+    },
+    {
+      "title": "Staff Meeting Delegation and Succession Planning",
+      "published": "2009-04-26",
+      "url": "http://www.manager-tools.com/2009/04/staff-meeting-delegation-and-succession-planning/"
+    },
+    {
+      "title": "One Less Thing - Free Up Your Calendar",
+      "published": "2009-04-19",
+      "url": "http://www.manager-tools.com/2009/04/one-less-thing-free-your-calendar/"
+    },
+    {
+      "title": "The Feedback Continuum",
+      "published": "2009-04-12",
+      "url": "http://www.manager-tools.com/2009/04/feedback-continuum/"
+    },
+    {
+      "title": "Systemic Feedback",
+      "published": "2009-04-05",
+      "url": "http://www.manager-tools.com/2009/04/systemic-feedback/"
+    },
+    {
+      "title": "Layoff Communications Part 1: Openly Confidential",
+      "published": "2009-03-29",
+      "url": "http://www.manager-tools.com/2009/03/layoff-communications-part-1-openly-confidential/"
+    },
+    {
+      "title": "Bad Boss #1 - When You Have Directs",
+      "published": "2009-03-22",
+      "url": "http://www.manager-tools.com/2009/03/bad-boss-1-when-you-have-directs/"
+    },
+    {
+      "title": "Deciding Between Two Good Candidates",
+      "published": "2009-03-15",
+      "url": "http://www.manager-tools.com/2009/03/deciding-between-two-good-candidates/"
+    },
+    {
+      "title": "The Heart of Feedback",
+      "published": "2009-03-08",
+      "url": "http://www.manager-tools.com/2009/03/heart-feedback/"
+    },
+    {
+      "title": "Effective Meetings - No Laptops",
+      "published": "2009-03-01",
+      "url": "http://www.manager-tools.com/2009/03/effective-meetings-no-laptops/"
+    },
+    {
+      "title": "The Starter Feedback Model - Part 2",
+      "published": "2009-02-22",
+      "url": "http://www.manager-tools.com/2009/02/starter-feedback-model-part-2/"
+    },
+    {
+      "title": "The Starter Feedback Model - Part 1",
+      "published": "2009-02-15",
+      "url": "http://www.manager-tools.com/2009/02/starter-feedback-model-part-1/"
+    },
+    {
+      "title": "How To Handle Two Viable Job Candidates",
+      "published": "2009-02-08",
+      "url": "http://www.manager-tools.com/2009/02/how-handle-two-viable-job-candidates/"
+    },
+    {
+      "title": "Bench Development in a Downturn",
+      "published": "2009-02-01",
+      "url": "http://www.manager-tools.com/2009/02/bench-development-downturn/"
+    },
+    {
+      "title": "Horstman's Law of Project Management - Part 4",
+      "published": "2009-01-25",
+      "url": "http://www.manager-tools.com/2009/01/horstmans-law-project-management-part-4/"
+    },
+    {
+      "title": "Horstman's Law of Project Management - Part 3",
+      "published": "2009-01-18",
+      "url": "http://www.manager-tools.com/2009/01/horstmans-law-project-management-part-3/"
+    },
+    {
+      "title": "Horstman's Law of Project Management - Part 2",
+      "published": "2009-01-11",
+      "url": "http://www.manager-tools.com/2009/01/horstmans-law-project-management-part-2/"
+    },
+    {
+      "title": "Horstman's Law of Project Management - Part 1",
+      "published": "2009-01-04",
+      "url": "http://www.manager-tools.com/2009/01/horstmans-law-project-management-part-1/"
+    },
+    {
+      "title": "Rolling Out The Trinity - Updated - Part 3",
+      "published": "2008-08-31",
+      "url": "http://www.manager-tools.com/2024/06/rolling-out-trinity-updated-part-3"
+    },
+    {
+      "title": "Rolling Out The Trinity - Updated - Part 2",
+      "published": "2008-08-23",
+      "url": "http://www.manager-tools.com/2024/06/rolling-out-trinity-updated-part-2"
+    },
+    {
+      "title": "Rolling Out The Trinity - Updated - Part 1",
+      "published": "2008-08-17",
+      "url": "http://www.manager-tools.com/2024/06/rolling-out-trinity-updated-part-1"
+    },
+    {
+      "title": "Handling Peer Conflict When Your Directs Are Involved - Part 2",
+      "published": "2007-02-12",
+      "url": "https://www.manager-tools.com/2007/02/handling-peer-conflict-when-your-directs-are-involved-part-2"
+    },
+    {
+      "title": "Handling Peer Conflict When Your Directs Are Involved - Part 1",
+      "published": "2007-02-05",
+      "url": "https://www.manager-tools.com/2007/02/handling-peer-conflict-when-your-directs-are-involved-part-1"
+    },
+    {
+      "title": "Resolving Conflict",
+      "published": "2006-08-14",
+      "url": "https://www.manager-tools.com/2006/08/resolving-conflict"
+    },
+    {
+      "title": "Time (Priority) Management - Part 2 (2025)",
+      "published": "2006-05-21",
+      "url": "https://www.manager-tools.com/2025/10/time-priority-management-part-2"
+    },
+    {
+      "title": "Time (Priority) Management - Part 1 (2025)",
+      "published": "2006-05-21",
+      "url": "https://www.manager-tools.com/2025/10/time-priority-management-part-1"
+    },
+    {
+      "title": "Time (Priority) Management - Part 2 (Hall Of Fame Guidance)",
+      "published": "2006-05-21",
+      "url": "https://www.manager-tools.com/2006/05/time-management-part-2-of-2"
+    },
+    {
+      "title": "Time (Priority) Management - Part 1 (Hall Of Fame Guidance)",
+      "published": "2006-05-14",
+      "url": "https://www.manager-tools.com/2006/05/time-management"
+    },
+    {
+      "title": "Effective Meetings - There’s More!",
+      "published": "2005-08-16",
+      "url": "http://www.manager-tools.com/2005/08/effective-meetings-theres-more/"
+    },
+    {
+      "title": "Effective Meetings - Part Two",
+      "published": "2005-08-08",
+      "url": "http://www.manager-tools.com/2005/08/effective-meetings-part-two/"
+    },
+    {
+      "title": "Effective Meetings - Get Out of Jail!",
+      "published": "2005-08-01",
+      "url": "http://www.manager-tools.com/2005/08/effective-meetings-get-out-of-jail/"
+    },
+    {
+      "title": "The Juggling Koan",
+      "published": "2007-01-14",
+      "url": "http://www.manager-tools.com/2007/01/the-juggling-koan/"
+    },
+    {
+      "title": "Improve Your Feedback",
+      "published": "2006-02-17",
+      "url": "http://www.manager-tools.com/2006/02/improve-your-feedback/"
+    },
+    {
+      "title": "Feedback - Revisited!",
+      "published": "2005-10-10",
+      "url": "http://www.manager-tools.com/2005/10/feedback-revisited/"
+    },
+    {
+      "title": "Manager Tools Delegation Model - Updated",
+      "published": "2005-08-22",
+      "url": "http://www.manager-tools.com/2024/07/manager-tools-delegation-model-updated"
+    },
+    {
+      "title": "Manager Tools Feedback Model - Updated - Part 3",
+      "published": "2005-07-18",
+      "url": "http://www.manager-tools.com/2024/05/manager-tools-feedback-model-updated-part-3"
+    },
+    {
+      "title": "Manager Tools Feedback Model - Updated - Part 2",
+      "published": "2005-07-18",
+      "url": "https://www.manager-tools.com/2024/05/manager-tools-feedback-model-updated-part-2"
+    },
+    {
+      "title": "Manager Tools Feedback Model - Updated - Part 1",
+      "published": "2005-07-18",
+      "url": "http://www.manager-tools.com/2024/05/manager-tools-feedback-model-updated-part-1"
+    },
+    {
+      "title": "Questions and Answers on One-on-Ones",
+      "published": "2005-07-10",
+      "url": "http://www.manager-tools.com/2005/07/questions-and-answers-on-one-on-ones/"
+    },
+    {
+      "title": "Manager Tools One On Ones - Updated - Part 3",
+      "published": "2005-07-04",
+      "url": "https://www.manager-tools.com/2024/05/manager-tools-one-ones-updated-part-3"
+    },
+    {
+      "title": "Manager Tools One On Ones - Updated - Part 2",
+      "published": "2005-07-04",
+      "url": "http://www.manager-tools.com/2024/04/manager-tools-one-ones-updated-part-2"
+    },
+    {
+      "title": "Manager Tools One On Ones - Updated - Part 1",
+      "published": "2005-07-04",
+      "url": "https://www.manager-tools.com/2024/04/manager-tools-one-ones-updated-part-1"
+    }
+  ]
+}

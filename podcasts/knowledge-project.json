@@ -1,0 +1,1436 @@
+{
+  "show": "The Knowledge Project with Shane Parrish",
+  "slug": "knowledge-project",
+  "appleId": 990149481,
+  "feedUrl": "https://feeds.megaphone.fm/FSMI7575968096",
+  "homeUrl": "https://fs.blog",
+  "canonicalPattern": "https://fs.blog/knowledge-project-podcast/<slug>/",
+  "episodeCount": 285,
+  "episodes": [
+    {
+      "title": "The Mindset Behind Building Billion-Dollar Companies | Brad Jacobs",
+      "published": "2026-08-04",
+      "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/"
+    },
+    {
+      "title": "John D. Rockefeller: The Principles Behind The Greatest Fortune in History",
+      "published": "2026-07-28",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-john-d-rockefeller/"
+    },
+    {
+      "title": "Opendoor CEO: Excellence Is the Capacity to Take Pain",
+      "published": "2026-07-21",
+      "url": "https://fs.blog/knowledge-project-podcast/kaz-nejatian/"
+    },
+    {
+      "title": "The Mindset That Unlocks Your Full Potential | Dr. Gio Valiante",
+      "published": "2026-07-07",
+      "url": "https://fs.blog/knowledge-project-podcast/performance-psychologist-mindset/"
+    },
+    {
+      "title": "How to Repair and Nourish Your Gut | Dr. Giulia Enders",
+      "published": "2026-06-23",
+      "url": "https://fs.blog/knowledge-project-podcast/dr-giulia-enders/"
+    },
+    {
+      "title": "Mental Models That Change How You Think | Bill Gurley",
+      "published": "2026-06-09",
+      "url": "https://fs.blog/knowledge-project-podcast/bill-gurley/"
+    },
+    {
+      "title": "You Don’t Need To Innovate To Be Successful | FarmVille Creator",
+      "published": "2026-06-02",
+      "url": "https://fs.blog/knowledge-project-podcast/mark-pincus/"
+    },
+    {
+      "title": "The Hyundai Founder Who Put a Country on His Back",
+      "published": "2026-05-19",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-chung-ju-yung/"
+    },
+    {
+      "title": "Speed, Stress, and Better Decisions | Winston Weinberg",
+      "published": "2026-05-12",
+      "url": "https://fs.blog/knowledge-project-podcast/winston-weinberg/"
+    },
+    {
+      "title": "Ai Goes Parabolic | OpenAI Co-Founder Greg Brockman",
+      "published": "2026-04-22",
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman"
+    },
+    {
+      "title": "The Magic of Thinking Big | XPO CEO Mario Harik",
+      "published": "2026-04-14",
+      "url": "https://fs.blog/knowledge-project-podcast/mario-harik/"
+    },
+    {
+      "title": "Alpha School: AI and The Future of Education | Joe Liemandt",
+      "published": "2026-03-31",
+      "url": "https://fs.blog/knowledge-project-podcast/joe-liemandt/"
+    },
+    {
+      "title": "The Potato Billionaire",
+      "published": "2026-03-24",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-harrison-mccain/"
+    },
+    {
+      "title": "Beating the Market: Connor Teskey, CEO Brookfield Asset Management",
+      "published": "2026-03-17",
+      "url": "https://fs.blog/knowledge-project-podcast/connor-teskey/"
+    },
+    {
+      "title": "An Unlikely Empire | J.W. Marriott",
+      "published": "2026-03-10",
+      "url": null
+    },
+    {
+      "title": "The Near Death Experience of RobinHood | Vlad Tenev, Co-Founder",
+      "published": "2026-03-03",
+      "url": "https://fs.blog/knowledge-project-podcast/vlad-tenev/"
+    },
+    {
+      "title": "The Obsession That Built Nike | Phil Knight",
+      "published": "2026-02-24",
+      "url": null
+    },
+    {
+      "title": "The $2 Trillion Mind | Nicolai Tangen",
+      "published": "2026-02-17",
+      "url": "https://fs.blog/knowledge-project-podcast/nicolai-tangen/"
+    },
+    {
+      "title": "Michael Ovitz: The Psychology of Power",
+      "published": "2026-02-03",
+      "url": "https://fs.blog/knowledge-project-podcast/michael-ovitz/"
+    },
+    {
+      "title": "[Outliers] How McDonald’s Took Over America | Ray Kroc",
+      "published": "2026-01-27",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-ray-kroc/"
+    },
+    {
+      "title": "Morgan Housel: Wealth is What You Have Minus What You Want",
+      "published": "2026-01-20",
+      "url": "https://fs.blog/knowledge-project-podcast/morgan-housel-3/"
+    },
+    {
+      "title": "The Multidisciplinary Approach to Thinking | Peter D. Kaufman [Outliers]",
+      "published": "2026-01-13",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-peter-d-kaufman/"
+    },
+    {
+      "title": "How to Build Good Habits & Break Bad Ones | James Clear",
+      "published": "2026-01-01",
+      "url": "https://fs.blog/knowledge-project-podcast/james-clear/"
+    },
+    {
+      "title": "The Outlier Playbook: The Patterns Behind Enduring Success",
+      "published": "2025-12-30",
+      "url": "https://fs.blog/knowledge-project-podcast/best-of-outliers-2025/"
+    },
+    {
+      "title": "Pierre Poilievre on the Role of Government, Freedom, and Affordability",
+      "published": "2025-12-27",
+      "url": "https://fs.blog/knowledge-project-podcast/pierre-poilievre-2/"
+    },
+    {
+      "title": "Be Your Best in 2026: The Most Important Lessons from The Knowledge Project (2025)",
+      "published": "2025-12-23",
+      "url": "https://fs.blog/knowledge-project-podcast/best-of-2025/"
+    },
+    {
+      "title": "[Outliers] Bernie Marcus: The Home Depot Story",
+      "published": "2025-12-16",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-bernie-marcus/"
+    },
+    {
+      "title": "How to Think Like a World-Class Marketer | Rory Sutherland",
+      "published": "2025-12-09",
+      "url": "https://fs.blog/knowledge-project-podcast/rory-sutherland-2/"
+    },
+    {
+      "title": "Mary Kay Ash: The Greatest Salesperson In History [Outliers]",
+      "published": "2025-12-02",
+      "url": null
+    },
+    {
+      "title": "7 Principles of Inner Excellence to Stay Calm Under Fire | Jim Murphy",
+      "published": "2025-11-25",
+      "url": "https://fs.blog/knowledge-project-podcast/jim-murphy/"
+    },
+    {
+      "title": "Charlie Munger: The Psychology of Human Misjudgment [Outliers]",
+      "published": "2025-11-18",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-charlie-munger/"
+    },
+    {
+      "title": "Panera Founder Ron Shaich",
+      "published": "2025-11-11",
+      "url": "https://fs.blog/knowledge-project-podcast/ron-shaich/"
+    },
+    {
+      "title": "Steve Wozniak: The Engineer Who Built Apple [Outliers]",
+      "published": "2025-11-04",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-steve-wozniak/"
+    },
+    {
+      "title": "Forensic Account: The Bubble No One is Talking About | Anthony Scilipoti",
+      "published": "2025-10-28",
+      "url": "https://fs.blog/knowledge-project-podcast/anthony-scilipoti/"
+    },
+    {
+      "title": "Jim Clayton: Turning Competitors’ Mistakes Into $1.7B [Outliers]",
+      "published": "2025-10-21",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-jim-clayton/"
+    },
+    {
+      "title": "Building Great Businesses | Tracy Britt Cool",
+      "published": "2025-10-14",
+      "url": "https://fs.blog/knowledge-project-podcast/tracy-britt-cool/"
+    },
+    {
+      "title": "Hetty Green: The Witch of Wall Street [Outliers]",
+      "published": "2025-10-07",
+      "url": null
+    },
+    {
+      "title": "Barry Diller: Building IAC",
+      "published": "2025-09-30",
+      "url": null
+    },
+    {
+      "title": "Ed Stack: Lessons from Dick’s Sporting Goods [Outliers]",
+      "published": "2025-09-23",
+      "url": null
+    },
+    {
+      "title": "How To Build A Cult | Lulu Cheng Meservey",
+      "published": "2025-09-16",
+      "url": null
+    },
+    {
+      "title": "Fred Smith: The Story of FedEx [Outliers]",
+      "published": "2025-09-09",
+      "url": null
+    },
+    {
+      "title": "Why Everyone Is Wrong About AI (Including You) | Benedict Evans",
+      "published": "2025-09-02",
+      "url": null
+    },
+    {
+      "title": "Small Town Billionaire: How John Bragg Built 3 Empires [Outliers]",
+      "published": "2025-08-26",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-john-bragg"
+    },
+    {
+      "title": "The Science of Lasting Love with Dr. Sue Johnson",
+      "published": "2025-08-19",
+      "url": null
+    },
+    {
+      "title": "Sol Price: The Retail Legend Who Taught Sam Walton, Jim Sinegal, and Jeff Bezos [Outliers]",
+      "published": "2025-08-12",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-sol-price/"
+    },
+    {
+      "title": "Ryan Petersen: Building Flexport",
+      "published": "2025-08-05",
+      "url": null
+    },
+    {
+      "title": "Katharine Graham: The Woman Who Took Down a President [Outliers]",
+      "published": "2025-07-29",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-katharine-graham/"
+    },
+    {
+      "title": "Daniel Kahneman: Algorithms Make Better Decisions Than You",
+      "published": "2025-07-22",
+      "url": "https://fs.blog/knowledge-project-podcast/daniel-kahneman-algorithms-make-better-decisions-than-you-the-knowledge-project-ep-238/"
+    },
+    {
+      "title": "Les Schwab: Why Real Ownership Outperforms Experience, Capital, and Credentials [Outliers]",
+      "published": "2025-07-15",
+      "url": "https://www.fs.blog/knowledge-project-podcast/outliers-les-schwab"
+    },
+    {
+      "title": "Harley Finkelstein: You Must Requalify for Your Role, Every Year",
+      "published": "2025-07-08",
+      "url": "https://fs.blog/knowledge-project-podcast/harley-finkelstein/"
+    },
+    {
+      "title": "Jimmy Pattison: Building a $16B Empire Without Connections, Capital, or Credentials [Outliers]",
+      "published": "2025-07-01",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-jimmy-pattison/"
+    },
+    {
+      "title": "Former PepsiCo CEO Indra Nooyi: Lessons from the Top",
+      "published": "2025-06-24",
+      "url": "https://fs.blog/knowledge-project-podcast/indra-nooyi/"
+    },
+    {
+      "title": "Anna Wintour: Vogue [Outliers]",
+      "published": "2025-06-17",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-anna-wintour/"
+    },
+    {
+      "title": "Netflix Founder Reed Hastings on Scaling High-Trust Culture & Bold Judgment",
+      "published": "2025-06-10",
+      "url": "https://fs.blog/knowledge-project-podcast/reed-hastings/"
+    },
+    {
+      "title": "Harvey Firestone: Men and Rubber [Outliers]",
+      "published": "2025-06-03",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-harvey-firestone/"
+    },
+    {
+      "title": "Bill Belichick: 8x Super Bowl Champion on Winning, Leadership, and Discipline",
+      "published": "2025-05-27",
+      "url": "https://fs.blog/knowledge-project-podcast/bill-belichick/"
+    },
+    {
+      "title": "Andy Grove: Only The Paranoid Survive [Outliers]",
+      "published": "2025-05-20",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-andy-grove/"
+    },
+    {
+      "title": "Elad Gil: How to Spot a Billion-Dollar Startup Before the Rest of the World",
+      "published": "2025-05-13",
+      "url": "https://fs.blog/knowledge-project-podcast/elad-gil/"
+    },
+    {
+      "title": "Rose Blumkin: Women of Berkshire Hathaway [Outliers]",
+      "published": "2025-05-06",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-rose-blumkin/"
+    },
+    {
+      "title": "Y Combinator CEO Garry Tan: Turning Ambitious Misfits into Founders",
+      "published": "2025-04-29",
+      "url": "https://fs.blog/knowledge-project-podcast/garry-tan/"
+    },
+    {
+      "title": "Henry Singleton: The Greatest Capital Allocator in History [Outliers]",
+      "published": "2025-04-22",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-henry-singleton/"
+    },
+    {
+      "title": "Bret Taylor: A Vision for AI’s Next Frontier",
+      "published": "2025-04-15",
+      "url": "https://fs.blog/knowledge-project-podcast/bret-taylor/"
+    },
+    {
+      "title": "Pierre Poilievre: What I Want to Build (and Break) To Fix Canada",
+      "published": "2025-04-13",
+      "url": "https://fs.blog/knowledge-project-podcast/pierre-poilievre/"
+    },
+    {
+      "title": "Cornelius Vanderbilt: The First Tycoon [Outliers]",
+      "published": "2025-04-08",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-cornelius-vanderbilt/"
+    },
+    {
+      "title": "Bruce Flatt on Value, Discipline, and Durability",
+      "published": "2025-04-01",
+      "url": "https://fs.blog/knowledge-project-podcast/bruce-flatt/"
+    },
+    {
+      "title": "James Dyson: Against the Odds [Outliers]",
+      "published": "2025-03-25",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-james-dyson/"
+    },
+    {
+      "title": "Logan Ury: The Dating Myths You Need to Stop Believing",
+      "published": "2025-03-18",
+      "url": "https://fs.blog/knowledge-project-podcast/logan-ury/"
+    },
+    {
+      "title": "Estée Lauder: A Success Story",
+      "published": "2025-03-11",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-estee-lauder/"
+    },
+    {
+      "title": "Josh Wolfe: Human Advantage in the World of AI",
+      "published": "2025-03-04",
+      "url": "https://fs.blog/knowledge-project-podcast/josh-wolfe-2/"
+    },
+    {
+      "title": "Andrew Mellon: America’s Secret Banker [Outliers]",
+      "published": "2025-02-25",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-andrew-mellon/"
+    },
+    {
+      "title": "David Heacock: Building Filterbuy",
+      "published": "2025-02-18",
+      "url": "https://fs.blog/knowledge-project-podcast/david-heacock/"
+    },
+    {
+      "title": "Timothy Eaton: How to Build an Empire (And Why It Crumbled) [Outliers]",
+      "published": "2025-02-11",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-timothy-eaton/"
+    },
+    {
+      "title": "Mickey Drexler: The Art of Selling with Retail's Merchant Prince",
+      "published": "2025-02-04",
+      "url": null
+    },
+    {
+      "title": "How to Win by Being Right and Contrarian: Lessons from Zappos to DoorDash",
+      "published": "2025-01-21",
+      "url": null
+    },
+    {
+      "title": "Codie Sanchez: Your Blueprint to Financial Freedom",
+      "published": "2025-01-07",
+      "url": null
+    },
+    {
+      "title": "Best of 2024: The Blueprint for a Transformative New Year",
+      "published": "2024-12-24",
+      "url": null
+    },
+    {
+      "title": "Charlie Hoehn: Write Something People Want to Read",
+      "published": "2024-12-10",
+      "url": null
+    },
+    {
+      "title": "Ryan Holiday: How to Win the War with Yourself",
+      "published": "2024-11-26",
+      "url": null
+    },
+    {
+      "title": "Adam Karr: The Investing Blueprint",
+      "published": "2024-11-12",
+      "url": null
+    },
+    {
+      "title": "John Mackey: Building Whole Foods",
+      "published": "2024-10-29",
+      "url": null
+    },
+    {
+      "title": "Rob Fraser: The Power of Focus",
+      "published": "2024-10-15",
+      "url": null
+    },
+    {
+      "title": "John Bragg: The Blueberry Billionaire",
+      "published": "2024-10-01",
+      "url": null
+    },
+    {
+      "title": "Erin Wade: The Mac and Cheese Empire",
+      "published": "2024-09-17",
+      "url": null
+    },
+    {
+      "title": "Matthew Dicks: The Storytelling Expert",
+      "published": "2024-09-03",
+      "url": null
+    },
+    {
+      "title": "April Dunford: The Marketing Expert",
+      "published": "2024-08-20",
+      "url": null
+    },
+    {
+      "title": "Brian Halligan: Building HubSpot into a Multi-Billion Dollar Company",
+      "published": "2024-08-06",
+      "url": null
+    },
+    {
+      "title": "Esther Perel: Cultivating Desire",
+      "published": "2024-07-23",
+      "url": null
+    },
+    {
+      "title": "Maya Shankar: The Toolkit to Accomplish Your Hardest Goals",
+      "published": "2024-07-09",
+      "url": null
+    },
+    {
+      "title": "#197 Michaeleen Doucleff: The 4 Biggest Mistakes Parents Make",
+      "published": "2024-06-25",
+      "url": null
+    },
+    {
+      "title": "Brent Beshore: Business Brilliance and Happiness at Home",
+      "published": "2024-06-11",
+      "url": null
+    },
+    {
+      "title": "Morgan Housel: Get Rich, Stay Rich",
+      "published": "2024-05-28",
+      "url": null
+    },
+    {
+      "title": "Abigail Shrier: Why the Kids Aren’t Alright",
+      "published": "2024-05-21",
+      "url": null
+    },
+    {
+      "title": "Dr. Jim Loehr: What it Takes to Win",
+      "published": "2024-04-30",
+      "url": null
+    },
+    {
+      "title": "David Segal: Building a $200m Business",
+      "published": "2024-04-16",
+      "url": null
+    },
+    {
+      "title": "Dr. Rhonda Patrick: Diet Essentials For Healthy Living",
+      "published": "2024-04-02",
+      "url": null
+    },
+    {
+      "title": "Brad Jacobs: How To Build a Billion Dollar Company",
+      "published": "2024-03-19",
+      "url": null
+    },
+    {
+      "title": "Chris Davis: Three Generations of Wealth",
+      "published": "2024-03-05",
+      "url": null
+    },
+    {
+      "title": "Bryan Johnson: Five Habits for Longer Living",
+      "published": "2024-02-20",
+      "url": null
+    },
+    {
+      "title": "Dr. Becky Kennedy: The One Thing You Can Say That Changes Everything",
+      "published": "2024-02-06",
+      "url": null
+    },
+    {
+      "title": "Tom Gayner: Invest Like The Best",
+      "published": "2024-01-23",
+      "url": null
+    },
+    {
+      "title": "Blake Eastman: Learn to Read Anyone",
+      "published": "2024-01-09",
+      "url": null
+    },
+    {
+      "title": "Best of 2023: Conversations of the Year",
+      "published": "2023-12-26",
+      "url": null
+    },
+    {
+      "title": "Paul Assaiante: Learning to Face Your Fears",
+      "published": "2023-12-12",
+      "url": null
+    },
+    {
+      "title": "Todd Herman: Unleashing Your Secret Identity",
+      "published": "2023-11-28",
+      "url": null
+    },
+    {
+      "title": "Dr. Gio Valiante (Part 2): Failure and Success",
+      "published": "2023-11-14",
+      "url": null
+    },
+    {
+      "title": "TKP Insights: Learning and Thinking",
+      "published": "2023-11-07",
+      "url": null
+    },
+    {
+      "title": "Dr. Gio Valiante (Part 1): Discipline and Resilience",
+      "published": "2023-10-31",
+      "url": null
+    },
+    {
+      "title": "Jerry Colonna: The CEO Whisperer",
+      "published": "2023-10-17",
+      "url": null
+    },
+    {
+      "title": "Shane Parrish: A Glimpse Into Clear Thinking",
+      "published": "2023-10-03",
+      "url": null
+    },
+    {
+      "title": "Dr. Leah Lagos and Joe Mazzulla: Control Your Heart, Conquer Your Stress",
+      "published": "2023-09-19",
+      "url": null
+    },
+    {
+      "title": "Shreyas Doshi: Better Teams, Better Products",
+      "published": "2023-09-05",
+      "url": null
+    },
+    {
+      "title": "Rey Flemings: A Different Definition of Success",
+      "published": "2023-08-22",
+      "url": null
+    },
+    {
+      "title": "Frank Slootman: Doing Less, Doing Better",
+      "published": "2023-08-08",
+      "url": null
+    },
+    {
+      "title": "Dr. Julie Gurner (Part 2): Caring Deeply, Challenging Directly",
+      "published": "2023-07-25",
+      "url": null
+    },
+    {
+      "title": "Naval Ravikant: The Angel Philosopher (2017)",
+      "published": "2023-07-11",
+      "url": null
+    },
+    {
+      "title": "TKP Insights: Philosophy",
+      "published": "2023-07-04",
+      "url": null
+    },
+    {
+      "title": "Dr. Julie Gurner (Part 1): Caring Deeply, Challenging Directly",
+      "published": "2023-06-27",
+      "url": null
+    },
+    {
+      "title": "Adam Robinson: Positioning Yourself For Success",
+      "published": "2023-06-13",
+      "url": null
+    },
+    {
+      "title": "Dr. Gina Poe: The Science of Better Sleep",
+      "published": "2023-05-30",
+      "url": null
+    },
+    {
+      "title": "Kevin Kelly: Excellent Advice for Living",
+      "published": "2023-05-16",
+      "url": null
+    },
+    {
+      "title": "Proven Strategies to Accelerate Growth, Productivity and Profits with George Stalk, Jr.",
+      "published": "2023-05-02",
+      "url": null
+    },
+    {
+      "title": "Ravi Gupta: The Realities of Success",
+      "published": "2023-04-18",
+      "url": null
+    },
+    {
+      "title": "Jason Karp: Live A Healthier Life",
+      "published": "2023-04-04",
+      "url": null
+    },
+    {
+      "title": "Nathan Myhrvold",
+      "published": "2023-03-21",
+      "url": null
+    },
+    {
+      "title": "Jim Dethmer: The Pillars of Integrity",
+      "published": "2023-03-07",
+      "url": null
+    },
+    {
+      "title": "TKP Insights: Leadership",
+      "published": "2023-02-28",
+      "url": null
+    },
+    {
+      "title": "Dr. Anna Lembke: Between Pleasure and Pain",
+      "published": "2023-02-21",
+      "url": null
+    },
+    {
+      "title": "Aaron Dignan: Change The Way You Work",
+      "published": "2023-02-07",
+      "url": null
+    },
+    {
+      "title": "Carolyn Coughlin: Become A Better Listener",
+      "published": "2023-01-24",
+      "url": null
+    },
+    {
+      "title": "Jack Kornfield: Finding Inner Calm",
+      "published": "2023-01-10",
+      "url": null
+    },
+    {
+      "title": "Best of 2022: Conversations of the Year",
+      "published": "2022-12-27",
+      "url": null
+    },
+    {
+      "title": "Emily Balcetis: Setting and Achieving Goals",
+      "published": "2022-12-13",
+      "url": null
+    },
+    {
+      "title": "Keith Creel: Lessons from Life on the Railroad",
+      "published": "2022-11-29",
+      "url": null
+    },
+    {
+      "title": "Tobi Lütke: Calm Progress",
+      "published": "2022-11-15",
+      "url": null
+    },
+    {
+      "title": "Alan Mulally: The Power Of Working Together",
+      "published": "2022-11-01",
+      "url": null
+    },
+    {
+      "title": "TKP Insights: Making (Even) Better Decisions",
+      "published": "2022-10-25",
+      "url": null
+    },
+    {
+      "title": "Neil Pasricha: Simple Rules for Happiness",
+      "published": "2022-10-18",
+      "url": null
+    },
+    {
+      "title": "Kenneth Stanley: Set The Right Objectives",
+      "published": "2022-10-04",
+      "url": null
+    },
+    {
+      "title": "Reid Hoffman: Better Decisions, Fewer Mistakes",
+      "published": "2022-09-20",
+      "url": null
+    },
+    {
+      "title": "Barbara Tversky: Action Shapes Thought",
+      "published": "2022-09-06",
+      "url": null
+    },
+    {
+      "title": "Les Snead: Building a Super Bowl Champion",
+      "published": "2022-08-23",
+      "url": null
+    },
+    {
+      "title": "Gary Klein: Insights For Making Better Decisions",
+      "published": "2022-08-09",
+      "url": null
+    },
+    {
+      "title": "Andrew Wilkinson: Tiny Holdings",
+      "published": "2022-07-26",
+      "url": null
+    },
+    {
+      "title": "Marshall Goldsmith: The Essentials Of Leadership",
+      "published": "2022-07-12",
+      "url": null
+    },
+    {
+      "title": "Kunal Shah: Core Human Motivations",
+      "published": "2022-06-28",
+      "url": null
+    },
+    {
+      "title": "TKP Insights: Sex and Relationships",
+      "published": "2022-06-21",
+      "url": null
+    },
+    {
+      "title": "Laurie Santos: The Pursuit of Happiness",
+      "published": "2022-06-14",
+      "url": null
+    },
+    {
+      "title": "Luke Burgis: The Power of Mimetic Desire",
+      "published": "2022-05-31",
+      "url": null
+    },
+    {
+      "title": "Justin Su'a: Peak Mental Performance",
+      "published": "2022-05-17",
+      "url": null
+    },
+    {
+      "title": "David Sinclair: Reversing the Aging Process",
+      "published": "2022-05-03",
+      "url": null
+    },
+    {
+      "title": "Sarah Jones Simmer: The Foundation of Trust",
+      "published": "2022-04-19",
+      "url": null
+    },
+    {
+      "title": "Balaji Srinivasan: The Network State",
+      "published": "2022-04-05",
+      "url": null
+    },
+    {
+      "title": "Andrew Huberman: The Science of Small Changes",
+      "published": "2022-03-22",
+      "url": null
+    },
+    {
+      "title": "#132 Ret. Gen. Stanley McChrystal - The Essence of Leadership",
+      "published": "2022-03-08",
+      "url": null
+    },
+    {
+      "title": "#131 Matthew Walker: The Power of Sleep",
+      "published": "2022-02-22",
+      "url": null
+    },
+    {
+      "title": "#130 Diana Chapman: Trusting Your Instincts",
+      "published": "2022-02-08",
+      "url": null
+    },
+    {
+      "title": "#129 Marc Andreessen: Interview with an Icon",
+      "published": "2022-01-25",
+      "url": null
+    },
+    {
+      "title": "#128 Ryan Holiday: A Stoic Life",
+      "published": "2022-01-11",
+      "url": null
+    },
+    {
+      "title": "#127 Best of 2021: Conversations of the Year",
+      "published": "2021-12-21",
+      "url": null
+    },
+    {
+      "title": "#126 Nancy Sherman: Soldiers and Stoics",
+      "published": "2021-12-14",
+      "url": null
+    },
+    {
+      "title": "#125 Paul Rabil: Confidence and Competition",
+      "published": "2021-11-30",
+      "url": null
+    },
+    {
+      "title": "#124 Douglas Rushkoff: The Perils of Modern Media",
+      "published": "2021-11-16",
+      "url": null
+    },
+    {
+      "title": "#123 William Irvine: How To Live a Stoic Life",
+      "published": "2021-11-02",
+      "url": null
+    },
+    {
+      "title": "#122 Robert Cialdini - The Principles of Persuasion",
+      "published": "2021-10-19",
+      "url": null
+    },
+    {
+      "title": "#121 Walter Isaacson: Curiosity Fuels Creativity",
+      "published": "2021-10-05",
+      "url": null
+    },
+    {
+      "title": "#120 Chris Bosh: Hunger and Greatness",
+      "published": "2021-09-21",
+      "url": null
+    },
+    {
+      "title": "#119 Todd Simkin: Making Better Decisions",
+      "published": "2021-09-07",
+      "url": null
+    },
+    {
+      "title": "#118 Doug Conant: Leadership With Integrity",
+      "published": "2021-08-24",
+      "url": null
+    },
+    {
+      "title": "#117 Kat Cole: The Power of Possible",
+      "published": "2021-08-10",
+      "url": null
+    },
+    {
+      "title": "#116 Jeff Immelt: Leadership In A Crisis",
+      "published": "2021-07-27",
+      "url": null
+    },
+    {
+      "title": "#115 Danny Meyer: Hospitality and Humanity",
+      "published": "2021-07-13",
+      "url": null
+    },
+    {
+      "title": "#114 Noreena Hertz: The Crisis of Loneliness",
+      "published": "2021-06-29",
+      "url": null
+    },
+    {
+      "title": "#113 Sarah Tavel: The Value of Intellectual Rigor",
+      "published": "2021-06-15",
+      "url": null
+    },
+    {
+      "title": "#112 Adam Grant: Rethinking Your Position",
+      "published": "2021-06-01",
+      "url": null
+    },
+    {
+      "title": "#111 Joel Greenblatt: Investing Made Simple",
+      "published": "2021-05-18",
+      "url": null
+    },
+    {
+      "title": "#110 Jim Collins: Relationships vs. Transactions",
+      "published": "2021-05-04",
+      "url": null
+    },
+    {
+      "title": "#109 Angela Duckworth: Grit and Human Behavior",
+      "published": "2021-04-20",
+      "url": null
+    },
+    {
+      "title": "#108 Thomas Zurbuchen: Adventures in Astrophysics",
+      "published": "2021-04-06",
+      "url": null
+    },
+    {
+      "title": "#107 Matt Ridley: Infinite Innovation",
+      "published": "2021-03-23",
+      "url": null
+    },
+    {
+      "title": "#106 Josh Kaufman: Maximizing Our Locus of Control",
+      "published": "2021-03-09",
+      "url": null
+    },
+    {
+      "title": "#105 Seth Godin: Failing On Our Way To Mastery",
+      "published": "2021-02-23",
+      "url": null
+    },
+    {
+      "title": "#104 Nir Eyal: Mastering Indistraction",
+      "published": "2021-02-16",
+      "url": null
+    },
+    {
+      "title": "#103 Loch Kelly: Effortless Mindfulness",
+      "published": "2021-02-09",
+      "url": null
+    },
+    {
+      "title": "#102 Sendhil Mullainathan: The Chaos Inside Us",
+      "published": "2021-02-02",
+      "url": null
+    },
+    {
+      "title": "#101 Jane McGonigal: The Psychology of Gaming",
+      "published": "2021-01-19",
+      "url": null
+    },
+    {
+      "title": "#100 Matt Mullenweg: Collaboration Is Key",
+      "published": "2021-01-05",
+      "url": null
+    },
+    {
+      "title": "#99 Kris Cordle: Releasing the Ego",
+      "published": "2020-12-22",
+      "url": null
+    },
+    {
+      "title": "#98 Sahil Lavingia: Observing the Present",
+      "published": "2020-12-08",
+      "url": null
+    },
+    {
+      "title": "#97 Roger Martin: Forward Thinking",
+      "published": "2020-11-24",
+      "url": null
+    },
+    {
+      "title": "#96 Randall Stutman: The Essence of Leadership",
+      "published": "2020-11-10",
+      "url": null
+    },
+    {
+      "title": "#95 Code Cubitt: Coachability Is Critical",
+      "published": "2020-10-27",
+      "url": null
+    },
+    {
+      "title": "#94 Chamath Palihapitiya: Understanding Yourself",
+      "published": "2020-10-13",
+      "url": null
+    },
+    {
+      "title": "#93 Matt Holland: Zero Day",
+      "published": "2020-09-29",
+      "url": null
+    },
+    {
+      "title": "#92 Lisa Feldman Barrett: Balancing the Brain Budget",
+      "published": "2020-09-15",
+      "url": null
+    },
+    {
+      "title": "#91 Russ Hudson: The Pursuit of Presence",
+      "published": "2020-09-01",
+      "url": null
+    },
+    {
+      "title": "#90 Apolo Ohno: Process Versus Prize",
+      "published": "2020-08-18",
+      "url": null
+    },
+    {
+      "title": "#89 Maria Konnikova: Less Certainty, More Inquiry",
+      "published": "2020-08-04",
+      "url": null
+    },
+    {
+      "title": "#88 Derek Sivers: Innovation Versus Imitation",
+      "published": "2020-07-21",
+      "url": null
+    },
+    {
+      "title": "#87 Hannah Fry: The Role of Algorithms",
+      "published": "2020-07-07",
+      "url": null
+    },
+    {
+      "title": "#86 BJ Fogg: The Science of Lasting Change",
+      "published": "2020-06-23",
+      "url": null
+    },
+    {
+      "title": "#85 Bethany McLean: Crafting a Narrative",
+      "published": "2020-06-09",
+      "url": null
+    },
+    {
+      "title": "#84 Jennifer Garvey Berger: Creating Routine in Chaos",
+      "published": "2020-05-26",
+      "url": null
+    },
+    {
+      "title": "#83 Brian Koppelman: What Really Matters",
+      "published": "2020-05-12",
+      "url": null
+    },
+    {
+      "title": "#82 Bill Ackman: Getting Back Up",
+      "published": "2020-04-28",
+      "url": null
+    },
+    {
+      "title": "#81 Jason Calacanis: Intelligent Risk",
+      "published": "2020-04-14",
+      "url": null
+    },
+    {
+      "title": "#80 John Maxwell: Developing the Leader in You",
+      "published": "2020-03-31",
+      "url": null
+    },
+    {
+      "title": "#79 Esther Wojcicki: The “TRICK” to Raising Successful People",
+      "published": "2020-03-17",
+      "url": null
+    },
+    {
+      "title": "#78 Balaji Srinivasan: Exploring COVID-19",
+      "published": "2020-03-13",
+      "url": null
+    },
+    {
+      "title": "#77 Mike Maples: Living in the Future",
+      "published": "2020-03-03",
+      "url": null
+    },
+    {
+      "title": "#76 Frank Stephenson: Pushing the Limits of Innovation",
+      "published": "2020-02-18",
+      "url": null
+    },
+    {
+      "title": "#75 Suzanne Iasenza: Rewriting Relationship Narratives",
+      "published": "2020-02-04",
+      "url": null
+    },
+    {
+      "title": "#74 Jeff Hunter: Embracing Confusion",
+      "published": "2020-01-21",
+      "url": null
+    },
+    {
+      "title": "#73 Steven Strogatz: Exploring Curiosities",
+      "published": "2020-01-07",
+      "url": null
+    },
+    {
+      "title": "#72 Neil Pasricha: Happy Habits",
+      "published": "2019-12-24",
+      "url": null
+    },
+    {
+      "title": "#71 Esther Perel: Cultivating Desire",
+      "published": "2019-12-10",
+      "url": null
+    },
+    {
+      "title": "#70 Scott Adams: Avoiding Loserthink",
+      "published": "2019-11-26",
+      "url": null
+    },
+    {
+      "title": "#69 Stephen Schwarzman: What It Takes",
+      "published": "2019-11-12",
+      "url": null
+    },
+    {
+      "title": "#68 Daniel Kahneman: Putting Your Intuition on Ice",
+      "published": "2019-10-15",
+      "url": null
+    },
+    {
+      "title": "#67 Jim Collins: Keeping the Flywheel in Motion",
+      "published": "2019-10-01",
+      "url": null
+    },
+    {
+      "title": "#66 Dr. Emily Nagoski: Pleasure is the Measure",
+      "published": "2019-09-17",
+      "url": null
+    },
+    {
+      "title": "#65 Shep Gordon: Trust, Compassion, and Shooting Friends from Cannons",
+      "published": "2019-09-03",
+      "url": null
+    },
+    {
+      "title": "#64 Greg Walton: The Big Impact of Small Interventions",
+      "published": "2019-08-20",
+      "url": null
+    },
+    {
+      "title": "#63 Hugh Howey: Winning at the Self-publishing Game",
+      "published": "2019-08-06",
+      "url": null
+    },
+    {
+      "title": "#62 Dr. Sue Johnson: Cracking the Code of Love",
+      "published": "2019-07-23",
+      "url": null
+    },
+    {
+      "title": "#61 Jonathan Haidt: When Good Intentions Go Bad",
+      "published": "2019-07-02",
+      "url": null
+    },
+    {
+      "title": "#60 Jim Dethmer: Leading Above the Line",
+      "published": "2019-06-18",
+      "url": null
+    },
+    {
+      "title": "#59 Following Intellectual Curiosity with Thomas Tull",
+      "published": "2019-05-28",
+      "url": null
+    },
+    {
+      "title": "#57 Sheila Heen: Decoding Difficult Conversations",
+      "published": "2019-05-15",
+      "url": null
+    },
+    {
+      "title": "Gabriel Weinberg: Practical Steps to Safeguard Your Data and Identity Online",
+      "published": "2019-05-14",
+      "url": null
+    },
+    {
+      "title": "#56 Daniel Gross: Catalyzing Success",
+      "published": "2019-04-16",
+      "url": null
+    },
+    {
+      "title": "#55 Scott Page: Becoming a Model Thinker",
+      "published": "2019-04-02",
+      "url": null
+    },
+    {
+      "title": "#54 Jason Fried: Doing the Enough Thing",
+      "published": "2019-03-19",
+      "url": null
+    },
+    {
+      "title": "#53 Howard Marks: Luck, Risk and Avoiding Losers",
+      "published": "2019-03-05",
+      "url": null
+    },
+    {
+      "title": "#52 Dr. Laura Markham: Peaceful Parenting with",
+      "published": "2019-02-19",
+      "url": null
+    },
+    {
+      "title": "#51 Celeste Headlee: The Dying Art of Conversation",
+      "published": "2019-02-05",
+      "url": null
+    },
+    {
+      "title": "#50 Josh Wolfe: Inventing the Future",
+      "published": "2019-01-22",
+      "url": null
+    },
+    {
+      "title": "#49 Brent Gilchrist: Goal Mining",
+      "published": "2019-01-08",
+      "url": null
+    },
+    {
+      "title": "#48 Adam Robinson: Winning at the Great Game (Part 2)",
+      "published": "2018-12-26",
+      "url": null
+    },
+    {
+      "title": "#47 Adam Robinson: Winning at the Great Game (Part 1)",
+      "published": "2018-12-11",
+      "url": null
+    },
+    {
+      "title": "#46 Sophie Grégoire Trudeau: Authenticity, Kindness, and Self Love",
+      "published": "2018-11-27",
+      "url": null
+    },
+    {
+      "title": "#45 Dan Kluger: Taking Time to Get It Right",
+      "published": "2018-11-13",
+      "url": null
+    },
+    {
+      "title": "#44 Barbara Coloroso: The Kids Are Worth It",
+      "published": "2018-10-30",
+      "url": null
+    },
+    {
+      "title": "#43 Jennifer Garvey Berger: The Mental Habits of Effective Leaders",
+      "published": "2018-10-16",
+      "url": null
+    },
+    {
+      "title": "#42 Atul Gawande: The Path to Perpetual Progress",
+      "published": "2018-10-02",
+      "url": null
+    },
+    {
+      "title": "#41 Tobi Lütke: The Trust Battery",
+      "published": "2018-09-18",
+      "url": null
+    },
+    {
+      "title": "#40 Ben Thompson: Thriving in a Digital World",
+      "published": "2018-09-05",
+      "url": null
+    },
+    {
+      "title": "#39 Tyler Cowen: Thinking About Thinking",
+      "published": "2018-08-21",
+      "url": null
+    },
+    {
+      "title": "#38 Ali Almossawi: Thinking in Algorithms",
+      "published": "2018-08-08",
+      "url": null
+    },
+    {
+      "title": "#37 Annie Duke: Getting Better by Being Wrong",
+      "published": "2018-07-25",
+      "url": null
+    },
+    {
+      "title": "#36 William MacAskill: The Science of Doing Good",
+      "published": "2018-07-11",
+      "url": null
+    },
+    {
+      "title": "#35 Robert Greene: Alive Time vs. Dead Time",
+      "published": "2018-06-27",
+      "url": null
+    },
+    {
+      "title": "#34 Amelia Boone: Learning How to Suffer",
+      "published": "2018-06-13",
+      "url": null
+    },
+    {
+      "title": "#33 Dan Ariely: The Truth About Lies",
+      "published": "2018-05-25",
+      "url": null
+    },
+    {
+      "title": "#32 Patrick Collison: Earning Your Stripes",
+      "published": "2018-05-02",
+      "url": null
+    },
+    {
+      "title": "#31 Barbara Oakley: Learning How to Learn",
+      "published": "2018-04-10",
+      "url": null
+    },
+    {
+      "title": "#30 Margaret Heffernan: Collaboration and Competition",
+      "published": "2018-03-13",
+      "url": null
+    },
+    {
+      "title": "#29 Dacher Keltner: Survival of the Kindest",
+      "published": "2018-02-21",
+      "url": null
+    },
+    {
+      "title": "#28 Michael Mauboussin: A Decision Making Jedi",
+      "published": "2018-01-23",
+      "url": null
+    },
+    {
+      "title": "#27 Chris Voss: The Art of Letting Other People Have Your Way",
+      "published": "2018-01-03",
+      "url": null
+    },
+    {
+      "title": "#26 Warren Berger: Improving The Questions You Ask",
+      "published": "2017-12-14",
+      "url": null
+    },
+    {
+      "title": "#25 Gary Taubes: Is Sugar Slowly Killing Us",
+      "published": "2017-11-30",
+      "url": null
+    },
+    {
+      "title": "#24 Susan Cain: Leading the Quiet Revolution",
+      "published": "2017-11-01",
+      "url": null
+    },
+    {
+      "title": "#23 Ray Dalio: Life Lessons from a Self-Made Billionaire",
+      "published": "2017-10-11",
+      "url": null
+    },
+    {
+      "title": "#22 Adam Grant: Givers, Takers, and the Resilient Mind",
+      "published": "2017-09-21",
+      "url": null
+    },
+    {
+      "title": "#21 Ed Latimore: The Warrior Poet",
+      "published": "2017-08-09",
+      "url": null
+    },
+    {
+      "title": "#20 Marc Garneau: The Future of Transportation",
+      "published": "2017-07-02",
+      "url": null
+    },
+    {
+      "title": "Rory Sutherland: The Psychology of Advertising",
+      "published": "2017-05-30",
+      "url": null
+    },
+    {
+      "title": "#18 Naval Ravikant: The Angel Philosopher",
+      "published": "2017-04-11",
+      "url": null
+    },
+    {
+      "title": "Aristotle Koskinas on Greek History",
+      "published": "2017-01-05",
+      "url": null
+    },
+    {
+      "title": "Santorini Wine with Panayiota Kalogeropoulou",
+      "published": "2017-01-05",
+      "url": null
+    },
+    {
+      "title": "#15 Samuel Arbesman: Future-Proof Your Knowledge",
+      "published": "2016-11-28",
+      "url": null
+    },
+    {
+      "title": "#14 Morgan Housel: Reading, Writing, and Lifelong Learning",
+      "published": "2016-10-24",
+      "url": null
+    },
+    {
+      "title": "#13 Pedro Domingos: The Rise of The Machines",
+      "published": "2016-08-30",
+      "url": null
+    },
+    {
+      "title": "#12 Véronique Rivest: Wine Lessons",
+      "published": "2016-07-24",
+      "url": null
+    },
+    {
+      "title": "#11 Ryan Holiday: The Stoic Whisperer",
+      "published": "2016-05-16",
+      "url": null
+    },
+    {
+      "title": "Are we too busy to pay attention to life?",
+      "published": "2016-03-30",
+      "url": null
+    },
+    {
+      "title": "#9 Maestro Alexander Shelley: The Architecture of Music",
+      "published": "2016-03-18",
+      "url": null
+    },
+    {
+      "title": "#8 Julia Galef: The Art of Changing Minds",
+      "published": "2016-02-20",
+      "url": null
+    },
+    {
+      "title": "#7 Venkatesh Rao: The Three Types of Decision Makers",
+      "published": "2016-01-28",
+      "url": null
+    },
+    {
+      "title": "#6 Philip Tetlock: How to See the Future",
+      "published": "2015-12-08",
+      "url": null
+    },
+    {
+      "title": "#5 Chris Dixon: The State of Venture Capital",
+      "published": "2015-11-13",
+      "url": null
+    },
+    {
+      "title": "#4 Jason Zweig: Elevate Your Financial IQ",
+      "published": "2015-10-19",
+      "url": null
+    },
+    {
+      "title": "#3 Sanjay Bakshi: Why Mental Models",
+      "published": "2015-09-18",
+      "url": null
+    },
+    {
+      "title": "#2 Michael Lombardi: Leadership on the Field",
+      "published": "2015-05-29",
+      "url": null
+    },
+    {
+      "title": "#1 Michael Mauboussin: When To Trust Your Gut",
+      "published": "2015-04-28",
+      "url": null
+    }
+  ]
+}

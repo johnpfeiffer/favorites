@@ -1,0 +1,122 @@
+{
+  "comment": "Registry of podcasts that recur in content/*.json. update-podcast-indexes.sh turns each feedUrl into a per-show episode index at podcasts/<slug>.json. appleId is the Apple Podcasts collection id (the id<NUMBER> in an Apple show URL); it resolves feedUrl via https://itunes.apple.com/lookup?id=<appleId> when a feed moves.",
+  "shows": [
+    {
+      "slug": "se-radio",
+      "name": "Software Engineering Radio",
+      "appleId": 120906714,
+      "feedUrl": "https://rss.libsyn.com/shows/21070/destinations/23379.xml",
+      "homeUrl": "https://se-radio.net",
+      "canonicalPattern": "https://se-radio.net/YYYY/MM/episode-<n>-<slug>",
+      "notes": "Most-linked show in the collection. Feed item links point at se-radio.net episode pages."
+    },
+    {
+      "slug": "manager-tools",
+      "name": "Manager Tools",
+      "appleId": 74198801,
+      "feedUrl": "https://files.manager-tools.com/public/feeds/manager-tools-podcasts.xml",
+      "homeUrl": "https://www.manager-tools.com",
+      "canonicalPattern": "https://www.manager-tools.com/YYYY/MM/<slug>",
+      "notes": "www.manager-tools.com 403s curl (Cloudflare) but the slug pattern is stable, e.g. /2009/01/horstman%E2%80%99s-law-project-management-part-1-hall-fame-guidance (note the percent-encoded curly apostrophe). The files.manager-tools.com feed host does not block. Hall of Fame casts are re-releases of older casts; use the original cast's date/slug."
+    },
+    {
+      "slug": "engineering-leadership",
+      "name": "The Engineering Leadership Podcast (ELC)",
+      "appleId": 1481996448,
+      "feedUrl": "https://feeds.simplecast.com/Z8Dl_qAv",
+      "homeUrl": "https://sfelc.com",
+      "canonicalPattern": "https://sfelc.com/podcasts/<slug>",
+      "notes": "sfelc.com intermittently returns 500; confirm slugs via the Simplecast feed or web search."
+    },
+    {
+      "slug": "lennys-podcast",
+      "name": "Lenny's Podcast: Product | Career | Growth",
+      "appleId": 1627920305,
+      "feedUrl": "https://api.substack.com/feed/podcast/10845.rss",
+      "homeUrl": "https://www.lennysnewsletter.com",
+      "canonicalPattern": "https://www.lennysnewsletter.com/p/<slug>",
+      "notes": "Substack feed; item links are the lennysnewsletter.com/p/ post pages. Feed is large (~2 MB); grep it rather than re-fetching."
+    },
+    {
+      "slug": "go-time",
+      "name": "Go Time: Golang, Software Engineering",
+      "appleId": 1120964487,
+      "feedUrl": "https://changelog.com/gotime/feed",
+      "homeUrl": "https://changelog.com/gotime",
+      "canonicalPattern": "https://changelog.com/gotime/<episode-number>",
+      "notes": "Canonical URL is just the episode number, e.g. https://changelog.com/gotime/296."
+    },
+    {
+      "slug": "developing-leadership",
+      "name": "Developing Leadership",
+      "appleId": 1575893623,
+      "feedUrl": "https://feed.podbean.com/developingleadership/feed.xml",
+      "homeUrl": "https://podcast.developingleadership.co",
+      "canonicalPattern": "https://podcast.developingleadership.co/e/<slug>/",
+      "notes": "The apex domain developingleadership.co is parked (domain reseller page); use the podcast. subdomain or a web.archive.org snapshot as alternate-url. Podbean feed still works."
+    },
+    {
+      "slug": "invest-like-the-best",
+      "name": "Invest Like the Best with Patrick O'Shaughnessy",
+      "appleId": 1154105909,
+      "feedUrl": "https://feeds.megaphone.fm/CLS2859450455",
+      "homeUrl": "https://joincolossus.com",
+      "canonicalPattern": "https://joincolossus.com/episodes/<numeric-id>/<slug>",
+      "notes": "Colossus site. Feed item links give the episodes/<id>/<slug> URL directly."
+    },
+    {
+      "slug": "knowledge-project",
+      "name": "The Knowledge Project with Shane Parrish",
+      "appleId": 990149481,
+      "feedUrl": "https://feeds.megaphone.fm/FSMI7575968096",
+      "homeUrl": "https://fs.blog",
+      "canonicalPattern": "https://fs.blog/knowledge-project-podcast/<slug>/",
+      "notes": "Feed links may point at Megaphone; the fs.blog episode page is the canonical we store."
+    },
+    {
+      "slug": "y-combinator",
+      "name": "Y Combinator Startup Podcast",
+      "appleId": 1236907421,
+      "feedUrl": "https://anchor.fm/s/8c1524bc/podcast/rss",
+      "homeUrl": "https://www.ycombinator.com/library",
+      "canonicalPattern": "https://www.ycombinator.com/library/<id>-<slug>",
+      "notes": "Feed (Anchor/Spotify for Creators) links point at podcasters.spotify.com; existing entries use the YC Library video page instead. Search the library for the episode title."
+    },
+    {
+      "slug": "managing-up",
+      "name": "Managing Up",
+      "appleId": 1412411569,
+      "feedUrl": "https://feeds.simplecast.com/GyHPV5ma",
+      "homeUrl": "https://www.managingup.show",
+      "canonicalPattern": "https://www.managingup.show/episodes/<slug>",
+      "notes": "Beware a same-named Vietnamese podcast (appleId 1532702553); the repo's show is the Simplecast one."
+    },
+    {
+      "slug": "darknet-diaries",
+      "name": "Darknet Diaries",
+      "appleId": 1296350485,
+      "feedUrl": "https://podcast.darknetdiaries.com",
+      "homeUrl": "https://darknetdiaries.com",
+      "canonicalPattern": "https://darknetdiaries.com/episode/<n>/",
+      "notes": "Canonical URL is the episode number."
+    },
+    {
+      "slug": "radical-candor",
+      "name": "Radical Candor: Communication at Work",
+      "appleId": 1188489488,
+      "feedUrl": "https://feeds.megaphone.fm/radicalcandor",
+      "homeUrl": "https://www.radicalcandor.com",
+      "canonicalPattern": "https://www.radicalcandor.com/podcast/<season-episode>/<slug>",
+      "notes": "radicalcandor.com pages may serve gzipped/binary content to curl; the Megaphone feed is reliable."
+    },
+    {
+      "slug": "engineering-unblocked",
+      "name": "Engineering Unblocked (Swarmia)",
+      "appleId": 1690770396,
+      "feedUrl": "https://anchor.fm/s/e1450394/podcast/rss",
+      "homeUrl": "https://www.swarmia.com/podcast",
+      "canonicalPattern": "https://www.swarmia.com/podcast/<slug>/",
+      "notes": "Feed links point at anchor.fm; existing entries use the swarmia.com episode page."
+    }
+  ]
+}

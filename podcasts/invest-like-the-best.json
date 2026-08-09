@@ -1,0 +1,2966 @@
+{
+  "show": "Invest Like the Best with Patrick O'Shaughnessy",
+  "slug": "invest-like-the-best",
+  "appleId": 1154105909,
+  "feedUrl": "https://feeds.megaphone.fm/CLS2859450455",
+  "homeUrl": "https://joincolossus.com",
+  "canonicalPattern": "https://joincolossus.com/episodes/<numeric-id>/<slug>",
+  "episodeCount": 591,
+  "episodes": [
+    {
+      "title": "Gavin Baker - AI Market Jitters - [Invest Like the Best, EP.485]",
+      "published": "2026-08-04",
+      "url": null
+    },
+    {
+      "title": "Sam Altman - How to Make an Abundant Future - [Invest Like the Best, EP.484]",
+      "published": "2026-07-28",
+      "url": "https://colossus.com/episode/how-to-make-an-abundant-future/"
+    },
+    {
+      "title": "Matthew Smith — Natural Gas: The Next Bottleneck - [Invest Like the Best, EP.483]",
+      "published": "2026-07-21",
+      "url": "https://colossus.com/episode/americas-next-energy-crisis/"
+    },
+    {
+      "title": "John Kim - How to Raise a Few Billion Dollars - [Invest Like the Best, EP.482]",
+      "published": "2026-07-14",
+      "url": "https://colossus.com/episode/how-to-raise-a-few-billion-dollars/"
+    },
+    {
+      "title": "Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]",
+      "published": "2026-07-07",
+      "url": "https://colossus.com/episode/posting-priests-private-markets/"
+    },
+    {
+      "title": "Etched - Building AI Hardware to Make Inference Faster and Cheaper - [Invest Like the Best, EP.480]",
+      "published": "2026-06-30",
+      "url": "https://colossus.com/episode/the-future-of-ai-hardware/"
+    },
+    {
+      "title": "Vlad Barbalat - Investing $120 Billion in Permanent Capital - [Invest Like the Best, EP.479]",
+      "published": "2026-06-23",
+      "url": "https://colossus.com/episode/the-power-of-permanent-capital/"
+    },
+    {
+      "title": "Kareem Amin - The Unusual Approach to Company Building - [Invest Like the Best, EP.478]",
+      "published": "2026-06-16",
+      "url": "https://colossus.com/episode/courage-truth-justice/"
+    },
+    {
+      "title": "Alex Sacerdote - How to Invest Through Technology Cycles - [Invest Like the Best, EP.477]",
+      "published": "2026-06-09",
+      "url": "https://colossus.com/episode/investing-on-the-s-curve/"
+    },
+    {
+      "title": "Dara Khosrowshahi - Uber's Bet on AVs, AI, and Building a Super-App - [Invest Like the Best, EP.476]",
+      "published": "2026-06-03",
+      "url": "https://colossus.com/episode/order-out-of-chaos/"
+    },
+    {
+      "title": "Dan Loeb - Lessons from 30 Years of Investing - [Invest Like the Best, EP.475]",
+      "published": "2026-05-28",
+      "url": "https://colossus.com/episode/reminiscences-of-an-investor/"
+    },
+    {
+      "title": "Darren Farber on Iran, China, and the Rise of Neoprimes - [Invest Like the Best, EP.474]",
+      "published": "2026-05-26",
+      "url": "https://colossus.com/episode/the-new-rules-of-war/"
+    },
+    {
+      "title": "Gavin Baker - Watts and Wafers - [Invest Like the Best, EP.473]",
+      "published": "2026-05-20",
+      "url": "https://colossus.com/episode/watts-and-wafers/"
+    },
+    {
+      "title": "Krishna Rao - Anthropic's CFO on Compute, Scaling to $30B ARR, and the Returns to Frontier Intelligence - [Invest Like the Best, EP.472]",
+      "published": "2026-05-13",
+      "url": "https://colossus.com/episode/cone-of-uncertainty/"
+    },
+    {
+      "title": "Brian Chesky - AI Founder Mode - [Invest Like the Best, EP.471]",
+      "published": "2026-05-05",
+      "url": "https://colossus.com/episode/ai-founder-mode/"
+    },
+    {
+      "title": "Paul Tudor Jones - Lessons From 50 Years in Markets - [Invest Like the Best, EP.470]",
+      "published": "2026-04-28",
+      "url": "https://colossus.com/episode/you-retire-you-die/"
+    },
+    {
+      "title": "Dylan Patel - The Infinite Demand for Tokens, Claude Mythos, and Supply Constraints - [Invest Like the Best, EP.469]",
+      "published": "2026-04-23",
+      "url": "https://colossus.com/episode/supply-demand-of-tokens/"
+    },
+    {
+      "title": "Alex Karnal - The Trillion-Dollar Health Revolution - [Invest Like the Best, EP.468]",
+      "published": "2026-04-21",
+      "url": "https://colossus.com/episode/trillion-dollar-health-revolution/"
+    },
+    {
+      "title": "Scott Nolan - SpaceX, Founders Fund, and Rebuilding American Uranium Enrichment - [Invest Like the Best, EP.467]",
+      "published": "2026-04-14",
+      "url": "https://colossus.com/episode/betting-on-atoms/"
+    },
+    {
+      "title": "Alan Waxman - Private Credit and the Modern Financial System - [Invest Like the Best, EP.466]",
+      "published": "2026-04-08",
+      "url": "https://colossus.com/episode/clarity-of-purpose/"
+    },
+    {
+      "title": "Sergey Levine - Building LLMs for the Physical World - [Invest Like the Best, EP.465]",
+      "published": "2026-03-31",
+      "url": "https://colossus.com/episode/building-general-physical-intelligence"
+    },
+    {
+      "title": "Mitchell Green - Lessons from Cold Calling 10,000 Companies - [Invest Like the Best, EP.464]",
+      "published": "2026-03-24",
+      "url": "https://colossus.com/episode/building-a-machine/"
+    },
+    {
+      "title": "William Hockey - Building the Operating System for the Dollar and Silicon Valley Heresy - [Invest Like the Best, EP.463]",
+      "published": "2026-03-17",
+      "url": "https://colossus.com/episode/playing-a-different-game/"
+    },
+    {
+      "title": "Shyam Sankar - Celebrating Heretics - [Invest Like the Best, EP.462]",
+      "published": "2026-03-10",
+      "url": "https://colossus.com/episode/celebrating-heretics/"
+    },
+    {
+      "title": "John Arnold - China, Energy Markets and Fixing America's Systems - [Invest Like the Best, EP.461]",
+      "published": "2026-03-04",
+      "url": "https://colossus.com/episode/the-best-seat-in-the-market"
+    },
+    {
+      "title": "Dan Sundheim - The Art of Public and Private Market Investing - [Invest Like the Best, EP.460]",
+      "published": "2026-02-24",
+      "url": "https://colossus.com/episode/the-art-of-public-private-market-investing"
+    },
+    {
+      "title": "Josh Kushner - Concentration and Conviction - [Invest Like the Best, EP.459]",
+      "published": "2026-02-18",
+      "url": "https://colossus.com/episode/concentration-and-conviction/"
+    },
+    {
+      "title": "Alex Behring and Daniel Schwartz - Inside 3G Capital - [Invest Like the Best, EP.458]",
+      "published": "2026-02-10",
+      "url": "https://colossus.com/episode/inside-3g-capital/"
+    },
+    {
+      "title": "Ben Horowitz - Backing America’s Future - [Invest Like the Best, EP.457]",
+      "published": "2026-02-03",
+      "url": "https://colossus.com/episode/backing-americas-future/"
+    },
+    {
+      "title": "Gokul Rajaram - Lessons from Investing in 700 Companies - [Invest Like the Best, EP.456]",
+      "published": "2026-01-29",
+      "url": "https://colossus.com/episode/lessons-from-investing-in-700-companies"
+    },
+    {
+      "title": "Patrick O’Shaughnessy - Creating on Principle - [Invest Like the Best, EP.455]",
+      "published": "2026-01-20",
+      "url": "https://colossus.com/episode/creating-on-principle/"
+    },
+    {
+      "title": "Tom Digan & Greg Stewart - Building the World’s Best Fitness App - [Invest Like the Best, EP.454]",
+      "published": "2026-01-13",
+      "url": "https://colossus.com/episode/building-the-worlds-best-fitness-app"
+    },
+    {
+      "title": "Reed Hastings - Building Netflix - [Invest Like the Best, EP.453]",
+      "published": "2026-01-06",
+      "url": "https://joincolossus.com/episode/building-netflix/"
+    },
+    {
+      "title": "Nick Kokonas - Know What You Are Selling - [Invest Like The Best, REPLAY]",
+      "published": "2025-12-30",
+      "url": "https://joincolossus.com/episode/kokonas-know-what-you-are-selling/"
+    },
+    {
+      "title": "Ric Elias - The Art of Living Well - [Invest Like The Best, CLASSICS]",
+      "published": "2025-12-23",
+      "url": "https://joincolossus.com/episode/ric-elias-the-art-of-living-well/"
+    },
+    {
+      "title": "Henry Ellenbogen - Man Versus Machine - [Invest Like the Best, EP.452]",
+      "published": "2025-12-16",
+      "url": "https://joincolossus.com/episode/man-versus-machine"
+    },
+    {
+      "title": "Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI - [Invest Like the Best, EP.451]",
+      "published": "2025-12-09",
+      "url": "https://joincolossus.com/episode/nvidia-v-google-%E2%80%A6-economics-of-ai/"
+    },
+    {
+      "title": "David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth - [Invest Like the Best, EP.450]",
+      "published": "2025-12-02",
+      "url": "https://joincolossus.com/episode/inside-a16z-growth/"
+    },
+    {
+      "title": "Palmer Luckey - Inventing the Future of Defense - [Invest Like the Best, CLASSICS]",
+      "published": "2025-11-28",
+      "url": "https://joincolossus.com/episode/luckey-inventing-the-future-of-defense/"
+    },
+    {
+      "title": "Martín Escobari - Inside General Atlantic - [Invest Like the Best, EP.449]",
+      "published": "2025-11-25",
+      "url": "https://joincolossus.com/episode/inside-general-atlantic/"
+    },
+    {
+      "title": "Ari Emanuel - The Anti-AI Bet - [Invest Like the Best, EP.448]",
+      "published": "2025-11-19",
+      "url": "https://joincolossus.com/episode/ari-emanuel-the-anti-ai-bet/"
+    },
+    {
+      "title": "Wolfgang Hammer - The Power of Story - [Invest Like the Best, EP.447]",
+      "published": "2025-11-11",
+      "url": "https://joincolossus.com/episode/the-power-of-story/"
+    },
+    {
+      "title": "Luca Ferrari - Building Bending Spoons - [Invest Like the Best, EP.446]",
+      "published": "2025-11-04",
+      "url": "https://joincolossus.com/episode/building-bending-spoons/"
+    },
+    {
+      "title": "Kevin Kelly - Be Generous and Unique - [Invest Like the Best, CLASSICS]",
+      "published": "2025-10-31",
+      "url": "https://joincolossus.com/episodes/52190137/kelly-be-generous-unique"
+    },
+    {
+      "title": "Ken Langone - The American Dream - [Invest Like the Best, REPLAY]",
+      "published": "2025-10-30",
+      "url": "https://joincolossus.com/episodes/32603766/langone-the-american-dream"
+    },
+    {
+      "title": "Karim Atiyeh - Building Ramp - [Invest Like the Best, EP.445]",
+      "published": "2025-10-21",
+      "url": "https://joincolossus.com/episode/building-ramp/"
+    },
+    {
+      "title": "Dan Wang - The US vs China In The 21st Century - [Invest Like the Best, EP.444]",
+      "published": "2025-10-16",
+      "url": "https://joincolossus.com/episode/the-us-vs-china-…the-21st-century/"
+    },
+    {
+      "title": "Jesse Zhang - Building Decagon - [Invest Like the Best, EP.443]",
+      "published": "2025-10-06",
+      "url": "https://joincolossus.com/episode/building-decagon/"
+    },
+    {
+      "title": "Dylan Patel - Inside the Trillion-Dollar AI Buildout - [Invest Like the Best, EP.442]",
+      "published": "2025-09-30",
+      "url": "https://joincolossus.com/episode/inside-the-trill…llar-ai-buildout/"
+    },
+    {
+      "title": "Rolex: Timeless Excellence - (Invest Like the Best, CLASSICS)",
+      "published": "2025-09-26",
+      "url": "https://www.joincolossus.com/episodes/12878745/clymer-rolex-timeless-excellence"
+    },
+    {
+      "title": "Barry Diller - Building An Entertainment Empire - [Invest Like the Best, EP.441]",
+      "published": "2025-09-23",
+      "url": "https://joincolossus.com/episode/building-an-entertainment-empire/"
+    },
+    {
+      "title": "Jeff Horing - Building Insight Partners - [Invest Like the Best, EP.440]",
+      "published": "2025-09-16",
+      "url": "https://joincolossus.com/episode/building-insight-partners/"
+    },
+    {
+      "title": "Sam Hinkie - Find Your People - [Invest Like the Best, REPLAY]",
+      "published": "2025-09-09",
+      "url": "https://joincolossus.com/episode/hinkie-find-your-people/"
+    },
+    {
+      "title": "Sean Feeney - Reinventing the Restaurant Business - [Invest Like the Best, CLASSICS]",
+      "published": "2025-09-05",
+      "url": "https://joincolossus.com/episodes/98380145/feeney-reinventing-the-restaurant-business"
+    },
+    {
+      "title": "Justin Ishbia - Lessons from Acquiring 586 Companies [Invest Like the Best, REPLAY]",
+      "published": "2025-09-02",
+      "url": "https://joincolossus.com/episode/ishbia-a-system-for-success/"
+    },
+    {
+      "title": "Joe Liemandt - Building Alpha School, and The Future of Education - [Invest Like the Best, EP.439]",
+      "published": "2025-08-26",
+      "url": "https://joincolossus.com/episode/building-alpha-s…ure-of-education/"
+    },
+    {
+      "title": "Mark Bertolini - Performance During Pain - [Invest Like the Best, EP.438]",
+      "published": "2025-08-19",
+      "url": "https://joincolossus.com/episode/performance-during-pain/"
+    },
+    {
+      "title": "Peter Lacaillade - Backing The Best Managers In Private Markets - [Invest Like the Best, EP.437]",
+      "published": "2025-08-12",
+      "url": "https://joincolossus.com/episode/backing-the-best…-private-markets/"
+    },
+    {
+      "title": "Andrew Milgram - Full-Contact Capitalism - [Invest Like the Best, EP.436]",
+      "published": "2025-08-05",
+      "url": "https://joincolossus.com/episode/full-contact-capitalism/"
+    },
+    {
+      "title": "Ramtin Naimi - Building Abstract - [Invest Like the Best, EP.435]",
+      "published": "2025-07-29",
+      "url": "https://joincolossus.com/episode/building-abstract/"
+    },
+    {
+      "title": "Brad Jacobs - Think Big and Move Fast - [Invest Like the Best, CLASSICS]",
+      "published": "2025-07-25",
+      "url": "https://joincolossus.com/episodes/19966134/jacobs-think-big-and-move-fast"
+    },
+    {
+      "title": "Zach Dell - Powering the Future - [Invest Like the Best, EP.434]",
+      "published": "2025-07-22",
+      "url": "https://joincolossus.com/episode/powering-the-future/"
+    },
+    {
+      "title": "Alan Waxman - Building Sixth Street - [Invest Like the Best, EP.433]",
+      "published": "2025-07-15",
+      "url": "https://joincolossus.com/episode/building-sixth-street/"
+    },
+    {
+      "title": "Caryn Seidman-Becker: Rebuilding CLEAR - [Invest Like the Best, EP.432]",
+      "published": "2025-07-08",
+      "url": "https://joincolossus.com/episode/rebuilding-clear/"
+    },
+    {
+      "title": "Jens Grede - Building SKIMS - [Invest Like the Best, EP.431]",
+      "published": "2025-07-01",
+      "url": "https://joincolossus.com/episode/building-skims/"
+    },
+    {
+      "title": "Charlie Songhurst – Lessons from Investing in 483 Companies - [Invest Like the Best, CLASSICS]",
+      "published": "2025-06-27",
+      "url": "https://joincolossus.com/episode/songhurst-lessons-from-investing-in-483-companies/"
+    },
+    {
+      "title": "The Chainsmokers - Music & Markets - [Invest Like the Best, EP.430]",
+      "published": "2025-06-24",
+      "url": "https://joincolossus.com/episode/music-markets/"
+    },
+    {
+      "title": "Jay Hoag - Keys to Successful Growth Investing - [Invest Like the Best, EP.429]",
+      "published": "2025-06-17",
+      "url": "https://joincolossus.com/episode/keys-to-successf…growth-investing/"
+    },
+    {
+      "title": "Dinakar Singh - A Father’s Call To Action - [Invest Like the Best, EP.428]",
+      "published": "2025-06-15",
+      "url": "https://joincolossus.com/episode/a-fathers-call-to-action/"
+    },
+    {
+      "title": "Bill Gurley - The Gift and The Curse of Staying Private - [Invest Like the Best, EP.427]",
+      "published": "2025-06-10",
+      "url": "https://joincolossus.com/episode/the-gift-and-the…-staying-private/"
+    },
+    {
+      "title": "Asurion: 50X Season Two - (50X, S2)",
+      "published": "2025-06-06",
+      "url": "https://joincolossus.com/series/50x/"
+    },
+    {
+      "title": "John Zito - Inside Apollo - [Invest Like the Best, EP.426]",
+      "published": "2025-06-03",
+      "url": "https://joincolossus.com/episode/inside-apollo/"
+    },
+    {
+      "title": "Fidji Simo - Creating Delightful Consumer Experiences - [Invest Like the Best, CLASSICS]",
+      "published": "2025-05-30",
+      "url": "https://joincolossus.com/episodes/80275266/simo-creating-delightful-consumer-experiences"
+    },
+    {
+      "title": "Graham Weaver - Building Alpine - [Invest Like the Best, EP.425]",
+      "published": "2025-05-27",
+      "url": "https://joincolossus.com/episode/building-alpine/"
+    },
+    {
+      "title": "Gustav Söderström - How Spotify Thinks - [Invest Like the Best, EP.424]",
+      "published": "2025-05-20",
+      "url": "https://joincolossus.com/episode/how-spotify-thinks/"
+    },
+    {
+      "title": "Royce Yudkoff & Rick Ruback - Entrepreneurship Through Acquisition - [Invest Like the Best, EP.423]",
+      "published": "2025-05-13",
+      "url": "https://joincolossus.com/episode/entrepreneurship…ough-acquisition/"
+    },
+    {
+      "title": "David Senra - The Focused Few - [Invest Like the Best, EP.422]",
+      "published": "2025-05-06",
+      "url": "https://joincolossus.com/episode/the-focused-few/"
+    },
+    {
+      "title": "Cliff Sosin - Investing in Carvana - [Invest Like the Best, EP.421]",
+      "published": "2025-04-29",
+      "url": "https://joincolossus.com/episode/investing-in-carvana/"
+    },
+    {
+      "title": "Cyan Banister - Investing for a Higher Purpose - [Invest Like the Best, CLASSICS]",
+      "published": "2025-04-25",
+      "url": "https://joincolossus.com/episodes/62018848/banister-investing-for-a-higher-purpose"
+    },
+    {
+      "title": "Matt Huang - Investing At The Frontier - [Invest Like the Best, EP.420]",
+      "published": "2025-04-22",
+      "url": "https://joincolossus.com/episode/investing-at-the-frontier/"
+    },
+    {
+      "title": "Neil Mehta - Finding Future S&P 500 Companies - [Invest Like the Best, EP.419]",
+      "published": "2025-04-15",
+      "url": "https://joincolossus.com/episode/finding-future-sp-500-companies/"
+    },
+    {
+      "title": "Michael Ovitz - Turning Potential into Prominence - [Invest Like the Best, EP.418]",
+      "published": "2025-04-08",
+      "url": "https://joincolossus.com/episode/turning-potential-into-prominence/"
+    },
+    {
+      "title": "Darren Farber - The Business of Defense - [Invest Like the Best, EP.417]",
+      "published": "2025-04-01",
+      "url": "https://joincolossus.com/episode/the-business-of-defense/"
+    },
+    {
+      "title": "Josh Kushner - Building Thrive Capital - [Invest Like the Best, CLASSICS]",
+      "published": "2025-03-28",
+      "url": "https://joincolossus.com/episodes/60539836/kushner-building-thrive-capital"
+    },
+    {
+      "title": "Gili Raanan - Cybersecurity Investment Playbook - [Invest Like the Best, EP416]",
+      "published": "2025-03-25",
+      "url": "https://joincolossus.com/episode/cybersecurity-investment-playbook/"
+    },
+    {
+      "title": "Alex Wiltschko - Giving Computers A Sense Of Smell - [Invest Like the Best, EP.415]",
+      "published": "2025-03-18",
+      "url": "https://joincolossus.com/episode/giving-computers-a-sense-of-smell/"
+    },
+    {
+      "title": "Kelly Granat - Investing At Lone Pine - [Invest Like the Best, EP.414]",
+      "published": "2025-03-11",
+      "url": "https://joincolossus.com/episode/investing-at-lone-pine/"
+    },
+    {
+      "title": "Devon Zuegel: How To Create A New Town - [Invest Like the Best, EP.413]",
+      "published": "2025-03-04",
+      "url": "https://joincolossus.com/episode/how-to-create-a-new-town/"
+    },
+    {
+      "title": "Doug Leone - Lessons from a Titan - [Invest Like the Best, CLASSICS]",
+      "published": "2025-02-28",
+      "url": "https://www.joincolossus.com/episodes/54685008/leone-clear-and-simple"
+    },
+    {
+      "title": "Chris Pedregal - Building Granola - [Invest Like the Best, EP.412]",
+      "published": "2025-02-25",
+      "url": "https://joincolossus.com/episode/building-granola/"
+    },
+    {
+      "title": "Ravi Gupta - AI or Die - [Invest Like the Best, EP.411]",
+      "published": "2025-02-18",
+      "url": "https://joincolossus.com/episode/ai-or-die/"
+    },
+    {
+      "title": "Marc Andreessen - The Battle For Tech Supremacy - [Invest Like the Best, EP.410]",
+      "published": "2025-02-11",
+      "url": "https://joincolossus.com/episode/the-battle-for-tech-supremacy/"
+    },
+    {
+      "title": "Graham Duncan - Talent Whisperer - [Invest Like the Best, EP.409]",
+      "published": "2025-02-04",
+      "url": "https://joincolossus.com/article/graham-duncan/"
+    },
+    {
+      "title": "Blake Hall - Combat, Service, and Innovation - [Invest Like the Best, EP.408]",
+      "published": "2025-01-28",
+      "url": "https://joincolossus.com/episode/combat-service-and-innovation/"
+    },
+    {
+      "title": "Dylan Field - Designing The Future - [Invest Like the Best, EP.407]",
+      "published": "2025-01-21",
+      "url": "https://joincolossus.com/episode/designing-the-future/"
+    },
+    {
+      "title": "Tal Zaks - Bridging Science, Medicine, and Returns - [Invest Like the Best, EP.406]",
+      "published": "2025-01-14",
+      "url": "https://joincolossus.com/episode/bridging-science…cine-and-returns/"
+    },
+    {
+      "title": "Gaurav Misra & Dwight Churchill - Building Captions - [Invest Like the Best, EP.405]",
+      "published": "2025-01-07",
+      "url": "https://joincolossus.com/episode/building-captions/"
+    },
+    {
+      "title": "Jack Kokko - Building AlphaSense - [Invest Like the Best, EP.404]",
+      "published": "2024-12-31",
+      "url": "https://joincolossus.com/episode/building-alphasense/"
+    },
+    {
+      "title": "Jared Kushner - The Mechanic - [Invest Like the Best, EP.403]",
+      "published": "2024-12-20",
+      "url": "https://joincolossus.com/episode/jared-kushner-bu…sting-government/"
+    },
+    {
+      "title": "Scott Wu - Building Cognition - [Invest Like the Best, EP.402]",
+      "published": "2024-12-17",
+      "url": "https://joincolossus.com/episode/building-cognition/"
+    },
+    {
+      "title": "Micky Malka - Building Ribbit - [Invest Like the Best, EP.401]",
+      "published": "2024-12-10",
+      "url": "https://joincolossus.com/episode/building-ribbit/"
+    },
+    {
+      "title": "Chetan Puttagunta and Modest Proposal - Capital, Compute & AI Scaling - [Invest Like the Best, EP.400]",
+      "published": "2024-12-06",
+      "url": "https://joincolossus.com/episode/capital-compute-ai-scaling/"
+    },
+    {
+      "title": "Ronnie Fieg - Building Kith - [Invest Like the Best, EP.399]",
+      "published": "2024-12-03",
+      "url": "https://joincolossus.com/episode/building-kith/"
+    },
+    {
+      "title": "Gabe Whaley - Building MSCHF - [Invest Like the Best, EP.398]",
+      "published": "2024-11-26",
+      "url": "https://joincolossus.com/episode/monopolizing-a-feeling/"
+    },
+    {
+      "title": "Brad Jacobs - Think Big and Move Fast - [Invest Like the Best, REPLAY]",
+      "published": "2024-11-22",
+      "url": "https://joincolossus.com/episode/jacobs-think-big-and-move-fast/"
+    },
+    {
+      "title": "Ernie Garcia - Leading Through Crisis - [Invest Like the Best, EP.397]",
+      "published": "2024-11-12",
+      "url": "https://joincolossus.com/episode/steering-carvana%E2%80%A6gh-a-99-drawdown/"
+    },
+    {
+      "title": "Andrew Homan & Chris Miller - Redefining Semiconductor Progress - [Invest Like the Best, EP.396]",
+      "published": "2024-11-05",
+      "url": "https://joincolossus.com/episode/redefining-semiconductor-progress/"
+    },
+    {
+      "title": "Boyd Varty - Becoming A Meaning Maker - [Invest Like the Best, EP.395]",
+      "published": "2024-10-29",
+      "url": "https://joincolossus.com/episode/becoming-a-meaning-maker/"
+    },
+    {
+      "title": "Tobi Lütke - Building Islands of Innovation - [Invest Like the Best, EP.394]",
+      "published": "2024-10-22",
+      "url": "https://joincolossus.com/episode/building-islands-of-innovation/"
+    },
+    {
+      "title": "Matt Perelman & Alex Sloane - The Art of Franchise Investing - [Invest Like the Best, EP.393]",
+      "published": "2024-10-15",
+      "url": "https://joincolossus.com/episode/the-art-of-franchise-investing/"
+    },
+    {
+      "title": "Kareem Zaki - Small Ideas Attract Competition - [Invest Like the Best, EP.392]",
+      "published": "2024-10-08",
+      "url": "https://joincolossus.com/episode/small-ideas-attract-competition/"
+    },
+    {
+      "title": "Ray Ozzie - The Future of Intelligent Machines - [Invest Like the Best, EP.391]",
+      "published": "2024-10-01",
+      "url": "https://joincolossus.com/episode/the-future-of-intelligent-machines/"
+    },
+    {
+      "title": "Ted Seides - Investment Industry Paradigms - [Invest Like the Best, EP.390]",
+      "published": "2024-09-26",
+      "url": "https://joincolossus.com/episode/investment-industry-paradigms/"
+    },
+    {
+      "title": "Lulu Meservey - Transforming Company Narrative - [Invest Like the Best, EP.389]",
+      "published": "2024-09-24",
+      "url": "https://joincolossus.com/episode/transforming-company-narrative/"
+    },
+    {
+      "title": "Ric Elias - The Art of Living Well - [Invest Like the Best, EP.388]",
+      "published": "2024-09-17",
+      "url": "https://joincolossus.com/episode/ric-elias-the-art-of-living-well/"
+    },
+    {
+      "title": "Alex Smith, Shane Battier, & Ravi Gupta - What Makes A Glue Guy? - [Invest Like the Best, EP.387]",
+      "published": "2024-09-10",
+      "url": "https://joincolossus.com/episode/what-makes-a-glue-guy/"
+    },
+    {
+      "title": "Bret Taylor - The Agent Era - [Invest Like the Best, EP.386]",
+      "published": "2024-09-03",
+      "url": "https://joincolossus.com/episodes/48526910/taylor-the-agent-era-and-another-version-the-agentic-era"
+    },
+    {
+      "title": "Gavin Baker - AI, Semiconductors, and the Robotic Frontier - [Invest Like the Best, EP.385]",
+      "published": "2024-08-27",
+      "url": "https://joincolossus.com/episodes/67636422/baker-ai-semiconductors-and-the-robotic-frontier"
+    },
+    {
+      "title": "A Conversation with Charlie Munger & John Collison - [Invest Like the Best, REPLAY]",
+      "published": "2024-08-20",
+      "url": "https://www.joincolossus.com/episodes/76168278/munger-a-conversation-with-charlie-munger-john-collison?tab=transcript"
+    },
+    {
+      "title": "Vlad Tenev - Navigating Robinhood's Evolution - [Invest Like the Best, EP.384]",
+      "published": "2024-08-13",
+      "url": "https://www.joincolossus.com/episodes/1268740/tenev-navigating-robinhoods-evolution"
+    },
+    {
+      "title": "Sarah Guo - The Power of Conviction - [Invest Like the Best, EP.383]",
+      "published": "2024-08-06",
+      "url": "https://joincolossus.com/episodes/63314045/guo-the-power-of-conviction"
+    },
+    {
+      "title": "Hemant Taneja - Engineering Global Resilience - [Invest Like the Best, EP.382]",
+      "published": "2024-07-31",
+      "url": "https://joincolossus.com/episodes/18391328/taneja-engineering-global-resilience"
+    },
+    {
+      "title": "Jeremy Giffon - Special Situations in Private Markets - [Invest Like the Best, Replay]",
+      "published": "2024-07-23",
+      "url": "https://joincolossus.com/episodes/79714195/giffon-special-situations-in-private-markets"
+    },
+    {
+      "title": "David Senra - Passion & Pain - [Invest Like the Best, Replay]",
+      "published": "2024-07-16",
+      "url": "https://www.joincolossus.com/episodes/85503387/senra-passion-pain?tab=transcript"
+    },
+    {
+      "title": "Martin Casado - Entering Uncharted AI Territory - [Invest Like the Best, EP.381]",
+      "published": "2024-07-09",
+      "url": "https://www.joincolossus.com/episodes/57965417/casado-entering-uncharted-ai-territory"
+    },
+    {
+      "title": "Modest Proposal - AI Commoditization and Capital Dynamics - [Invest Like the Best, EP.380]",
+      "published": "2024-07-02",
+      "url": "https://joincolossus.com/episodes/84488038/proposal-ai-commoditization-and-capital-dynamics"
+    },
+    {
+      "title": "Robert Greene - Optimizing Your Reality - [Invest Like the Best, EP.379]",
+      "published": "2024-06-25",
+      "url": "https://joincolossus.com/episodes/22993321/greene-optimizing-your-reality"
+    },
+    {
+      "title": "Pat Grady - Relentless Application of Force - [Invest Like the Best, EP.378]",
+      "published": "2024-06-18",
+      "url": "https://joincolossus.com/episodes/16640225/grady-relentless-application-of-force"
+    },
+    {
+      "title": "Frank Blake - Leading By Example - [Invest Like the Best, EP.377]",
+      "published": "2024-06-11",
+      "url": "https://joincolossus.com/episodes/66171278/blake-investing-in-your-people"
+    },
+    {
+      "title": "Adam Sandow - The Power of Print Media - [Invest Like the Best, EP.376]",
+      "published": "2024-06-04",
+      "url": "https://joincolossus.com/episodes/21079315/sandow-building-brand-new-businesses"
+    },
+    {
+      "title": "Howie Liu - Building Airtable - [Invest Like the Best, EP.375]",
+      "published": "2024-05-28",
+      "url": "https://www.joincolossus.com/episodes/84072882/liu-building-airtable"
+    },
+    {
+      "title": "Mark Groden - The Future of Flying - [Invest Like the Best, EP.374]",
+      "published": "2024-05-21",
+      "url": "https://www.joincolossus.com/episodes/24686226/groden-the-future-of-flying"
+    },
+    {
+      "title": "Dev Ittycheria - The Database Evolution - [Invest Like the Best, EP.373]",
+      "published": "2024-05-14",
+      "url": "https://www.joincolossus.com/episodes/36961434/ittycheria-the-database-evolution"
+    },
+    {
+      "title": "Nico Wittenborn - Finding the Adjacent Possible - [Invest Like the Best, EP.372]",
+      "published": "2024-05-07",
+      "url": "https://www.joincolossus.com/episodes/17932440/wittenborn-finding-the-adjacent-possible"
+    },
+    {
+      "title": "Mitch Rales: The Art of Compounding - [Art of Investing, Forever Episode]",
+      "published": "2024-05-02",
+      "url": "https://www.joincolossus.com/episodes/37099495/rales-the-art-of-compounding?tab=transcript"
+    },
+    {
+      "title": "Marc Lasry - Making Bucks in Credit and Sports - [Invest Like the Best, EP.371]",
+      "published": "2024-04-30",
+      "url": "https://www.joincolossus.com/episodes/57280714/lasry-making-bucks-in-credit-and-sports"
+    },
+    {
+      "title": "Bill Gurley & Michael Mauboussin - Putting Theory into Practice - [Invest Like the Best, EP.370]",
+      "published": "2024-04-23",
+      "url": "https://www.joincolossus.com/episodes/82708652/mauboussin-a-meeting-of-the-minds"
+    },
+    {
+      "title": "Tim Ferriss - Curating Curiosities - [Invest Like the Best, EP.369]",
+      "published": "2024-04-16",
+      "url": "https://joincolossus.com/episodes/11271167/ferriss-curating-curiosities"
+    },
+    {
+      "title": "Ken Langone - The American Dream - [Invest Like the Best, EP.368]",
+      "published": "2024-04-09",
+      "url": "https://www.joincolossus.com/episodes/32603766/langone-the-american-dream"
+    },
+    {
+      "title": "Robin Dunbar - Optimizing Human Connection (Dunbar's Number) - [Invest Like the Best, EP.367]",
+      "published": "2024-04-02",
+      "url": "https://joincolossus.com/episodes/86440098/dunbar-optimizing-human-connection"
+    },
+    {
+      "title": "Sean Feeney - Reinventing the Restaurant Business - [Invest Like the Best, EP.366]",
+      "published": "2024-03-26",
+      "url": "https://www.joincolossus.com/episodes/98380145/feeney-reinventing-the-restaurant-business"
+    },
+    {
+      "title": "Dave Fontenot - The Monastery of Code - [Invest Like the Best, EP.365]",
+      "published": "2024-03-19",
+      "url": "https://www.joincolossus.com/episodes/20057232/fontenot-the-monastery-of-code"
+    },
+    {
+      "title": "Anne-Marie Peterson - The Capital System - [Invest Like the Best, EP.364]",
+      "published": "2024-03-12",
+      "url": "https://www.joincolossus.com/episodes/58908438/peterson-a-people-first-approach"
+    },
+    {
+      "title": "Aravind Srinivas - Building An Answer Engine - [Invest Like the Best, EP.363]",
+      "published": "2024-03-05",
+      "url": "https://joincolossus.com/episodes/17619043/srinivas-building-an-answer-engine"
+    },
+    {
+      "title": "Ali Hamed - Building an Investment Firm - [Invest Like the Best, EP.362]",
+      "published": "2024-02-27",
+      "url": "https://www.joincolossus.com/episodes/61221899/hamed-multi-disciplinary-investing"
+    },
+    {
+      "title": "Cyan Banister - Investing for a Higher Purpose - [Invest Like the Best, EP.361]",
+      "published": "2024-02-20",
+      "url": "https://joincolossus.com/episodes/62018848/banister-investing-for-a-higher-purpose"
+    },
+    {
+      "title": "Danny Meyer - The Power of Hospitality - [Invest Like the Best, REPLAY]",
+      "published": "2024-02-13",
+      "url": "https://www.joincolossus.com/episodes/21049021/meyer-the-power-of-hospitality?tab=transcript"
+    },
+    {
+      "title": "Chuck Akre - The Three Legged Stool - [Invest Like the Best, REPLAY]",
+      "published": "2024-02-06",
+      "url": "https://www.joincolossus.com/episodes/42568501/akre-the-three-legged-stool?tab=shownotes"
+    },
+    {
+      "title": "Alex Telford - Unlocking Innovation in Pharma - [Invest Like the Best, EP.360]",
+      "published": "2024-01-30",
+      "url": "https://joincolossus.com/episodes/71127942/telford-unlocking-innovation-in-pharma"
+    },
+    {
+      "title": "Madhavan Ramanujam - How to Price Products - [Invest Like the Best, REPLAY]",
+      "published": "2024-01-23",
+      "url": "https://www.joincolossus.com/episodes/67388971/ramanujam-how-to-price-products?tab=transcript"
+    },
+    {
+      "title": "Daryl Morey - Systems Thinking in Sports - [Invest Like the Best, REPLAY]",
+      "published": "2024-01-16",
+      "url": "https://www.joincolossus.com/episodes/50823211/morey-systems-thinking-in-sports"
+    },
+    {
+      "title": "Michael Ovitz - Knowledge Is Power - [Invest Like the Best, EP.359]",
+      "published": "2024-01-09",
+      "url": "https://joincolossus.com/episodes/52549979/ovitz-knowledge-is-power"
+    },
+    {
+      "title": "Erik Serrano - Investing in Investment Firms - [Invest Like the Best, EP.358]",
+      "published": "2024-01-02",
+      "url": "https://joincolossus.com/episodes/14312393/serrano-the-investors-investor"
+    },
+    {
+      "title": "Doug Leone - Lessons from a Titan - [Invest Like the Best, REPLAY]",
+      "published": "2023-12-26",
+      "url": "https://www.joincolossus.com/episodes/54685008/leone-clear-and-simple"
+    },
+    {
+      "title": "Justin Ishbia - Lessons from Acquiring 586 Companies - [Invest Like the Best, EP.357]",
+      "published": "2023-12-19",
+      "url": "https://joincolossus.com/episodes/92911943/ishbia-a-system-for-success"
+    },
+    {
+      "title": "Gavin Uberti - Real-Time AI & The Future of AI Hardware - [Invest Like the Best, EP.356]",
+      "published": "2023-12-12",
+      "url": "https://joincolossus.com/episodes/73767562/uberti-the-future-of-ai-hardware"
+    },
+    {
+      "title": "A Conversation with Charlie Munger & John Collison - [Invest Like the Best, EP.355]",
+      "published": "2023-12-05",
+      "url": "https://joincolossus.com/episodes/76168278/munger-a-conversation-with-charlie-munger-john-collison"
+    },
+    {
+      "title": "Peter Fenton & Victor Lazarte - Purpose and Partnership - [Invest Like the Best, EP.354]",
+      "published": "2023-11-28",
+      "url": "https://joincolossus.com/episodes/22608829/lazarte-cultivating-generative-purpose"
+    },
+    {
+      "title": "Lior Susan - Leave the World Better than You Found It - [Invest Like the Best, EP.353]",
+      "published": "2023-11-21",
+      "url": "https://joincolossus.com/episodes/73363357/susan-leave-the-world-better-than-you-found-it"
+    },
+    {
+      "title": "Brad Jacobs - Think Big and Move Fast - [Invest Like the Best, EP.352]",
+      "published": "2023-11-14",
+      "url": "https://joincolossus.com/episodes/19966134/jacobs-think-big-and-move-fast"
+    },
+    {
+      "title": "Elizabeth Zalman & Jerry Neumann - Founder vs Investor - [Invest Like the Best, EP.351]",
+      "published": "2023-11-07",
+      "url": "https://joincolossus.com/episodes/90886887/zalman-founder-vs-investor"
+    },
+    {
+      "title": "Palmer Luckey - Inventing the Future of Defense - [Invest Like the Best, EP.350]",
+      "published": "2023-10-31",
+      "url": "https://joincolossus.com/episodes/47841592/luckey-inventing-the-future-of-defense"
+    },
+    {
+      "title": "Aswath Damodaran - Making Sense of the Market Pt. 2 - [Invest Like the Best, EP.349]",
+      "published": "2023-10-24",
+      "url": "https://joincolossus.com/episodes/72302556/damodaran-making-sense-of-the-market-pt"
+    },
+    {
+      "title": "Patrick Collison & John Collison - A Business State of Mind - [Invest Like the Best, EP.348]",
+      "published": "2023-10-17",
+      "url": "https://joincolossus.com/episodes/85748309/collison-a-business-state-of-mind"
+    },
+    {
+      "title": "Strauss Zelnick - Playing to Your Strengths - [Invest Like the Best, EP.347]",
+      "published": "2023-10-10",
+      "url": "https://joincolossus.com/episodes/73840840/zelnick-playing-to-your-strengths"
+    },
+    {
+      "title": "Rick Buhrman & Paul Buser - Find Your X, Nurture Your N - [Invest Like the Best, EP.346]",
+      "published": "2023-10-03",
+      "url": "https://joincolossus.com/episodes/31867155/buhrman-find-your-x-nurture-your-n"
+    },
+    {
+      "title": "Jack Altman & Miles Grimshaw - Building and Investing in Lattice - [Invest Like the Best, EP.345]",
+      "published": "2023-09-26",
+      "url": "https://joincolossus.com/episodes/76952965/altman-building-and-investing-in-lattice"
+    },
+    {
+      "title": "Michael Simanovsky - A Platform Approach to Real Estate - [Invest Like the Best, EP.344]",
+      "published": "2023-09-19",
+      "url": "https://joincolossus.com/episodes/98175771/simanovsky-a-platform-approach-to-real-estate"
+    },
+    {
+      "title": "David Senra - In Service of Founders - [Invest Like the Best, EP.343]",
+      "published": "2023-09-12",
+      "url": "https://joincolossus.com/episodes/13444907/senra-in-service-of-founders"
+    },
+    {
+      "title": "Will England - A Primer on Multi-Strategy Hedge Funds - [Invest Like the Best, EP.342]",
+      "published": "2023-09-05",
+      "url": "https://joincolossus.com/episodes/87302493/england-a-primer-on-multi-strategy-hedge-funds"
+    },
+    {
+      "title": "James Cameron - The Futurist - [Founders, Forever Episode]",
+      "published": "2023-08-29",
+      "url": "https://www.joincolossus.com/episodes/51878786/senra-james-cameron-the-futurist?tab=shownotes"
+    },
+    {
+      "title": "Lee Ainslie - Hedge Fund Maverick - [Invest Like the Best, EP. 341]",
+      "published": "2023-08-22",
+      "url": "https://joincolossus.com/episodes/70732909/ainslie-lee-ainslie"
+    },
+    {
+      "title": "Nick Kokonas - Know What You Are Selling – [Founder’s Field Guide, Forever Episode]",
+      "published": "2023-08-15",
+      "url": "https://www.joincolossus.com/episodes/20135760/kokonas-know-what-you-are-selling"
+    },
+    {
+      "title": "Des Traynor - Real Talk about AI and Software - [Invest Like the Best, EP.340]",
+      "published": "2023-08-08",
+      "url": "https://joincolossus.com/episodes/54663623/traynor-the-reality-of-ai"
+    },
+    {
+      "title": "Samo Burja - The Great Founder Theory of History - [Invest Like the Best, EP.339]",
+      "published": "2023-08-01",
+      "url": "https://joincolossus.com/episodes/89710393/burja-the-great-founder-theory-of-history"
+    },
+    {
+      "title": "Chris Paik - Venture Investing Frameworks - [Invest Like the Best, EP.338]",
+      "published": "2023-07-25",
+      "url": "https://joincolossus.com/episodes/44807654/paik-venture-frameworks"
+    },
+    {
+      "title": "Josh Kushner - Building Thrive Capital - [Invest Like the Best, EP.337]",
+      "published": "2023-07-18",
+      "url": "https://joincolossus.com/episodes/60539836/kushner-building-thrive-capital"
+    },
+    {
+      "title": "Jeremy Giffon - Special Situations in Private Markets - [Invest Like the Best, EP.336]",
+      "published": "2023-07-11",
+      "url": "https://joincolossus.com/episodes/79714195/giffon-special-situations-in-private-markets"
+    },
+    {
+      "title": "Dave Yuan - A Primer on Vertical Market Software - [Invest Like the Best, EP.335]",
+      "published": "2023-07-04",
+      "url": "https://joincolossus.com/episodes/83067189/yuan-a-primer-on-vertical-market-software"
+    },
+    {
+      "title": "Kevin Kelly - Be Generous and Unique - [Invest Like the Best, EP.334]",
+      "published": "2023-06-27",
+      "url": "https://joincolossus.com/episodes/52190137/kelly-be-generous-unique"
+    },
+    {
+      "title": "Justin Mares - The US Health Crisis - [Invest Like the Best, EP.333]",
+      "published": "2023-06-20",
+      "url": "https://joincolossus.com/episodes/67478361/mares-the-us-health-crisis"
+    },
+    {
+      "title": "Scott Goodwin - Know The Names - [Invest Like the Best, EP.332]",
+      "published": "2023-06-13",
+      "url": "https://joincolossus.com/episodes/33400952/goodwin-know-the-names"
+    },
+    {
+      "title": "Rolex: Timeless Excellence - [Business Breakdowns, Forever Episode]",
+      "published": "2023-06-06",
+      "url": "https://www.joincolossus.com/episodes/12878745/clymer-rolex-timeless-excellence"
+    },
+    {
+      "title": "Kieran Goodwin - Imagination, Volatility, and the Pursuit of Alpha - [Invest Like the Best, EP.331]",
+      "published": "2023-05-30",
+      "url": "https://www.joincolossus.com/episodes/48452518/goodwin-imagination-volatility-and-the-pursuit-of-alpha"
+    },
+    {
+      "title": "Henry Schuck - Building ZoomInfo - [Invest Like the Best, EP.330]",
+      "published": "2023-05-23",
+      "url": "https://www.joincolossus.com/episodes/49638569/schuck-finding-your-next-best-customer"
+    },
+    {
+      "title": "Karen Karniol-Tambour - Macro Headwinds vs. Tech Tailwinds - [Invest Like the Best, EP.329]",
+      "published": "2023-05-16",
+      "url": "https://joincolossus.com/episodes/88931712/karniol-tambour-macro-headwinds-vs-tech-tailwinds"
+    },
+    {
+      "title": "Fidji Simo - Creating Delightful Consumer Experiences - [Invest Like the Best, EP.328]",
+      "published": "2023-05-09",
+      "url": "https://joincolossus.com/episodes/80275266/simo-creating-delightful-consumer-experiences"
+    },
+    {
+      "title": "Bessemer Venture Partners - Building a VC Firm that Lasts Centuries - [Invest Like the Best, EP.327]",
+      "published": "2023-05-02",
+      "url": "https://joincolossus.com/episodes/53409650/levine-scaling-a-venture-firm"
+    },
+    {
+      "title": "Alexis Rivas - A New Blueprint for Homebuilding - [Invest Like the Best, EP.326]",
+      "published": "2023-04-25",
+      "url": "https://joincolossus.com/episodes/41239943/rivas-a-new-blueprint-for-building-homes"
+    },
+    {
+      "title": "Dr. Peter Attia - The Portfolio to Live Longer - [Invest Like the Best, EP.325]",
+      "published": "2023-04-18",
+      "url": "https://www.joincolossus.com/episodes/46859896/attia-the-portfolio-to-live-longer"
+    },
+    {
+      "title": "Scott Davis & Rob Wertheimer - Lessons from the Industrial Titans - [Invest Like the Best, EP.324]",
+      "published": "2023-04-11",
+      "url": "https://joincolossus.com/episodes/36463135/wertheimer-lessons-from-the-industrial-titans"
+    },
+    {
+      "title": "Sam Hinkie, Boyd Varty, Charlie Songhurst - Trail Magic - [Invest Like the Best, EP.323]",
+      "published": "2023-04-04",
+      "url": "https://joincolossus.com/episodes/84175166/varty-trail-magic"
+    },
+    {
+      "title": "David Senra - Passion & Pain - [Invest Like the Best, Forever Episode]",
+      "published": "2023-03-31",
+      "url": null
+    },
+    {
+      "title": "David Einhorn - The Long and Short of Investing - [Invest Like the Best, EP.322]",
+      "published": "2023-03-28",
+      "url": "https://joincolossus.com/episodes/72443180/einhorn-the-long-and-short-of-investing"
+    },
+    {
+      "title": "Avi Goldfarb - The Economic Impact of AI - [Invest Like the Best, EP.321]",
+      "published": "2023-03-21",
+      "url": "https://joincolossus.com/episodes/45120795/goldfarb-the-disruptive-economics-of-ai"
+    },
+    {
+      "title": "Auren Hoffman - A Deep Dive on Data - [Invest Like the Best, EP.320]",
+      "published": "2023-03-14",
+      "url": "https://www.joincolossus.com/episodes/13721230/hoffman-a-deep-dive-on-data"
+    },
+    {
+      "title": "Trae Stephens - Find Good Quests - [Invest Like the Best, EP.319]",
+      "published": "2023-03-07",
+      "url": "https://www.joincolossus.com/episodes/39798384/stephens-find-good-quests"
+    },
+    {
+      "title": "Doug Leone - Lessons from a Titan - [Invest Like the Best, EP.318]",
+      "published": "2023-02-28",
+      "url": "https://www.joincolossus.com/episodes/54685008/leone-clear-and-simple"
+    },
+    {
+      "title": "Tim Urban - Idea Labs and High-Rung Thinking - [Invest Like the Best, EP.317]",
+      "published": "2023-02-21",
+      "url": "https://www.joincolossus.com/episodes/16521394/urban-restore-high-rung-thinking"
+    },
+    {
+      "title": "Dan Rose - How Stunning Founders Operate - [Invest Like the Best, EP.316]",
+      "published": "2023-02-14",
+      "url": "https://www.joincolossus.com/episodes/82256020/rose-how-stunning-founders-operate"
+    },
+    {
+      "title": "Jeff Green - Modernizing Advertising - [Invest Like the Best, EP.315]",
+      "published": "2023-02-07",
+      "url": "https://www.joincolossus.com/episodes/83995153/green-building-nyse-for-advertisers"
+    },
+    {
+      "title": "Carl Kawaja - Dealing with Regime Change - [Invest Like the Best, EP.314]",
+      "published": "2023-01-31",
+      "url": "https://www.joincolossus.com/episodes/34879627/kawaja-dealing-with-regime-change"
+    },
+    {
+      "title": "Daryl Morey - Systems Thinking in Sports - [Invest Like the Best, EP.313]",
+      "published": "2023-01-24",
+      "url": "https://www.joincolossus.com/episodes/50823211/morey-systems-thinking-in-sports"
+    },
+    {
+      "title": "Miles Grimshaw - The DNA of Software Companies - [Invest Like the Best, EP.312]",
+      "published": "2023-01-17",
+      "url": "https://www.joincolossus.com/episodes/29895246/grimshaw-assessing-the-dna-of-software-companies"
+    },
+    {
+      "title": "John Fio - Creating Magic for Consumers - [Invest Like the Best, EP.311]",
+      "published": "2023-01-10",
+      "url": "https://www.joincolossus.com/episodes/86445795/fiorentino-creating-magic-for-consumers"
+    },
+    {
+      "title": "Amjad Masad - The Future of Software Creation - [Invest Like the Best, EP.310]",
+      "published": "2023-01-03",
+      "url": "https://www.joincolossus.com/episodes/47968266/masad-the-future-of-software-creation"
+    },
+    {
+      "title": "Rebecca Lynn - Finding Your Customers - [Invest Like the Best, EP.309]",
+      "published": "2022-12-27",
+      "url": "https://www.joincolossus.com/episodes/71195566/lynn-finding-your-customers"
+    },
+    {
+      "title": "Michael Mauboussin - Sharpening Investor & Executive Toolkits - [Invest Like the Best, EP.308]",
+      "published": "2022-12-20",
+      "url": "https://www.joincolossus.com/episodes/70973958/mauboussin-sharpening-investor-executive-toolkits"
+    },
+    {
+      "title": "Jeremiah Lowin: Explaining the New AI Paradigm - [Invest Like the Best, EP.307]",
+      "published": "2022-12-13",
+      "url": "https://www.joincolossus.com/episodes/77957344/lowin-explaining-the-new-ai-paradigm"
+    },
+    {
+      "title": "Bill Lenehan: Investing in Commercial Real Estate - [Invest Like the Best, EP.306]",
+      "published": "2022-12-06",
+      "url": "https://www.joincolossus.com/episodes/2027453/lenehan-commercial-real-estate"
+    },
+    {
+      "title": "Ron Howard and Brian Grazer - Box Office Business - [Invest Like the Best, EP.305]",
+      "published": "2022-11-29",
+      "url": "https://www.joincolossus.com/episodes/19204230/howard-box-office-business"
+    },
+    {
+      "title": "Shane Battier - The No-Stats All-Star - [Invest Like the Best, EP.304]",
+      "published": "2022-11-22",
+      "url": "https://www.joincolossus.com/episodes/68722518/battier-how-to-win"
+    },
+    {
+      "title": "Parker Conrad - Building a Compound Company - [Invest Like the Best, EP.303]",
+      "published": "2022-11-15",
+      "url": "https://www.joincolossus.com/episodes/43859721/conrad-building-a-compound-company"
+    },
+    {
+      "title": "Bob Elliott - A Macro Tour - [Invest Like the Best, EP.302]",
+      "published": "2022-11-08",
+      "url": "https://www.joincolossus.com/episodes/69469677/elliott-a-macro-tour"
+    },
+    {
+      "title": "Kirsten Green - Investing in Consumer Change - [Invest Like the Best, EP.301]",
+      "published": "2022-11-01",
+      "url": "https://www.joincolossus.com/episodes/37119956/green-investing-in-consumer-change"
+    },
+    {
+      "title": "Jason Droege - Building Uber Eats - [Invest Like the Best, EP.300]",
+      "published": "2022-10-25",
+      "url": "https://www.joincolossus.com/episodes/57349226/droege-building-a-second-act"
+    },
+    {
+      "title": "Paul Orfalea - It’s About the Money - [Invest Like the Best, EP.299]",
+      "published": "2022-10-18",
+      "url": "https://www.joincolossus.com/episodes/56546035/orfalea-its-about-the-money"
+    },
+    {
+      "title": "Madhavan Ramanujam - How to Price Products - [Invest Like the Best, EP.298]",
+      "published": "2022-10-11",
+      "url": "https://www.joincolossus.com/episodes/67388971/ramanujam-how-to-price-products"
+    },
+    {
+      "title": "Scott Wilson - Non-Traditional Endowment Investing - [Invest Like the Best, EP.297]",
+      "published": "2022-10-04",
+      "url": "https://www.joincolossus.com/episodes/43243284/wilson-global-endowment-investing"
+    },
+    {
+      "title": "Julio Vasconcellos & Mate Pencz - Investing in Latin America - [Invest Like the Best, EP.296]",
+      "published": "2022-09-27",
+      "url": "https://www.joincolossus.com/episodes/77749600/pencz-investing-in-latin-america"
+    },
+    {
+      "title": "Trina Spear - Billion Dollar Scrubs - [Invest Like the Best, EP.295]",
+      "published": "2022-09-20",
+      "url": "https://www.joincolossus.com/episodes/52929807/spear-billion-dollar-scrubs"
+    },
+    {
+      "title": "Gabriel Leydon - How Web3 Onboards a Billion Users - [Web3 Breakdowns, EP.37]",
+      "published": "2022-09-15",
+      "url": "https://www.joincolossus.com/episodes/28317960/leydon-the-third-wave-of-nfts"
+    },
+    {
+      "title": "Harley Finkelstein - Building the Entrepreneurship Company - [Invest Like the Best, EP.294]",
+      "published": "2022-09-13",
+      "url": "https://www.joincolossus.com/episodes/69994634/finkelstein-building-the-entrepreneurship-company"
+    },
+    {
+      "title": "Mitch Lasky - The Business of Gaming - [Invest Like the Best, EP.293]",
+      "published": "2022-09-06",
+      "url": "https://www.joincolossus.com/episodes/99764091/lasky-the-business-of-gaming"
+    },
+    {
+      "title": "David Senra - Passion & Pain - [Invest Like the Best, EP.292]",
+      "published": "2022-08-30",
+      "url": "https://www.joincolossus.com/episodes/85503387/senra-passion-pain"
+    },
+    {
+      "title": "Robert Smith - Investing in Enterprise Software - [Invest Like the Best, EP.291]",
+      "published": "2022-08-23",
+      "url": "https://www.joincolossus.com/episodes/87713997/f-investing-in-enterprise-software"
+    },
+    {
+      "title": "Katherine Boyle - Investing for America - [Invest Like the Best, EP.290]",
+      "published": "2022-08-16",
+      "url": "https://www.joincolossus.com/episodes/80105860/boyle-investing-for-america"
+    },
+    {
+      "title": "Ravi Gupta - Focus - [Invest Like the Best, EP.289]",
+      "published": "2022-08-09",
+      "url": "https://www.joincolossus.com/episodes/49602794/gupta-demanding-and-supportive"
+    },
+    {
+      "title": "Will Thorndike - The Power of Long Holding Periods - [Invest Like the Best, EP.288]",
+      "published": "2022-08-02",
+      "url": "https://www.joincolossus.com/episodes/88167992/thorndike-the-power-of-long-holding-periods"
+    },
+    {
+      "title": "Alok Vasudev - Searching for White Space - [Invest Like the Best, EP.287]",
+      "published": "2022-07-26",
+      "url": "https://www.joincolossus.com/episodes/66341032/vasudev-searching-for-white-space"
+    },
+    {
+      "title": "Matthew Ball - A Manual to The Metaverse - [Invest Like the Best, EP.286]",
+      "published": "2022-07-19",
+      "url": "https://www.joincolossus.com/episodes/87307833/ball-a-primer-on-the-metaverse"
+    },
+    {
+      "title": "TransDigm: Foundations with Nick Howley [50X, EP.1]",
+      "published": "2022-07-14",
+      "url": "https://www.50xpodcast.com"
+    },
+    {
+      "title": "Alice Bentinck - Building a Start-Up Machine - [Invest Like the Best, EP.285]",
+      "published": "2022-07-12",
+      "url": "https://www.joincolossus.com/episodes/35108124/bentinck-building-a-start-up-machine"
+    },
+    {
+      "title": "Jess Lee - Designing Investment Products - [Invest Like the Best, EP.284]",
+      "published": "2022-07-05",
+      "url": "https://www.joincolossus.com/episodes/87558266/lee-designing-investment-products"
+    },
+    {
+      "title": "Kenneth Stanley - Greatness Without Goals - [Invest Like the Best, EP.283]",
+      "published": "2022-06-28",
+      "url": "https://www.joincolossus.com/episodes/88083127/stanley-greatness-without-goals"
+    },
+    {
+      "title": "Lydia Jett - Investing in E-commerce - [Invest Like the Best, EP.282]",
+      "published": "2022-06-21",
+      "url": "https://www.joincolossus.com/episodes/90356557/jett-investing-in-e-commerce"
+    },
+    {
+      "title": "Josh Wolfe & Chris Power - Factories of the Future - [Invest Like the Best, EP.281]",
+      "published": "2022-06-14",
+      "url": "https://www.joincolossus.com/episodes/68087320/wolfe-factories-of-the-future"
+    },
+    {
+      "title": "Martin Casado - The Past, Present, and Future of Digital Infrastructure - [Invest Like the Best, EP.280]",
+      "published": "2022-06-07",
+      "url": "https://www.joincolossus.com/episodes/1290016/casado-the-past-present-and-future-of-digital-infrastructure"
+    },
+    {
+      "title": "Aswath Damodaran - Making Sense of the Market - [Invest Like the Best, EP. 279]",
+      "published": "2022-05-31",
+      "url": "https://www.joincolossus.com/episodes/75305584/damodaran-teaching-the-world-finance"
+    },
+    {
+      "title": "Anduril: Building the Future of Defense - [Business Breakdowns, EP. 59]",
+      "published": "2022-05-26",
+      "url": "https://www.joincolossus.com/episodes/95062882/schimpf-building-the-future-of-defense"
+    },
+    {
+      "title": "Tobi Lütke - Embrace the Unexpected - [Invest Like the Best, EP. 278]",
+      "published": "2022-05-24",
+      "url": "https://www.joincolossus.com/episodes/64394067/lutke-embrace-the-unexpected"
+    },
+    {
+      "title": "Tyler Cowen & Daniel Gross - Identifying Talent - [Invest Like the Best, EP. 277]",
+      "published": "2022-05-17",
+      "url": "https://www.joincolossus.com/episodes/14095368/gross-identifying-talent"
+    },
+    {
+      "title": "Jeff Jordan - Building & Investing in Marketplaces - [Invest Like the Best, EP. 276]",
+      "published": "2022-05-10",
+      "url": "https://www.joincolossus.com/episodes/90027351/jordan-building-investing-in-marketplaces"
+    },
+    {
+      "title": "Eric Glyman - Reimagining Corporate Finance - [Invest Like the Best, EP. 275]",
+      "published": "2022-05-03",
+      "url": "https://www.joincolossus.com/episodes/8753343/glyman-reimagining-corporate-finance"
+    },
+    {
+      "title": "Dmitry Balyasny - Building a Better Model - [Invest Like the Best, EP. 274]",
+      "published": "2022-04-26",
+      "url": "https://www.joincolossus.com/episodes/36513013/balyasny-building-a-better-model"
+    },
+    {
+      "title": "Henry Ward - Transforming Private Markets - [Invest Like the Best, EP. 273]",
+      "published": "2022-04-21",
+      "url": "https://www.joincolossus.com/episodes/39950198/ward-transforming-private-markets"
+    },
+    {
+      "title": "Alexandr Wang - A Primer on AI - [Invest Like the Best, EP. 272]",
+      "published": "2022-04-12",
+      "url": "https://www.joincolossus.com/episodes/75224660/wang-a-primer-on-ai"
+    },
+    {
+      "title": "Antonio Gracias - Pro-Entropic Investing - [Invest Like the Best, EP. 271]",
+      "published": "2022-04-05",
+      "url": "https://www.joincolossus.com/episodes/71060298/gracias-pro-entropic-investing"
+    },
+    {
+      "title": "David Rubenstein - Life, Leadership, and LBOs - [Invest Like the Best, EP. 270]",
+      "published": "2022-03-29",
+      "url": "https://www.joincolossus.com/episodes/77502018/rubenstein-life-leadership-and-lbos"
+    },
+    {
+      "title": "Gaurav Kapadia - Everything Compounds - [Invest Like the Best, EP. 269]",
+      "published": "2022-03-22",
+      "url": "https://www.joincolossus.com/episodes/37926218/kapadia-everything-compounds"
+    },
+    {
+      "title": "Marko Papic - A Multi-Polar World - [Invest Like the Best, EP. 268]",
+      "published": "2022-03-15",
+      "url": "https://www.joincolossus.com/episodes/70558964/papic-a-multi-polar-world"
+    },
+    {
+      "title": "Garry Tan - Unwrapping the Gift - [Invest Like the Best, EP. 267]",
+      "published": "2022-03-08",
+      "url": "https://www.joincolossus.com/episodes/46775005/tan-unwrapping-the-gift"
+    },
+    {
+      "title": "Eric Mandelblatt - Investing in the Industrial Economy - [Invest Like the Best, EP. 266]",
+      "published": "2022-03-01",
+      "url": "https://www.joincolossus.com/episodes/43906331/mandelblatt-investing-in-the-industrial-economy"
+    },
+    {
+      "title": "Sebastian Kanovich - Powering Emerging Markets Payments - [Founder’s Field Guide, EP. 56]",
+      "published": "2022-02-24",
+      "url": "https://www.joincolossus.com/episodes/25751178/kanovich-powering-emerging-markets-payments"
+    },
+    {
+      "title": "Frank Slootman - Narrow the Focus, Increase the Quality - [Invest Like the Best, EP. 265]",
+      "published": "2022-02-22",
+      "url": "https://www.joincolossus.com/episodes/75184353/slootman-narrow-the-focus-increase-the-quality"
+    },
+    {
+      "title": "Tim Flannery - Simplifying Fund Closing - [Founder’s Field Guide, EP. 55]",
+      "published": "2022-02-17",
+      "url": "https://www.joincolossus.com/episodes/22807467/flannery-simplifying-fund-closing"
+    },
+    {
+      "title": "Joey Levin - Building an Anti-Conglomerate - [Invest Like the Best, EP. 264]",
+      "published": "2022-02-15",
+      "url": "https://www.joincolossus.com/episodes/21653644/levin-building-an-anti-conglomerate"
+    },
+    {
+      "title": "Peter Chernin - Betting on Passion - [Invest Like the Best, EP. 263]",
+      "published": "2022-02-08",
+      "url": "https://www.joincolossus.com/episodes/46126901/chernin-betting-on-passion"
+    },
+    {
+      "title": "John Pfeffer - Adapt and Evolve - [Invest Like the Best, EP. 262]",
+      "published": "2022-02-01",
+      "url": "https://www.joincolossus.com/episodes/26583628/pfeffer-adapt-and-evolve"
+    },
+    {
+      "title": "Geoffrey Moore - Building Gorilla Businesses - [Invest Like the Best, EP. 261]",
+      "published": "2022-01-27",
+      "url": "https://www.joincolossus.com/episodes/88229579/moore-building-gorilla-businesses"
+    },
+    {
+      "title": "Gavin Baker - The Cyclone Under the Surface - [Invest Like the Best, EP. 260]",
+      "published": "2022-01-25",
+      "url": "https://www.joincolossus.com/episodes/42741941/baker-the-cyclone-under-the-surface"
+    },
+    {
+      "title": "Sam Englebardt and Richard Kim - Investing in Immersive Worlds - [Invest Like the Best, EP. 259]",
+      "published": "2022-01-20",
+      "url": "https://www.joincolossus.com/episodes/1535353/englebardt-investing-in-immersive-worlds"
+    },
+    {
+      "title": "Ricky Sandler - Building an Investment Compass - [Invest Like the Best, EP. 258]",
+      "published": "2022-01-18",
+      "url": "https://www.joincolossus.com/episodes/28925950/sandler-building-an-investment-compass"
+    },
+    {
+      "title": "Orlando Bravo - The Art of Software Buyouts - [Invest Like the Best, EP. 257]",
+      "published": "2021-12-28",
+      "url": "https://www.joincolossus.com/episodes/88585306/bravo-the-art-of-software-buyouts"
+    },
+    {
+      "title": "Nick Saltarelli - One Foot in Front of the Other - [Founder’s Field Guide, EP. 54]",
+      "published": "2021-12-23",
+      "url": "https://www.joincolossus.com/episodes/71926484/saltarelli-one-foot-in-front-of-the-other"
+    },
+    {
+      "title": "Jenny Johnson - Seven Decades of Investing Expertise - [Invest Like the Best, EP. 256]",
+      "published": "2021-12-21",
+      "url": "https://www.joincolossus.com/episodes/36382659/johnson-seven-decades-of-investing-expertise"
+    },
+    {
+      "title": "Doug Colkitt - The Evolution of Markets - [Invest Like the Best, EP. 255]",
+      "published": "2021-12-14",
+      "url": "https://www.joincolossus.com/episodes/76741581/colkitt-the-evolution-of-markets"
+    },
+    {
+      "title": "Bill Gurley and Philip Rosedale - Back to the Future - [Invest Like the Best, EP. 254]",
+      "published": "2021-12-07",
+      "url": "https://www.joincolossus.com/episodes/43447310/gurley-back-to-the-future"
+    },
+    {
+      "title": "Francis Davidson - Design-led Hospitality - [Invest Like the Best, EP.253]",
+      "published": "2021-11-30",
+      "url": "https://www.joincolossus.com/episodes/68562438/davidson-design-led-hospitality"
+    },
+    {
+      "title": "Niraj Shah - Developing Every Skill - [Invest Like the Best, EP. 252]",
+      "published": "2021-11-23",
+      "url": "https://www.joincolossus.com/episodes/73227114/shah-developing-every-skill"
+    },
+    {
+      "title": "Bored Ape Yacht Club - [Web3 Breakdowns, EP. 1]",
+      "published": "2021-11-18",
+      "url": "https://www.joincolossus.com/episodes/99935896/golden-bored-ape-yacht-club"
+    },
+    {
+      "title": "Will Marshall - Indexing the Earth - [Invest Like the Best, EP. 251]",
+      "published": "2021-11-16",
+      "url": "https://www.joincolossus.com/episodes/14029498/marshall-indexing-the-earth"
+    },
+    {
+      "title": "Roelof Botha - Sequoia’s Crucible Moment - [Invest Like the Best, EP. 250]",
+      "published": "2021-11-05",
+      "url": "https://www.joincolossus.com/episodes/66371765/botha-sequoias-crucible-moment"
+    },
+    {
+      "title": "Sarah Friar - Building the Local Graph - [Invest Like the Best, EP. 249]",
+      "published": "2021-11-02",
+      "url": "https://www.joincolossus.com/episodes/99036602/friar-building-the-local-graph"
+    },
+    {
+      "title": "Universal Music Group: The Gatekeepers of Music - [Business Breakdowns, EP. 32]",
+      "published": "2021-10-28",
+      "url": "https://www.joincolossus.com/episodes/25864787/gokgol-kline-universal-music-group-the-gatekeepers-of-music"
+    },
+    {
+      "title": "Alex Rampell - Investing in Operating Systems - [Invest Like the Best, EP. 248]",
+      "published": "2021-10-26",
+      "url": "https://www.joincolossus.com/episodes/90737874/rampell-investing-in-operating-systems"
+    },
+    {
+      "title": "Sam Bankman-Fried - Creating a Perfect Market - [Invest Like the Best, EP. 247]",
+      "published": "2021-10-19",
+      "url": "https://www.joincolossus.com/episodes/48641353/bankman-fried-creating-a-perfect-market"
+    },
+    {
+      "title": "Nick Neuman - Becoming Your Own Bank - [Invest Like the Best, EP. 246]",
+      "published": "2021-10-12",
+      "url": "https://www.joincolossus.com/episodes/73084963/neuman-becoming-your-own-bank"
+    },
+    {
+      "title": "Devin Finzer - An Everything Store for Digital Assets - [Founder’s Field Guide, EP. 53]",
+      "published": "2021-10-07",
+      "url": "https://www.joincolossus.com/episodes/76162803/finzer-an-everything-store-for-digital-assets"
+    },
+    {
+      "title": "Jenny Lefcourt - The Go-to-Market Motion - [Invest Like the Best, EP. 245]",
+      "published": "2021-10-05",
+      "url": "https://www.joincolossus.com/episodes/38318717/lefcourt-the-go-to-market-motion"
+    },
+    {
+      "title": "Dave Girouard - Making Better Loans - [Founder’s Field Guide, EP. 52]",
+      "published": "2021-09-30",
+      "url": "https://www.joincolossus.com/episodes/91470262/girouard-making-better-loans"
+    },
+    {
+      "title": "Jay Hoag - Calibrating Market Adoption - [Invest Like the Best, EP. 244]",
+      "published": "2021-09-28",
+      "url": "https://www.joincolossus.com/episodes/80028950/hoag-calibrating-market-adoption"
+    },
+    {
+      "title": "Gina Bianchini - Helping Creators Build Communities - [Founder’s Field Guide, EP. 51]",
+      "published": "2021-09-23",
+      "url": "https://www.joincolossus.com/episodes/24767191/bianchini-helping-creators-build-communities"
+    },
+    {
+      "title": "David Fialkow - Paint Outside the Lines - [Invest Like the Best, EP. 243]",
+      "published": "2021-09-21",
+      "url": "https://www.joincolossus.com/episodes/48136535/fialkow-paint-outside-the-lines"
+    },
+    {
+      "title": "Justin Waldron - The Future of Social Gaming - [Founder’s Field Guide, EP. 50]",
+      "published": "2021-09-16",
+      "url": "https://www.joincolossus.com/episodes/1361386/waldron-the-future-of-social-gaming"
+    },
+    {
+      "title": "Daniel Ek - Enabling Creators Everywhere - [Invest Like the Best, EP. 242]",
+      "published": "2021-09-14",
+      "url": "https://www.joincolossus.com/episodes/14058936/ek-enabling-creators-everywhere"
+    },
+    {
+      "title": "Gabby Dizon - Mapping the Metaverse Economy - [Founder’s Field Guide, EP. 49]",
+      "published": "2021-09-02",
+      "url": "https://www.joincolossus.com/episodes/45988185/dizon-mapping-the-metaverse-economy"
+    },
+    {
+      "title": "Scott Malpass - Building a Great Endowment - [Invest Like the Best, EP. 241]",
+      "published": "2021-08-31",
+      "url": "https://www.joincolossus.com/episodes/77217304/malpass-building-a-great-endowment"
+    },
+    {
+      "title": "Mike Maples, Jr. - A Playbook for Startups - [Founder’s Field Guide, EP. 48]",
+      "published": "2021-08-26",
+      "url": "https://www.joincolossus.com/episodes/61719/maples-a-playbook-for-startups"
+    },
+    {
+      "title": "Renata Quintini and Roseanne Wincek - Investing at the Supercritical Stage - [Invest Like the Best, EP. 240]",
+      "published": "2021-08-24",
+      "url": "https://www.joincolossus.com/episodes/73766219/quintini-investing-at-the-supercritical-stage"
+    },
+    {
+      "title": "Max Simkoff - Redesigning the Home Buying Experience - [Founder’s Field Guide, EP. 47]",
+      "published": "2021-08-19",
+      "url": "https://www.joincolossus.com/episodes/14284383/simkoff-redesigning-the-home-buying-experience"
+    },
+    {
+      "title": "Suzanne Ciani - Exploring the Creative Process - [Invest Like the Best, EP. 239]",
+      "published": "2021-08-17",
+      "url": "https://www.joincolossus.com/episodes/67301309/ciani-exploring-the-creative-process"
+    },
+    {
+      "title": "Sameer Shariff - Breaking Language Barriers - [Founder’s Field Guide, EP. 46 ]",
+      "published": "2021-08-12",
+      "url": "https://www.joincolossus.com/episodes/51567490/shariff-breaking-language-barriers"
+    },
+    {
+      "title": "Sridhar Ramaswamy - The Past, Present, and Future of Search - [Invest Like the Best, EP. 238]",
+      "published": "2021-08-10",
+      "url": "https://www.joincolossus.com/episodes/84033716/ramaswamy-the-past-present-and-future-of-search"
+    },
+    {
+      "title": "Ernie Garcia - Disrupting the Auto Buying Experience - [Founder’s Field Guide, EP. 45]",
+      "published": "2021-08-05",
+      "url": "https://www.joincolossus.com/episodes/86846154/garcia-disrupting-the-auto-buying-experience"
+    },
+    {
+      "title": "Karen Karniol-Tambour - All Things Macro - [Invest Like the Best, EP. 237]",
+      "published": "2021-08-03",
+      "url": "https://www.joincolossus.com/episodes/969568/karniol-tambour-all-things-macro"
+    },
+    {
+      "title": "Sebastian Mejia - Mastering On-Demand Convenience - [Founder’s Field Guide, EP. 44]",
+      "published": "2021-07-29",
+      "url": "https://www.joincolossus.com/episodes/48872654/mejia-mastering-on-demand-convenience"
+    },
+    {
+      "title": "Carl Kawaja - Wisdom from Decades of Investing - [Invest Like the Best, EP. 236]",
+      "published": "2021-07-27",
+      "url": "https://www.joincolossus.com/episodes/25055995/kawaja-wisdom-from-decades-of-investing"
+    },
+    {
+      "title": "Stewart Butterfield - We Don’t Sell Saddles Here - [Founder’s Field Guide, EP. 43]",
+      "published": "2021-07-22",
+      "url": "https://www.joincolossus.com/episodes/57400066/butterfield-we-dont-sell-saddles-here"
+    },
+    {
+      "title": "Steve Mandel - Investing Behind Change - [Invest Like the Best, EP. 235]",
+      "published": "2021-07-20",
+      "url": "https://www.joincolossus.com/episodes/17309631/mandel-investing-behind-change"
+    },
+    {
+      "title": "Spenser Skates - Challenging Big Ideas - [Founder’s Field Guide, EP. 42]",
+      "published": "2021-07-15",
+      "url": "https://www.joincolossus.com/episodes/73422676/skates-challenging-big-ideas"
+    },
+    {
+      "title": "David Sacks - How to Operate a SaaS Startup - [Invest Like the Best, EP. 234]",
+      "published": "2021-07-13",
+      "url": "https://www.joincolossus.com/episodes/58778794/sacks-how-to-operate-a-saas-startup"
+    },
+    {
+      "title": "David Vélez - Building the Branchless Bank - [Founder’s Field Guide, EP. 41]",
+      "published": "2021-07-08",
+      "url": "https://www.joincolossus.com/episodes/16951337/velez-building-the-branchless-bank"
+    },
+    {
+      "title": "Balaji Srinivasan - Optimizing Your Inputs - [Invest Like the Best, EP. 233]",
+      "published": "2021-07-06",
+      "url": "https://www.joincolossus.com/episodes/85214124/srinivasan-optimizing-your-inputs"
+    },
+    {
+      "title": "Michael Mayer - Business Boss Battles - [Founder’s Field Guide, EP. 40]",
+      "published": "2021-07-01",
+      "url": "https://www.joincolossus.com/episodes/91593009/mayer-business-boss-battles"
+    },
+    {
+      "title": "Marc Andreessen - Making the Future - [Invest Like the Best, EP. 232]",
+      "published": "2021-06-29",
+      "url": "https://www.joincolossus.com/episodes/58516750/andreessen-making-the-future"
+    },
+    {
+      "title": "Will Ahmed - Optimizing Human Performance – [Founder’s Field Guide, EP. 39]",
+      "published": "2021-06-24",
+      "url": "https://www.joincolossus.com/episodes/50922947/ahmed-optimizing-human-performance"
+    },
+    {
+      "title": "Howard Marks - Embracing the Psychology of Investing - [Invest Like the Best, EP. 231]",
+      "published": "2021-06-22",
+      "url": "https://www.joincolossus.com/episodes/70790270/marks-embracing-the-psychology-of-investing"
+    },
+    {
+      "title": "Christina Cacioppo - Building the New Standard in Security – [Founder’s Field Guide, EP. 38]",
+      "published": "2021-06-17",
+      "url": "https://www.joincolossus.com/episodes/92432452/cacioppo-building-the-new-standard-in-security"
+    },
+    {
+      "title": "John Harris - Resilience and Imagination - [Invest Like the Best, EP. 230]",
+      "published": "2021-06-15",
+      "url": "https://www.joincolossus.com/episodes/87423949/harris-resilience-and-imagination"
+    },
+    {
+      "title": "Florian Hagenbuch and Mate Pencz - Everything Will Be Bought Online – [Founder’s Field Guide, EP. 37]",
+      "published": "2021-06-10",
+      "url": "https://www.joincolossus.com/episodes/40055756/hagenbuch-everything-will-be-bought-online"
+    },
+    {
+      "title": "Gabriel Leydon - Designing Digital Economies - [Invest Like the Best, EP. 229]",
+      "published": "2021-06-08",
+      "url": "https://www.joincolossus.com/episodes/14063850/leydon-designing-digital-economies"
+    },
+    {
+      "title": "Assaf Wand - Innovation in Static Industries – [Founder’s Field Guide, EP. 36]",
+      "published": "2021-06-03",
+      "url": "https://www.joincolossus.com/episodes/22044528/wand-innovation-in-static-industries"
+    },
+    {
+      "title": "Dennis Lynch - Delivering Alpha in Adapting Markets - [Invest Like the Best, EP. 228]",
+      "published": "2021-06-01",
+      "url": "https://www.joincolossus.com/episodes/40040980/lynch-delivering-alpha-in-adapting-markets"
+    },
+    {
+      "title": "Henrique Dubugras - Building the Financial Center of Gravity – [Founder’s Field Guide, EP. 35]",
+      "published": "2021-05-27",
+      "url": "https://www.joincolossus.com/episodes/66779396/dubugras-building-the-financial-center-of-gravity"
+    },
+    {
+      "title": "Justin Fishner-Wolfson - Secondary Investing in Private Markets - [Invest Like the Best, EP. 227]",
+      "published": "2021-05-25",
+      "url": "https://joincolossus.com/episodes/73623232/fishner-wolfson-secondary-investing-in-private-markets"
+    },
+    {
+      "title": "Peter Reinhardt - Learning How to Sell – [Founder’s Field Guide, EP. 34]",
+      "published": "2021-05-20",
+      "url": "https://joincolossus.com/episodes/54216780/reinhardt-learning-how-to-sell"
+    },
+    {
+      "title": "Brent Beshore - Learnings from a Year of Unexpected Events - [Invest Like the Best, EP. 226]",
+      "published": "2021-05-18",
+      "url": "https://www.joincolossus.com/episodes/29595354/beshore-learnings-from-a-year-of-unexpected-events"
+    },
+    {
+      "title": "Jeremy Cai - Manufacturer to Customer – [Founder’s Field Guide, EP. 33]",
+      "published": "2021-05-13",
+      "url": "https://www.joincolossus.com/episodes/41647692/cai-manufacturer-to-customer"
+    },
+    {
+      "title": "Eli Dourado - Frontiers for Productivity - [Invest Like the Best, EP. 225]",
+      "published": "2021-05-11",
+      "url": "https://www.joincolossus.com/episodes/24865738/dourado-frontiers-for-productivity"
+    },
+    {
+      "title": "James Reinhart – Lessons in Process Power – [Founder’s Field Guide, EP. 32]",
+      "published": "2021-05-06",
+      "url": "https://www.joincolossus.com/episodes/6186525/reinhart-lessons-in-process-power"
+    },
+    {
+      "title": "Andrew Sugrue - Investing in Paradigm Shifts - [Invest Like the Best, EP. 224]",
+      "published": "2021-05-04",
+      "url": "https://www.joincolossus.com/episodes/11872618/sugrue-investing-in-paradigm-shifts"
+    },
+    {
+      "title": "Alyssa Ravasio - Supply, Demand, and the Outdoors - [Founder’s Field Guide, EP. 31]",
+      "published": "2021-04-29",
+      "url": "https://www.joincolossus.com/episodes/95054383/ravasio-supply-demand-and-the-outdoors"
+    },
+    {
+      "title": "Josh Buckley - Identifying Legendary Start-ups - [Invest Like the Best, EP. 223]",
+      "published": "2021-04-27",
+      "url": "https://www.joincolossus.com/episodes/15214417/buckley-identifying-legendary-start-ups"
+    },
+    {
+      "title": "Thomas Tull - New Physics of Business - [Founder’s Field Guide, EP. 30]",
+      "published": "2021-04-22",
+      "url": "https://www.joincolossus.com/episodes/18909468/tull-new-physics-of-business"
+    },
+    {
+      "title": "Paul Enright - The Buy Side Primer - [Invest Like the Best, EP. 222]",
+      "published": "2021-04-20",
+      "url": "https://www.joincolossus.com/episodes/88194365/enright-the-buy-side-primer"
+    },
+    {
+      "title": "Trevor McFedries - Building Web 3.0 - [Founder’s Field Guide, EP. 29]",
+      "published": "2021-04-15",
+      "url": "https://www.joincolossus.com/episodes/69401876/mcfedries-building-web-30"
+    },
+    {
+      "title": "Chris Dixon - The Potential of Blockchain Technology - [Invest Like the Best, EP. 221]",
+      "published": "2021-04-13",
+      "url": "https://www.joincolossus.com/episodes/22848496/dixon-the-potential-of-blockchain-technology"
+    },
+    {
+      "title": "Shopify: The E-commerce On-Ramp - [Business Breakdowns, EP. 01]",
+      "published": "2021-04-09",
+      "url": "https://www.joincolossus.com/episodes/85946038/danco-shopify-the-e-commerce-on-ramp"
+    },
+    {
+      "title": "Tony Xu - A Human and Math Problem - [Founder’s Field Guide, EP. 28]",
+      "published": "2021-04-08",
+      "url": "https://joincolossus.com/episodes/64235923/xu-a-human-and-math-problem"
+    },
+    {
+      "title": "Mike Kerns and Jesse Jacobs - Content to Commerce - [Invest Like the Best, EP. 220]",
+      "published": "2021-04-06",
+      "url": "https://www.joincolossus.com/episodes/71100067/jacobs-content-to-commerce"
+    },
+    {
+      "title": "Business Breakdowns - Trailer",
+      "published": "2021-04-05",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/ILTB_-_BREAKDOWNS_PREVIEW.mp3"
+    },
+    {
+      "title": "Jesse Pujji - A Primer on Performance Marketing - [Founder’s Field Guide, EP. 27]",
+      "published": "2021-04-01",
+      "url": "https://www.joincolossus.com/episodes/69919681/pujji-performance-marketing-masterclass"
+    },
+    {
+      "title": "Kanyi Maqubela - Dawn of the 21st Century - [Invest Like the Best, EP. 219]",
+      "published": "2021-03-30",
+      "url": "https://www.joincolossus.com/episodes/16855188/maqubela-dawn-of-the-21st-century"
+    },
+    {
+      "title": "Roxanne Petraeus - Modernizing Compliance - [Founder’s Field Guide, EP.26]",
+      "published": "2021-03-25",
+      "url": "https://www.joincolossus.com/episodes/66297340/petraeus-building-in-boring-industries"
+    },
+    {
+      "title": "Jesse Walden - A Primer on NFTs - [Invest Like the Best, EP. 218]",
+      "published": "2021-03-23",
+      "url": "https://joincolossus.com/episodes/5917632/walden-a-primer-on-nfts"
+    },
+    {
+      "title": "Jonathan Goldberg - Capturing Carbon - [Founder’s Field Guide, EP. 25]",
+      "published": "2021-03-18",
+      "url": "https://www.joincolossus.com/episodes/65487703/goldberg-capturing-carbon"
+    },
+    {
+      "title": "Marissa King - The Science of Social Networks - [Invest Like the Best, EP. 217]",
+      "published": "2021-03-16",
+      "url": "https://www.joincolossus.com/episodes/20592710/king-the-science-of-social-networks"
+    },
+    {
+      "title": "Jonathan Neman - Building the Modern Restaurant - [Founder’s Field Guide, EP. 24]",
+      "published": "2021-03-11",
+      "url": "https://www.joincolossus.com/episodes/94245865/neman-building-the-modern-restaurant"
+    },
+    {
+      "title": "Josh Wolfe and Tony Thomas - The Past, Present, and Future of Defense – [Invest Like the Best, EP. 216]",
+      "published": "2021-03-09",
+      "url": "https://www.joincolossus.com/episodes/70111415/wolfe-the-past-present-and-future-of-defense"
+    },
+    {
+      "title": "Matteo Franceschetti – Modernizing Sleep – [Founder’s Field Guide, EP. 23]",
+      "published": "2021-03-04",
+      "url": "https://www.joincolossus.com/episodes/3651335/franceschetti-modernizing-sleep"
+    },
+    {
+      "title": "Jack Clark - Grateful for Everything, Entitled to Nothing – [Invest Like the Best, EP. 215]",
+      "published": "2021-03-02",
+      "url": "https://www.joincolossus.com/episodes/64695168/clark-grateful-for-everything-entitled-to-nothing"
+    },
+    {
+      "title": "Ryan Petersen - Where There Is Mystery, There Is Margin – [Founder’s Field Guide, EP. 22]",
+      "published": "2021-02-25",
+      "url": "https://www.joincolossus.com/episodes/49206200/petersen-where-there-is-mystery-there-is-margin"
+    },
+    {
+      "title": "Jeremy Grantham - A Historic Market Bubble – [Invest Like the Best, EP.214]",
+      "published": "2021-02-23",
+      "url": "https://www.joincolossus.com/episodes/56690947/grantham-the-impending-retail-bubble"
+    },
+    {
+      "title": "Carlos Brito – Creating an Ownership Culture – [Founder’s Field Guide, EP. 21]",
+      "published": "2021-02-18",
+      "url": "https://www.joincolossus.com/episodes/24275137/brito-creating-an-ownership-culture"
+    },
+    {
+      "title": "Scott Belsky - Focus on the First Mile – [Invest Like the Best, EP. 213]",
+      "published": "2021-02-16",
+      "url": "https://www.joincolossus.com/episodes/67001654/belsky-focus-on-the-first-mile"
+    },
+    {
+      "title": "Matt Mullenweg – The Past, Present, and Future of the Internet – [Founder’s Field Guide, EP.20]",
+      "published": "2021-02-11",
+      "url": "https://www.joincolossus.com/episodes/6786509/mullenweg-the-past-present-and-future-of-the-internet"
+    },
+    {
+      "title": "Michael Dempsey – Investing in Bleeding Edge Technology – [Invest Like the Best, EP.212]",
+      "published": "2021-02-09",
+      "url": "https://www.joincolossus.com/episodes/6557836/dempsey-investing-in-bleeding-edge-technology"
+    },
+    {
+      "title": "Dustin Moskovitz – Eliminating Work About Work – [Founder’s Field Guide, EP. 19]",
+      "published": "2021-02-04",
+      "url": "https://www.joincolossus.com/episodes/88012555/moskovitz-eliminating-work-about-work"
+    },
+    {
+      "title": "Chamath Palihapitiya – The Major Problems Facing the World – [Invest Like the Best, EP.211]",
+      "published": "2021-02-02",
+      "url": "https://www.joincolossus.com/episodes/33654465/palihapitiya-the-major-problems-facing-the-world"
+    },
+    {
+      "title": "Ali Ghodsi – The Past, Present, and Future of Big Data – [Founder’s Field Guide, EP.18]",
+      "published": "2021-01-28",
+      "url": "https://www.joincolossus.com/episodes/4919706/ghodsi-the-past-present-and-future-of-big-data"
+    },
+    {
+      "title": "Joost van Dreunen – Unlocking Value in Gaming – [Invest Like the Best, EP.210]",
+      "published": "2021-01-26",
+      "url": "https://www.joincolossus.com/episodes/14574831/van-unlocking-value-in-gaming"
+    },
+    {
+      "title": "Ilkka Paananen – Superpowering Teams – [Founder’s Field Guide, EP.17]",
+      "published": "2021-01-21",
+      "url": "https://www.joincolossus.com/episodes/72273479/paananen-superpowering-teams"
+    },
+    {
+      "title": "Claire Cormier Thielke – The Future of Cities and Real Estate – [Invest Like the Best, EP.209]",
+      "published": "2021-01-19",
+      "url": "https://www.joincolossus.com/episodes/72331821/cormier-the-future-of-cities-and-real-estate"
+    },
+    {
+      "title": "Oliver Hughes – The Secret FinTech Giant – [Founder’s Field Guide, EP.16]",
+      "published": "2021-01-14",
+      "url": "https://www.joincolossus.com/episodes/72486324/hughes-the-secret-fintech-giant"
+    },
+    {
+      "title": "Zack Fuss – Breaking Down the Food Ecosystem – [Invest Like the Best, EP.208]",
+      "published": "2021-01-12",
+      "url": "https://www.joincolossus.com/episodes/93129089/fuss-breaking-down-the-food-ecosystem"
+    },
+    {
+      "title": "Carlos Cashman – Lessons from the Amazon Ecosystems – [Founder’s Field Guide, EP.15]",
+      "published": "2021-01-07",
+      "url": "https://www.joincolossus.com/episodes/28372673/cashman-lessons-from-the-amazon-ecosystem"
+    },
+    {
+      "title": "Ram Parameswaran - Internet Scale Businesses – [Invest Like the Best, EP.207]",
+      "published": "2021-01-05",
+      "url": "https://www.joincolossus.com/episodes/22392883/parameswaran-internet-scale-businesses"
+    },
+    {
+      "title": "Dylan Field - The Growing Importance of Design – [Founder’s Field Guide, EP.14]",
+      "published": "2020-12-31",
+      "url": "https://www.joincolossus.com/episodes/375923/field-the-growing-importance-of-design"
+    },
+    {
+      "title": "Tracy Graham - Investing in Overlooked Businesses – [Invest Like the Best, EP.206]",
+      "published": "2020-12-29",
+      "url": "https://www.joincolossus.com/episodes/86798473/graham-investing-in-overlooked-businesses."
+    },
+    {
+      "title": "Zach Perret – The Future of Financial Services – [Founder’s Field Guide, EP.13]",
+      "published": "2020-12-24",
+      "url": "https://www.joincolossus.com/episodes/39328476/perret-the-future-of-financial-services"
+    },
+    {
+      "title": "Mario Cibelli - Cornerstone Investing Insights - [Invest Like the Best, EP.205]",
+      "published": "2020-12-22",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.205_-_Mario_Cibelli_FINAL.mp3"
+    },
+    {
+      "title": "Bob Pittman - Lessons from Building Media Empires – [Founder’s Field Guide, EP.12]",
+      "published": "2020-12-17",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/FFG_EP.12_-_Bob_Pittman_FINAL.mp3"
+    },
+    {
+      "title": "Sam Hinkie – Find Your People - [Invest Like the Best, EP.204]",
+      "published": "2020-12-15",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.204_-_Sam_Hinkie_FINAL.mp3"
+    },
+    {
+      "title": "Michelle Zatlyn – Protecting the Internet – [Founder’s Field Guide, EP.11]",
+      "published": "2020-12-10",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/FFG_EP.11_-_Michelle_Zatlyn_FINAL.mp3"
+    },
+    {
+      "title": "Danny Meyer – The Power of Hospitality - [Invest Like the Best, EP.203]",
+      "published": "2020-12-08",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.203_-_Danny_Meyer_FINAL.mp3"
+    },
+    {
+      "title": "Zac Bookman – How Government Works – [Founder’s Field Guide, EP.10]",
+      "published": "2020-12-03",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/FFG_EP.10_-_Zac_Bookman_FINAL.mp3"
+    },
+    {
+      "title": "Daniel Gross – Finding Undiscovered Talent - [Invest Like the Best, EP.202]",
+      "published": "2020-12-01",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.202_-_Daniel_Gross_FINAL.mp3"
+    },
+    {
+      "title": "Emmett Shear - The New Language of the Internet – [Founder’s Field Guide, EP.9]",
+      "published": "2020-11-26",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/FFG_EP.9_-_Emmett_Shear_FINAL.mp3"
+    },
+    {
+      "title": "RRE Ventures - RRE Ventures - Raju Rishi, Nikita Singareddy, Jason Black - [Invest Like the Best, EP.201]",
+      "published": "2020-11-24",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.201_-_Team_RRE_Ventures_FINAL.mp3"
+    },
+    {
+      "title": "Nick Kokonas - Know What You Are Selling – [Founder’s Field Guide, EP.8]",
+      "published": "2020-11-19",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/FFG_EP.8_-_Nick_Kokonas_FINAL.mp3"
+    },
+    {
+      "title": "Niki Scevak - Wild Hearts and Wild Ideas - [Invest Like the Best, EP.200]",
+      "published": "2020-11-17",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.200_-_Niki_Scevak_FINAL.mp3"
+    },
+    {
+      "title": "Todd McKinnon - Creating and Defining a New Market Category - [Founder’s Field Guide, EP.7]",
+      "published": "2020-11-12",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/FFG_EP.7_-_Todd_McKinnon_FINAL.mp3"
+    },
+    {
+      "title": "Jason Karp and Rohan Oza – The Power of Brand - [Invest Like the Best, EP.199]",
+      "published": "2020-11-10",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.199_-_Rohan_Oza_and_Jason_Karp_FINAL.mp3"
+    },
+    {
+      "title": "John Chambers - Pattern Matching, Playbooks, and Winning Product Categories - [Founder’s Field Guide, EP.6]",
+      "published": "2020-11-05",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/FFG_EP.6_-_John_Chambers_FINAL.mp3"
+    },
+    {
+      "title": "Anu Hariharan – Lessons in Growth Investing - [Invest Like the Best, EP.198]",
+      "published": "2020-11-03",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.198_-_Anu_Hariharan_FINAL.mp3"
+    },
+    {
+      "title": "Laura Behrens Wu - When Digital and Physical Worlds Converge - [Founder’s Field Guide, EP.5]",
+      "published": "2020-10-29",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/FFG_EP.5_-_Laura_Behrens_Wu_FINAL.mp3"
+    },
+    {
+      "title": "Brad Gerstner and Rich Barton – Thriving in Changing Markets - [Invest Like the Best, EP.197]",
+      "published": "2020-10-27",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.197_-_Brad_G_and_Rich_B_FINAL.mp3"
+    },
+    {
+      "title": "Jason Citron - Building the Third Place - [Founder’s Field Guide, EP.4]",
+      "published": "2020-10-22",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/FFG_EP.4_-_Jason_Citron_FINAL.mp3"
+    },
+    {
+      "title": "Ben Gilbert and David Rosenthal of Acquired - Lessons on Early Stage Investing and Getting Acquired - [Invest Like the Best, EP.196]",
+      "published": "2020-10-20",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.196_-_Acquired_FINAL.mp3"
+    },
+    {
+      "title": "Leore Avidar - Creating and Selling Superpowers - [Founder’s Field Guide, EP.3]",
+      "published": "2020-10-15",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/FFG_EP.3_-_Leore_Avidar_FINAL.mp3"
+    },
+    {
+      "title": "Jacqueline Novogratz – Investing in Dignity and Character - [Invest Like the Best, EP.195]",
+      "published": "2020-10-13",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.195_-_Jacqueline_Novogratz_FINAL.mp3"
+    },
+    {
+      "title": "Justin Singer - How Regulation Unlocks Opportunity - [Founder’s Field Guide, EP.2]",
+      "published": "2020-10-08",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/FFG_EP.2_-_Justin_Singer_FINAL.mp3"
+    },
+    {
+      "title": "Jesse Livermore - Upside Down Markets - Understanding Fiscal and Monetary Policy - [Invest Like the Best, EP.194]",
+      "published": "2020-10-06",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.194_-_Jesse_Livermore_2_FINAL.mp3"
+    },
+    {
+      "title": "Rahul Vohra - Using Emotion to Design Great Products - [Founder’s Field Guide, EP.1]",
+      "published": "2020-10-01",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/FFG_EP.1_-_Rahul_Vohra_FINAL.mp3"
+    },
+    {
+      "title": "Modest Proposal – Better, Cheaper, Faster: Why Companies that Reduce Friction Win - [Invest Like the Best, EP.193]",
+      "published": "2020-09-29",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.193_-_Modest_Proposal_2_FINAL.mp3"
+    },
+    {
+      "title": "Lauren Taylor Wolfe – The Modern Activist Toolkit - [Invest Like the Best, EP.192]",
+      "published": "2020-09-22",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.192_-_Lauren_Taylor_Wolfe_FINAL.mp3"
+    },
+    {
+      "title": "Rory Sutherland – Moonshots and Marketing - [Invest Like the Best, EP.191]",
+      "published": "2020-09-15",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.191_-_Rory_Sutherland_FINAL.mp3"
+    },
+    {
+      "title": "Michael Seibel – Lessons from Thousands of Startups - [Invest Like the Best, EP.190]",
+      "published": "2020-09-08",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.190_-_Michael_Seibel_FINAL.mp3"
+    },
+    {
+      "title": "Michael Mauboussin – Great Migration Public to Private Equity - [Invest Like the Best, EP.189]",
+      "published": "2020-09-01",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.189_-_Michael_Mauboussin_FINAL.mp3"
+    },
+    {
+      "title": "Chetan Puttagunta and Jeremiah Lowin – Open Source Crash Course - [Invest Like the Best, EP.188]",
+      "published": "2020-08-25",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.188_-_Chetan_and_Jeremiah_FINAL.mp3"
+    },
+    {
+      "title": "Katrina Lake – The Next Wave of E-Commerce - [Invest Like the Best, EP.187]",
+      "published": "2020-08-18",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.187_-_Katrina_Lake_FINAL.mp3"
+    },
+    {
+      "title": "Brian Armstrong – The Future of Crypto - [Invest Like the Best, EP.186]",
+      "published": "2020-08-11",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.186_-_Brian_Armstrong_FINAL2.mp3"
+    },
+    {
+      "title": "Matt Ball - The Future of Media: Movies, the Metaverse, and More - [Invest Like the Best, EP.185]",
+      "published": "2020-08-04",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.185_-_Matthew_Ball_FINAL.mp3"
+    },
+    {
+      "title": "Kat Cole – How to Operate: Lessons in Brand, Distribution, and Leadership - [Invest Like the Best, EP.184]",
+      "published": "2020-07-28",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.184_-_Kat_Cole_FINAL.mp3"
+    },
+    {
+      "title": "Eric Vishria – The Past, Present, and Future of SaaS and Software - [Invest Like the Best, EP.183]",
+      "published": "2020-07-21",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.183_-_Eriv_Vishria_FINAL.mp3"
+    },
+    {
+      "title": "Turner Novak – The Past, Present, and Future of Consumer Social Companies - [Invest Like the Best, EP.182]",
+      "published": "2020-07-14",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.182_-_Turner_Novak_FINAL.mp3"
+    },
+    {
+      "title": "Charlie Songhurst – Lessons from Investing in 483 Companies - [Invest Like the Best, EP.181]",
+      "published": "2020-07-07",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.181_-_Charlie_Songhurst_FINAL2.mp3"
+    },
+    {
+      "title": "Blake Robbins – Investing in Gaming - [Invest Like the Best, EP.180]",
+      "published": "2020-06-30",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.180_-_Blake_Robbins_FINAL.mp3"
+    },
+    {
+      "title": "Brad Gerstner – Public and Private Investing - [Invest Like the Best, EP.179]",
+      "published": "2020-06-23",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.179_-_Brad_Gerstner_FINAL.mp3"
+    },
+    {
+      "title": "John Collison – Growing the Internet Economy - [Invest Like the Best, EP.178]",
+      "published": "2020-06-16",
+      "url": "https://investlikethebest.libsyn.com/john-collison-growing-the-internet-economy-invest-like-the-best-ep178"
+    },
+    {
+      "title": "Jeremy Grantham – An Uncertain Crisis - [Invest Like the Best, EP.177]",
+      "published": "2020-06-09",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.177_-_Jeremy_Grantham_FINAL.mp3"
+    },
+    {
+      "title": "Ben Thompson – Platforms, Ecosystems, and Aggregators - [Invest Like the Best, EP.176]",
+      "published": "2020-06-02",
+      "url": "https://investlikethebest.libsyn.com/ben-thompson-platforms-ecosystems-and-aggregators-invest-like-the-best-ep176"
+    },
+    {
+      "title": "Shishir Mehrotra – The Art and Science of the Bundle - [Invest Like the Best, EP.175]",
+      "published": "2020-05-26",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.175_-_Shishir_Mehrotra_FINAL.mp3"
+    },
+    {
+      "title": "Hamilton Helmer – Power + Business - [Invest Like the Best, EP.174]",
+      "published": "2020-05-19",
+      "url": "https://investlikethebest.libsyn.com/hamilton-helmer-power-business-invest-like-the-best-ep174"
+    },
+    {
+      "title": "Tobi Lutke – Building a Modern Business - [Invest Like the Best, EP.173]",
+      "published": "2020-05-12",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.173_-_Tobi_Lutke_FINAL.mp3"
+    },
+    {
+      "title": "Ali Hamed – An Update on Private Credit - [Invest Like the Best, EP.172]",
+      "published": "2020-05-05",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.172_-_Ali_Hamed_FINAL.mp3"
+    },
+    {
+      "title": "Chris Bloomstran - An Update on Public Markets - [Invest Like the Best, EP.171]",
+      "published": "2020-04-30",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.171_-_Chris_Bloomstran_FINAL.mp3"
+    },
+    {
+      "title": "Josh Kopelman - The Past, Present, And Future Of Seed Investing - [Invest Like the Best, EP.170]",
+      "published": "2020-04-28",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.170_-_Josh_Kopelman_FINAL.mp3"
+    },
+    {
+      "title": "Manny Stotz - Frontier Markets Investing - [Invest Like the Best, EP.169]",
+      "published": "2020-04-21",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.169_-_Manny_Stotz_FINAL.mp3"
+    },
+    {
+      "title": "Sarah Tavel - Consumer & Marketplace Investing - [Invest Like the Best, EP.168]",
+      "published": "2020-04-07",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.168_-_Sarah_Tavel_FINAL.mp3"
+    },
+    {
+      "title": "[BONUS] Boyd Varty - 40 Days and 40 Nights",
+      "published": "2020-04-05",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/BONUS_-_Boyd_Varty_FINAL.mp3"
+    },
+    {
+      "title": "Gavin Baker – Investing Through a Bear Market - [Invest Like the Best, EP.167]",
+      "published": "2020-04-02",
+      "url": "https://investlikethebest.libsyn.com/gavin-baker-update-of-the-bull-case-for-equities-invest-like-the-best-ep167"
+    },
+    {
+      "title": "D.A. Wallach – Investing in Healthcare - [Invest Like the Best, EP.166]",
+      "published": "2020-03-31",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.166_-_DA_Wallach_FINAL.mp3"
+    },
+    {
+      "title": "Chad Cascarilla – Update on Tail Risk - [Invest Like the Best, EP.165]",
+      "published": "2020-03-25",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.165_-_Chad_Cascarilla_FINAL2.mp3"
+    },
+    {
+      "title": "Brent Beshore – Update on Small Business and Private Equity - [Invest Like the Best, EP.164]",
+      "published": "2020-03-20",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.164_-_Brent_Beshore_FINAL.mp3"
+    },
+    {
+      "title": "Dan Rasmussen – Investing Through a Crisis - [Invest Like the Best, EP.163]",
+      "published": "2020-03-16",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.163_-_Dan_Rasmussen_FINAL.mp3"
+    },
+    {
+      "title": "Bill Gurley and Chetan Puttagunta – An Update on Consumer & Enterprise Venture Capital - [Invest Like the Best, EP.162]",
+      "published": "2020-03-13",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.162_-_Bill_Gurley_and_Chetan_Puttagunta_FINAL.mp3"
+    },
+    {
+      "title": "Bryan Krug – An Update on Corporate Credit - [Invest Like the Best, EP.161]",
+      "published": "2020-03-13",
+      "url": "https://investlikethebest.libsyn.com/bryan-krug-an-update-on-corporate-credit-invest-like-the-best-ep161"
+    },
+    {
+      "title": "Deep Basin – Oil Price War and Its Implications - [Invest Like the Best, EP.160]",
+      "published": "2020-03-11",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.160_-_Deep_Basin_FINAL.mp3"
+    },
+    {
+      "title": "Peter Zeihan - Dis-United Nations - [Invest Like the Best, EP.159]",
+      "published": "2020-03-10",
+      "url": "https://investlikethebest.libsyn.com/peter-zeihan-invest-like-the-best-ep159"
+    },
+    {
+      "title": "Jeff Lawson – How to Build a Platform - [Invest Like the Best, EP.158]",
+      "published": "2020-03-03",
+      "url": "https://investlikethebest.libsyn.com/-jeff-lawson-how-to-build-a-platform-invest-like-the-best-ep158"
+    },
+    {
+      "title": "Niko Canner – Become a Perfect Instrument - [Invest Like the Best, EP.157]",
+      "published": "2020-02-25",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.157_-_Niko_Canner_FINAL.mp3"
+    },
+    {
+      "title": "[REPLAY] What You Learn About Business Deals After: 12,000 Deals Reviewed, 1,500 Deep Dives, 125 Site Visits, and 7 Portfolio Companies with Brent Beshore - [Invest Like the Best, EP.100]",
+      "published": "2020-02-04",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.100_-_Brent_Beshore_Returns_REPLAY.mp3"
+    },
+    {
+      "title": "Chetan Puttagunta – Go Slow to Go Fast: Software Building and Investing - [Invest Like the Best, EP.156]",
+      "published": "2020-01-28",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.156_-_Chetan_Puttagunta_FINAL.mp3"
+    },
+    {
+      "title": "Rebecca Kaden – Thesis Driven Investing - [Invest Like the Best, EP.155]",
+      "published": "2020-01-21",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.155_-_Rebecca_Kaden_FINAL.mp3"
+    },
+    {
+      "title": "Matt Clifford – Investing Pre-Company - [Invest Like the Best, EP.154]",
+      "published": "2020-01-14",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.154_-_Matt_Clifford_FINAL.mp3"
+    },
+    {
+      "title": "Peter Buffett – Finding Your Note - [Invest Like the Best, EP.153]",
+      "published": "2020-01-07",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.153_-_Peter_Buffett_FINAL.mp3"
+    },
+    {
+      "title": "Ben Savage – All Things Fintech Investing - [Invest Like the Best, EP.152]",
+      "published": "2019-12-17",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.152_-_Ben_Savage_FINAL.mp3"
+    },
+    {
+      "title": "Jeff Ma – Making Decisions with Data - [Invest Like the Best, EP.151]",
+      "published": "2019-12-10",
+      "url": "https://investlikethebest.libsyn.com/jeff-ma-making-decisions-with-data-invest-like-the-best-ep151"
+    },
+    {
+      "title": "Vaughn Tan – Quality and Innovation - [Invest Like the Best, EP.150]",
+      "published": "2019-12-03",
+      "url": "https://investlikethebest.libsyn.com/vaughn-tan-quality-and-innovation-invest-like-the-best-ep150"
+    },
+    {
+      "title": "Gavin Baker – Tech and Consumer Growth Investing - [Invest Like the Best, EP.149]",
+      "published": "2019-11-26",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.149_-_Gavin_Baker_FINAL.mp3"
+    },
+    {
+      "title": "Kevin Systrom and Mike Krieger – How to Build a Great Product",
+      "published": "2019-11-19",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.148_-_Kevin_Systrom_and_Mike_Krieger_FINAL.mp3"
+    },
+    {
+      "title": "Daniel Ek – The Future of Audio - [Invest Like the Best, EP.147]",
+      "published": "2019-11-12",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.147_-_Daniel_Ek_FINAL.mp3"
+    },
+    {
+      "title": "George Rzepecki – Investing in Africa - [Invest Like the Best, EP.146",
+      "published": "2019-11-05",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.146_-_Geroge_Rzepecki_FINAL.mp3"
+    },
+    {
+      "title": "Chad Cascarilla – The Future of Blockchain and Financial Services - [Invest Like the Best, EP.145]",
+      "published": "2019-10-29",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.145_-_Chad_Cascarilla_FINAL2.mp3"
+    },
+    {
+      "title": "Bill Gurley – Direct Listing vs. IPO - [Invest Like the Best, EP.144]",
+      "published": "2019-09-24",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.144_-_Bill_Gurley_II_FINAL.mp3"
+    },
+    {
+      "title": "[REPLAY] Albert Wenger - World After Capital - [Invest Like the Best, EP.80]",
+      "published": "2019-09-17",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.80_-_Albert_Wenger_REPLAY.mp3"
+    },
+    {
+      "title": "[REPLAY] Deep Basin – Earning Alpha in Energy - [Invest Like the Best, EP.81]",
+      "published": "2019-09-11",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.81_-_Deep_Basin_REPLAY.mp3"
+    },
+    {
+      "title": "[REPLAY] Pat Dorsey - Buying Companies With Economic Moats - [Invest Like the Best, EP.51]",
+      "published": "2019-08-27",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.51_-_Pat_Dorsey_REPLAY.mp3"
+    },
+    {
+      "title": "Joe McLean – How to be a Pro’s Pro - [Invest Like the Best, EP.143]",
+      "published": "2019-08-20",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.143_-_Joe_McLean_FINAL.mp3"
+    },
+    {
+      "title": "Zack Kanter – All Things Business - [Invest Like the Best, EP.142]",
+      "published": "2019-08-13",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.142_-_Zack_Kanter_FINAL.mp3"
+    },
+    {
+      "title": "Chris Bloomstran – What Makes a Quality Company - [Invest Like the Best, EP.141]",
+      "published": "2019-08-06",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.141_-_Chris_Bloomstran_FINAL.mp3"
+    },
+    {
+      "title": "Brian Christian – How to Live with Computers - [Invest Like the Best, EP.140]",
+      "published": "2019-07-30",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.140_-_Brian_Christian_FINAL.mp3"
+    },
+    {
+      "title": "Eric Sorensen - How Quant Evolves - [Invest Like the Best, EP.139]",
+      "published": "2019-07-23",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.139_-_Eric_Sorensen_FINAL.mp3"
+    },
+    {
+      "title": "Jane McGonigal – How Games Make Life Better - [Invest Like the Best, EP.138]",
+      "published": "2019-07-16",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.138_-_Jane_Mcgonigal_FINAL.mp3"
+    },
+    {
+      "title": "Bill Gurley – All Things Business and Investing - [Invest Like the Best, EP.137]",
+      "published": "2019-07-02",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.137_-_Bill_Gurley_FINAL.mp3"
+    },
+    {
+      "title": "Jesse Livermore – The Search for the Truth with the Anonymous Master - [Invest Like the Best, EP.136]",
+      "published": "2019-06-25",
+      "url": "https://investlikethebest.libsyn.com/jesse-livermore-the-search-for-the-truth-with-the-anonymous-master-invest-like-the-best-ep136"
+    },
+    {
+      "title": "Chuck Akre – The Three-Legged Stool - [Invest Like the Best, EP.135]",
+      "published": "2019-06-18",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.135_-_Chuck_Akre_FINAL.mp3"
+    },
+    {
+      "title": "Jerry Neumann – Why Venture is Hard - [Invest Like the Best, EP.134]",
+      "published": "2019-06-11",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.134_-_Jerry_Neumann_FINAL.mp3"
+    },
+    {
+      "title": "[REPLAY] Sam Hinkie – Data, Decisions, and Basketball - [Invest Like the Best, EP.88]",
+      "published": "2019-06-04",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.88_-_Sam_Hinkie_REPLAY.mp3"
+    },
+    {
+      "title": "David Epstein – Wide or Deep? - [Invest Like the Best, EP.133]",
+      "published": "2019-05-28",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.133_-_David_Epstein_FINAL.mp3"
+    },
+    {
+      "title": "Priya Parker – The Art of Gathering - [Invest Like the Best, EP.132]",
+      "published": "2019-05-21",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.132_-_Priya_Parker_FINAL.mp3"
+    },
+    {
+      "title": "[REPLAY] Tim Urban - Grand Theft Life - [Invest Like the Best, EP.59]",
+      "published": "2019-05-14",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.59_-_Tim_Urban_REPLAY.mp3"
+    },
+    {
+      "title": "Stephanie Cohen – The Evolution of M&A and Corporate Strategy - [Invest Like the Best, EP.131]",
+      "published": "2019-05-07",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.131_-_Stephanie_Cohen_FINAL.mp3"
+    },
+    {
+      "title": "[REPLAY] Will Thorndike - How Skilled Capital Allocators Compound Capital - [Invest Like the Best, EP.36]",
+      "published": "2019-04-30",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.36_-_Will_Thorndike_REPLAY.mp3"
+    },
+    {
+      "title": "Josh Wolfe – The Tech Imperative - [Invest Like the Best, EP.130]",
+      "published": "2019-04-23",
+      "url": "https://investlikethebest.libsyn.com/josh-wolfe-the-tech-imperative-invest-like-the-best-ep130"
+    },
+    {
+      "title": "Katherine Collins – Impact and ESG Investing - [Invest Like the Best, EP.129]",
+      "published": "2019-04-16",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.129_-_Katherine_Collins_FINAL.mp3"
+    },
+    {
+      "title": "Geoffrey Batt – The Nature of Transformational Returns - [Invest Like the Best, EP.128]",
+      "published": "2019-04-09",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.128_-_Geoffrey_Batt_FINAL.mp3"
+    },
+    {
+      "title": "Brian Singerman – Investing in the Best Founders - [Invest Like the Best, EP.127]",
+      "published": "2019-04-02",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.127_-_Brian_Singerman_FINAL.mp3"
+    },
+    {
+      "title": "Michael Mauboussin – The Four Sources of Alpha - [Invest Like the Best, EP.126]",
+      "published": "2019-03-26",
+      "url": "https://investlikethebest.libsyn.com/michael-mauboussin-the-four-sources-of-alpha-invest-like-the-best-ep126"
+    },
+    {
+      "title": "Annie Duke – Wanna Bet? - [Invest Like the Best, EP.125]",
+      "published": "2019-03-19",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.125_-_Annie_Duke_FINAL.mp3"
+    },
+    {
+      "title": "Michael Mayer – Pseudonymous Social Capital and Bottomless Coffee - [Invest Like the Best, EP.124]",
+      "published": "2019-03-12",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.124_Michael_Mayer_FINAL.mp3"
+    },
+    {
+      "title": "Peter Zeihan – The Future of Geopolitics - [Invest Like the Best, EP.123]",
+      "published": "2019-03-05",
+      "url": "https://investlikethebest.libsyn.com/peter-zeihan-the-future-of-geopolitics-invest-like-the-best-ep123"
+    },
+    {
+      "title": "Michael Kitces – The Past, Present & Future of Financial Advice - [Invest Like the Best, EP.122]",
+      "published": "2019-02-26",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.122_-_Michael_Kitces_FINAL.mp3"
+    },
+    {
+      "title": "Alex Danco – Scarcity, Abundance and Bubbles - [Invest Like the Best, EP.121]",
+      "published": "2019-02-12",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.121_-_Alex_Danco_FINAL.mp3"
+    },
+    {
+      "title": "Keith Wasserman – Real Estate Investing - [Invest Like the Best, EP.120]",
+      "published": "2019-02-05",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.120_-_Keith_Wasserman_FINAL.mp3"
+    },
+    {
+      "title": "Alex Mittal – Early Stage Investing - [Invest Like the Best, EP.119]",
+      "published": "2019-01-29",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.119_-_Alex_Mittal_FINAL.mp3"
+    },
+    {
+      "title": "Eugene Wei – Tech, Media, and Culture - [Invest Like the Best, EP.118]",
+      "published": "2019-01-22",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.118_-_Eugene_Wei_FINAL.mp3"
+    },
+    {
+      "title": "Michael Duda – Investing In Brands - [Invest Like the Best, EP.117]",
+      "published": "2019-01-15",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.117_-_Michael_Duda_FINAL.mp3"
+    },
+    {
+      "title": "Abby Johnson – Future of Finance - [Invest Like the Best, EP.116]",
+      "published": "2019-01-08",
+      "url": "https://investlikethebest.libsyn.com/abby-johnson-future-of-finance-invest-like-the-best-ep116"
+    },
+    {
+      "title": "Keith Rabois - If You Can’t Sell Them, Compete with Them - [Invest Like the Best, EP.115]",
+      "published": "2018-12-18",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.115_-_Keith_Rabois_FINAL.mp3"
+    },
+    {
+      "title": "Bryan Krug – High Yield Credit Investing - [Invest Like the Best, EP.114]",
+      "published": "2018-12-11",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.114_-_Bryan_Krug_FINAL.mp3"
+    },
+    {
+      "title": "Maureen Chiquet – Leadership Through Hard Conversations - [Invest Like the Best, EP.113]",
+      "published": "2018-12-04",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.113_-_Maureen_Chiquet_FINAL.mp3"
+    },
+    {
+      "title": "Hunter Walk – Building Picks and Shovels - [Invest Like the Best, EP.112]",
+      "published": "2018-11-27",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.112_-_Hunter_Walk_FINAL.mp3"
+    },
+    {
+      "title": "[REPLAY] Alex Moazed – Building Modern Monopolies - [Invest Like the Best, EP.25]",
+      "published": "2018-11-20",
+      "url": "https://investlikethebest.libsyn.com/replay-alex-moazed-building-modern-monopolies-invest-like-the-best-ep25"
+    },
+    {
+      "title": "Cliff Asness – The Past, The Present & Future of Quant [Invest Like the Best, EP.111]",
+      "published": "2018-11-13",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.111_-_Cliff_Asness_FINAL.mp3"
+    },
+    {
+      "title": "[REPLAY] Peter Attia, M.D. - How to Live a Longer, Higher Quality Life - [Invest Like the Best, EP.27]",
+      "published": "2018-11-06",
+      "url": "https://investlikethebest.libsyn.com/replay-peter-attia-md-how-to-live-a-longer-higher-quality-life-invest-like-the-best-ep27"
+    },
+    {
+      "title": "Ryan Caldbeck – Quant in Private Markets - [Invest Like the Best, EP.110]",
+      "published": "2018-10-30",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.110_-_Ryan_Caldbeck_FINAL.mp3"
+    },
+    {
+      "title": "Howard Lindzon – Fintech and Trend Following - [Invest Like the Best, EP.109]",
+      "published": "2018-10-23",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.109_-_Howard_Lindzon_FINAL.mp3"
+    },
+    {
+      "title": "CoVenture Credit - Esoteric Credit with Ail Hamed, Brian Harwitt, and Marc Porzecanski - [Invest Like the Best, EP.108]",
+      "published": "2018-10-16",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.108_-_Esoteric_Credit_FINAL.mp3"
+    },
+    {
+      "title": "Saifedean Ammous – The Bitcoin Standard - [Invest Like the Best, EP.107]",
+      "published": "2018-10-09",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.107_-_Saif_Ammous_FINAL2.mp3"
+    },
+    {
+      "title": "Jeremiah Lowin – Machine Learning in Investing – [Invest Like the Best, EP.105]",
+      "published": "2018-09-25",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.105_-_Jeremiah_Lowin_FINAL.mp3"
+    },
+    {
+      "title": "Trail Magic - Lessons from Two Years of the Podcast [Invest Like the Best, EP.104]",
+      "published": "2018-09-18",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.104_-_Trail_Magic_FINAL.mp3"
+    },
+    {
+      "title": "Kathryn Minshew - How Employers and Employees Should Build Careers - [Invest Like the Best, EP.103]",
+      "published": "2018-09-11",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.103_-_Kathryn_Minshew_FINAL.mp3"
+    },
+    {
+      "title": "Richard Craib - Crowdsourcing Predictive Algorithms - [Invest Like the Best, EP.102]",
+      "published": "2018-09-04",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.102_-_Richard_Craib_FINAL.mp3"
+    },
+    {
+      "title": "Elad Gil – How to Identify Interesting Markets - [Invest Like the Best, EP.101]",
+      "published": "2018-08-28",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.101_-_Elad_Gil_FINAL.mp3"
+    },
+    {
+      "title": "What You Learn About Business Deals After: 12,000 Deals Reviewed, 1,500 Deep Dives, 125 Site Visits, and 7 Portfolio Companies with Brent Beshore - [Invest Like the Best, EP.100]",
+      "published": "2018-08-21",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.100_-_Brent_Beshore_Returns_FINAL.mp3"
+    },
+    {
+      "title": "Boyd and Bronwyn Varty – Track Your Life - [Invest Like the Best, EP.99b]",
+      "published": "2018-08-15",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.99_-_Boyd_and_Bron_Varty_PT2_FINAL.mp3"
+    },
+    {
+      "title": "Boyd Varty – Live Like a Tracker - [Invest Like the Best, EP.99a]",
+      "published": "2018-08-14",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.99_-_Boyd_and_Bron_Varty_PT1_FINAL.mp3"
+    },
+    {
+      "title": "Ryan Selkis - The Crypto Barbell and Token Curated Registries - [Invest Like the Best, EP.98]",
+      "published": "2018-08-07",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.98_-_Ryan_Selkis_FINAL2.mp3"
+    },
+    {
+      "title": "Cathie Wood – Investing in Innovation - [Invest Like the Best, EP.97]",
+      "published": "2018-07-31",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.97_-_Cathie_Wood_FINAL.mp3"
+    },
+    {
+      "title": "Bethany McLean - Business Gone Bad and the Art of Persistence - [Invest Like the Best, EP.96]",
+      "published": "2018-07-24",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.96_-_Bethany_McLean_FINAL.mp3"
+    },
+    {
+      "title": "Modest Proposal – Value is Dead, Long Live Value - [Invest Like the Best, EP.95]",
+      "published": "2018-07-17",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.95_-_Modest_Proposal_FINAL.mp3"
+    },
+    {
+      "title": "[REPLAY] Eric Maddox – The Ace of Spades - [Invest Like the Best, EP.15]",
+      "published": "2018-07-10",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/REPLAY_EP.15_-_Eric_Maddox_FINAL.mp3"
+    },
+    {
+      "title": "Niel Robertson – The Future of Media - [Invest Like the Best, EP.94]",
+      "published": "2018-07-03",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.94_-_Niel_Robertson_FINAL.mp3"
+    },
+    {
+      "title": "Eric Balchunas – The Past, Present & Future of ETFs - [Invest Like the Best, EP.93]",
+      "published": "2018-06-26",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.93_-_Eric_Balchunas_FINAL.mp3"
+    },
+    {
+      "title": "New Angles on Crypto - Kyle Samani and Tushar Jain - [Invest Like the Best, EP.92]",
+      "published": "2018-06-19",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.92_-_Multicoin_Capital_FINAL2.mp3"
+    },
+    {
+      "title": "Michael Recce – Tim Cook’s Dashboard - [Invest Like the Best, EP.91]",
+      "published": "2018-06-12",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.91_-_Michael_Reece_FINAL.mp3"
+    },
+    {
+      "title": "Ash Fontana – Investing in Artificial Intelligence - [Invest Like the Best, EP.90]",
+      "published": "2018-06-05",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.90_-_Ash_Fontana_FINAL.mp3"
+    },
+    {
+      "title": "Mike Zapata – The Darkest Night: Lessons from Battle and Value Investing - [Invest Like the Best, EP.89]",
+      "published": "2018-05-29",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.89_Mike_Zapata_FINAL.mp3"
+    },
+    {
+      "title": "Sam Hinkie – Data, Decisions, and Basketball - [Invest Like the Best, EP.88]",
+      "published": "2018-05-22",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.88_-_Sam_Hinkie_FINAL.mp3"
+    },
+    {
+      "title": "Tren Griffin – Pulling the Thread - [Invest Like the Best, EP.87]",
+      "published": "2018-05-15",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.87_-_Tren_Griffin_FINAL.mp3"
+    },
+    {
+      "title": "Jason Karp – Opportunities in Public and Private Markets - [Invest Like the Best, EP.86]",
+      "published": "2018-05-08",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.86_-_Jason_Karp_FINAL.mp3"
+    },
+    {
+      "title": "Chris Douvos – A Value Investor Lost in the Valley - [Invest Like the Best, EP.85]",
+      "published": "2018-05-01",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.85_-_Chris_Douvos_FINAL.mp3"
+    },
+    {
+      "title": "Arianna Simpson – The Crypto Landscape - [Invest Like the Best, EP.84]",
+      "published": "2018-04-24",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.84_-_Arianna_Simpson_FINAL2.mp3"
+    },
+    {
+      "title": "Shark Tank with Thatcher Bell and Taylor Greene - [Invest Like the Best, EP.83]",
+      "published": "2018-04-17",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.83_-_Ladder_Shark_Tank_FINAL.mp3"
+    },
+    {
+      "title": "Nikhil Kalghatgi – Moonshot Investing - [Invest Like the Best, EP.82]",
+      "published": "2018-04-10",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.82_-_Nikhil_Kalghatgi_FINAL.mp3"
+    },
+    {
+      "title": "Live EP.01 – Peter Attia, M.D. [Invest Like the Best]",
+      "published": "2018-03-27",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/LIVE_EP1_-_Peter_Attia_FINAL.mp3"
+    },
+    {
+      "title": "[REPLAY] Boyd Varty – The Art of Tracking - [Invest Like the Best, EP.32]",
+      "published": "2018-03-20",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.32_-_Boyd_Varty_Replay_FINAL.mp3"
+    },
+    {
+      "title": "Albert Wenger - World After Capital - [Invest Like the Best, EP.80]",
+      "published": "2018-03-13",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.80_-_Albert_Wenger_FINAL.mp3"
+    },
+    {
+      "title": "Savneet Singh - The Berkshire of Software - [Invest Like the Best, EP.79]",
+      "published": "2018-03-06",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.79_-_Savneet_Singh_FINAL.mp3"
+    },
+    {
+      "title": "Dan Rasmussen - Private Equity Returns in Public Markets - [Invest Like the Best, EP.78]",
+      "published": "2018-02-27",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.78_-_Dan_Rasmussen_FINAL.mp3"
+    },
+    {
+      "title": "Pat Dorsey Returns - The Moat Portfolio - [Invest Like the Best, EP.77]",
+      "published": "2018-02-20",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.77_-_Pat_Dorsey_Returns_FINAL.mp3"
+    },
+    {
+      "title": "Josh Wolfe - This is Who You Are Up Against - [Invest Like the Best, EP.76]",
+      "published": "2018-02-13",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.76_-_Josh_Wolfe_FINAL.mp3"
+    },
+    {
+      "title": "Harvey Sawikin - Emerging Market Opportunities - [Invest Like the Best, EP.75]",
+      "published": "2018-02-06",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.75_-_Harvey_Sawikin_FINAL.mp3"
+    },
+    {
+      "title": "Anthony Pompliano - Full Tilt Investing- [Invest Like the Best, EP.74]",
+      "published": "2018-01-30",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.74_-_Anthony_Pompliano_FINAL2.mp3"
+    },
+    {
+      "title": "Dr. Ben Hunt - The Three-Body Portfolio - [Invest Like the Best, EP.73]",
+      "published": "2018-01-23",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.73_-_Ben_Hunt_FINAL.mp3"
+    },
+    {
+      "title": "Preston Byrne - Crypto-pocalypse - [Invest Like the Best, EP.72]",
+      "published": "2018-01-16",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.72_-_Preston_Byrne_FINAL2.mp3"
+    },
+    {
+      "title": "Ali Hamed – Creative Investing - [Invest Like the Best, EP.71]",
+      "published": "2018-01-09",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.71_-_Ali_Hamed_FINAL.mp3"
+    },
+    {
+      "title": "Sheel Tyle - The Future of Venture Capital - [Invest Like the Best, EP.70]",
+      "published": "2018-01-02",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.70_-_Shee_Tyle_FINAL.mp3"
+    },
+    {
+      "title": "Chris Dixon – The Future of Tech - [Invest Like the Best, EP.69]",
+      "published": "2017-12-26",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.69_-_Chris_Dixon_FINAL.mp3"
+    },
+    {
+      "title": "Sorin Capital – Retail Contrarians - [Invest Like the Best, EP.68]",
+      "published": "2017-12-19",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.68_-_Sorin_Capital_FINAL.mp3"
+    },
+    {
+      "title": "Franklin Foer – World Without Mind - [Invest Like the Best, EP.67]",
+      "published": "2017-12-12",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.67_-_Franklin_Foer_FINAL.mp3"
+    },
+    {
+      "title": "Adam Ludwin - A Sober View on Crypto - [Invest Like the Best, EP.66]",
+      "published": "2017-12-05",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.66_-_Adam_Ludwin_FINAL2.mp3"
+    },
+    {
+      "title": "Joanne Wilson - Angel Investing and Trend Spotting - [Invest Like the Best, EP.65]",
+      "published": "2017-11-28",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.65_-_Joanne_Wilson_FINAL.mp3"
+    },
+    {
+      "title": "Connor Leonard - Capital Light Compounders & Reinvestment Moats - [Invest Like the Best, EP.64]",
+      "published": "2017-11-21",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.64_-_Connor_Leonard_FINAL.mp3"
+    },
+    {
+      "title": "Dhani Jones - Adventures in Sports, Business, and Investing - [Invest Like the Best, EP.63]",
+      "published": "2017-11-14",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.63_-_Dhani_Jones_FINAL.mp3"
+    },
+    {
+      "title": "Chris Burniske - How to Value a Cryptoasset - [Invest Like the Best, EP.62]",
+      "published": "2017-11-07",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.62_-_Chris_Burniske_FINAL2.mp3"
+    },
+    {
+      "title": "Brad Katsuyama - What Happens When You Hit “Buy” - [Invest Like the Best, EP.61]",
+      "published": "2017-10-31",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.61_-_Brad_Katsuyama_FINAL.mp3"
+    },
+    {
+      "title": "Brett Maloley - Ladder: The Fitness Marketplace - [Invest Like the Best, EP.60]",
+      "published": "2017-10-24",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.60_-_Brett_Maloley_Ladder_1_FINAL.mp3"
+    },
+    {
+      "title": "Tim Urban - Grand Theft Life - [Invest Like the Best, EP.59]",
+      "published": "2017-10-17",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.59_-_Tim_Urban_FINAL.mp3"
+    },
+    {
+      "title": "Hash Power – Ep. 3 - Funding, Forking, and a Creative Future",
+      "published": "2017-10-10",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.58_-_Crypto_Project_PT3_FINAL.mp3"
+    },
+    {
+      "title": "Hash Power – Ep. 2 - Investing in Cryptocurrencies",
+      "published": "2017-10-03",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.57_-_Hash_Power_Part_2_FINAL.mp3"
+    },
+    {
+      "title": "Hash Power – Ep. 1 - Understanding Blockchains",
+      "published": "2017-09-26",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.56_-_Hash_Power_FINAL.mp3"
+    },
+    {
+      "title": "David Tisch - Tech Investing Outside of Silicon Valley - [Invest Like the Best, EP.55]",
+      "published": "2017-09-19",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.56_-_David_Tisch_FINAL.mp3"
+    },
+    {
+      "title": "David Gardner - Finding Companies That Break the Rules - [Invest Like the Best, EP.54]",
+      "published": "2017-09-12",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.54_-_David_Gardner_FINAL.mp3"
+    },
+    {
+      "title": "Meb Faber - Factors, Dividends, and Angel Investing - [Invest Like the Best, EP.53]",
+      "published": "2017-09-07",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.53_-_Meb_Faber_FINAL.mp3"
+    },
+    {
+      "title": "Team Ritholtz - The Wu Tang Clan of Finance - [Invest Like the Best, EP.52]",
+      "published": "2017-08-29",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.52_-_Ritholtz_FINAL.mp3"
+    },
+    {
+      "title": "Pat Dorsey - Buying Companies With Economic Moats - [Invest Like the Best, EP.51]",
+      "published": "2017-08-22",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.51_-_Pat_Dorsey_FINAL.mp3"
+    },
+    {
+      "title": "Jason Zweig and Morgan Housel - Business vs. Investing - [Invest Like the Best, EP.50]",
+      "published": "2017-08-15",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.50_-_Jason_Zweig_and_Morgan_Housel_FINAL.mp3"
+    },
+    {
+      "title": "Brad Stulberg - Just Manageable Challenges - [Invest Like the Best, EP.49]",
+      "published": "2017-08-08",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.49_-_Brad_Stulberg_FINAL.mp3"
+    },
+    {
+      "title": "Leigh Drogen - Sink or Swim--How to Combine Quant and Traditional Asset Management Techniques - Invest Like the Best, EP.48]",
+      "published": "2017-08-01",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.48_-_Leigh_Drogen_2_FINAL.mp3"
+    },
+    {
+      "title": "Wes Gray - Compound Your Face Off - [Invest Like the Best, EP.47]",
+      "published": "2017-07-25",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.47_-_Wes_Gray_FINAL.mp3"
+    },
+    {
+      "title": "Rishi Ganti - Esoteric Assets - [Invest Like the Best, EP.46]",
+      "published": "2017-07-18",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.46_-_Rishi_Ganti_FINAL.mp3"
+    },
+    {
+      "title": "Jerry Neumann - The Deployment Age, Power Laws, and Venture Capital - [Invest Like the Best, EP.45]",
+      "published": "2017-07-11",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.45_-_Jerry_Neumann_FINAL.mp3"
+    },
+    {
+      "title": "Top Ten Lessons After Almost a Year - [Invest Like the Best, EP.44]",
+      "published": "2017-07-05",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.44_Lessons_Learned_FINAL.mp3"
+    },
+    {
+      "title": "Scott Norton - Seek to Learn That Which Cannot be Taught - [Invest Like the Best, EP.43]",
+      "published": "2017-06-27",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.43_-_Scott_Norton_FINAL.mp3"
+    },
+    {
+      "title": "Andy Rachleff - Building Something People Want to Buy - [Invest Like the Best, EP.42]",
+      "published": "2017-06-20",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.42_-_Andy_Rachleff_FINAL.mp3"
+    },
+    {
+      "title": "Leigh Drogen - Quant vs Traditional Investors and How Alphas Become Betas - [Invest Like the Best, EP.41]",
+      "published": "2017-06-13",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.41_-_Leigh_Drogan_FINAL.mp3"
+    },
+    {
+      "title": "Ira Judelson - Bail Street, with NYC's Leading Bail Bondsman - [Invest Like the Best, EP.40]",
+      "published": "2017-06-06",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.40_-_Ira_Judelson_FINAL.mp3"
+    },
+    {
+      "title": "David Chilton - The Human Blitzkrieg - [Invest Like the Best, EP.39]",
+      "published": "2017-05-30",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.39_-_Dave_Chilton_FINAL.mp3"
+    },
+    {
+      "title": "David Salem - The Art of Asset Allocation - [Invest Like the Best, EP.38]",
+      "published": "2017-05-23",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.38_-_David_Salem_FINAL1.mp3"
+    },
+    {
+      "title": "Michael Mauboussin - Man + Machine, Moats, and Power of the Outside View - [Invest Like the Best, EP.37]",
+      "published": "2017-05-16",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.37_-_Michael_Mauboussin_FINAL.mp3"
+    },
+    {
+      "title": "Will Thorndike - How Skilled Capital Allocators Compound Capital - [Invest Like the Best, EP.36]",
+      "published": "2017-05-09",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.36_-_Willi_Thorndike_FINAL.mp3"
+    },
+    {
+      "title": "Ted Seides - The Bet with Buffett – Hedge Funds vs. The S&P 500 - [Invest Like the Best, EP.35]",
+      "published": "2017-05-02",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.35_-_Ted_Seides_the_bet_FINAL.mp3"
+    },
+    {
+      "title": "Danny Moses - The Big Short and Beyond - [Invest Like the Best, EP.34]",
+      "published": "2017-04-25",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.34_-_Danny_Moses_FINAL.mp3"
+    },
+    {
+      "title": "Royce Yudkoff and Rick Ruback – REALLY Private Equity - [Invest Like the Best, EP.33]",
+      "published": "2017-04-18",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.33_-_Royce_Yudkoff_and_Rick_Ruback_FINAL.mp3"
+    },
+    {
+      "title": "SPECIAL EPISODE: Introducing Capital Allocators Podcast with Host Ted Seides",
+      "published": "2017-04-13",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/Special_Episode_-_Capital_Allocators_-_Steve_Galbraith_FINAL.mp3"
+    },
+    {
+      "title": "Boyd Varty – The Art of Tracking - [Invest Like the Best, EP.32]",
+      "published": "2017-04-11",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.32_-_Boyd_Varty_FINAL.mp3"
+    },
+    {
+      "title": "Khe Hy – Quant Hedge Funds and the Fear of Death - [Invest Like the Best, EP.31]",
+      "published": "2017-04-04",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.31_-_Khe_Hy_FINAL.mp3"
+    },
+    {
+      "title": "Ted Seides and Brent Beshore – The Future of Asset Management - [Invest Like the Best, EP.30]",
+      "published": "2017-03-28",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.30_-_Brent_Beshore_and_Ted_Seides_FINAL.mp3"
+    },
+    {
+      "title": "Jim O’Shaughnessy - Premeditated Success - [Invest Like the Best, EP.29]",
+      "published": "2017-03-21",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.29_-_Jim_OShaughnessy_FINAL.mp3"
+    },
+    {
+      "title": "Trish and James Higgins of Chenmark Capital - Permanent Equity - [Invest Like the Best, EP.28]",
+      "published": "2017-03-14",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.28_Chenmark_FINAL.mp3"
+    },
+    {
+      "title": "Peter Attia, M.D. - How to Live a Longer, Higher Quality Life - [Invest Like the Best, EP.27]",
+      "published": "2017-03-07",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.27_Peter_Attia_FINAL.mp3"
+    },
+    {
+      "title": "John Rogers – Slow and Steady Wins the Race - [Invest Like the Best, EP.26]",
+      "published": "2017-02-28",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.26_-_John_Rogers_FINAL.mp3"
+    },
+    {
+      "title": "Alex Moazed – Building Modern Monopolies - [Invest Like the Best, EP.25]",
+      "published": "2017-02-21",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.25_-_Alex_Moazed_FINAL.mp3"
+    },
+    {
+      "title": "Ian Cassel – Investing In Tiny Stocks - [Invest Like the Best, EP.24]",
+      "published": "2017-02-14",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.25_-_Ian_Cassel_FINAL.mp3"
+    },
+    {
+      "title": "Joe Mansueto – Lessons From the Founder of Morningstar - [Invest Like the Best, EP.23]",
+      "published": "2017-02-07",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.24_-_Joe_Mansueto_FINAL.mp3"
+    },
+    {
+      "title": "Brent Beshore Returns – Private Equity, Venture Capital, and the Future of Money Management - [Invest Like the Best, EP.22]",
+      "published": "2017-01-31",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.23_-_Brent_Beshore_Returns_FINAL.mp3"
+    },
+    {
+      "title": "Brian Koppelman – Chasing Curiosity - [Invest Like the Best, EP.21]",
+      "published": "2017-01-24",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.21_-_Brian_Koppelman_FINAL.mp3"
+    },
+    {
+      "title": "Jeremiah Lowin – Machine Intelligence and Risk Management - [Invest Like the Best, EP.20]",
+      "published": "2017-01-17",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.20_-_Jeremiah_Lowin_FINAL.mp3"
+    },
+    {
+      "title": "Lauren Loktev, Kanyi Maqubela, & Craig Shapiro - Watching a Venture Fund at Work - [Invest Like the Best, EP.19]",
+      "published": "2017-01-10",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.19_-_Collaborative_Fund_FINAL.mp3"
+    },
+    {
+      "title": "Dan Egan – Designing Better Decisions - [Invest Like the Best, EP.18]",
+      "published": "2017-01-03",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.18_-_Dan_Egan_FINAL.mp3"
+    },
+    {
+      "title": "Shane Parrish – Mastering Mental Models - [Invest Like the Best, EP.17]",
+      "published": "2016-12-27",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.17_-_Shane_Parrish_FINAL.mp3"
+    },
+    {
+      "title": "Jeff Ptak – The Prospects for Active Management - [Invest Like the Best, EP.16]",
+      "published": "2016-12-20",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.16_-_Jeff_Ptak_FINAL.mp3"
+    },
+    {
+      "title": "Eric Maddox – The Ace of Spades - [Invest Like the Best, EP.15]",
+      "published": "2016-12-13",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.15_-_Eric_Maddox_FINAL.mp3"
+    },
+    {
+      "title": "Josh Brown – The Reformation - [Invest Like the Best, EP.14]",
+      "published": "2016-12-06",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.14_-_Josh_Brown_FINAL.mp3"
+    },
+    {
+      "title": "Christopher Cole – Small Bets, Huge Payoffs - [Invest Like the Best, EP.13]",
+      "published": "2016-11-29",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.13_-_Christopher_Cole_FINAL.mp3"
+    },
+    {
+      "title": "Kevin Simler – Exploring the Frontier - [Invest Like the Best, EP.12]",
+      "published": "2016-11-22",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.12_-_Kevin_Simler_FINAL.mp3"
+    },
+    {
+      "title": "Craig Shapiro – Better for You, Better for the World - [Invest Like the Best, EP.11]",
+      "published": "2016-11-14",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.11_-_Craig_Shapiro_FINAL.mp3"
+    },
+    {
+      "title": "Brent Beshore – Cultivating a Disaster Resistant, Compound Interest Machine - [Invest Like the Best, EP.10]",
+      "published": "2016-11-08",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.10_-_Brent_Beshore_FINAL.mp3"
+    },
+    {
+      "title": "Jon Stein – The State of Automated Investing - [Invest Like the Best, EP.09]",
+      "published": "2016-11-01",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.8_Jon_Stein_FINAL_wCOMMERCIAL.mp3"
+    },
+    {
+      "title": "Kiley Adams – An Internal Locus of Control - [Invest Like the Best, EP.08]",
+      "published": "2016-10-28",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.8_-_Kiley_Adams_FINAL.mp3"
+    },
+    {
+      "title": "Ted Seides – A Deep Dive into Hedge Funds - [Invest Like the Best, EP.07]",
+      "published": "2016-10-25",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.8_-_Ted_Seides_FINAL.mp3"
+    },
+    {
+      "title": "Humble Giants – Vanguard’s Gerry O’Reilly and Jim Rowley - [Invest Like the Best, EP.06]",
+      "published": "2016-10-18",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.7_-_Vanguard_FINAL.mp3"
+    },
+    {
+      "title": "Christian Rudder – The Quantified Self - [Invest Like the Best, EP.05]",
+      "published": "2016-10-11",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.5_-_Christian_Rudder_FINAL.mp3"
+    },
+    {
+      "title": "Morgan Housel – Walking and Thinking - [Invest Like the Best, EP.04]",
+      "published": "2016-10-04",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.04_-_Morgan_Housel_final.mp3"
+    },
+    {
+      "title": "Jason Zweig – The Power of Serendipity - [Invest Like the Best, EP.03]",
+      "published": "2016-09-27",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.03_-_Jason_Zweig_Final.mp3"
+    },
+    {
+      "title": "Michael Mauboussin – Active Asset Management - [Invest Like the Best, EP.02]",
+      "published": "2016-09-20",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.02_-_Michael_Mauboussin_Final.mp3"
+    },
+    {
+      "title": "Jeff Gramm – Activist Investing - [Invest Like the Best, EP.01]",
+      "published": "2016-09-12",
+      "url": "https://traffic.libsyn.com/secure/investlikethebest/EP.1_-_Jeff_Gramm_FINAL1.mp3"
+    }
+  ]
+}
