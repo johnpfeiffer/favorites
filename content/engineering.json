@@ -1402,6 +1402,18 @@
         "Golang",
         "Podcast"
       ]
+    },
+    {
+      "title": "Steve Yegge: Execution in the Kingdom of Nouns (a Java parable on noun-oriented programming)",
+      "url": "https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html",
+      "alternate-url": "https://web.archive.org/web/20260731085437/https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html",
+      "published": "2006-03-30",
+      "tags": [
+        "Engineering",
+        "Software Engineering",
+        "Steve Yegge",
+        "Blog"
+      ]
     }
   ]
 }
