@@ -1426,6 +1426,31 @@
         "Complexity",
         "Article"
       ]
+    },
+    {
+      "title": "Christian Kästner: Feature Flags vs Configuration Options - Same Difference?",
+      "url": "https://www.cs.cmu.edu/~ckaestne/featureflags/",
+      "alternate-url": "https://web.archive.org/web/20260217001612/https://www.cs.cmu.edu/~ckaestne/featureflags/",
+      "published": "2019-05-20",
+      "tags": [
+        "Engineering",
+        "Software Engineering",
+        "Best Practices",
+        "Feature Flags",
+        "Article"
+      ]
+    },
+    {
+      "title": "Netflix: Artwork Personalization at Netflix (contextual bandits)",
+      "url": "https://netflixtechblog.com/artwork-personalization-c589f074ad76",
+      "alternate-url": "https://web.archive.org/web/20250516025317/https://netflixtechblog.com/artwork-personalization-c589f074ad76",
+      "published": "2017-12-07",
+      "tags": [
+        "Engineering",
+        "Netflix",
+        "Machine Learning",
+        "Blog"
+      ]
     }
   ]
 }
