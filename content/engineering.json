@@ -1414,6 +1414,18 @@
         "Steve Yegge",
         "Blog"
       ]
+    },
+    {
+      "title": "Artem Zakirullin: Cognitive Load Is What Matters",
+      "url": "https://minds.md/zakirullin/cognitive",
+      "alternate-url": "https://web.archive.org/web/20260705061101/https://minds.md/zakirullin/cognitive",
+      "published": "2023-05-19",
+      "tags": [
+        "Engineering",
+        "Software Engineering",
+        "Complexity",
+        "Article"
+      ]
     }
   ]
 }

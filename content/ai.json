@@ -350,6 +350,28 @@
         "Architecture",
         "Article"
       ]
+    },
+    {
+      "title": "LessWrong: SolidGoldMagikarp (plus, prompt generation) - anomalous glitch tokens that break GPT models",
+      "url": "https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation",
+      "alternate-url": "https://web.archive.org/web/20260722140656/https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation",
+      "published": "2023-02-05",
+      "tags": [
+        "AI",
+        "LLM",
+        "Article"
+      ]
+    },
+    {
+      "title": "Modern-Day Oracles or Bullshit Machines (Bergstrom & West): Lesson 1 - Autocomplete in Overdrive",
+      "url": "https://thebullshitmachines.com/lesson-1-autocomplete-in-overdrive/index.html",
+      "alternate-url": "https://web.archive.org/web/20260726121651/https://thebullshitmachines.com/lesson-1-autocomplete-in-overdrive/index.html",
+      "published": "2025-02-05",
+      "tags": [
+        "AI",
+        "LLM",
+        "Article"
+      ]
     }
   ]
 }

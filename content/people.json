@@ -2408,6 +2408,55 @@
         "Hiring",
         "Blog"
       ]
+    },
+    {
+      "title": "Academy of Product Management: The Ultimate Guide to PRDs",
+      "url": "https://blog.academyofpm.com/p/prds",
+      "alternate-url": "https://web.archive.org/web/20260415100831/https://blog.academyofpm.com/p/prds",
+      "published": "2023-11-27",
+      "tags": [
+        "People",
+        "Product Management",
+        "Documentation",
+        "Blog"
+      ]
+    },
+    {
+      "title": "John Cutler: How Product Managers Lose Trust (incoherence and communication gaffes erode the team)",
+      "url": "https://medium.com/@johnpcutler/how-product-managers-lose-trust-6174066bb8b2",
+      "alternate-url": "https://web.archive.org/web/20240417234729/https://medium.com/@johnpcutler/how-product-managers-lose-trust-6174066bb8b2",
+      "published": "2019-09-14",
+      "tags": [
+        "People",
+        "Product Management",
+        "Communication",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Cultivated Management: How to Work With People Who Hold Strong Opinions",
+      "url": "https://www.cultivatedmanagement.com/dealing-with-strong-opinions/",
+      "alternate-url": "https://web.archive.org/web/20260420031308/https://www.cultivatedmanagement.com/dealing-with-strong-opinions/",
+      "published": "2025-02-03",
+      "tags": [
+        "People",
+        "Management",
+        "Communication",
+        "Difficult Conversations",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Alex Ewerlöf: When Staff Engineer Is an Anti-Pattern (EMs leaning on staff engineers for technical leadership)",
+      "url": "https://blog.alexewerlof.com/p/when-staff-engineer-is-an-anti-pattern",
+      "alternate-url": "https://web.archive.org/web/20260519032345/https://blog.alexewerlof.com/p/when-staff-engineer-is-an-anti-pattern",
+      "published": "2024-02-12",
+      "tags": [
+        "People",
+        "Engineering Management",
+        "Leadership",
+        "Blog"
+      ]
     }
   ]
 }
