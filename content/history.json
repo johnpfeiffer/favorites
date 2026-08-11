@@ -488,6 +488,18 @@
         "Web 2.0",
         "Podcast"
       ]
+    },
+    {
+      "title": "All Things Distributed: Continuous Reinvention - A Brief History of Block Storage at AWS (EBS)",
+      "url": "https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html",
+      "alternate-url": "https://web.archive.org/web/20260725132438/https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html",
+      "published": "2024-08-22",
+      "tags": [
+        "History",
+        "AWS",
+        "Infrastructure",
+        "Blog"
+      ]
     }
   ]
 }
