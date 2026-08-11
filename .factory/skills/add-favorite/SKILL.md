@@ -20,10 +20,12 @@ Add links to `content/*.json` so they pass `./validate-json.sh`, dedupe cleanly 
 ```
 
 - `alternate-url` is optional; omit it when none exists. `published` is ISO `YYYY-MM-DD` or `null`.
+- `alternate-url` usually holds an archive.org snapshot or podcast mirror, but can hold a canonical reference page (e.g. Wikipedia for a book) when the requester asks for it.
 - There is no `type` field. Media type is a capitalized tag, conventionally last in the array. The complete set in use: `Podcast`, `Blog`, `Article`, `Video`, `Book`, `Paper`.
 - First tag is the file's category (`AI`, `Business`, `Engineering`, `History`, `People`). Person/source tags exist (e.g. `Manager Tools`, `Charity Majors`, `Leslie Lamport`).
 - Titles often carry a source prefix (`Manager Tools: ...`, `Honeycomb: ...`) or are descriptive (`Leslie Lamport interviewed about ...`). Match nearby entries.
 - If the requester includes shorthand notes about a link, use them: they capture why the link matters. Enrich the title with that nuance when the canonical title doesn't convey it (paraphrase, don't copy verbatim), and let the notes steer tags and placement.
+- An entry can be framed as a `Book` even when the canonical URL is the author's companion article about it: title and tags reflect the book, `published` is the book's release date, and the framing is noted in the PR body.
 
 ## Placement
 
@@ -32,9 +34,12 @@ Five files: `ai.json`, `business.json`, `engineering.json`, `history.json`, `peo
 ## Metadata sleuthing
 
 Published date, in order of preference:
-1. URL path (`stackoverflow.blog/2026/06/26/...`), page byline, or MP3 filename (`career-tools-2024-12-19.mp3`).
+1. URL path (`stackoverflow.blog/2026/06/26/...`), page byline, or MP3 filename (`career-tools-2024-12-19.mp3`). Also check schema.org/JSON-LD `datePublished` meta tags when no byline is visible.
 2. Podcast RSS feed `pubDate` (see below). For shows in `podcasts/registry.json`, grep the committed episode index instead of downloading the feed.
 3. Web search index date (when the page doesn't render one statically).
+4. For content developed in a git repo (e.g. an essay whose source lives on GitHub), the first commit date of the source repo.
+
+If the exact day stays unverifiable, use `null` and note the evidence in the PR body (e.g. earliest Wayback snapshot, copyright year). Before trusting a URL, verify the live page still serves the expected content: a 301 redirect to an unrelated article means keep the original URL as canonical, use a Wayback snapshot as `alternate-url`, and flag it in the PR. (For JS-heavy pages that render blank, the maintainer has preferred the snapshot as the canonical `url`.)
 
 Canonical URL for an Apple Podcasts link:
 1. **Check the episode index first.** `podcasts/<slug>.json` holds `{title, published, url}` for every episode of each show the collection uses repeatedly (SE Radio, Manager Tools, Lenny's, ELC, Go Time, ILTB, Knowledge Project, YC, Managing Up, Darknet Diaries, Radical Candor, Developing Leadership, Engineering Unblocked). Grep it for title keywords:
@@ -49,6 +54,16 @@ Canonical URL for an Apple Podcasts link:
 
 Archive.org alternate (when the Apple/mirror slot isn't taken):
 `https://archive.org/wayback/available?url=<url-without-scheme>` returns the closest snapshot; use `archived_snapshots.closest.url` as `alternate-url` (https scheme).
+
+The availability API rate-limits aggressively (429s even with spacing between requests). Fallback: the CDX API, which also answers "earliest snapshot" for dating undated pages:
+
+```bash
+curl -s --get --data-urlencode "url=<url-without-scheme>" \
+  --data "output=json&limit=-1&filter=statuscode:200" \
+  "https://web.archive.org/cdx/search/cdx"
+```
+
+`limit=-1` returns the latest snapshot, `limit=1` the earliest. Always pass the URL via `--data-urlencode`, throttle to one request every few seconds, and retry variants (with/without `www`, trailing slash) when a lookup comes back empty.
 
 ## Tags
 
@@ -67,7 +82,7 @@ Only create a tag when no existing one fits and the pattern is established (e.g.
 ./count-urls.sh      # per-file counts, total vs unique URLs, duplicate list
 ```
 
-The new URL must not already exist (count-urls.sh lists duplicates).
+The new URL must not already exist (count-urls.sh lists duplicates). Grep `content/` for the URL and title keywords before adding; list any skipped duplicates in the PR body.
 
 ## Anomalies and discrepancies
 
@@ -80,3 +95,6 @@ Adding a link often surfaces pre-existing issues: invalid JSON, duplicate URLs, 
 ## PR
 
 Branch off latest `main` (`git checkout main && git pull --ff-only && git checkout -b <branch>`), commit with a short lowercase message, push, and open a PR with `gh pr create --base main`. The PR body should include a table of added links (URL, published date, file, tags) and notes on date sources and placement reasoning.
+
+- Push auth: `git config credential.helper "!gh auth git-credential"` reuses the authenticated `gh` session; set a repo-local `user.name`/`user.email` if git has no identity.
+- If the previous PR was merged and its branch deleted before you push follow-up commits, pushing recreates a stray branch. Instead cherry-pick the commits onto a fresh branch off `origin/main`, open a new PR, and delete the stray branch after verifying by diff that it holds nothing unique.
