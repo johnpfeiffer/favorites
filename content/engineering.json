@@ -1451,6 +1451,17 @@
         "Machine Learning",
         "Blog"
       ]
+    },
+    {
+      "title": "Database Fundamentals (ACID, storage engines, B-trees vs LSM trees, distributed systems)",
+      "url": "https://tontinton.com/posts/database-fundementals/",
+      "alternate-url": "https://web.archive.org/web/20260606041140/https://tontinton.com/posts/database-fundementals/",
+      "published": "2023-12-15",
+      "tags": [
+        "Engineering",
+        "Databases",
+        "Blog"
+      ]
     }
   ]
 }
