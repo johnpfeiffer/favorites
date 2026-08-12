@@ -349,7 +349,7 @@
     {
       "title": "HN Discussion: Write Tests. Not Too Many. Mostly Integration",
       "url": "https://news.ycombinator.com/item?id=15565875",
-      "published": null,
+      "published": "2017-10-27",
       "tags": [
         "Engineering",
         "Testing",
@@ -359,7 +359,7 @@
     {
       "title": "HN Discussion: List of Strings to Use in QA Testing",
       "url": "https://news.ycombinator.com/item?id=18466787",
-      "published": null,
+      "published": "2018-11-16",
       "tags": [
         "Engineering",
         "Quality",
@@ -369,7 +369,7 @@
     {
       "title": "HN Discussion: Crowdsourcing How to Review Code",
       "url": "https://news.ycombinator.com/item?id=11416746",
-      "published": null,
+      "published": "2016-04-03",
       "tags": [
         "Engineering",
         "Code Review"
@@ -805,7 +805,7 @@
     {
       "title": "HN Discussion: Modules vs Microservices",
       "url": "https://news.ycombinator.com/item?id=13960107",
-      "published": null,
+      "published": "2017-03-26",
       "tags": [
         "Engineering",
         "Modules",
@@ -873,7 +873,7 @@
     {
       "title": "HN Discussion: A Simple Guide to Scaling to 10M Users",
       "url": "https://news.ycombinator.com/item?id=18760350",
-      "published": null,
+      "published": "2018-12-26",
       "tags": [
         "Engineering",
         "Scalability",
