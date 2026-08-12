@@ -21,6 +21,7 @@ Add links to `content/*.json` so they pass `./validate-json.sh`, dedupe cleanly 
 
 - `alternate-url` is optional; omit it when none exists. `published` is ISO `YYYY-MM-DD` or `null`.
 - `alternate-url` usually holds an archive.org snapshot or podcast mirror, but can hold a canonical reference page (e.g. Wikipedia for a book) when the requester asks for it.
+- When the original link is defunct (dead site, error page, or redirect to unrelated content), flip the two fields: the archive.org snapshot becomes the canonical `url` and the original source link becomes the `alternate-url`. Flag the defunct link in the PR body.
 - There is no `type` field. Media type is a capitalized tag, conventionally last in the array. The complete set in use: `Podcast`, `Blog`, `Article`, `Video`, `Book`, `Paper`.
 - First tag is the file's category (`AI`, `Business`, `Engineering`, `History`, `People`). Person/source tags exist (e.g. `Manager Tools`, `Charity Majors`, `Leslie Lamport`).
 - Titles often carry a source prefix (`Manager Tools: ...`, `Honeycomb: ...`) or are descriptive (`Leslie Lamport interviewed about ...`). Match nearby entries.
@@ -35,11 +36,12 @@ Five files: `ai.json`, `business.json`, `engineering.json`, `history.json`, `peo
 
 Published date, in order of preference:
 1. URL path (`stackoverflow.blog/2026/06/26/...`), page byline, or MP3 filename (`career-tools-2024-12-19.mp3`). Also check schema.org/JSON-LD `datePublished` meta tags when no byline is visible.
-2. Podcast RSS feed `pubDate` (see below). For shows in `podcasts/registry.json`, grep the committed episode index instead of downloading the feed.
-3. Web search index date (when the page doesn't render one statically).
-4. For content developed in a git repo (e.g. an essay whose source lives on GitHub), the first commit date of the source repo.
+2. When working from a Wayback snapshot (e.g. for a defunct link), grep the archived HTML source for the original page's metadata: `article:published_time`, `article:modified_time`, `article:author` meta tags and the JSON-LD block (`"datePublished"`, `"dateModified"`). Wayback archives the original HTML verbatim and only rewrites URLs (which is why `"@context"` shows up as `web.archive.org/web/<ts>/https://schema.org`), so these values are the original publisher's, not archive.org's. Identical values across two independent snapshots corroborate the date.
+3. Podcast RSS feed `pubDate` (see below). For shows in `podcasts/registry.json`, grep the committed episode index instead of downloading the feed.
+4. Web search index date (when the page doesn't render one statically).
+5. For content developed in a git repo (e.g. an essay whose source lives on GitHub), the first commit date of the source repo.
 
-If the exact day stays unverifiable, use `null` and note the evidence in the PR body (e.g. earliest Wayback snapshot, copyright year). Before trusting a URL, verify the live page still serves the expected content: a 301 redirect to an unrelated article means keep the original URL as canonical, use a Wayback snapshot as `alternate-url`, and flag it in the PR. (For JS-heavy pages that render blank, the maintainer has preferred the snapshot as the canonical `url`.)
+If the exact day stays unverifiable, use `null` and note the evidence in the PR body (e.g. earliest Wayback snapshot, copyright year). Before trusting a URL, verify the live page still serves the expected content: when the original link is defunct (a 301 redirect to unrelated content, an error page, or a JS-heavy page that renders blank), use the Wayback snapshot as the canonical `url`, put the original source link in `alternate-url`, and flag it in the PR.
 
 Canonical URL for an Apple Podcasts link:
 1. **Check the episode index first.** `podcasts/<slug>.json` holds `{title, published, url}` for every episode of each show the collection uses repeatedly (SE Radio, Manager Tools, Lenny's, ELC, Go Time, ILTB, Knowledge Project, YC, Managing Up, Darknet Diaries, Radical Candor, Developing Leadership, Engineering Unblocked). Grep it for title keywords:
