@@ -1462,6 +1462,43 @@
         "Databases",
         "Blog"
       ]
+    },
+    {
+      "title": "Pragmatic Engineer: How Microsoft Does Quality Assurance (QA) - the SDET role and its 2014 retirement",
+      "url": "https://blog.pragmaticengineer.com/how-microsoft-does-qa/",
+      "alternate-url": "https://web.archive.org/web/20260420101812/https://blog.pragmaticengineer.com/how-microsoft-does-qa/",
+      "published": "2023-09-19",
+      "tags": [
+        "Engineering",
+        "Quality",
+        "Testing",
+        "Microsoft",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Maxwell Krohn: Building Secure High-Performance Web Services with OKWS (USENIX 2004)",
+      "url": "https://pdos.csail.mit.edu/papers/okws-usenix04.pdf",
+      "alternate-url": "https://web.archive.org/web/20250512124951/https://pdos.csail.mit.edu/papers/okws-usenix04.pdf",
+      "published": "2004-06-01",
+      "tags": [
+        "Engineering",
+        "Architecture",
+        "Scalability",
+        "Paper"
+      ]
+    },
+    {
+      "title": "Bright Journey: Why Would OkCupid Write Their Own Web Server? (answered by co-founder Chris Coyne)",
+      "url": "https://web.archive.org/web/20250906201441/http://www.brightjourney.com/q/okcupid-write-web-server",
+      "alternate-url": "https://www.brightjourney.com/q/okcupid-write-web-server",
+      "published": "2011-03-10",
+      "tags": [
+        "Engineering",
+        "Architecture",
+        "Scalability",
+        "Article"
+      ]
     }
   ]
 }
