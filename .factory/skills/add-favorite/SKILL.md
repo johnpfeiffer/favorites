@@ -20,6 +20,7 @@ Add links to `content/*.json` so they pass `./validate-json.sh`, dedupe cleanly 
 ```
 
 - `alternate-url` is optional; omit it when none exists. `published` is ISO `YYYY-MM-DD` or `null`.
+- `published` records the initial distribution/event date, not the file or upload timestamp. For blogs and web articles the two are highly correlated, but for videos of live events (conference talks, panels, recorded meetups) there can be a lag between the event and the upload — use the event date when known (month-precision `YYYY-MM-01` when only the month is verifiable), and note the upload date in the PR body.
 - `alternate-url` usually holds an archive.org snapshot or podcast mirror, but can hold a canonical reference page (e.g. Wikipedia for a book) when the requester asks for it.
 - When the original link is defunct (dead site, error page, or redirect to unrelated content), flip the two fields: the archive.org snapshot becomes the canonical `url` and the original source link becomes the `alternate-url`. Flag the defunct link in the PR body.
 - There is no `type` field. Media type is a capitalized tag, conventionally last in the array. The complete set in use: `Podcast`, `Blog`, `Article`, `Video`, `Book`, `Paper`.
@@ -34,7 +35,7 @@ Five files: `ai.json`, `business.json`, `engineering.json`, `history.json`, `peo
 
 ## Metadata sleuthing
 
-Published date, in order of preference:
+Published date (the initial distribution/event date — see the `published` semantics above), in order of preference:
 1. URL path (`stackoverflow.blog/2026/06/26/...`), page byline, or MP3 filename (`career-tools-2024-12-19.mp3`). Also check schema.org/JSON-LD `datePublished` meta tags when no byline is visible.
 2. When working from a Wayback snapshot (e.g. for a defunct link), grep the archived HTML source for the original page's metadata: `article:published_time`, `article:modified_time`, `article:author` meta tags and the JSON-LD block (`"datePublished"`, `"dateModified"`). Wayback archives the original HTML verbatim and only rewrites URLs (which is why `"@context"` shows up as `web.archive.org/web/<ts>/https://schema.org`), so these values are the original publisher's, not archive.org's. Identical values across two independent snapshots corroborate the date.
 3. Podcast RSS feed `pubDate` (see below). For shows in `podcasts/registry.json`, grep the committed episode index instead of downloading the feed.
