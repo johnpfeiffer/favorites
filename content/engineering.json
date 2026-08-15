@@ -1499,6 +1499,42 @@
         "Scalability",
         "Article"
       ]
+    },
+    {
+      "title": "Stripe: Scaling your API with rate limiters",
+      "url": "https://stripe.com/blog/rate-limiters",
+      "alternate-url": "https://web.archive.org/web/20260803014506/https://stripe.com/blog/rate-limiters",
+      "published": "2017-03-30",
+      "tags": [
+        "Engineering",
+        "Scalability",
+        "Stripe",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Quastor: How Netflix Implements Load Shedding",
+      "url": "https://web.archive.org/web/20251213193518/https://blog.quastor.org/p/netflix-implements-load-shedding",
+      "alternate-url": "https://blog.quastor.org/p/netflix-implements-load-shedding",
+      "published": "2022-08-23",
+      "tags": [
+        "Engineering",
+        "Scalability",
+        "Netflix",
+        "Blog"
+      ]
+    },
+    {
+      "title": "An Introduction to Computer Networks: Token Bucket Rate Limiting (Peter Dordal)",
+      "url": "https://intronetworks.cs.luc.edu/current/html/tokenbucket.html",
+      "alternate-url": "https://web.archive.org/web/20251007210626/https://intronetworks.cs.luc.edu/current/html/tokenbucket.html",
+      "published": null,
+      "tags": [
+        "Engineering",
+        "Networking",
+        "Scalability",
+        "Article"
+      ]
     }
   ]
 }
