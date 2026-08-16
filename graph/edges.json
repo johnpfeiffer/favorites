@@ -174,6 +174,36 @@
       "source": "A3871963-16FC-4B75-A1C8-E1D39AB1033F",
       "target": "87F3F7E3-4D6E-4C37-9F30-B8A9C968B433",
       "type": "Previous_Employee_of"
+    },
+    {
+      "source": "180FED70-3A77-4A3D-BB4F-0AB295B1019B",
+      "target": "B4E3C293-FC33-4251-84FD-5653DE9A0A88",
+      "type": "Founder_of"
+    },
+    {
+      "source": "ECA81CFD-E366-4871-86E1-70AD10DD8B60",
+      "target": "318472D7-A162-4F3D-A4C3-B2404194BD3A",
+      "type": "Host_of"
+    },
+    {
+      "source": "8FA06C26-5184-498B-B9B8-16C66E60E499",
+      "target": "A35181DE-CA57-4421-9A79-69BBB3C891FC",
+      "type": "Author_of"
+    },
+    {
+      "source": "A00E2405-5A3C-4295-9080-197CECCACD7E",
+      "target": "A35181DE-CA57-4421-9A79-69BBB3C891FC",
+      "type": "Author_of"
+    },
+    {
+      "source": "570E0565-1E4A-45D3-A56B-A96CCF029177",
+      "target": "AFB4F84A-3D7F-42DF-9BAA-C56BCD911B2B",
+      "type": "Author_of"
+    },
+    {
+      "source": "6E357041-EBF5-499B-9222-89FF1DA7C787",
+      "target": "3675B386-3858-4EA6-B9D3-68F349DC28A8",
+      "type": "Previous_Employee_of"
     }
   ]
 }

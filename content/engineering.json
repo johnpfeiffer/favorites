@@ -1535,6 +1535,72 @@
         "Scalability",
         "Article"
       ]
+    },
+    {
+      "title": "HN Discussion: What are some examples of good database schema designs?",
+      "url": "https://news.ycombinator.com/item?id=22324691",
+      "published": "2020-02-14",
+      "tags": [
+        "Engineering",
+        "Databases"
+      ]
+    },
+    {
+      "title": "The Scale: Talking Microservices with the Man Who Made Netflix's Cloud Famous (Adrian Cockcroft)",
+      "url": "https://medium.com/s-c-a-l-e/talking-microservices-with-the-man-who-made-netflix-s-cloud-famous-1032689afed3",
+      "alternate-url": "https://web.archive.org/web/20151028201630/https://medium.com/s-c-a-l-e/talking-microservices-with-the-man-who-made-netflix-s-cloud-famous-1032689afed3",
+      "published": "2015-05-30",
+      "tags": [
+        "Engineering",
+        "Microservices",
+        "Netflix",
+        "Adrian Cockcroft",
+        "Article"
+      ]
+    },
+    {
+      "title": "GOTO 2017: Cloud Trends (Adrian Cockcroft keynote; culture, Netflix cloud migration, monoliths to microservices)",
+      "url": "https://www.youtube.com/watch?v=EDZBYbEwhm8",
+      "published": "2017-06-01",
+      "tags": [
+        "Engineering",
+        "Microservices",
+        "Adrian Cockcroft",
+        "Video"
+      ]
+    },
+    {
+      "title": "Nabeel Qureshi: Reflections on Palantir (Forward Deployed Engineering)",
+      "url": "https://nabeelqu.substack.com/p/reflections-on-palantir",
+      "published": "2024-10-15",
+      "tags": [
+        "Engineering",
+        "Palantir",
+        "Forward Deployed Engineering",
+        "Blog"
+      ]
+    },
+    {
+      "title": "ACM Queue: Zero Tolerance for Bias (unbiased shuffling; PRNG seed and modulo bias)",
+      "url": "https://queue.acm.org/detail.cfm?id=3664645",
+      "published": "2024-05-29",
+      "tags": [
+        "Engineering",
+        "Algorithms",
+        "Probability",
+        "Article"
+      ]
+    },
+    {
+      "title": "NIST DADS: Ideal Random Shuffle",
+      "url": "https://xlinux.nist.gov/dads/HTML/idealRandomShuffle.html",
+      "published": "2021-10-04",
+      "tags": [
+        "Engineering",
+        "Algorithms",
+        "Probability",
+        "Article"
+      ]
     }
   ]
 }
