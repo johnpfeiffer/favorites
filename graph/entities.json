@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "id": "87F3F7E3-4D6E-4C37-9F30-B8A9C968B433",
+      "name": "Google"
+    },
+    {
+      "id": "97E3A24B-5D8D-4D48-A4A3-A6F474BDBC59",
+      "name": "Attention Is All You Need"
+    },
+    {
+      "id": "A219B058-4006-423B-8233-262EE013A3E7",
+      "name": "Noam Shazeer"
+    },
+    {
+      "id": "2CAE192A-F61C-4D50-901C-675A5E0FFD95",
+      "name": "Ashish Vaswani"
+    },
+    {
+      "id": "23CA2700-93F5-434E-BDE7-28FB4697B4EE",
+      "name": "Niki Parmar"
+    },
+    {
+      "id": "4365A4A5-AF4B-40CC-9A6B-24FEF7B6F35E",
+      "name": "Jakob Uszkoreit"
+    },
+    {
+      "id": "444783C5-3557-4AF9-88E9-C1B0F8647077",
+      "name": "Llion Jones"
+    },
+    {
+      "id": "4039EC88-BA43-459D-882A-3BD134655038",
+      "name": "Aidan Gomez"
+    },
+    {
+      "id": "A2AE6713-CDBF-4DB2-8808-ECBE87AACBE3",
+      "name": "Łukasz Kaiser"
+    },
+    {
+      "id": "A3871963-16FC-4B75-A1C8-E1D39AB1033F",
+      "name": "Illia Polosukhin"
+    },
+    {
+      "id": "4C0D79C5-65DC-4FE0-8CD8-95564A5C325A",
+      "name": "Character.AI"
+    },
+    {
+      "id": "82D7BB16-76CF-4003-A223-51D88A33F738",
+      "name": "Essential AI"
+    },
+    {
+      "id": "41E814F5-55B7-407C-8317-FE0B2837F52E",
+      "name": "Inceptive"
+    },
+    {
+      "id": "52AFD4E4-2E61-4517-B8E1-577BF1A09E75",
+      "name": "Sakana AI"
+    },
+    {
+      "id": "383CCB25-7F06-4F38-9122-03A26149AC3D",
+      "name": "Cohere"
+    },
+    {
+      "id": "EBF6663E-6CD3-4230-BCCF-02AAE171110E",
+      "name": "NEAR"
+    },
+    {
+      "id": "ED355577-1982-461F-9200-55D335063382",
+      "name": "Des Traynor"
+    },
+    {
+      "id": "369D36E8-C239-4B38-A51F-28544C26A51C",
+      "name": "Intercom"
+    },
+    {
+      "id": "39FA717B-8E2F-4C51-A80D-F0D24B62C972",
+      "name": "Demis Hassabis"
+    },
+    {
+      "id": "12C3A6E8-CFE3-460A-8534-CA62C15B5A53",
+      "name": "DeepMind"
+    },
+    {
+      "id": "5FE4E6E9-6907-4026-B263-87E14B989636",
+      "name": "Aravind Srinivas"
+    },
+    {
+      "id": "6CB35DF4-5A59-464B-A4AA-08350ECD8FAF",
+      "name": "Perplexity"
+    },
+    {
+      "id": "8A63B47E-A1FC-42B4-A5B7-EE72E17A1E3A",
+      "name": "Matthew Prince"
+    },
+    {
+      "id": "704B3310-B2BB-409E-B6FB-A9ADE64070C7",
+      "name": "Cloudflare"
+    },
+    {
+      "id": "A304E1AE-67FB-4BA9-BEBC-A6AB15199962",
+      "name": "Sahaj Garg"
+    },
+    {
+      "id": "AA044226-DE71-471C-87C4-A65A41484358",
+      "name": "Wispr AI"
+    },
+    {
+      "id": "17A8679F-B46B-4A62-A417-FC0EEF6B9BDF",
+      "name": "Hamza Tahir"
+    },
+    {
+      "id": "B1521849-F594-4EE2-9E27-7C9B82E6BD6C",
+      "name": "ZenML"
+    },
+    {
+      "id": "5900C919-078C-457F-A0D3-9924EA113F77",
+      "name": "Dex Horthy"
+    },
+    {
+      "id": "7F7757F9-C630-4671-9B0A-CB6145670D7A",
+      "name": "HumanLayer"
+    },
+    {
+      "id": "437B5766-E3DC-445B-B6BC-A4967AFF09EB",
+      "name": "Patrick O'Shaughnessy"
+    },
+    {
+      "id": "05C47DCD-B588-4A42-A82B-AD1BD9BF8D36",
+      "name": "Invest Like the Best"
+    },
+    {
+      "id": "85500739-C3DD-4373-A06F-B0F6BDA7A8D5",
+      "name": "Lex Fridman"
+    },
+    {
+      "id": "419ABAB3-E180-4669-8889-5724B198B1DD",
+      "name": "Lex Fridman Podcast"
+    },
+    {
+      "id": "AAFB393A-D9B1-420D-A4B5-E34C36B58C3E",
+      "name": "Murray Shanahan"
+    },
+    {
+      "id": "5350EA5E-DEE1-43E6-A1F0-E407E6392C39",
+      "name": "Talking About Large Language Models"
+    },
+    {
+      "id": "A1A6AEA4-6FC9-4026-BD86-B09BE455422D",
+      "name": "Carl T. Bergstrom"
+    },
+    {
+      "id": "E75898E5-0F00-4343-92DB-EDC27224FBCC",
+      "name": "Jevin D. West"
+    },
+    {
+      "id": "AB727677-367E-41A3-94B3-272FC77AA587",
+      "name": "Modern-Day Oracles or Bullshit Machines"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Maintain Favorites Graph"
+  short_description: "Create and maintain the favorites ontology"
+  default_prompt: "Use $maintain-favorites-graph to extract canonical entities and relationships from favorites content."
