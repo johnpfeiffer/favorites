@@ -2681,6 +2681,29 @@
         "Product Management",
         "Blog"
       ]
+    },
+    {
+      "title": "HBR: Crucibles of Leadership (Bennis & Thomas: shared meaning, authentic voice, integrity, adaptive capacity)",
+      "url": "https://hbr.org/2002/09/crucibles-of-leadership",
+      "alternate-url": "https://web.archive.org/web/20221101090235/https://hbr.org/2002/09/crucibles-of-leadership",
+      "published": "2002-09-01",
+      "tags": [
+        "People",
+        "Leadership",
+        "Article"
+      ]
+    },
+    {
+      "title": "Shreyas Doshi: AI and Product Management (1-hour compilation of his videos on PM adapting to AI)",
+      "url": "https://www.youtube.com/watch?v=2M56QjV4nWw",
+      "published": "2026-01-14",
+      "tags": [
+        "People",
+        "Product Management",
+        "AI",
+        "Shreyas Doshi",
+        "Video"
+      ]
     }
   ]
 }
