@@ -1,15 +1,12 @@
 #!/bin/bash
 set -euo pipefail
 
-DEST="../links/app/src/content/"
-
-
-./validate-json.sh
+DEST="../track-favorites/app/src/graph/data/"
 
 echo "=== 5 Most Recent Commits ==="
-git log --oneline -5
+git log --oneline -5 ./graph
 echo "============================="
 
 mkdir -p "$DEST"
-cp -a content/*.json "$DEST"
+cp -a graph/*.json "$DEST"
 

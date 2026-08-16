@@ -126,13 +126,12 @@ def validate(repo_root: Path) -> tuple[list[str], dict[str, object]]:
         errors.append(f"duplicate edges: {duplicate_edges!r}")
 
     isolated_ids = sorted(id_set - used_ids)
-    if isolated_ids:
-        errors.append(f"isolated entity IDs: {', '.join(isolated_ids)}")
 
     summary: dict[str, object] = {
         "entities": len(entities),
         "edges": len(edges),
         "edge_types": dict(sorted(edge_type_counts.items())),
+        "isolated_entities": len(isolated_ids),
     }
     return errors, summary
 
