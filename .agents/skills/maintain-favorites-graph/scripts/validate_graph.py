@@ -17,6 +17,7 @@ ALLOWED_EDGE_TYPES = {
     "Host_of",
     "Current_Employee_of",
     "Previous_Employee_of",
+    "Is_a_Person",
 }
 
 
@@ -45,6 +46,9 @@ def validate(repo_root: Path) -> tuple[list[str], dict[str, object]]:
     errors: list[str] = []
     entities_doc = load_json(repo_root / "graph" / "entities.json", errors)
     edges_doc = load_json(repo_root / "graph" / "edges.json", errors)
+    person_edges_doc = load_json(
+        repo_root / "graph" / "is_a_person-edges.json", errors
+    )
     if errors:
         return errors, {}
 
@@ -65,6 +69,17 @@ def validate(repo_root: Path) -> tuple[list[str], dict[str, object]]:
         edges = []
     else:
         edges = edges_doc["edges"]
+
+    if not isinstance(person_edges_doc, dict) or set(person_edges_doc) != {"edges"}:
+        errors.append(
+            "is_a_person-edges.json must be an object containing only 'edges'"
+        )
+        person_edges: list[Any] = []
+    elif not isinstance(person_edges_doc["edges"], list):
+        errors.append("is_a_person-edges.json edges must be an array")
+        person_edges = []
+    else:
+        person_edges = person_edges_doc["edges"]
 
     ids: list[str] = []
     normalized_names: list[str] = []
@@ -94,11 +109,28 @@ def validate(repo_root: Path) -> tuple[list[str], dict[str, object]]:
         errors.append(f"duplicate entity names: {', '.join(duplicate_names)}")
 
     id_set = set(ids)
+    person_class_ids = {
+        entity["id"].casefold()
+        for entity in entities
+        if isinstance(entity, dict)
+        and isinstance(entity.get("id"), str)
+        and isinstance(entity.get("name"), str)
+        and entity["name"].casefold() == "person"
+    }
     used_ids: set[str] = set()
     edge_keys: list[tuple[str, str, str]] = []
     edge_type_counts: Counter[str] = Counter()
-    for index, edge in enumerate(edges):
-        label = f"edges[{index}]"
+    classified_person_ids: set[str] = set()
+    relationship_source_ids: set[str] = set()
+    all_edges = [
+        *(('edges.json', index, edge) for index, edge in enumerate(edges)),
+        *(
+            ('is_a_person-edges.json', index, edge)
+            for index, edge in enumerate(person_edges)
+        ),
+    ]
+    for filename, index, edge in all_edges:
+        label = f"{filename} edges[{index}]"
         if not isinstance(edge, dict) or set(edge) != {"source", "target", "type"}:
             errors.append(f"{label} must contain exactly source, target, and type")
             continue
@@ -118,20 +150,45 @@ def validate(repo_root: Path) -> tuple[list[str], dict[str, object]]:
         if edge_type not in ALLOWED_EDGE_TYPES:
             errors.append(f"{label}.type is unsupported: {edge_type!r}")
         elif isinstance(source, str) and isinstance(target, str):
+            if filename == "edges.json" and edge_type == "Is_a_Person":
+                errors.append(f"{label} belongs in is_a_person-edges.json")
+            if filename == "is_a_person-edges.json" and edge_type != "Is_a_Person":
+                errors.append(f"{label} belongs in edges.json")
             edge_keys.append((source.casefold(), target.casefold(), edge_type))
             edge_type_counts[edge_type] += 1
+            if edge_type == "Is_a_Person":
+                if target.casefold() not in person_class_ids:
+                    errors.append(f"{label} must target the Person class entity")
+                elif source.casefold() in person_class_ids:
+                    errors.append(f"{label} cannot classify the Person class itself")
+                else:
+                    classified_person_ids.add(source.casefold())
+            else:
+                relationship_source_ids.add(source.casefold())
 
     duplicate_edges = [key for key, count in Counter(edge_keys).items() if count > 1]
     if duplicate_edges:
         errors.append(f"duplicate edges: {duplicate_edges!r}")
 
+    missing_person_classification = sorted(
+        relationship_source_ids - classified_person_ids
+    )
+    if missing_person_classification:
+        errors.append(
+            "relationship sources missing Is_a_Person edges: "
+            + ", ".join(missing_person_classification)
+        )
+
     isolated_ids = sorted(id_set - used_ids)
 
     summary: dict[str, object] = {
         "entities": len(entities),
-        "edges": len(edges),
+        "edges": len(edges) + len(person_edges),
+        "relationship_edges": len(edges),
+        "person_edges": len(person_edges),
         "edge_types": dict(sorted(edge_type_counts.items())),
         "isolated_entities": len(isolated_ids),
+        "people": len(classified_person_ids),
     }
     return errors, summary
 

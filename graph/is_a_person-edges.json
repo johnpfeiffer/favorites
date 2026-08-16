@@ -1,0 +1,134 @@
+{
+  "edges": [
+    {
+      "source": "A219B058-4006-423B-8233-262EE013A3E7",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "2CAE192A-F61C-4D50-901C-675A5E0FFD95",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "23CA2700-93F5-434E-BDE7-28FB4697B4EE",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "4365A4A5-AF4B-40CC-9A6B-24FEF7B6F35E",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "444783C5-3557-4AF9-88E9-C1B0F8647077",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "4039EC88-BA43-459D-882A-3BD134655038",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "A2AE6713-CDBF-4DB2-8808-ECBE87AACBE3",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "A3871963-16FC-4B75-A1C8-E1D39AB1033F",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "ED355577-1982-461F-9200-55D335063382",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "39FA717B-8E2F-4C51-A80D-F0D24B62C972",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "5FE4E6E9-6907-4026-B263-87E14B989636",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "8A63B47E-A1FC-42B4-A5B7-EE72E17A1E3A",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "A304E1AE-67FB-4BA9-BEBC-A6AB15199962",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "17A8679F-B46B-4A62-A417-FC0EEF6B9BDF",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "5900C919-078C-457F-A0D3-9924EA113F77",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "437B5766-E3DC-445B-B6BC-A4967AFF09EB",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "85500739-C3DD-4373-A06F-B0F6BDA7A8D5",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "AAFB393A-D9B1-420D-A4B5-E34C36B58C3E",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "A1A6AEA4-6FC9-4026-BD86-B09BE455422D",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "E75898E5-0F00-4343-92DB-EDC27224FBCC",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "180FED70-3A77-4A3D-BB4F-0AB295B1019B",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "ECA81CFD-E366-4871-86E1-70AD10DD8B60",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "8FA06C26-5184-498B-B9B8-16C66E60E499",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "A00E2405-5A3C-4295-9080-197CECCACD7E",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "570E0565-1E4A-45D3-A56B-A96CCF029177",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "6E357041-EBF5-499B-9222-89FF1DA7C787",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    }
+  ]
+}
