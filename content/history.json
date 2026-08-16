@@ -385,6 +385,19 @@
       ]
     },
     {
+      "title": "The Atlantic: How Slack Upended the Workplace (the infinite virtual water-cooler after HipChat)",
+      "url": "https://www.theatlantic.com/magazine/archive/2021/11/slack-office-trouble/620173/",
+      "alternate-url": "https://web.archive.org/web/20211012102224/https://www.theatlantic.com/magazine/archive/2021/11/slack-office-trouble/620173/",
+      "published": "2021-10-12",
+      "tags": [
+        "History",
+        "Slack",
+        "Culture",
+        "Communication",
+        "Article"
+      ]
+    },  
+    {
       "title": "History of Datadog Founder Olivier Pomel",
       "url": "https://www.youtube.com/watch?v=PmvHxj8FJhE",
       "published": "2025-09-19",
@@ -499,6 +512,18 @@
         "AWS",
         "Infrastructure",
         "Blog"
+      ]
+    },
+    {
+      "title": "NYT: How Discord, Born From an Obscure Game, Became a Social Hub for Young People (history of Discord)",
+      "url": "https://www.nytimes.com/2021/12/29/business/discord-server-social-media.html",
+      "alternate-url": "https://web.archive.org/web/20211229080828/https://www.nytimes.com/2021/12/29/business/discord-server-social-media.html",
+      "published": "2021-12-29",
+      "tags": [
+        "History",
+        "Discord",
+        "Startups",
+        "Article"
       ]
     }
   ]
