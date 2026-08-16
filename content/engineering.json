@@ -1554,6 +1554,7 @@
         "Engineering",
         "Microservices",
         "Netflix",
+        "Adrian Cockcroft",
         "Article"
       ]
     },
@@ -1564,16 +1565,18 @@
       "tags": [
         "Engineering",
         "Microservices",
+        "Adrian Cockcroft",
         "Video"
       ]
     },
     {
-      "title": "Nabeel Qureshi: Reflections on Palantir (retrospective on an eight-year stint)",
+      "title": "Nabeel Qureshi: Reflections on Palantir (Forward Deployed Engineering)",
       "url": "https://nabeelqu.substack.com/p/reflections-on-palantir",
       "published": "2024-10-15",
       "tags": [
         "Engineering",
         "Palantir",
+        "Forward Deployed Engineering",
         "Blog"
       ]
     },
@@ -1584,16 +1587,18 @@
       "tags": [
         "Engineering",
         "Algorithms",
+        "Probability",
         "Article"
       ]
     },
     {
       "title": "NIST DADS: Ideal Random Shuffle",
       "url": "https://xlinux.nist.gov/dads/HTML/idealRandomShuffle.html",
-      "published": null,
+      "published": "2021-10-04",
       "tags": [
         "Engineering",
         "Algorithms",
+        "Probability",
         "Article"
       ]
     }
