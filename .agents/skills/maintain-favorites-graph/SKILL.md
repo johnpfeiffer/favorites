@@ -59,7 +59,7 @@ Do not add:
 - Tags, topics, roles, or generic concepts under the current schema.
 - Speculative or isolated entities with no supported edge.
 
-Admit a work for `Author_of` only when it has a genuine canonical title and is useful as a shared or notable graph node. For example, keep `Attention Is All You Need`; do not create an entity named `Wired: Eight Google Employees Invented Modern AI - Transformers Paper`. The Wired record is evidence about people, Google, the paper, and their relationships.
+Admit a work for `Author_of` only when it has a genuine canonical title and is useful as a shared or notable graph node. For example, keep `Attention Is All You Need`; do not create an entity named `Wired: Eight Google Employees Invented Modern AI - Transformers Paper`. The Wired record is evidence about people, Google, the paper, and their relationships. A recorded lecture or talk with a genuine canonical title (e.g. Grace Hopper's `Future Possibilities: Data, Hardware, Software, and People`) can qualify as a work, with the speaker standing in as author; flag that stretch in the report so the user can veto it. An interviewee or talk speaker is never an `Author_of` the interview article or the talk's write-up.
 
 Reuse an existing entity and UUID when the canonical name already exists. Generate a UUID4 only for a genuinely new entity. Never regenerate IDs during cleanup or routine maintenance.
 
