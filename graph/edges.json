@@ -271,16 +271,6 @@
       "type": "Founder_of"
     },
     {
-      "source": "60ED48E7-C876-475E-9855-A0255309703E",
-      "target": "57B9EBF2-E8F5-49A8-9FCD-633EF41D867D",
-      "type": "Author_of"
-    },
-    {
-      "source": "7F80BB47-E3F2-4A9F-B66A-F52677349C6E",
-      "target": "E77CF7DB-9731-4ED1-A5C7-EEB053C6E9F5",
-      "type": "Author_of"
-    },
-    {
       "source": "B63501F6-92F3-4B3F-A97C-565B311893EB",
       "target": "51AA357B-CABC-4538-AA77-ED7D88A8F71D",
       "type": "Author_of"
@@ -343,6 +333,11 @@
     {
       "source": "7F80BB47-E3F2-4A9F-B66A-F52677349C6E",
       "target": "EC9CBB3A-0FFA-40E3-89A2-1A86474ED033",
+      "type": "Previous_Employee_of"
+    },
+    {
+      "source": "60ED48E7-C876-475E-9855-A0255309703E",
+      "target": "B098FAFC-C1FE-4422-AD82-511294542EDF",
       "type": "Previous_Employee_of"
     }
   ]
