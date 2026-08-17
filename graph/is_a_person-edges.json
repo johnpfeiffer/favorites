@@ -264,6 +264,31 @@
       "source": "68BC1F78-3784-4E15-9D81-E48B355633CF",
       "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
       "type": "Is_a_Person"
+    },
+    {
+      "source": "6F990078-1941-475C-A04C-2F1CC16715F0",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "B313A7FB-B063-4D01-9310-52E3D9213D98",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "C4BB24F0-8207-476D-97E9-F8FB6F227466",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "429E39DC-4FA4-4EEC-91B7-7141DFC66943",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "772B46E9-6F00-4719-A6EF-7BAF9E7BACB2",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
     }
   ]
 }
