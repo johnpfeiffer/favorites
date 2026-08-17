@@ -204,6 +204,11 @@
       "source": "6E357041-EBF5-499B-9222-89FF1DA7C787",
       "target": "3675B386-3858-4EA6-B9D3-68F349DC28A8",
       "type": "Previous_Employee_of"
+    },
+    {
+      "source": "68BC1F78-3784-4E15-9D81-E48B355633CF",
+      "target": "48376CCE-3B9D-416B-BE65-2F537B59F7C4",
+      "type": "Founder_of"
     }
   ]
 }
