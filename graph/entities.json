@@ -265,6 +265,14 @@
       "name": "Genentech"
     },
     {
+      "id": "C9327480-7DB6-4BB5-AA0E-27AF62DAA16A",
+      "name": "AWS"
+    },
+    {
+      "id": "D66A6D92-4E9F-44EE-B979-31D448560624",
+      "name": "Discord"
+    },
+    {
       "id": "CD42925E-61D4-4389-B8E4-41B2DB2980B1",
       "name": "Y Combinator"
     },
@@ -279,6 +287,162 @@
     {
       "id": "7010C6B0-889E-485E-A093-8C6F5116BFCC",
       "name": "Facebook"
+    },
+    {
+      "id": "5D7858F8-ABB6-4D42-9217-F1F8DFA0C7FB",
+      "name": "Alan Turing"
+    },
+    {
+      "id": "B0457A9F-FD07-4197-BF99-7B68D1FD4ACD",
+      "name": "Hans Peter Luhn"
+    },
+    {
+      "id": "AD26B4A0-665C-40D9-8C6F-9AA1C1295176",
+      "name": "Gary Kildall"
+    },
+    {
+      "id": "829B340B-B55F-4B4C-B74D-F22F0E7590DC",
+      "name": "Steve Wozniak"
+    },
+    {
+      "id": "49C71BC1-33E6-4410-8196-01AC8CD01160",
+      "name": "Guy Kawasaki"
+    },
+    {
+      "id": "2D9E4C53-15BA-441F-90E6-F0320531DB4A",
+      "name": "Jim Clark"
+    },
+    {
+      "id": "07C82011-5B54-4A6B-BB55-69122FC863ED",
+      "name": "Marc Andreessen"
+    },
+    {
+      "id": "D9286ADA-4500-40FB-9BF9-4B7E602FC83A",
+      "name": "Lou Montulli"
+    },
+    {
+      "id": "71213E2B-3A98-4865-B30D-10C2AD507EA8",
+      "name": "Jeff Bezos"
+    },
+    {
+      "id": "3DEC2B26-0DB4-4BE2-B51B-1DD6DC87D9AE",
+      "name": "Chris MacAskill"
+    },
+    {
+      "id": "D8A4B398-240C-4709-AE49-0C7F4A96F7A2",
+      "name": "Ernie Smith"
+    },
+    {
+      "id": "0B746566-3B70-4247-BEC1-78F42D3B41E1",
+      "name": "Steve Jobs"
+    },
+    {
+      "id": "AF9C544D-221C-45DD-B929-B5EAC3FD10B1",
+      "name": "Kevin Scott"
+    },
+    {
+      "id": "60ED48E7-C876-475E-9855-A0255309703E",
+      "name": "Dan McKinley"
+    },
+    {
+      "id": "6DBB56D1-D486-4533-85A7-9BE43B5C797A",
+      "name": "Werner Vogels"
+    },
+    {
+      "id": "4FCDEFE5-F329-49B0-9B99-79FF3AAE2E57",
+      "name": "Andy Jassy"
+    },
+    {
+      "id": "011DABC2-4AF6-4E33-819F-6DB19E1F6321",
+      "name": "John Furrier"
+    },
+    {
+      "id": "7F80BB47-E3F2-4A9F-B66A-F52677349C6E",
+      "name": "Steve Yegge"
+    },
+    {
+      "id": "529B04DC-BA77-4652-8D3D-9DAD6D98CB99",
+      "name": "Brian Chesky"
+    },
+    {
+      "id": "2F0EA0F3-DC72-4011-BECB-097C492CFB35",
+      "name": "Stewart Butterfield"
+    },
+    {
+      "id": "13E049F9-DAD2-4BC9-A8FA-6927D62B456D",
+      "name": "Olivier Pomel"
+    },
+    {
+      "id": "B63501F6-92F3-4B3F-A97C-565B311893EB",
+      "name": "Sally Smith Hughes"
+    },
+    {
+      "id": "3BEBAC1D-212A-4ABA-95F6-E5AB75BB6CF2",
+      "name": "Jason Calacanis"
+    },
+    {
+      "id": "2CD0717B-93BE-4B36-854A-0DCE86D6AB28",
+      "name": "Tim Harford"
+    },
+    {
+      "id": "DF98570B-A6B8-4BA1-9969-184151A98EA4",
+      "name": "Joshua Schachter"
+    },
+    {
+      "id": "CEEF571D-135B-43B9-A94C-7E4593C6C3DE",
+      "name": "Tom Alberg"
+    },
+    {
+      "id": "68BC1F78-3784-4E15-9D81-E48B355633CF",
+      "name": "Bill Gates"
+    },
+    {
+      "id": "10FA8D32-18C9-46C6-9B4A-773E2B853066",
+      "name": "LinkedIn"
+    },
+    {
+      "id": "51AA357B-CABC-4538-AA77-ED7D88A8F71D",
+      "name": "Genentech: The Beginnings of Biotech"
+    },
+    {
+      "id": "F465A6B9-C218-499A-B826-3B7DF093304A",
+      "name": "Acquired"
+    },
+    {
+      "id": "E9C6E0CE-7DB8-4F2C-9153-03AD201D2A64",
+      "name": "Internet History Podcast"
+    },
+    {
+      "id": "35B550C4-7606-4F54-B6BA-9FF0D69DF35A",
+      "name": "Masters of Scale"
+    },
+    {
+      "id": "179A9F76-574B-4347-B98F-20E5D84CFFB8",
+      "name": "Guy Kawasaki's Remarkable People"
+    },
+    {
+      "id": "5A3E00EE-EDF9-4573-BD94-077B12DAACC5",
+      "name": "New Books Network"
+    },
+    {
+      "id": "6F990078-1941-475C-A04C-2F1CC16715F0",
+      "name": "Reid Hoffman"
+    },
+    {
+      "id": "B313A7FB-B063-4D01-9310-52E3D9213D98",
+      "name": "Brian McCullough"
+    },
+    {
+      "id": "C4BB24F0-8207-476D-97E9-F8FB6F227466",
+      "name": "Ben Gilbert"
+    },
+    {
+      "id": "429E39DC-4FA4-4EEC-91B7-7141DFC66943",
+      "name": "David Rosenthal"
+    },
+    {
+      "id": "772B46E9-6F00-4719-A6EF-7BAF9E7BACB2",
+      "name": "Carla Nappi"
     },
     {
       "id": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
