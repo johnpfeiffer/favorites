@@ -219,6 +219,44 @@
         "Strategy",
         "Article"
       ]
+    },
+    {
+      "title": "Engineering Founders: Determining bets, using customer insights to pivot, and gaining developer buy-in and trust with Tomas Reimers (Graphite)",
+      "url": "https://engineering-founders.simplecast.com/episodes/determining-bets-using-customer-insights-to-pivot-and-gaining-developer-buy-in-trust-tomas-reimers-graphite-gZJoBCsa",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/determining-bets-using-customer-insights-to-pivot-and/id1607135532?i=1000768942575",
+      "published": "2026-05-21",
+      "tags": [
+        "Business",
+        "Startups",
+        "Sales",
+        "Graphite",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "20Sales: The $100M CRO Bubble - Why Anthropic Are Causing a Comp Crisis (Chad Peets and Chris Degnan)",
+      "url": "https://www.thetwentyminutevc.com/chad-peets-chris-degnan",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/20sales-the-%24100m-cro-bubble-why-anthropic-are/id958230465?i=1000769195123",
+      "published": "2026-05-23",
+      "tags": [
+        "Business",
+        "Sales",
+        "Hiring",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "20Sales: Inside Clay's Sales Playbook Scaling to $100M ARR (Becca Lindquist)",
+      "url": "https://www.thetwentyminutevc.com/becca-lindquist",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/20vc-inside-clays-sales-playbook-scaling-to-%24100m-arr/id958230465?i=1000765735433",
+      "published": "2026-05-02",
+      "tags": [
+        "Business",
+        "Sales",
+        "Hiring",
+        "Clay",
+        "Podcast"
+      ]
     }
   ]
 }
