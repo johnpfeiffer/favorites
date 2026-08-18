@@ -5,8 +5,23 @@
   "feedUrl": "https://anchor.fm/s/8c1524bc/podcast/rss",
   "homeUrl": "https://www.ycombinator.com/library",
   "canonicalPattern": "https://www.ycombinator.com/library/<id>-<slug>",
-  "episodeCount": 331,
+  "episodeCount": 334,
   "episodes": [
+    {
+      "title": "Chelsea Finn: This is the State of the Art in Robotics",
+      "published": "2026-08-13",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Chelsea-Finn-This-is-the-State-of-the-Art-in-Robotics-e3nc492"
+    },
+    {
+      "title": "Peter Steinberger: \"Fun Is Velocity\"",
+      "published": "2026-08-11",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Peter-Steinberger-Fun-Is-Velocity-e3n9eat"
+    },
+    {
+      "title": "Max Hodak: How Startups Build Speed",
+      "published": "2026-08-10",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Max-Hodak-How-Startups-Build-Speed-e3n8178"
+    },
     {
       "title": "How To Design In The Agent Era",
       "published": "2026-08-07",

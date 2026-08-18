@@ -5,8 +5,18 @@
   "feedUrl": "https://files.manager-tools.com/public/feeds/manager-tools-podcasts.xml",
   "homeUrl": "https://www.manager-tools.com",
   "canonicalPattern": "https://www.manager-tools.com/YYYY/MM/<slug>",
-  "episodeCount": 982,
+  "episodeCount": 984,
   "episodes": [
+    {
+      "title": "Coaching a Direct On Relationship Development - Part 2",
+      "published": "2026-08-17",
+      "url": "https://www.manager-tools.com/2026/08/coaching-direct-relationship-development-part-2"
+    },
+    {
+      "title": "Coaching a Direct On Relationship Development - Part 1",
+      "published": "2026-08-10",
+      "url": "https://www.manager-tools.com/2026/08/coaching-direct-relationship-development-part-1"
+    },
     {
       "title": "Your Job Includes Teaching Professionalism - Chapter 1 - Timeliness - Part 2",
       "published": "2026-08-03",
