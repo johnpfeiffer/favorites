@@ -1625,6 +1625,17 @@
         "Quality",
         "Podcast"
       ]
+    },
+    {
+      "title": "SE Radio: Murat Erder and Eoin Woods on Continuous Architecture",
+      "url": "https://se-radio.net/2026/01/se-radio-705-murat-erder-and-eoin-woods-on-continuous-architecture/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714?i=1000746934669",
+      "published": "2026-01-27",
+      "tags": [
+        "Engineering",
+        "Architecture",
+        "Podcast"
+      ]
     }
   ]
 }

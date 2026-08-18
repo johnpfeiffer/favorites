@@ -474,6 +474,126 @@
       "source": "0E5AEC6B-7450-4FD7-9F56-545C5A9E93D4",
       "target": "72A90A0E-8B00-435C-B51F-E81C60AC8DF5",
       "type": "Host_of"
+    },
+    {
+      "source": "DED7BE5B-BD52-41DF-983F-475CF90B4290",
+      "target": "B44FE646-C8B2-48A9-99DD-09749C4CD852",
+      "type": "Previous_Employee_of"
+    },
+    {
+      "source": "DED7BE5B-BD52-41DF-983F-475CF90B4290",
+      "target": "EB072C74-3BCD-4D9B-99E2-61C1EC7D5294",
+      "type": "Previous_Employee_of"
+    },
+    {
+      "source": "FACE287F-5744-452B-A912-29E5CA986323",
+      "target": "518C263F-8C6E-4BE5-9F2D-9607201196A0",
+      "type": "Host_of"
+    },
+    {
+      "source": "FACE287F-5744-452B-A912-29E5CA986323",
+      "target": "70676EE1-4A9D-4B23-A8B2-05F65B27C265",
+      "type": "Author_of"
+    },
+    {
+      "source": "A0624DF2-5308-4A4E-8598-F9B8592BE43E",
+      "target": "7ABB9220-C014-4492-85CA-73EE24F75231",
+      "type": "Founder_of"
+    },
+    {
+      "source": "957F635B-51EB-4FEB-A727-05DCDA368ACD",
+      "target": "7ABB9220-C014-4492-85CA-73EE24F75231",
+      "type": "Founder_of"
+    },
+    {
+      "source": "BB2A2A51-8404-40F9-A9C5-0E6A15BB4044",
+      "target": "7ABB9220-C014-4492-85CA-73EE24F75231",
+      "type": "Host_of"
+    },
+    {
+      "source": "325B7A64-43DE-4B14-AC55-DB93E7695FBD",
+      "target": "DEFF2328-3162-4953-ADB2-5ACD81B1D01A",
+      "type": "Current_Employee_of"
+    },
+    {
+      "source": "325B7A64-43DE-4B14-AC55-DB93E7695FBD",
+      "target": "B7A53015-0BEB-45DD-B7E5-A2D845D39C17",
+      "type": "Author_of"
+    },
+    {
+      "source": "325B7A64-43DE-4B14-AC55-DB93E7695FBD",
+      "target": "9D403C30-5110-4F35-975F-2AFDD8170655",
+      "type": "Author_of"
+    },
+    {
+      "source": "DB74AB10-0528-4CD4-B5EB-073D34940DD6",
+      "target": "6442887D-5E19-4751-A939-451D6793A3EB",
+      "type": "Previous_Employee_of"
+    },
+    {
+      "source": "DB74AB10-0528-4CD4-B5EB-073D34940DD6",
+      "target": "B7A53015-0BEB-45DD-B7E5-A2D845D39C17",
+      "type": "Author_of"
+    },
+    {
+      "source": "DB74AB10-0528-4CD4-B5EB-073D34940DD6",
+      "target": "0AA74C36-67C0-40CB-B93E-30AFEA1266E0",
+      "type": "Author_of"
+    },
+    {
+      "source": "5E4B2E33-7587-45AD-BFDB-B5AE69D69032",
+      "target": "B7A53015-0BEB-45DD-B7E5-A2D845D39C17",
+      "type": "Author_of"
+    },
+    {
+      "source": "5E4B2E33-7587-45AD-BFDB-B5AE69D69032",
+      "target": "9D403C30-5110-4F35-975F-2AFDD8170655",
+      "type": "Author_of"
+    },
+    {
+      "source": "339AF218-AF1D-4202-A5A2-0ED19E2B3E7D",
+      "target": "0AA74C36-67C0-40CB-B93E-30AFEA1266E0",
+      "type": "Author_of"
+    },
+    {
+      "source": "F906836B-5D9B-454E-B473-5D35C5ABAA3C",
+      "target": "A4EA5B8E-FB2B-4957-BE86-3F25B6FC2339",
+      "type": "Host_of"
+    },
+    {
+      "source": "D5619C19-F7ED-4528-9868-46A7C1D38BAB",
+      "target": "EB072C74-3BCD-4D9B-99E2-61C1EC7D5294",
+      "type": "Previous_Employee_of"
+    },
+    {
+      "source": "D5619C19-F7ED-4528-9868-46A7C1D38BAB",
+      "target": "12508E35-F79B-4417-A438-6E2B85C5B7BA",
+      "type": "Founder_of"
+    },
+    {
+      "source": "D5619C19-F7ED-4528-9868-46A7C1D38BAB",
+      "target": "12508E35-F79B-4417-A438-6E2B85C5B7BA",
+      "type": "Current_Employee_of"
+    },
+    {
+      "source": "0E1E0EF4-F450-478E-83A0-1165B2A6A694",
+      "target": "EB072C74-3BCD-4D9B-99E2-61C1EC7D5294",
+      "type": "Previous_Employee_of"
+    },
+    {
+      "source": "0E1E0EF4-F450-478E-83A0-1165B2A6A694",
+      "target": "BC206BC0-C4F6-4AA1-B665-5F1050D6D497",
+      "type": "Author_of"
+    },
+    {
+      "source": "708A2D99-127A-4CA2-8787-39FCC0564695",
+      "target": "87F3F7E3-4D6E-4C37-9F30-B8A9C968B433",
+      "type": "Current_Employee_of"
+    },
+    {
+      "source": "A688C539-8A15-43D5-BC77-71254172EC30",
+      "target": "ACA59921-02E3-4555-8E25-910E27A9F138",
+      "type": "Host_of"
     }
   ]
 }
