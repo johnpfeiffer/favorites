@@ -2726,6 +2726,67 @@
         "Career Development",
         "Video"
       ]
+    },
+    {
+      "title": "Retired Amazon VP Ethan Evans on how corporate politics work and how to win",
+      "url": "https://www.developing.dev/p/amazon-vp-reveals-everything-hes",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/retired-amazon-vp-how-corporate-politics-work-and-how/id1777363835?i=1000758223897",
+      "published": "2026-03-30",
+      "tags": [
+        "People",
+        "Career Development",
+        "Influence",
+        "Amazon",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Level-up Engineering: Guide to building cross-functional collaboration in software engineering (Ritendra Datta on empathy sessions)",
+      "url": "https://web.archive.org/web/20241005041649/https://codingsans.com/blog/cross-functional-collaboration",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/guide-to-building-cross-functional-collaboration-in/id1482889491?i=1000574913111",
+      "published": "2022-08-03",
+      "tags": [
+        "People",
+        "Collaboration",
+        "Communication",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "In Depth: The human side of world-class engineering leadership with Michael Lopp (Rands)",
+      "url": "https://review.firstround.com/podcast/the-human-side-of-world-class-engineering-leadership-michael-lopp-apple-palantir-slack/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-human-side-of-world-class-engineering/id1535886300?i=1000642904091",
+      "published": "2024-01-25",
+      "tags": [
+        "People",
+        "Engineering Management",
+        "Leadership",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Why founders should invest in coaching, communication and leadership mechanisms before you scale (James Birchler)",
+      "url": "https://sfelc.com/podcasts/why-founders-should-invest-in-coaching-communication-and-leadership-mechanisms-before-you-scale-james-birchler",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/why-founders-should-invest-in-coaching-communication/id1481996448?i=1000749141803",
+      "published": "2026-02-10",
+      "tags": [
+        "People",
+        "Coaching",
+        "Leadership",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "In Depth: Why the transition from IC engineer to manager is so tricky (Marcel Weekes)",
+      "url": "https://review.firstround.com/podcast/why-is-the-transition-from-ic-engineer-to-manager-so-tricky-and-how-to-get-it-right-marcel-weekes-vp-of-product-engineering-at-figma/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/why-is-the-transition-from-ic-engineer-to-manager-so/id1535886300?i=1000614435559",
+      "published": "2023-05-25",
+      "tags": [
+        "People",
+        "Engineering Management",
+        "Career Transition",
+        "Podcast"
+      ]
     }
   ]
 }

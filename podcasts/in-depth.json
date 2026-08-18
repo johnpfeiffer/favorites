@@ -1,0 +1,931 @@
+{
+  "show": "In Depth (First Round)",
+  "slug": "in-depth",
+  "appleId": 1535886300,
+  "feedUrl": "https://feeds.megaphone.fm/FRCH6787238462",
+  "homeUrl": "https://review.firstround.com/podcast/",
+  "canonicalPattern": "https://review.firstround.com/podcast/<title-guest-role-slug>/",
+  "episodeCount": 184,
+  "episodes": [
+    {
+      "title": "What startups get wrong about enterprise | Lindsey Scrase (COO, Checkr)",
+      "published": "2026-07-30",
+      "url": null
+    },
+    {
+      "title": "How Gamma pulled off their AI pivot | Jon Noronha (Co-founder and CPO of Gamma)",
+      "published": "2026-07-24",
+      "url": null
+    },
+    {
+      "title": "Why Plaid’s COO cold-calls new hires | Eric Sager (COO of Plaid)",
+      "published": "2026-07-16",
+      "url": null
+    },
+    {
+      "title": "How Supabase became the essential infrastructure for the AI era | Paul Copplestone (Co-founder, CEO)",
+      "published": "2026-06-25",
+      "url": null
+    },
+    {
+      "title": "How to build a beloved tech brand | Sheila Joglekar Vashee (CMO, Figma)",
+      "published": "2026-06-04",
+      "url": null
+    },
+    {
+      "title": "Why old-school sales work still wins in the AI era | Graham Moreno (Head of GTM, Parallel)",
+      "published": "2026-05-21",
+      "url": null
+    },
+    {
+      "title": "Why founders should bet on first-time executives | Praveer Melwani (CFO, Figma)",
+      "published": "2026-05-14",
+      "url": null
+    },
+    {
+      "title": "Why great product leaders should stop obsessing over the roadmap | Diya Jolly (CPO & CTO of Xero)",
+      "published": "2026-04-30",
+      "url": null
+    },
+    {
+      "title": "Inside Artemis' \"AI vs AI\" war | Shachar Hirshberg & Dan Shiebler (Co-founders, Artemis)",
+      "published": "2026-04-21",
+      "url": null
+    },
+    {
+      "title": "Scaling DoorDash to market dominance | Christopher Payne (Former COO, DoorDash)",
+      "published": "2026-04-17",
+      "url": null
+    },
+    {
+      "title": "The most politically dangerous role in the C-suite | Katie Burke (COO, Harvey)",
+      "published": "2026-04-10",
+      "url": null
+    },
+    {
+      "title": "What nobody tells engineers about becoming a CEO | Jay Kreps (Co-founder and CEO, Confluent)",
+      "published": "2026-03-26",
+      "url": null
+    },
+    {
+      "title": "The product wisdom every CPO should ignore | Jeremy Epling (CPO, Vanta)",
+      "published": "2026-03-19",
+      "url": null
+    },
+    {
+      "title": "Building Zipline: From launch disaster to drone-delivery giant | Keller Cliffton (Co-founder, CEO)",
+      "published": "2026-03-12",
+      "url": null
+    },
+    {
+      "title": "Snowflake’s first sales hire on scaling from $0 to $3.5B | Chris Degnan (Former CRO, Snowflake)",
+      "published": "2026-02-26",
+      "url": null
+    },
+    {
+      "title": "Why 90% of CROs will fall behind in the next 2 years | Stevie Case (CRO, Vanta)",
+      "published": "2026-02-19",
+      "url": null
+    },
+    {
+      "title": "Figma is not the source of truth | Ryan Lucas (VP of Design, Rippling)",
+      "published": "2026-02-12",
+      "url": null
+    },
+    {
+      "title": "Executive Function: Building systems that can make decisions without you | Jeanne DeWitt Grosser (COO, Vercel)",
+      "published": "2026-02-05",
+      "url": null
+    },
+    {
+      "title": "Building Meter for decades, not an exit | Anil Varanasi (Co-founder and CEO)",
+      "published": "2025-12-10",
+      "url": null
+    },
+    {
+      "title": "How Harness runs 16 “startups within a startup” at scale | Jyoti Bansal (Co-founder and CEO)",
+      "published": "2025-11-19",
+      "url": null
+    },
+    {
+      "title": "How to build a company you’ll run forever | Zack Kanter (Founder and CEO of Stedi)",
+      "published": "2025-11-06",
+      "url": null
+    },
+    {
+      "title": "Go hard early: How lessons from Verkada shaped Serval's AI agents for IT teams | Jake Stauch (Founder and CEO)",
+      "published": "2025-10-23",
+      "url": null
+    },
+    {
+      "title": "The pivot that paid off: How fal found explosive growth in generative media | Gorkem Yurtseven (Co-founder and CTO)",
+      "published": "2025-10-22",
+      "url": null
+    },
+    {
+      "title": "From dorm room to life-saving AI | Prepared’s story | Michael Chime (Co-founder & CEO of Prepared)",
+      "published": "2025-10-01",
+      "url": null
+    },
+    {
+      "title": "Saying yes to everything: How customer obsession built Samsara | Kiren Sekar (CPO)",
+      "published": "2025-09-11",
+      "url": null
+    },
+    {
+      "title": "Starting an education giant in a “bad market” | ClassDojo’s story | Sam Chaudhary (Co-founder and CEO)",
+      "published": "2025-09-03",
+      "url": null
+    },
+    {
+      "title": "From Chrome extension to $5B platform | Postman’s journey | Abhinav Asthana (Co-founder & CEO)",
+      "published": "2025-08-28",
+      "url": null
+    },
+    {
+      "title": "How Canva leveraged unconventional growth levers to grow to $42B | Cameron Adams (Co-founder & CPO)",
+      "published": "2025-08-20",
+      "url": null
+    },
+    {
+      "title": "Twitter's former CEO on rebuilding the web for AI | Parag Agrawal (Co-founder and CEO of Parallel)",
+      "published": "2025-08-14",
+      "url": null
+    },
+    {
+      "title": "Ignoring Silicon Valley advice to build a $3B fintech unicorn | Immad Akhund (Co-founder and CEO of Mercury)",
+      "published": "2025-08-06",
+      "url": null
+    },
+    {
+      "title": "Inside the ex-YC partner’s $15B self driving car company | Qasar Younis",
+      "published": "2025-08-01",
+      "url": null
+    },
+    {
+      "title": "What Braintrust got right about product-market fit | Ankur Goyal (Founder and CEO)",
+      "published": "2025-07-24",
+      "url": null
+    },
+    {
+      "title": "How Gusto built a $9.5 billion company by identifying a burning problem",
+      "published": "2025-07-01",
+      "url": null
+    },
+    {
+      "title": "How rejecting conventional wisdom grew Sentry to a $3 billion company | David Cramer (Co-founder and CPO)",
+      "published": "2025-06-19",
+      "url": null
+    },
+    {
+      "title": "Inside Linear: Why craft and focus still win in product building | Karri Saarinen (Co-founder and CEO)",
+      "published": "2025-06-10",
+      "url": null
+    },
+    {
+      "title": "How Wes Kao coaches founders to influence, lead, and get what they want | Wes Kao (Executive coach, co-founder of Maven)",
+      "published": "2025-05-22",
+      "url": null
+    },
+    {
+      "title": "From reluctant founder to $2B valuation: The story of Persona | Rick Song (Co-founder and CEO)",
+      "published": "2025-05-08",
+      "url": null
+    },
+    {
+      "title": "How a weekend hack became a multimillion-dollar AI startup | Adit Abraham (Co-founder & CEO at Reducto)",
+      "published": "2025-04-29",
+      "url": null
+    },
+    {
+      "title": "1Password’s growth story | How they went from bootstrapped to $6B company | Jeff Shiner (CEO)",
+      "published": "2025-04-24",
+      "url": null
+    },
+    {
+      "title": "Scrappy tactics and a huge post-COVID pivot | Owner’s unconventional journey to product-market fit | Adam Guild (Co-founder and CEO of Owner)",
+      "published": "2025-03-27",
+      "url": null
+    },
+    {
+      "title": "What makes (or breaks) executive hires | A deep dive with Eeke de Milliano (Head of Global Product at Stripe)",
+      "published": "2025-03-06",
+      "url": null
+    },
+    {
+      "title": "Inside Guideline's mission to modernize 401(k)s | Building from first principles, finding strategic edges, and rewiring retirement | Kevin Busque (Co-founder and CEO)",
+      "published": "2025-02-20",
+      "url": null
+    },
+    {
+      "title": "Inside Braze’s blitz to $500M in CARR | Building broad, going global, and outfoxing the competition | Bill Magnuson (Co-founder & CEO) and Kevin Wang (CPO)",
+      "published": "2025-02-06",
+      "url": null
+    },
+    {
+      "title": "Inside Clay's unconventional path to $1.25B: Rethinking GTM, pricing, and enterprise sales | Varun Anand (Co-founder and Head of Operations)",
+      "published": "2025-01-23",
+      "url": null
+    },
+    {
+      "title": "Building a 4 billion dollar data platform: Inside dbt Labs’ unconventional path | Tristan Handy (Co-founder and CEO, ex-RJMetrics, Squarespace)",
+      "published": "2024-12-19",
+      "url": null
+    },
+    {
+      "title": "How Figma taps into taste, simplicity, and storytelling | Yuhki Yamashita (CPO at Figma, ex-Uber, Google, Microsoft)",
+      "published": "2024-12-05",
+      "url": null
+    },
+    {
+      "title": "How to find customers in the Dept of Defense: From prototype to the Pentagon | Steve Blank (Hacking for Defense)",
+      "published": "2024-11-14",
+      "url": null
+    },
+    {
+      "title": "Shifting Career Altitudes: Insights from a CPO’s Journey Leading in Nearly Every Function | Anneka Gupta (Rubrik, ex-LiveRamp)",
+      "published": "2024-10-10",
+      "url": null
+    },
+    {
+      "title": "How to find and pull startup growth levers | Matt Lerner (Founder and CEO at SYSTM, Author of Growth Levers)",
+      "published": "2024-09-26",
+      "url": null
+    },
+    {
+      "title": "How to find — and keep — product-market fit | Bob Moore (Co-founder and CEO at Crossbeam, ex-RJMetrics and Stitch Data)",
+      "published": "2024-09-19",
+      "url": null
+    },
+    {
+      "title": "Rebooting Intercom: Eoghan McCabe on Defying Silicon Valley Orthodoxy | Co-founder & CEO",
+      "published": "2024-09-05",
+      "url": null
+    },
+    {
+      "title": "Inside marketing at Stripe, OpenAI and Retool | Krithika Muthukumar (VP of Marketing at OpenAI, ex-Stripe, Retool, Dropbox, Google)",
+      "published": "2024-08-01",
+      "url": null
+    },
+    {
+      "title": "Developing technical taste: A guide for next-gen engineers | Sam Schillace (Deputy CTO at Microsoft, creator of Google Docs)",
+      "published": "2024-06-06",
+      "url": null
+    },
+    {
+      "title": "How to build and scale winning marketplaces | Casey Winters (Eventbrite, Pinterest, Grubhub)",
+      "published": "2024-05-30",
+      "url": null
+    },
+    {
+      "title": "Lessons from Sentry on scaling DevTools and finding product market fit (again) | Milin Desai (Sentry, VMware, Riverbed)",
+      "published": "2024-05-16",
+      "url": null
+    },
+    {
+      "title": "How to be effective up and down the org chart | Matt MacInnis (Rippling, Inkling, Apple)",
+      "published": "2024-04-25",
+      "url": null
+    },
+    {
+      "title": "Timeless lessons on running software companies that endure | Alyssa Henry (Square, Amazon, Microsoft)",
+      "published": "2024-04-18",
+      "url": null
+    },
+    {
+      "title": "Building products that delight customers | Adam Nash (Daffy, Wealthfront, LinkedIn, eBay, Apple)",
+      "published": "2024-04-04",
+      "url": null
+    },
+    {
+      "title": "A masterclass in founder conviction | Eilon Reshef (Co-founder and CPO at Gong)",
+      "published": "2024-03-28",
+      "url": null
+    },
+    {
+      "title": "Essential lessons for building and scaling DevTools | Dennis Pilarinos (Unblocked, Apple, Amazon, Buddybuild, Microsoft)",
+      "published": "2024-03-21",
+      "url": null
+    },
+    {
+      "title": "Scaling and selling AI products for enterprise | May Habib (Co-founder and CEO of Writer)",
+      "published": "2024-02-29",
+      "url": null
+    },
+    {
+      "title": "The secret lever Replit pulled to scale ahead of its competition | Amjad Masad (Co-founder and CEO)",
+      "published": "2024-02-15",
+      "url": null
+    },
+    {
+      "title": "Lessons from Gusto & Square on finding your product wedge | Michael Cieri",
+      "published": "2024-02-08",
+      "url": null
+    },
+    {
+      "title": "A customer success masterclass | How to design, build, and scale a CS org | Stephanie Berner (LinkedIn)",
+      "published": "2024-02-01",
+      "url": null
+    },
+    {
+      "title": "The human side of world-class engineering leadership | Michael Lopp (Apple, Palantir, Slack)",
+      "published": "2024-01-25",
+      "url": null
+    },
+    {
+      "title": "Clay’s path to product-market-fit: Building vertical, creating power users, and understanding founder psychology | Kareem Amin (Co-founder and CEO)",
+      "published": "2024-01-18",
+      "url": null
+    },
+    {
+      "title": "Inside Figma’s early days: How to build a world-class sales org | Kyle Parrish (VP of Sales)",
+      "published": "2024-01-11",
+      "url": null
+    },
+    {
+      "title": "The new PLG playbook | Arming the next generation of product-led companies | Oliver Jay (Asana, Dropbox)",
+      "published": "2024-01-04",
+      "url": null
+    },
+    {
+      "title": "Mastering modern entrepreneurship | Building lean, starting young, and studying customers | Steve Blank (Author of The Four Steps to the Epiphany)",
+      "published": "2023-12-21",
+      "url": null
+    },
+    {
+      "title": "Winning with open and closed source products | Neha Narkhede (Co-founder at Confluent and Oscilar)",
+      "published": "2023-12-07",
+      "url": null
+    },
+    {
+      "title": "The Bard blueprint | Creating value, shipping fast, and advancing AI ethically | Jack Krawczyk (Google)",
+      "published": "2023-11-30",
+      "url": null
+    },
+    {
+      "title": "A masterclass in engineering leadership from Carta, Stripe, Uber, and Calm | Will Larson (CTO at Carta)",
+      "published": "2023-11-16",
+      "url": null
+    },
+    {
+      "title": "How goal-setting and planning is different for AI products | Anastasis Germanidis (Co-Founder & CTO at Runway)",
+      "published": "2023-11-09",
+      "url": null
+    },
+    {
+      "title": "How Vercel found extreme product-market fit by focusing on simplification | Guillermo Rauch (Vercel's CEO)",
+      "published": "2023-11-02",
+      "url": null
+    },
+    {
+      "title": "The business of growing and monetizing an open source product | Ashley Kramer (GitLab CMO/CSO)",
+      "published": "2023-10-26",
+      "url": null
+    },
+    {
+      "title": "How to leverage intuition, customer support, and raw effort | Colin Zima (Omni & Looker)",
+      "published": "2023-10-12",
+      "url": null
+    },
+    {
+      "title": "Building Zapier from first principles | Contrarian takes on growth, hiring, fundraising | Wade Foster (Co-founder & CEO)",
+      "published": "2023-10-05",
+      "url": null
+    },
+    {
+      "title": "How young outsiders changed the shipping industry by finding product-market fit again and again | Laura Behrens Wu (Shippo)",
+      "published": "2023-09-28",
+      "url": null
+    },
+    {
+      "title": "AI Hot Takes and Unusual Twitter Fundraising Strategies with Dan Siroker (Rewind AI)",
+      "published": "2023-09-14",
+      "url": null
+    },
+    {
+      "title": "A guide to building product in a post-LLM world | Ryan Glasgow and Kevin Mandich from Sprig",
+      "published": "2023-09-07",
+      "url": null
+    },
+    {
+      "title": "An org-design masterclass from a Square GM | Saumil Mehta",
+      "published": "2023-08-31",
+      "url": null
+    },
+    {
+      "title": "How to supercharge your engineering org | Kellan Elliott-McCrea (Adobe, Dropbox)",
+      "published": "2023-08-17",
+      "url": null
+    },
+    {
+      "title": "The zero to one B2B marketing playbook | Alex Kracov (Lattice, Dock)",
+      "published": "2023-08-10",
+      "url": null
+    },
+    {
+      "title": "Lessons from Loom on product strategy, organizational leadership, and cross-functional performance | Anique Drumright (COO at Loom)",
+      "published": "2023-08-03",
+      "url": null
+    },
+    {
+      "title": "Lessons from Slack on decision making, product-led growth, and taking big swings — Noah Desai Weiss",
+      "published": "2023-07-13",
+      "url": null
+    },
+    {
+      "title": "Lessons in leadership | Scaling an org, developing yourself, and tactical management advice | Jack Altman (Lattice)",
+      "published": "2023-07-06",
+      "url": null
+    },
+    {
+      "title": "Lessons from Stripe on adding new products - Assessing ideas, structuring teams, and tactics for product reviews | Tara Seshan (Watershed, Stripe)",
+      "published": "2023-06-22",
+      "url": null
+    },
+    {
+      "title": "How to design a high-impact growth org for a PLG startup — Webflow & Dropbox’s Melissa Tan",
+      "published": "2023-06-08",
+      "url": null
+    },
+    {
+      "title": "Why is the transition from IC Engineer to Manager so tricky (and how to get it right)? — Marcel Weekes, VP of Product Engineering at Figma",
+      "published": "2023-05-25",
+      "url": null
+    },
+    {
+      "title": "How to pull off the ‘zoom-in pivot,’ and other lessons in early-stage building with Luminai’s Kesava Kirupa Dinakaran",
+      "published": "2023-05-18",
+      "url": null
+    },
+    {
+      "title": "The go-to-market guide for open-source companies — Douglas Hanna, COO Grafana Labs",
+      "published": "2023-05-11",
+      "url": null
+    },
+    {
+      "title": "What this 3-time founding team did differently to find product-market fit faster — Jessica McKellar, CTO of Pilot",
+      "published": "2023-05-04",
+      "url": null
+    },
+    {
+      "title": "How to measure product-market fit with the REV model — Artem Kroupenev",
+      "published": "2023-04-27",
+      "url": null
+    },
+    {
+      "title": "The early user research playbook for founders — Jeanette Mellinger’s expert advice for validating your idea with high-quality interviews",
+      "published": "2023-04-20",
+      "url": null
+    },
+    {
+      "title": "Claire Hughes Johnson on being a “learning organism” during Stripe’s growth, and more scaling advice for leaders",
+      "published": "2023-04-13",
+      "url": null
+    },
+    {
+      "title": "Notion’s Head of Marketing on building a growth marketing engine at a PLG company — Rachel Hepworth",
+      "published": "2023-04-06",
+      "url": null
+    },
+    {
+      "title": "What makes someone a truly remarkable talent evaluator — Nadia Singer, Figma’s Chief People Officer",
+      "published": "2023-03-30",
+      "url": null
+    },
+    {
+      "title": "How Vanta’s founder bet big on startup security and found product-market fit — Christina Cacioppo",
+      "published": "2023-03-23",
+      "url": null
+    },
+    {
+      "title": "Lessons from Notion on building a thriving decentralized community — Ben Lang",
+      "published": "2023-03-16",
+      "url": null
+    },
+    {
+      "title": "From a narrow ICP to a wide-open market – Lessons from Webflow’s Bryant Chou on using customer empathy to get product-market fit",
+      "published": "2023-03-09",
+      "url": null
+    },
+    {
+      "title": "How to lead with transparency amidst adversity — Don Faul, CEO of CrossFit and former Google, Facebook & Pinterest exec",
+      "published": "2023-02-23",
+      "url": null
+    },
+    {
+      "title": "From kickoffs to retros and Slack channels — Stripe's documentation best practices with Brie Wolfson",
+      "published": "2023-02-09",
+      "url": null
+    },
+    {
+      "title": "Why comms deserves its own spot on the exec team — Aaron Zamost’s lessons from Square",
+      "published": "2023-02-02",
+      "url": "https://review.firstround.com/podcast/episode-81"
+    },
+    {
+      "title": "What founders need to know about acquisitions: Shopify’s Daniel Debow on M&A lessons from selling three startups",
+      "published": "2023-01-26",
+      "url": "https://review.firstround.com/podcast/episode-80"
+    },
+    {
+      "title": "How to build your culture like a product — Lessons from Anna Binder, Asana’s Head of People",
+      "published": "2023-01-20",
+      "url": "https://review.firstround.com/podcast/episode-79"
+    },
+    {
+      "title": "How to scale your career alongside your startup: Mike Boufford’s lessons after 10 years at Greenhouse",
+      "published": "2023-01-12",
+      "url": "https://review.firstround.com/podcast/episode-78"
+    },
+    {
+      "title": "Founders: Here’s how to get your sales pitch in ship-shape — Peter Kazanjy",
+      "published": "2022-12-15",
+      "url": null
+    },
+    {
+      "title": "Deepak Rao on how X1 pivoted, launched, built a +600K-long waitlist and fundraised in tough times",
+      "published": "2022-12-08",
+      "url": null
+    },
+    {
+      "title": "How to lower barriers to change when building and selling products — Jonah Berger’s advice for founders",
+      "published": "2022-12-01",
+      "url": "https://review.firstround.com/podcast/episode-75"
+    },
+    {
+      "title": "How Retool reached $2M in ARR before launch by focusing on developers — David Hsu",
+      "published": "2022-11-10",
+      "url": null
+    },
+    {
+      "title": "How to approach GTM with an engineering lens — Rich Rao’s advice from Google & Meta",
+      "published": "2022-11-03",
+      "url": null
+    },
+    {
+      "title": "What startups can learn from enterprise corporate messaging — Sara Varni’s lessons from Salesforce & Twilio",
+      "published": "2022-10-27",
+      "url": null
+    },
+    {
+      "title": "Finding product-market fit twice — Alma’s Harry Ritter on pivots and staying close to customers",
+      "published": "2022-10-13",
+      "url": "https://review.firstround.com/podcast/episode-71"
+    },
+    {
+      "title": "Why everything we’ve been taught about quitting is wrong — Annie Duke",
+      "published": "2022-10-06",
+      "url": "https://review.firstround.com/podcast/episode-70"
+    },
+    {
+      "title": "How to scale your co-founder relationship alongside your startup — Manu Sharma & Brian Rieger of Labelbox",
+      "published": "2022-09-29",
+      "url": null
+    },
+    {
+      "title": "A crash course on founder-led customer success — Sydney Strader’s lessons from Catalyst & InVision",
+      "published": "2022-09-22",
+      "url": "https://review.firstround.com/podcast/episode-68"
+    },
+    {
+      "title": "The founder’s guide to making your first few hires — Steven Bartel on recruiting at Gem & Dropbox",
+      "published": "2022-09-15",
+      "url": "https://review.firstround.com/podcast/episode-67"
+    },
+    {
+      "title": "From product roadmapping to sprint planning: How to ship software at scale — Snir Kodesh",
+      "published": "2022-09-08",
+      "url": null
+    },
+    {
+      "title": "The 5 phases of Figma’s community-led growth — Claire Butler",
+      "published": "2022-09-01",
+      "url": null
+    },
+    {
+      "title": "Airtable’s path to product-market fit — co-founder Andrew Ofstad on building horizontal products",
+      "published": "2022-08-18",
+      "url": "https://review.firstround.com/podcast/episode-64"
+    },
+    {
+      "title": "Operations vs. Algorithms: Advice for scaling startups, from Opendoor CTO Ian Wong",
+      "published": "2022-08-11",
+      "url": null
+    },
+    {
+      "title": "Want to go totally asynchronous? Repeat founder Sidharth Kakkar on building a remote team & autonomous culture",
+      "published": "2022-07-21",
+      "url": "https://review.firstround.com/podcast/episode-62"
+    },
+    {
+      "title": "Why COO is the most fluid role in the C-Suite — Sara Clemens, former COO of Twitch & Pandora",
+      "published": "2022-07-07",
+      "url": null
+    },
+    {
+      "title": "From PM to VP of Product: Jiaona Zhang’s career advice from Webflow, Airbnb & Dropbox",
+      "published": "2022-06-23",
+      "url": "https://review.firstround.com/podcast/episode-60"
+    },
+    {
+      "title": "“When They Win, You Win”: Russ Laraway unpacks his new guide for the modern manager",
+      "published": "2022-05-26",
+      "url": null
+    },
+    {
+      "title": "Building a highly-technical enterprise product? Essential advice for product leaders — Nate Stewart of Cockroach Labs",
+      "published": "2022-05-19",
+      "url": null
+    },
+    {
+      "title": "Building & selling a product into government is tricky — Phaedra Ellis-Lamkins shares critical advice for getting it right",
+      "published": "2022-04-28",
+      "url": null
+    },
+    {
+      "title": "The art of starting a startup — Gagan Biyani’s advice for generating, validating, and executing on ideas",
+      "published": "2022-04-21",
+      "url": "https://review.firstround.com/podcast/episode-56"
+    },
+    {
+      "title": "How to handle comp challenges at every startup stage — Kaitlyn Knopp’s advice from Pequity, Instacart, Cruise & Google",
+      "published": "2022-04-14",
+      "url": "https://review.firstround.com/podcast/episode-55"
+    },
+    {
+      "title": "A crash course on comms for founders — Nairi Hourdajian’s early-stage advice from Figma & Uber",
+      "published": "2022-03-31",
+      "url": "https://review.firstround.com/podcast/episode-54"
+    },
+    {
+      "title": "How founders can get executive hiring right from startup to scale — advice from Lattice’s Jack Altman",
+      "published": "2022-03-17",
+      "url": "https://review.firstround.com/podcast/episode-53"
+    },
+    {
+      "title": "IC? Manager? Technical Founder? How to chart your engineering career path — Stripe & Cocoon’s Amber Feng",
+      "published": "2022-03-10",
+      "url": null
+    },
+    {
+      "title": "Never done sales before? Meka Asonye shares GTM playbooks from Stripe, Mixpanel, and backing founders at First Round",
+      "published": "2022-03-03",
+      "url": "https://review.firstround.com/podcast/episode-51"
+    },
+    {
+      "title": "The startup playbook for expanding internationally — Advice from Faire CEO Max Rhodes",
+      "published": "2022-02-10",
+      "url": "https://review.firstround.com/podcast/episode-50"
+    },
+    {
+      "title": "Usage-based? Hybrid? Tiered? Which pricing model is right for you? — Stripe’s Jeanne DeWitt Grosser",
+      "published": "2022-01-27",
+      "url": null
+    },
+    {
+      "title": "The Product Strategy Playbook that Powered Growth at Tinder & TripAdvisor — Ravi Mehta",
+      "published": "2022-01-20",
+      "url": null
+    },
+    {
+      "title": "After building hundreds of startup brands, Arielle Jackson shares 6 early marketing missteps to avoid",
+      "published": "2022-01-13",
+      "url": "https://review.firstround.com/podcast/episode-47"
+    },
+    {
+      "title": "Buy or build? Focus on the core product or innovate? Zendesk CTO Adrian McDermott's advice for scaling",
+      "published": "2021-12-09",
+      "url": "https://review.firstround.com/podcast/episode-46"
+    },
+    {
+      "title": "The biggest lessons from building Hubspot, from co-founder harmony to engineering the culture — Dharmesh Shah",
+      "published": "2021-12-02",
+      "url": null
+    },
+    {
+      "title": "The story of why Canva worked: Zach Kitschke shares his lessons from early hire to current CMO",
+      "published": "2021-11-18",
+      "url": "https://review.firstround.com/podcast/episode-44"
+    },
+    {
+      "title": "Take your design org from good to great with these principles from Segment to Twilio — Hareem Mannan",
+      "published": "2021-11-11",
+      "url": null
+    },
+    {
+      "title": "Instacart co-founder Max Mullen gets tactical on crafting company values and intentionally building culture",
+      "published": "2021-11-04",
+      "url": "https://review.firstround.com/podcast/episode-42"
+    },
+    {
+      "title": "Growing from founder to CEO: Executive coach Alisa Cohn on how to get better feedback",
+      "published": "2021-10-28",
+      "url": "https://review.firstround.com/podcast/episode-41"
+    },
+    {
+      "title": "Executive hiring is incredibly difficult to get right — Robinhood COO Gretchen Howard shares her playbook",
+      "published": "2021-10-21",
+      "url": null
+    },
+    {
+      "title": "Building a hybrid go-to-market motion — GC Lionetti’s lessons from Confluent, Dropbox & Atlassian",
+      "published": "2021-10-07",
+      "url": "https://review.firstround.com/podcast/episode-39"
+    },
+    {
+      "title": "Creating physical products and getting feedback from toddlers — KiwiCo’s Sandra Oh Lin",
+      "published": "2021-09-30",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.38_-_Sandra_Oh_Lin_FINAL.mp3"
+    },
+    {
+      "title": "How to hire the right marketer at the right time for your startup — Mux & Segment’s Maya Spivak",
+      "published": "2021-09-16",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.37_-_Maya_Spivak_FINAL.mp3"
+    },
+    {
+      "title": "From developer to CMO — Archana Agrawal’s marketing lessons from Airtable & Atlassian",
+      "published": "2021-09-09",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.36_-_Archana_Agrawal_FINAL.mp3"
+    },
+    {
+      "title": "How to pivot your way to product/market fit & other 0-1 lessons — Rupa Health CEO Tara Viswanathan",
+      "published": "2021-09-02",
+      "url": "https://review.firstround.com/podcast/episode-35"
+    },
+    {
+      "title": "Building an operationally-intensive business and avoiding upside down unit economics — Thirty Madison’s Steve Gutentag",
+      "published": "2021-08-19",
+      "url": "https://review.firstround.com/podcast/episode-34"
+    },
+    {
+      "title": "Don’t have a UX research team? Jane Davis’ tips from Zoom, Zapier & Dropbox to get you started",
+      "published": "2021-08-12",
+      "url": "https://review.firstround.com/podcast/episode-33"
+    },
+    {
+      "title": "Getting startup employees to stick around & learning from couples therapy — Flatiron’s Alex Buder Shapiro",
+      "published": "2021-07-29",
+      "url": "https://review.firstround.com/podcast/episode-32"
+    },
+    {
+      "title": "How to find product/market fit before you start building — UserLeap’s Ryan Glasgow",
+      "published": "2021-07-22",
+      "url": "https://review.firstround.com/podcast/episode-31"
+    },
+    {
+      "title": "Nick Caldwell on the engineering cultures that power Microsoft, Reddit, Looker & Twitter",
+      "published": "2021-07-15",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.30_-_Nick_Caldwell_FINAL.mp3"
+    },
+    {
+      "title": "“Everyone wants a silver bullet” — Selling lessons from Sam Taylor, of Dropbox, Quip & now Loom",
+      "published": "2021-07-08",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.29_-_Sam_Taylor_FINAL.mp3"
+    },
+    {
+      "title": "The do’s and don’ts of scaling from dozens of employees to thousands — McKenna Quint",
+      "published": "2021-06-24",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.28_-_McKenna_FINAL.mp3"
+    },
+    {
+      "title": "A look at one repeat founder’s frameworks for validating ideas — Pilot’s Waseem Daher",
+      "published": "2021-06-17",
+      "url": "https://review.firstround.com/podcast/episode-27"
+    },
+    {
+      "title": "Killing stories and creating categories — Comms tips from Shannon Brayton’s 25+ years in tech",
+      "published": "2021-06-10",
+      "url": "https://review.firstround.com/podcast/26"
+    },
+    {
+      "title": "People leaders aren’t the CEO of culture, they’re product managers — Credit Karma’s Colleen McCreary",
+      "published": "2021-06-03",
+      "url": "https://review.firstround.com/podcast/25"
+    },
+    {
+      "title": "Go unreasonably deep on complex problems and build with naivety — Bowery Farming’s Irving Fain",
+      "published": "2021-05-26",
+      "url": "https://review.firstround.com/podcast/24"
+    },
+    {
+      "title": "The story behind Slack’s marketing and the leap from marketer to CEO — Abstract’s Kelly Watkins",
+      "published": "2021-05-20",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.23_-_Kelly_Watkins_FINAL.mp3"
+    },
+    {
+      "title": "Ask why it won’t work — Rick Song’s lessons from Square and building from 0 to 1",
+      "published": "2021-05-13",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.22_-_Rick_at_Persona_FINAL.mp3"
+    },
+    {
+      "title": "Product Pitfalls From 0 Customers to the Messy Middle and IPO — Eric Berg on Okta, Intel & Fauna",
+      "published": "2021-05-06",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.21_-_Eric_Berg_FINAL.mp3"
+    },
+    {
+      "title": "After leading product & growth teams at Instacart, Wealthfront & LinkedIn, Elliot Shmukler is tackling zero to one as founder & CEO of Anomalo",
+      "published": "2021-04-29",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.20_-_Elliot_Shmukler_FINAL.mp3"
+    },
+    {
+      "title": "A deep-dive into product-led growth & self-serve strategies — Notion’s & Dropbox’s Kate Taylor",
+      "published": "2021-04-22",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.20_-_Kate_Taylor_FINAL.mp3"
+    },
+    {
+      "title": "Setting up the people function and training for empathy — Lambda School’s Mark Frein",
+      "published": "2021-04-15",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.19_-_Mark_Frein_FINAL.mp3"
+    },
+    {
+      "title": "How Thumbtack CEO Marco Zappacosta Parses Through Mountains of Advice as a First-Time Founder",
+      "published": "2021-04-08",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.18_-_Marco_Zappacosta_FINAL.mp3"
+    },
+    {
+      "title": "Building engineering orgs and new products at Segment, Dropbox & Facebook — Tido Carriero",
+      "published": "2021-04-01",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.17_-_Thomas_Carriero_FINAL.mp3"
+    },
+    {
+      "title": "Essentials to engaging employees & developing high-quality managers — Qualtrics’ Russ Laraway",
+      "published": "2021-03-18",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.16_-_Russ_Laraway_FINAL.mp3"
+    },
+    {
+      "title": "CEO Jeff Lawson Reflects on the Peaks and Valleys of Twilio’s Growth Story",
+      "published": "2021-03-11",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.15_-_Jeff_Lawson_FINAL.mp3"
+    },
+    {
+      "title": "Treat Operational Debt like Tech Debt — Leah Sutton on Elastic’s Distributed Work Playbook",
+      "published": "2021-03-04",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.14_-_Leah_Sutton_FINAL.mp3"
+    },
+    {
+      "title": "“My product is the company” — Kevin Fishner on how startups can build better systems",
+      "published": "2021-02-25",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.10_-_Kevin_Fishner_FINAL.mp3"
+    },
+    {
+      "title": "Growing a consumer product from scratch to 1 billion users — Google Photos’ David Lieb",
+      "published": "2021-02-18",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.11_-_David_Lieb_FINAL.mp3"
+    },
+    {
+      "title": "An inside look at the system that will outlast Bezos—Bill Carr & Colin Bryar on lessons from Amazon",
+      "published": "2021-02-09",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.12_-_Bill_and_Colin_FINAL.mp3"
+    },
+    {
+      "title": "From exec roles to board seats — Anne Raimondi’s leadership lessons for the startup C-Suite",
+      "published": "2021-02-04",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.11_-_Anne_Raimondi_FINAL.mp3"
+    },
+    {
+      "title": "Plaid & Dropbox’s Jean-Denis Grèze’s playbook for building an engineering culture of ownership",
+      "published": "2021-01-14",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.08_-_Jean-Denis_Greze_FINAL.mp3"
+    },
+    {
+      "title": "Upstart just went public — CEO Dave Girouard shares why it isn’t a typical success story",
+      "published": "2020-12-22",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.07_-_Dave_Girouard_FINAL.mp3"
+    },
+    {
+      "title": "Unpacking all the non-consensus moves in Atlassian’s story — Jay Simons",
+      "published": "2020-12-17",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.06_-_Jay_Simons_FINAL.mp3"
+    },
+    {
+      "title": "Partnerships lessons from Stripe & Notion — Cristina Cordova on creating win-win deals",
+      "published": "2020-12-10",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.05_-_Cristina_Cordova_FINAL.mp3"
+    },
+    {
+      "title": "Start with the story — Drift’s David Cancel on lessons he’s learned as a 5X founder",
+      "published": "2020-12-03",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.04_-_David_Cancel_FINAL.mp3"
+    },
+    {
+      "title": "Lessons from a first-time CEO — Steve El-Hage on learning everything the hard way",
+      "published": "2020-11-19",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.03_-_Steve_El-Hage_FINAL.mp3"
+    },
+    {
+      "title": "Product lessons from Cash App & Carbon Health — Ayo Omojola on going “unreasonably deep”",
+      "published": "2020-11-12",
+      "url": "https://review.firstround.com/podcast"
+    },
+    {
+      "title": "Molly Graham’s management lessons from Google, Facebook, Quip & Lambda School",
+      "published": "2020-10-29",
+      "url": "https://review.firstround.com/podcast"
+    },
+    {
+      "title": "Preview of In Depth from First Round",
+      "published": "2020-10-15",
+      "url": "https://traffic.libsyn.com/secure/firstround/EP.00_Welcome_to_In_Depth_FINAL.mp3"
+    }
+  ]
+}
