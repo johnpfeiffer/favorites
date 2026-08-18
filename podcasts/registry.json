@@ -117,6 +117,15 @@
       "homeUrl": "https://www.swarmia.com/podcast",
       "canonicalPattern": "https://www.swarmia.com/podcast/<slug>/",
       "notes": "Feed links point at anchor.fm; existing entries use the swarmia.com episode page."
+    },
+    {
+      "slug": "20vc",
+      "name": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+      "appleId": 958230465,
+      "feedUrl": "https://rss.libsyn.com/shows/61840/destinations/240976.xml",
+      "homeUrl": "https://www.thetwentyminutevc.com",
+      "canonicalPattern": "https://www.thetwentyminutevc.com/<guest-slug>",
+      "notes": "One feed hosts 20VC/20Growth/20Sales/20Product/The Memo. Libsyn feed items have no <link>; canonical episode pages live on thetwentyminutevc.com under a guest-name slug (repeat guests get -2/-3 suffixes). Feed is ~12 MB, ~1500 episodes."
     }
   ]
 }

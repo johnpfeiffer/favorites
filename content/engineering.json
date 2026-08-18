@@ -1601,6 +1601,18 @@
         "Probability",
         "Article"
       ]
+    },
+    {
+      "title": "NeetCode: Why do companies lay off their best engineers? Vasilios Syrakis on the Atlassian layoffs and engineering as tradeoffs",
+      "url": "https://www.youtube.com/watch?v=s4EOVsBO7Ck",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/why-do-companies-lay-off-their-best-engineers-w-vasilios/id1867041268?i=1000772850033",
+      "published": "2026-06-15",
+      "tags": [
+        "Engineering",
+        "Architecture",
+        "Layoffs",
+        "Podcast"
+      ]
     }
   ]
 }

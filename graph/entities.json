@@ -447,6 +447,66 @@
     {
       "id": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
       "name": "Person"
+    },
+    {
+      "id": "CBFC8B6D-58E0-405E-9F8C-0A7525CEE993",
+      "name": "Vasilios Syrakis"
+    },
+    {
+      "id": "81BC5506-9505-447F-89FE-6547B6FBCE71",
+      "name": "Atlassian"
+    },
+    {
+      "id": "90C59E45-E25E-48A1-908F-70023C091D9E",
+      "name": "Tomas Reimers"
+    },
+    {
+      "id": "A78AD8EA-5738-493A-9799-CC4AC0F397F5",
+      "name": "Graphite"
+    },
+    {
+      "id": "058F46B7-CE26-4483-B72D-DB468F23D5B1",
+      "name": "Becca Lindquist"
+    },
+    {
+      "id": "202A60B9-256C-4138-89F9-609B95CB49B4",
+      "name": "Clay"
+    },
+    {
+      "id": "9E751840-617C-45DC-8FDB-B0FCD2A8EA4E",
+      "name": "dbt Labs"
+    },
+    {
+      "id": "F3FA8025-452B-442E-951E-3E8AB19FCFA4",
+      "name": "Heap"
+    },
+    {
+      "id": "780D72C9-43D6-47A9-B625-CED080DF1244",
+      "name": "Chris Degnan"
+    },
+    {
+      "id": "DDB0FDAD-DBD5-4FB9-BC11-7895699F5C82",
+      "name": "Snowflake"
+    },
+    {
+      "id": "D2743511-AD08-4989-9D95-52E451A9C2A7",
+      "name": "Harry Stebbings"
+    },
+    {
+      "id": "4BDB83EA-D324-4DA3-BC58-F94CEE319900",
+      "name": "The Twenty Minute VC"
+    },
+    {
+      "id": "FD523A08-BFFC-4291-9E89-3C64A79B9221",
+      "name": "Engineering Founders"
+    },
+    {
+      "id": "2D90FD19-6A37-4564-A778-42E427512069",
+      "name": "Patrick Gallagher"
+    },
+    {
+      "id": "9703475A-2CC5-4511-9CA9-B6917E7A39D5",
+      "name": "Jerry Li"
     }
   ]
 }
