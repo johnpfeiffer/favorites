@@ -1,0 +1,326 @@
+{
+  "show": "The Peterman Pod",
+  "slug": "peterman-pod",
+  "appleId": 1777363835,
+  "feedUrl": "https://anchor.fm/s/106346b90/podcast/rss",
+  "homeUrl": "https://www.developing.dev",
+  "canonicalPattern": "https://www.developing.dev/p/<slug>",
+  "episodeCount": 63,
+  "episodes": [
+    {
+      "title": "Creator of TypeScript: 10x Faster Typescript, Why AI Won't Replace SWEs | Anders Hejlsberg",
+      "published": "2026-08-17",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Creator-of-TypeScript-10x-Faster-Typescript--Why-AI-Wont-Replace-SWEs--Anders-Hejlsberg-e3ngbcs"
+    },
+    {
+      "title": "Creator of Lean: Handwritten Math Will Change Dramatically | Leonardo de Moura",
+      "published": "2026-08-10",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Creator-of-Lean-Handwritten-Math-Will-Change-Dramatically--Leonardo-de-Moura-e3n173b"
+    },
+    {
+      "title": "Creator of Lua: Scripting, Programming Languages, Predictions | Roberto Ierusalimschy",
+      "published": "2026-08-03",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Creator-of-Lua-Scripting--Programming-Languages--Predictions--Roberto-Ierusalimschy-e3m4hek"
+    },
+    {
+      "title": "Turing Award Winner: Early AI, LLM Predictions, Causality | Judea Pearl",
+      "published": "2026-07-27",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Turing-Award-Winner-Early-AI--LLM-Predictions--Causality--Judea-Pearl-e3m4hf8"
+    },
+    {
+      "title": "Creator of OCaml: Functional Programming, Formal Verification, Programming Languages | Xavier Leroy",
+      "published": "2026-07-20",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Creator-of-OCaml-Functional-Programming--Formal-Verification--Programming-Languages--Xavier-Leroy-e3m4peu"
+    },
+    {
+      "title": "Turing Award Winner: TPU vs GPU vs CPU, Computer Architecture, RISC vs CISC | David Patterson",
+      "published": "2026-07-13",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Turing-Award-Winner-TPU-vs-GPU-vs-CPU--Computer-Architecture--RISC-vs-CISC--David-Patterson-e3m0e2g"
+    },
+    {
+      "title": "Turing Award Winner: NSA, Public Key Cryptography, Crypto Wars | Martin Hellman",
+      "published": "2026-07-06",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Turing-Award-Winner-NSA--Public-Key-Cryptography--Crypto-Wars--Martin-Hellman-e3lkhmg"
+    },
+    {
+      "title": "MIT Complexity Theorist: Why You Can Do Better Than “Optimal” On Leetcode & SAT | Ryan Williams",
+      "published": "2026-06-29",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/MIT-Complexity-Theorist-Why-You-Can-Do-Better-Than-Optimal-On-Leetcode--SAT--Ryan-Williams-e3l3b65"
+    },
+    {
+      "title": "OpenAI Eng & Dev Tools Founder: How Software Engineering Is Changing | Charlie Marsh",
+      "published": "2026-06-22",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/OpenAI-Eng--Dev-Tools-Founder-How-Software-Engineering-Is-Changing--Charlie-Marsh-e3kumnu"
+    },
+    {
+      "title": "Google DeepMind Pre-Training Lead: How To Land a Job at a Frontier Lab | Vlad Feinberg",
+      "published": "2026-06-15",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Google-DeepMind-Pre-Training-Lead-How-To-Land-a-Job-at-a-Frontier-Lab--Vlad-Feinberg-e3kpk5p"
+    },
+    {
+      "title": "Co-Creator of Haskell: Functional Programming, Thinking in Types, Useless Languages | Simon Jones",
+      "published": "2026-06-08",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Co-Creator-of-Haskell-Functional-Programming--Thinking-in-Types--Useless-Languages--Simon-Jones-e3kfnpl"
+    },
+    {
+      "title": "Turing Award Winner: P vs NP, Zero-Knowledge Proofs, Quantum Computation | Avi Wigderson",
+      "published": "2026-06-01",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Turing-Award-Winner-P-vs-NP--Zero-Knowledge-Proofs--Quantum-Computation--Avi-Wigderson-e3k3tbq"
+    },
+    {
+      "title": "Dropbox’s Former Most Senior Eng: Building Great Systems and Advice for the AI Era | James Cowling",
+      "published": "2026-05-25",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Dropboxs-Former-Most-Senior-Eng-Building-Great-Systems-and-Advice-for-the-AI-Era--James-Cowling-e3jp0us"
+    },
+    {
+      "title": "Creator of C++: Bell Labs, Negative Overhead Abstraction, Mistakes | Bjarne Stroustrup",
+      "published": "2026-05-18",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Creator-of-C-Bell-Labs--Negative-Overhead-Abstraction--Mistakes--Bjarne-Stroustrup-e3j9ivb"
+    },
+    {
+      "title": "Harvard Professor: CS50, What Matters More Than CS, Lecturing Well | David J Malan",
+      "published": "2026-05-11",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Harvard-Professor-CS50--What-Matters-More-Than-CS--Lecturing-Well--David-J-Malan-e3j5j2m"
+    },
+    {
+      "title": "PyTorch Eng Director: Promo Hacking, Industry Shifts, Regrets | John Myles White",
+      "published": "2026-05-04",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/PyTorch-Eng-Director-Promo-Hacking--Industry-Shifts--Regrets--John-Myles-White-e3inoq5"
+    },
+    {
+      "title": "Turing Award Winner: Data Abstraction, Dijkstra, Distributed Systems | Barbara Liskov",
+      "published": "2026-04-27",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Turing-Award-Winner-Data-Abstraction--Dijkstra--Distributed-Systems--Barbara-Liskov-e3ic8k6"
+    },
+    {
+      "title": "Turing Award Winner: Postgres, Disagreeing with Google, Future Problems | Mike Stonebraker",
+      "published": "2026-04-20",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Turing-Award-Winner-Postgres--Disagreeing-with-Google--Future-Problems--Mike-Stonebraker-e3i4s0r"
+    },
+    {
+      "title": "AWS Distinguished Eng: Learning From 3000 Incidents And How Engineering Is Changing | Marc Brooker",
+      "published": "2026-04-13",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/AWS-Distinguished-Eng-Learning-From-3000-Incidents-And-How-Engineering-Is-Changing--Marc-Brooker-e3hm8ln"
+    },
+    {
+      "title": "Ex-Head of Eng at Instagram: Career Regrets and Learnings | James Everingham",
+      "published": "2026-04-06",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Ex-Head-of-Eng-at-Instagram-Career-Regrets-and-Learnings--James-Everingham-e3hd8pc"
+    },
+    {
+      "title": "Retired Amazon VP: How Corporate Politics Work And How To Win | Ethan Evans",
+      "published": "2026-03-30",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Retired-Amazon-VP-How-Corporate-Politics-Work-And-How-To-Win--Ethan-Evans-e3h2aj4"
+    },
+    {
+      "title": "The Co-Creator of Kubernetes On Convincing Google, Building It, and Scaling for LLMs",
+      "published": "2026-03-23",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/The-Co-Creator-of-Kubernetes-On-Convincing-Google--Building-It--and-Scaling-for-LLMs-e3gpdjo"
+    },
+    {
+      "title": "Meta Hiring Lead On Behind The Scenes of Senior+ Eng Hiring",
+      "published": "2026-03-16",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Meta-Hiring-Lead-On-Behind-The-Scenes-of-Senior-Eng-Hiring-e3gbmqm"
+    },
+    {
+      "title": "OpenAI Codex Tech Lead On How His Career Grew And How He Uses Codex | Michael Bolin",
+      "published": "2026-03-09",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/OpenAI-Codex-Tech-Lead-On-How-His-Career-Grew-And-How-He-Uses-Codex--Michael-Bolin-e3g36of"
+    },
+    {
+      "title": "Distinguished Eng On Stack Ranking, Competing with Bezos, Regrets | Bryan Cantrill",
+      "published": "2026-03-02",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Distinguished-Eng-On-Stack-Ranking--Competing-with-Bezos--Regrets--Bryan-Cantrill-e3fnn4b"
+    },
+    {
+      "title": "Turing Award Winner On Thinking Clearly, Paxos vs Raft, Working With Dijkstra | Leslie Lamport",
+      "published": "2026-02-23",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Turing-Award-Winner-On-Thinking-Clearly--Paxos-vs-Raft--Working-With-Dijkstra--Leslie-Lamport-e3ffgu7"
+    },
+    {
+      "title": "Retired Netflix Engineering Director On Regrets, Video Engineering, Hiring Stories",
+      "published": "2026-02-16",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Retired-Netflix-Engineering-Director-On-Regrets--Video-Engineering--Hiring-Stories-e3dnd7n"
+    },
+    {
+      "title": "Meta Distinguished Eng (IC9) On Influencing Engs, Failures, and Learnings",
+      "published": "2026-02-09",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Meta-Distinguished-Eng-IC9-On-Influencing-Engs--Failures--and-Learnings-e3epgp8"
+    },
+    {
+      "title": "Instagram Principal Eng (IC8) On Building IG Stories, 1 Promo Per Half, Small Teams",
+      "published": "2026-02-02",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Instagram-Principal-Eng-IC8-On-Building-IG-Stories--1-Promo-Per-Half--Small-Teams-e3bl0lj"
+    },
+    {
+      "title": "Honest Big Tech Layoff Story After 25 Year Career",
+      "published": "2026-01-30",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Honest-Big-Tech-Layoff-Story-After-25-Year-Career-e3ect5n"
+    },
+    {
+      "title": "Ex-Citadel Quant and AI Researcher On Breaking In, Tech vs Finance Careers",
+      "published": "2026-01-26",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Ex-Citadel-Quant-and-AI-Researcher-On-Breaking-In--Tech-vs-Finance-Careers-e3e3k40"
+    },
+    {
+      "title": "Meta Senior Staff (IC7) Eng's Honest Demotion Story",
+      "published": "2026-01-23",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Meta-Senior-Staff-IC7-Engs-Honest-Demotion-Story-e3e25vg"
+    },
+    {
+      "title": "Airbnb Staff Eng on How To Not Get Stuck at Senior and Untold Rules of Calibrations",
+      "published": "2026-01-19",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Airbnb-Staff-Eng-on-How-To-Not-Get-Stuck-at-Senior-and-Untold-Rules-of-Calibrations-e3d8tir"
+    },
+    {
+      "title": "New Grad to Principal Engineer (IC8) at Meta (Career Story)",
+      "published": "2026-01-12",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/New-Grad-to-Principal-Engineer-IC8-at-Meta-Career-Story-e3bfi2f"
+    },
+    {
+      "title": "Anthropic Eng Leader And Ex-Senior Director at Meta On Microsoft vs Facebook, Career Learnings",
+      "published": "2026-01-04",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Anthropic-Eng-Leader-And-Ex-Senior-Director-at-Meta-On-Microsoft-vs-Facebook--Career-Learnings-e3d4jd9"
+    },
+    {
+      "title": "Best Software Engineering Career Advice of 2025",
+      "published": "2025-12-29",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Best-Software-Engineering-Career-Advice-of-2025-e3cnfrq"
+    },
+    {
+      "title": "Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)",
+      "published": "2025-12-22",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Frontline-Manager-at-Meta-to-Senior-Director-at-Snapchat-in-3-Years-Career-Story-e3c7kii"
+    },
+    {
+      "title": "Boris Cherny (Creator of Claude Code) On How His Career Grew",
+      "published": "2025-12-15",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Boris-Cherny-Creator-of-Claude-Code-On-How-His-Career-Grew-e3c9pjn"
+    },
+    {
+      "title": "Instagram Senior Staff Eng (IC7) On 3 Promos Through Redefining Expectations (Career Story)",
+      "published": "2025-12-08",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Instagram-Senior-Staff-Eng-IC7-On-3-Promos-Through-Redefining-Expectations-Career-Story-e3bv0ev"
+    },
+    {
+      "title": "Robinhood SWE Turned $1B+ Founder on Non-Linear Careers, Being Jaded About Promos, Startup Learnings",
+      "published": "2025-11-30",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Robinhood-SWE-Turned-1B-Founder-on-Non-Linear-Careers--Being-Jaded-About-Promos--Startup-Learnings-e3bfh4e"
+    },
+    {
+      "title": "CloudKitchens CTO on Intelligence, Regrets, Steve Jobs and Travis Kalanick Stories",
+      "published": "2025-11-21",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/CloudKitchens-CTO-on-Intelligence--Regrets--Steve-Jobs-and-Travis-Kalanick-Stories-e3b8gns"
+    },
+    {
+      "title": "Uber Distinguished Eng On Unfair Promos, Influence, Engineering Regrets (Career Story)",
+      "published": "2025-11-11",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Uber-Distinguished-Eng-On-Unfair-Promos--Influence--Engineering-Regrets-Career-Story-e3apthc"
+    },
+    {
+      "title": "Shopify Distinguished Eng (L10) on Principal+ Engineering, Career Story, Regrets",
+      "published": "2025-10-24",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Shopify-Distinguished-Eng-L10-on-Principal-Engineering--Career-Story--Regrets-e39tsq4"
+    },
+    {
+      "title": "Mozilla Firefox CTO on Browser War Stories and the Path to Distinguished Engineer",
+      "published": "2025-10-10",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Mozilla-Firefox-CTO-on-Browser-War-Stories-and-the-Path-to-Distinguished-Engineer-e39b4ob"
+    },
+    {
+      "title": "Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story)",
+      "published": "2025-09-05",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Intern-to-Microsoft-Distinguished-Engineer-in-11-Promotions-Career-Story-e37qle3"
+    },
+    {
+      "title": "Ex-Stripe CTO on What Grew His Career, Hiring Without Leetcode, Coding as a Leader (Career Story)",
+      "published": "2025-08-29",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Ex-Stripe-CTO-on-What-Grew-His-Career--Hiring-Without-Leetcode--Coding-as-a-Leader-Career-Story-e37fdqf"
+    },
+    {
+      "title": "Behind the Scenes of this Podcast So Far (25,000 Sub Special)",
+      "published": "2025-08-22",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Behind-the-Scenes-of-this-Podcast-So-Far-25-000-Sub-Special-e375ff3"
+    },
+    {
+      "title": "Meta Senior Manager (M2) on Manager Career Growth, PIPs, Amazon vs Meta | Stefan Mai",
+      "published": "2025-08-15",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Meta-Senior-Manager-M2-on-Manager-Career-Growth--PIPs--Amazon-vs-Meta--Stefan-Mai-e36frja"
+    },
+    {
+      "title": "Instagram Staff (IC6) Promo Despite 10 Team Switches in 9 Years (Career Story)",
+      "published": "2025-08-08",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Instagram-Staff-IC6-Promo-Despite-10-Team-Switches-in-9-Years-Career-Story-e36h5ka"
+    },
+    {
+      "title": "Amazon VP On Promotions, Getting Fired Twice, Working With Bezos | Ethan Evans",
+      "published": "2025-08-01",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Amazon-VP-On-Promotions--Getting-Fired-Twice--Working-With-Bezos--Ethan-Evans-e36aamo"
+    },
+    {
+      "title": "Tech Lead for Meta's Most-Used Programming Language (Promotion Story)",
+      "published": "2025-07-25",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Tech-Lead-for-Metas-Most-Used-Programming-Language-Promotion-Story-e3605qp"
+    },
+    {
+      "title": "GoogleX Chief Scientist On Imposter Syndrome, Career Growth, Project Taste",
+      "published": "2025-07-18",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/GoogleX-Chief-Scientist-On-Imposter-Syndrome--Career-Growth--Project-Taste-e35mhub"
+    },
+    {
+      "title": "Meta Senior Staff Eng (IC7) On Zuck Stories, Rapid Career Growth, Code Machine Archetype",
+      "published": "2025-07-11",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Meta-Senior-Staff-Eng-IC7-On-Zuck-Stories--Rapid-Career-Growth--Code-Machine-Archetype-e35dhm7"
+    },
+    {
+      "title": "26 Year Old Meta Staff Eng (IC6) On Promotions, Redefining Expectations, Secret Equity Bonuses",
+      "published": "2025-07-04",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/26-Year-Old-Meta-Staff-Eng-IC6-On-Promotions--Redefining-Expectations--Secret-Equity-Bonuses-e352mm8"
+    },
+    {
+      "title": "Instagram Principal Engineer (IC8) on Promotions, Breaking Prod, Tech Leading | Jake Bolam",
+      "published": "2025-05-31",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Instagram-Principal-Engineer-IC8-on-Promotions--Breaking-Prod--Tech-Leading--Jake-Bolam-e349kmh"
+    },
+    {
+      "title": "OpenAI & Meta Distinguished Engineer (IC9) On Working With Zuck, Carmack & Career Growth | Philip Su",
+      "published": "2025-05-23",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/OpenAI--Meta-Distinguished-Engineer-IC9-On-Working-With-Zuck--Carmack--Career-Growth--Philip-Su-e349kms"
+    },
+    {
+      "title": "Industry Secrets We Wish We Knew Before Graduating | Staff Eng Talk @ UCLA",
+      "published": "2025-05-02",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Industry-Secrets-We-Wish-We-Knew-Before-Graduating--Staff-Eng-Talk--UCLA-e349kmi"
+    },
+    {
+      "title": "21x Hackathon Winner Turned College Dropout | Jia Chen Interview",
+      "published": "2025-04-14",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/21x-Hackathon-Winner-Turned-College-Dropout--Jia-Chen-Interview-e349kmf"
+    },
+    {
+      "title": "Amazon Principal Engineer On Layoffs, Interviewing & Career Growth | Steve Huynh",
+      "published": "2025-03-02",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Amazon-Principal-Engineer-On-Layoffs--Interviewing--Career-Growth--Steve-Huynh-e349kmr"
+    },
+    {
+      "title": "Staff Engineer @ Meta by Age 25 | Evan King",
+      "published": "2025-01-17",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Staff-Engineer--Meta-by-Age-25--Evan-King-e349kn0"
+    },
+    {
+      "title": "Ex-Meta Staff Eng & YC Startup Cofounder | Rahul Pandey",
+      "published": "2024-12-27",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Ex-Meta-Staff-Eng--YC-Startup-Cofounder--Rahul-Pandey-e349kmp"
+    },
+    {
+      "title": "28 Year Old Staff Engineer @ Google",
+      "published": "2024-11-22",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/28-Year-Old-Staff-Engineer--Google-e349kmg"
+    },
+    {
+      "title": "Staff at Airbnb by Age 26 | Zach Wilson",
+      "published": "2024-11-01",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Staff-at-Airbnb-by-Age-26--Zach-Wilson-e349kmm"
+    }
+  ]
+}
