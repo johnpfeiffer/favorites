@@ -2787,6 +2787,88 @@
         "Career Transition",
         "Podcast"
       ]
+    },
+    {
+      "title": "Wes Kao: Question Behind the Question",
+      "url": "https://newsletter.weskao.com/p/question-behind-the-question",
+      "published": "2023-11-29",
+      "tags": [
+        "People",
+        "Communication",
+        "Managing Up",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Addy Osmani: 14 More Lessons from 14 years at Google",
+      "url": "https://addyosmani.com/blog/14-more-lessons/",
+      "published": "2026-02-12",
+      "tags": [
+        "People",
+        "Leadership",
+        "Team",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Peterman Pod: Retired Netflix engineering director David Ronca on regrets, video engineering, and hiring stories",
+      "url": "https://www.developing.dev/p/retired-netflix-engineering-director",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835?i=1000749958027",
+      "published": "2026-02-16",
+      "tags": [
+        "People",
+        "Engineering Management",
+        "Hiring",
+        "Netflix",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Radical Candor: The 7 Hidden Beliefs That Hold Leaders Back (Muriel Wilkins)",
+      "url": "https://www.radicalcandor.com/podcast/hidden-beliefs",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/radical-candor-communication-at-work/id1188489488?i=1000749187196",
+      "published": "2026-02-11",
+      "tags": [
+        "People",
+        "Leadership",
+        "Coaching",
+        "Radical Candor",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Managers Club: Get and pass the engineering leadership interview with Kyle Cooper (Meta recruiter)",
+      "url": "https://www.managersclub.com/posts/pass-engineer-leadership-interview-kyle-cooper-leadership-recruiter-meta",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/managers-club-interviews-and-resources-for/id1465515449?i=1000550942713",
+      "published": "2022-02-13",
+      "tags": [
+        "People",
+        "Interviewing",
+        "Career Development",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Interviewing.io: How software engineering behavioral interviews are evaluated at Meta (Lior Neu-ner)",
+      "url": "https://interviewing.io/blog/how-software-engineering-behavioral-interviews-are-evaluated-meta",
+      "published": "2023-02-13",
+      "tags": [
+        "People",
+        "Interviewing",
+        "Hiring",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Tech Interview Handbook: Behavioral interviews for software engineers",
+      "url": "https://www.techinterviewhandbook.org/behavioral-interview/",
+      "published": null,
+      "tags": [
+        "People",
+        "Interviewing",
+        "Career Development",
+        "Blog"
+      ]
     }
   ]
 }
