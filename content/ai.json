@@ -432,6 +432,20 @@
         "LinearB",
         "Podcast"
       ]
+    },
+    {
+      "title": "The Pragmatic Engineer: TDD, AI agents and coding with Kent Beck",
+      "url": "https://newsletter.pragmaticengineer.com/p/tdd-ai-agents-and-coding-with-kent",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000712458898",
+      "published": "2025-06-11",
+      "tags": [
+        "AI",
+        "LLM",
+        "Testing",
+        "History",
+        "Kent Beck",
+        "Podcast"
+      ]
     }
   ]
 }
