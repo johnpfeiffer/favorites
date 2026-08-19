@@ -1,0 +1,246 @@
+{
+  "show": "Effective Engineering Manager",
+  "slug": "effective-engineering-manager",
+  "appleId": 1535585856,
+  "feedUrl": "https://www.effectiveem.com/feed/podcast/",
+  "homeUrl": "https://www.effectiveem.com",
+  "canonicalPattern": "https://www.effectiveem.com/<slug>/",
+  "episodeCount": 47,
+  "episodes": [
+    {
+      "title": "Micromanagement: The Silent Threat to Engineering Teams",
+      "published": "2025-09-04",
+      "url": "https://www.effectiveem.com/micromanagement/?utm_source=rss&utm_medium=rss&utm_campaign=micromanagement"
+    },
+    {
+      "title": "Ani Mishra: Effective Cross-functional Collaboration",
+      "published": "2025-08-26",
+      "url": "https://www.effectiveem.com/ani-mishra-effective-cross-functional-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=ani-mishra-effective-cross-functional-collaboration"
+    },
+    {
+      "title": "Driving Lasting Change in Engineering Organizations with Manju Abraham",
+      "published": "2025-08-17",
+      "url": "https://www.effectiveem.com/manju-abraham-drive-lasting-change-in-engineering-organizations/?utm_source=rss&utm_medium=rss&utm_campaign=manju-abraham-drive-lasting-change-in-engineering-organizations"
+    },
+    {
+      "title": "Jeremy Franzen: Operations and Engineering",
+      "published": "2025-06-09",
+      "url": "https://www.effectiveem.com/jeremy-franzen-operations-and-engineering/?utm_source=rss&utm_medium=rss&utm_campaign=jeremy-franzen-operations-and-engineering"
+    },
+    {
+      "title": "Engineering Management and AI – Part 2/3 – Jobs",
+      "published": "2025-04-01",
+      "url": "https://www.effectiveem.com/engineering-management-and-ai-part-2-3-jobs/?utm_source=rss&utm_medium=rss&utm_campaign=engineering-management-and-ai-part-2-3-jobs"
+    },
+    {
+      "title": "Engineering Management and AI – Part 1/3 – Value",
+      "published": "2024-12-11",
+      "url": "https://www.effectiveem.com/engineering-management-and-ai-part-1-3-value/?utm_source=rss&utm_medium=rss&utm_campaign=engineering-management-and-ai-part-1-3-value"
+    },
+    {
+      "title": "Maintaining Team Morale Through Tough Times",
+      "published": "2024-06-05",
+      "url": "https://www.effectiveem.com/maintaining-team-morale-through-tough-times/?utm_source=rss&utm_medium=rss&utm_campaign=maintaining-team-morale-through-tough-times"
+    },
+    {
+      "title": "Managing Hyperperformers",
+      "published": "2024-03-12",
+      "url": "https://www.effectiveem.com/managing-hyperperformers/?utm_source=rss&utm_medium=rss&utm_campaign=managing-hyperperformers"
+    },
+    {
+      "title": "Building Effective Strategy",
+      "published": "2023-12-31",
+      "url": "https://www.effectiveem.com/building-effective-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=building-effective-strategy"
+    },
+    {
+      "title": "Tim Wenzel: Building Exceptional Teams",
+      "published": "2023-08-03",
+      "url": "https://www.effectiveem.com/tim-wenzel-on-building-exceptional-teams/?utm_source=rss&utm_medium=rss&utm_campaign=tim-wenzel-on-building-exceptional-teams"
+    },
+    {
+      "title": "Cultivating Trust",
+      "published": "2023-06-27",
+      "url": "https://www.effectiveem.com/cultivating-trust/?utm_source=rss&utm_medium=rss&utm_campaign=cultivating-trust"
+    },
+    {
+      "title": "Effective Dependency Management",
+      "published": "2023-05-18",
+      "url": "https://www.effectiveem.com/effective-dependency-management/?utm_source=rss&utm_medium=rss&utm_campaign=effective-dependency-management"
+    },
+    {
+      "title": "Managing Innovation",
+      "published": "2023-01-01",
+      "url": "https://www.effectiveem.com/managing-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=managing-innovation"
+    },
+    {
+      "title": "Managing Up: Complaining",
+      "published": "2022-11-06",
+      "url": "https://www.effectiveem.com/managing-up-complaining/?utm_source=rss&utm_medium=rss&utm_campaign=managing-up-complaining"
+    },
+    {
+      "title": "Effective Remote Work",
+      "published": "2022-09-21",
+      "url": "https://www.effectiveem.com/effective-remote-work/?utm_source=rss&utm_medium=rss&utm_campaign=effective-remote-work"
+    },
+    {
+      "title": "Escalating Work Issues Effectively",
+      "published": "2022-07-29",
+      "url": "https://www.effectiveem.com/escalating-work-issues-effectively/?utm_source=rss&utm_medium=rss&utm_campaign=escalating-work-issues-effectively"
+    },
+    {
+      "title": "Effective Goal Setting",
+      "published": "2022-04-28",
+      "url": "https://www.effectiveem.com/effective-goal-setting/?utm_source=rss&utm_medium=rss&utm_campaign=effective-goal-setting"
+    },
+    {
+      "title": "Getting Things Done: Taking Time Off",
+      "published": "2022-02-14",
+      "url": "https://www.effectiveem.com/getting-things-done-taking-time-off/?utm_source=rss&utm_medium=rss&utm_campaign=getting-things-done-taking-time-off"
+    },
+    {
+      "title": "Getting Things Done: Staff Meetings",
+      "published": "2022-01-14",
+      "url": "https://www.effectiveem.com/getting-things-done-staff-meetings/?utm_source=rss&utm_medium=rss&utm_campaign=getting-things-done-staff-meetings"
+    },
+    {
+      "title": "Building Managers: Now That You Are A Manager",
+      "published": "2021-11-03",
+      "url": "https://www.effectiveem.com/building-managers-now-that-you-are-a-manager/?utm_source=rss&utm_medium=rss&utm_campaign=building-managers-now-that-you-are-a-manager"
+    },
+    {
+      "title": "Building Managers: Implementing The Plan",
+      "published": "2021-10-26",
+      "url": "https://www.effectiveem.com/building-managers-implementing-the-plan/?utm_source=rss&utm_medium=rss&utm_campaign=building-managers-implementing-the-plan"
+    },
+    {
+      "title": "Building Managers: Building a Success Strategy",
+      "published": "2021-10-18",
+      "url": "https://www.effectiveem.com/building-managers-building-a-success-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=building-managers-building-a-success-strategy"
+    },
+    {
+      "title": "Building Managers: Leading From The Back, Leading From The Front",
+      "published": "2021-08-18",
+      "url": "https://www.effectiveem.com/building-managers-leading-from-the-back-leading-from-the-front/?utm_source=rss&utm_medium=rss&utm_campaign=building-managers-leading-from-the-back-leading-from-the-front"
+    },
+    {
+      "title": "Building Managers: Not A Promotion",
+      "published": "2021-07-21",
+      "url": "https://www.effectiveem.com/building-managers-not-a-promotion/?utm_source=rss&utm_medium=rss&utm_campaign=building-managers-not-a-promotion"
+    },
+    {
+      "title": "Root Cause Analysis with 5 Whys",
+      "published": "2021-06-04",
+      "url": "https://www.effectiveem.com/root-cause-analysis-with-5-whys/?utm_source=rss&utm_medium=rss&utm_campaign=root-cause-analysis-with-5-whys"
+    },
+    {
+      "title": "Building Managers: The Right Motivation",
+      "published": "2021-04-30",
+      "url": "https://www.effectiveem.com/becoming-a-manager-the-right-motivation/?utm_source=rss&utm_medium=rss&utm_campaign=becoming-a-manager-the-right-motivation"
+    },
+    {
+      "title": "Performance Reviews: The Easy Way",
+      "published": "2021-04-14",
+      "url": "https://www.effectiveem.com/performance-reviews-the-easy-way/?utm_source=rss&utm_medium=rss&utm_campaign=performance-reviews-the-easy-way"
+    },
+    {
+      "title": "Team Building: Know What You Need To Build A Team",
+      "published": "2021-03-20",
+      "url": "https://www.effectiveem.com/team-building-knowing-what-you-need/?utm_source=rss&utm_medium=rss&utm_campaign=team-building-knowing-what-you-need"
+    },
+    {
+      "title": "Effective SDLC: Engineering Checklist",
+      "published": "2021-03-05",
+      "url": "https://www.effectiveem.com/effective-sdlc-engineering-excellence/?utm_source=rss&utm_medium=rss&utm_campaign=effective-sdlc-engineering-excellence"
+    },
+    {
+      "title": "Team Building: No All-Star Teams",
+      "published": "2021-02-22",
+      "url": "https://www.effectiveem.com/team-building-no-all-star-teams/?utm_source=rss&utm_medium=rss&utm_campaign=team-building-no-all-star-teams"
+    },
+    {
+      "title": "Effective One-One-Ones: 1:1s with New Boss",
+      "published": "2021-02-17",
+      "url": "https://www.effectiveem.com/effective-one-one-ones-11s-with-new-boss/?utm_source=rss&utm_medium=rss&utm_campaign=effective-one-one-ones-11s-with-new-boss"
+    },
+    {
+      "title": "Building Teams: The Kudos Program",
+      "published": "2021-02-10",
+      "url": "https://www.effectiveem.com/building-teams-the-kudos-program/?utm_source=rss&utm_medium=rss&utm_campaign=building-teams-the-kudos-program"
+    },
+    {
+      "title": "Effective One-on-Ones: Structuring 1:1s",
+      "published": "2021-02-02",
+      "url": "https://www.effectiveem.com/the-laws-of-11s-structuring-one-on-ones/?utm_source=rss&utm_medium=rss&utm_campaign=the-laws-of-11s-structuring-one-on-ones"
+    },
+    {
+      "title": "Building Teams: Birthdays and Lunches",
+      "published": "2021-01-19",
+      "url": "https://www.effectiveem.com/building-teams-birthdays-and-lunches/?utm_source=rss&utm_medium=rss&utm_campaign=building-teams-birthdays-and-lunches"
+    },
+    {
+      "title": "Effective One-on-Ones: Don’t Skip Your 1:1s",
+      "published": "2021-01-12",
+      "url": "https://www.effectiveem.com/the-laws-of-one-on-ones-the-missed-ones/?utm_source=rss&utm_medium=rss&utm_campaign=the-laws-of-one-on-ones-the-missed-ones"
+    },
+    {
+      "title": "Effective Agile: Remote Teams",
+      "published": "2020-12-25",
+      "url": "https://www.effectiveem.com/effective-agile-remote-teams/?utm_source=rss&utm_medium=rss&utm_campaign=effective-agile-remote-teams"
+    },
+    {
+      "title": "Engineering Process: Gap Analysis",
+      "published": "2020-12-14",
+      "url": "https://www.effectiveem.com/effective-gap-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=effective-gap-analysis"
+    },
+    {
+      "title": "Effective Agile: Standups",
+      "published": "2020-12-02",
+      "url": "https://www.effectiveem.com/effective-standups/?utm_source=rss&utm_medium=rss&utm_campaign=effective-standups"
+    },
+    {
+      "title": "Engineering Process: Think-Plan-Execute",
+      "published": "2020-11-24",
+      "url": "https://www.effectiveem.com/getting-things-done-with-think-plan-execute/?utm_source=rss&utm_medium=rss&utm_campaign=getting-things-done-with-think-plan-execute"
+    },
+    {
+      "title": "Effective Agile: Estimation",
+      "published": "2020-11-18",
+      "url": "https://www.effectiveem.com/effective-agile-estimation/?utm_source=rss&utm_medium=rss&utm_campaign=effective-agile-estimation"
+    },
+    {
+      "title": "Developing Skills: Guided Self-Study",
+      "published": "2020-11-11",
+      "url": "https://www.effectiveem.com/guided-self-study/?utm_source=rss&utm_medium=rss&utm_campaign=guided-self-study"
+    },
+    {
+      "title": "Effective Agile: Best Practices",
+      "published": "2020-11-03",
+      "url": "https://www.effectiveem.com/effective-agile-best-practices/?utm_source=rss&utm_medium=rss&utm_campaign=effective-agile-best-practices"
+    },
+    {
+      "title": "Engineering Process: Effective Design Reviews",
+      "published": "2020-10-26",
+      "url": "https://www.effectiveem.com/effective-software-design-reviews/?utm_source=rss&utm_medium=rss&utm_campaign=effective-software-design-reviews"
+    },
+    {
+      "title": "Practicing Observe and Absorb",
+      "published": "2020-10-17",
+      "url": "https://www.effectiveem.com/practicing-observe-and-absorb/?utm_source=rss&utm_medium=rss&utm_campaign=practicing-observe-and-absorb"
+    },
+    {
+      "title": "Effective Engineering Meetings",
+      "published": "2020-10-12",
+      "url": "https://www.effectiveem.com/effective-engineering-meetings/?utm_source=rss&utm_medium=rss&utm_campaign=effective-engineering-meetings"
+    },
+    {
+      "title": "Effective Time Management",
+      "published": "2020-10-06",
+      "url": "https://www.effectiveem.com/effective-time-management-for-engineering-managers/?utm_source=rss&utm_medium=rss&utm_campaign=effective-time-management-for-engineering-managers"
+    },
+    {
+      "title": "Welcome to The Effective Engineering Manager Podcast",
+      "published": "2020-09-29",
+      "url": "https://www.effectiveem.com/welcome-to-the-effective-engineering-manager-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=welcome-to-the-effective-engineering-manager-podcast"
+    }
+  ]
+}

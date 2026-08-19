@@ -153,6 +153,24 @@
       "homeUrl": "https://newsletter.pragmaticengineer.com/podcast",
       "canonicalPattern": "https://newsletter.pragmaticengineer.com/p/<slug>",
       "notes": "Substack feed (feed items include full transcripts); item links are the newsletter.pragmaticengineer.com/p/ post pages, which are the canonical URLs used in content/."
+    },
+    {
+      "slug": "fallthrough",
+      "name": "Fallthrough",
+      "appleId": 1783181295,
+      "feedUrl": "https://feeds.transistor.fm/fallthrough",
+      "homeUrl": "https://fallthrough.fm",
+      "canonicalPattern": "https://fallthrough.transistor.fm/<episode-number>",
+      "notes": "Transistor feed item links are share.transistor.fm/s/<id> shortlinks that do not redirect; existing entries use the fallthrough.transistor.fm/<episode-number> pages. The share page's embedded JSON lists the episode number and hosts. fallthrough.fm 302s to the transistor site."
+    },
+    {
+      "slug": "effective-engineering-manager",
+      "name": "Effective Engineering Manager",
+      "appleId": 1535585856,
+      "feedUrl": "https://www.effectiveem.com/feed/podcast/",
+      "homeUrl": "https://www.effectiveem.com",
+      "canonicalPattern": "https://www.effectiveem.com/<slug>/",
+      "notes": "Feed items link to effectiveem.com episode pages with utm query params (strip them). Episode titles on the site can differ slightly from Apple trackNames (site is canonical)."
     }
   ]
 }
