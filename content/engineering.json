@@ -1636,6 +1636,79 @@
         "Architecture",
         "Podcast"
       ]
+    },
+    {
+      "title": "Sean Goedecke: How I ship projects at big tech companies",
+      "url": "https://www.seangoedecke.com/how-to-ship/",
+      "alternate-url": "https://web.archive.org/web/20260731091554/https://www.seangoedecke.com/how-to-ship/",
+      "published": "2024-11-09",
+      "tags": [
+        "Engineering",
+        "Leadership",
+        "Project Management",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Incredibuild: A Comprehensive Guide to E2E Testing",
+      "url": "https://www.incredibuild.com/blog/a-comprehensive-guide-to-e2e-testing",
+      "published": "2024-07-15",
+      "tags": [
+        "Engineering",
+        "Testing",
+        "Blog"
+      ]
+    },
+    {
+      "title": "John Allspaw: Multiple Perspectives on Technical Problems and Solutions (Etsy's architecture review process)",
+      "url": "https://www.kitchensoap.com/2017/08/12/multiple-perspectives-on-technical-problems-and-solutions/",
+      "alternate-url": "https://web.archive.org/web/20260629001415/https://www.kitchensoap.com/2017/08/12/multiple-perspectives-on-technical-problems-and-solutions/",
+      "published": "2017-08-12",
+      "tags": [
+        "Engineering",
+        "Architecture",
+        "Decision Making",
+        "Etsy",
+        "John Allspaw",
+        "Blog"
+      ]
+    },
+    {
+      "title": "John Allspaw: On Being a Senior Engineer",
+      "url": "https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/",
+      "alternate-url": "https://web.archive.org/web/20260817171629/https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/",
+      "published": "2012-10-25",
+      "tags": [
+        "Engineering",
+        "Career Development",
+        "John Allspaw",
+        "Blog"
+      ]
+    },
+    {
+      "title": "John Allspaw: Counterfactual Thinking, Rules, and the Knight Capital Accident",
+      "url": "https://www.kitchensoap.com/2013/10/29/counterfactuals-knight-capital/",
+      "alternate-url": "https://web.archive.org/web/20260419080337/https://www.kitchensoap.com/2013/10/29/counterfactuals-knight-capital/",
+      "published": "2013-10-29",
+      "tags": [
+        "Engineering",
+        "Testing",
+        "Knight Capital",
+        "John Allspaw",
+        "Blog"
+      ]
+    },
+    {
+      "title": "ELC: Pragmatic Microservices with Randy Shoup",
+      "url": "https://www.youtube.com/watch?v=FCxsxm3TLo8",
+      "published": "2017-09-26",
+      "tags": [
+        "Engineering",
+        "Architecture",
+        "Microservices",
+        "Randy Shoup",
+        "Video"
+      ]
     }
   ]
 }
