@@ -144,6 +144,15 @@
       "homeUrl": "https://review.firstround.com/podcast/",
       "canonicalPattern": "https://review.firstround.com/podcast/<title-guest-role-slug>/",
       "notes": "Megaphone feed items have no <link>; canonical pages live on review.firstround.com/podcast/ with long title-guest-role slugs."
+    },
+    {
+      "slug": "pragmatic-engineer",
+      "name": "The Pragmatic Engineer",
+      "appleId": 1769051199,
+      "feedUrl": "https://api.substack.com/feed/podcast/458709.rss",
+      "homeUrl": "https://newsletter.pragmaticengineer.com/podcast",
+      "canonicalPattern": "https://newsletter.pragmaticengineer.com/p/<slug>",
+      "notes": "Substack feed (feed items include full transcripts); item links are the newsletter.pragmaticengineer.com/p/ post pages, which are the canonical URLs used in content/."
     }
   ]
 }

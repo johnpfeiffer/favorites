@@ -5,8 +5,13 @@
   "feedUrl": "https://feeds.megaphone.fm/CLS2859450455",
   "homeUrl": "https://joincolossus.com",
   "canonicalPattern": "https://joincolossus.com/episodes/<numeric-id>/<slug>",
-  "episodeCount": 592,
+  "episodeCount": 593,
   "episodes": [
+    {
+      "title": "Ben Thompson on Big Tech, China, and the AI Boom Running Out of Money - [Invest Like the Best, EP.487]",
+      "published": "2026-08-18",
+      "url": "https://colossus.com/episode/winners-losers-ai-era/"
+    },
     {
       "title": "Eric Vishria - A Decade of Lessons Investing in Software & Hardware - [Invest Like the Best, EP.486]",
       "published": "2026-08-11",

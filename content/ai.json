@@ -404,6 +404,34 @@
         "AI",
         "Video"
       ]
+    },
+    {
+      "title": "The Pragmatic Engineer: Measuring the impact of AI on software engineering - with Laura Tacho (DX)",
+      "url": "https://newsletter.pragmaticengineer.com/p/measuring-the-impact-of-ai-on-software",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000718710555",
+      "published": "2025-07-23",
+      "tags": [
+        "AI",
+        "Productivity",
+        "Metrics",
+        "DX",
+        "Laura Tacho",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Dev Interrupted: The fundamentals of agent-driven software workflows - six trends shaping AI-driven development",
+      "url": "https://linearb.io/dev-interrupted/podcast/the-fundamentals-of-agent-driven-software-workflows",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/dev-interrupted/id1537003676?i=1000716306210",
+      "published": "2025-07-08",
+      "tags": [
+        "AI",
+        "Agents",
+        "Productivity",
+        "Strategy",
+        "LinearB",
+        "Podcast"
+      ]
     }
   ]
 }
