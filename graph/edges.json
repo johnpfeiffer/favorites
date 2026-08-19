@@ -594,6 +594,36 @@
       "source": "A688C539-8A15-43D5-BC77-71254172EC30",
       "target": "ACA59921-02E3-4555-8E25-910E27A9F138",
       "type": "Host_of"
+    },
+    {
+      "source": "A424C8C4-F81B-4A93-B926-8364B7E53EC2",
+      "target": "B098FAFC-C1FE-4422-AD82-511294542EDF",
+      "type": "Previous_Employee_of"
+    },
+    {
+      "source": "33CE4AD1-C7FB-4271-8EBB-C589657ED93C",
+      "target": "524137BA-37E0-4283-97D4-9F78D7CE0EAE",
+      "type": "Current_Employee_of"
+    },
+    {
+      "source": "33CE4AD1-C7FB-4271-8EBB-C589657ED93C",
+      "target": "4BE7425A-FF43-4D3B-9A20-25F057CB807D",
+      "type": "Previous_Employee_of"
+    },
+    {
+      "source": "33CE4AD1-C7FB-4271-8EBB-C589657ED93C",
+      "target": "E8C02C4B-1D9F-4B51-A269-FA29E6DECC90",
+      "type": "Previous_Employee_of"
+    },
+    {
+      "source": "33CE4AD1-C7FB-4271-8EBB-C589657ED93C",
+      "target": "41A265EE-FBF8-4044-A040-F00011D1C288",
+      "type": "Previous_Employee_of"
+    },
+    {
+      "source": "33CE4AD1-C7FB-4271-8EBB-C589657ED93C",
+      "target": "87F3F7E3-4D6E-4C37-9F30-B8A9C968B433",
+      "type": "Previous_Employee_of"
     }
   ]
 }

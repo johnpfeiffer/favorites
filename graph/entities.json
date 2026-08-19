@@ -667,6 +667,30 @@
     {
       "id": "ACA59921-02E3-4555-8E25-910E27A9F138",
       "name": "The Weekly Show with Jon Stewart"
+    },
+    {
+      "id": "A424C8C4-F81B-4A93-B926-8364B7E53EC2",
+      "name": "John Allspaw"
+    },
+    {
+      "id": "33CE4AD1-C7FB-4271-8EBB-C589657ED93C",
+      "name": "Randy Shoup"
+    },
+    {
+      "id": "524137BA-37E0-4283-97D4-9F78D7CE0EAE",
+      "name": "Thrive Market"
+    },
+    {
+      "id": "4BE7425A-FF43-4D3B-9A20-25F057CB807D",
+      "name": "WeWork"
+    },
+    {
+      "id": "E8C02C4B-1D9F-4B51-A269-FA29E6DECC90",
+      "name": "Stitch Fix"
+    },
+    {
+      "id": "0B99ED25-2B07-4356-AD39-B1C00352DFBC",
+      "name": "Knight Capital"
     }
   ]
 }
