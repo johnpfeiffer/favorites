@@ -1709,6 +1709,20 @@
         "Randy Shoup",
         "Video"
       ]
+    },
+    {
+      "title": "ELC: The End-to-End Engineer - How WorkOS Collapsed the Talent Stack for High-Velocity Execution, Ownership and Better Product Decisions, with Michael Grinich",
+      "url": "https://sfelc.com/podcasts/the-end-to-end-engineer-how-workos-collapsed-the-talent-stack-for-high-velocity-execution-ownership-better-product-decisions-w-michael-grinich",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-engineering-leadership-podcast/id1481996448?i=1000720692757",
+      "published": "2025-08-05",
+      "tags": [
+        "Engineering",
+        "Product Management",
+        "Ownership",
+        "WorkOS",
+        "Michael Grinich",
+        "Podcast"
+      ]
     }
   ]
 }
