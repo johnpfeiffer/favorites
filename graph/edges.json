@@ -624,6 +624,51 @@
       "source": "33CE4AD1-C7FB-4271-8EBB-C589657ED93C",
       "target": "87F3F7E3-4D6E-4C37-9F30-B8A9C968B433",
       "type": "Previous_Employee_of"
+    },
+    {
+      "source": "76224AA6-9531-4698-86AD-0AABA98041CA",
+      "target": "99A0EE24-8E01-4265-9F6B-A1CDA5A933F6",
+      "type": "Host_of"
+    },
+    {
+      "source": "3B866812-E293-44F0-86D8-0BC9C4D0670B",
+      "target": "617181F1-374B-4470-93D5-A400849E1F8A",
+      "type": "Current_Employee_of"
+    },
+    {
+      "source": "C0091436-7CB1-4D12-8CB8-B72B3FA46620",
+      "target": "52D6E618-4E00-417C-9A09-92ECB83F436E",
+      "type": "Current_Employee_of"
+    },
+    {
+      "source": "D8561E16-AF27-4566-A6C5-7C34C4B04108",
+      "target": "32A5F5CD-6845-4D08-98B1-5BA3FAF09226",
+      "type": "Founder_of"
+    },
+    {
+      "source": "D8561E16-AF27-4566-A6C5-7C34C4B04108",
+      "target": "32A5F5CD-6845-4D08-98B1-5BA3FAF09226",
+      "type": "Current_Employee_of"
+    },
+    {
+      "source": "0FD1B931-88FE-4005-BBEE-93B978257127",
+      "target": "07CD018E-0231-4C58-86D7-3A93F00F3408",
+      "type": "Host_of"
+    },
+    {
+      "source": "D1DE7AEB-8EC1-48B8-AA4E-195C38BD0937",
+      "target": "07CD018E-0231-4C58-86D7-3A93F00F3408",
+      "type": "Host_of"
+    },
+    {
+      "source": "0FD1B931-88FE-4005-BBEE-93B978257127",
+      "target": "41E1AE14-0791-4F67-AC9A-75B9A201D685",
+      "type": "Founder_of"
+    },
+    {
+      "source": "D1DE7AEB-8EC1-48B8-AA4E-195C38BD0937",
+      "target": "41E1AE14-0791-4F67-AC9A-75B9A201D685",
+      "type": "Current_Employee_of"
     }
   ]
 }
