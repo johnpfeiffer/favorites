@@ -5,8 +5,13 @@
   "feedUrl": "https://feeds.megaphone.fm/radicalcandor",
   "homeUrl": "https://www.radicalcandor.com",
   "canonicalPattern": "https://www.radicalcandor.com/podcast/<season-episode>/<slug>",
-  "episodeCount": 226,
+  "episodeCount": 227,
   "episodes": [
+    {
+      "title": "Revolutionizing Meetings: From Sabotage to Strategy (with Rebecca Hinds)",
+      "published": "2026-08-18",
+      "url": null
+    },
     {
       "title": "Why some leaders are incorruptible, many get corrupted by power/money (with Rob Lalka)",
       "published": "2026-08-04",

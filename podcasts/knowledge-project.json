@@ -5,8 +5,13 @@
   "feedUrl": "https://feeds.megaphone.fm/FSMI7575968096",
   "homeUrl": "https://fs.blog",
   "canonicalPattern": "https://fs.blog/knowledge-project-podcast/<slug>/",
-  "episodeCount": 285,
+  "episodeCount": 286,
   "episodes": [
+    {
+      "title": "Roblox CEO: How to Make Better Decisions by Fixing Yourself First",
+      "published": "2026-08-18",
+      "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/"
+    },
     {
       "title": "The Mindset Behind Building a Great Little Business | Brad Jacobs",
       "published": "2026-08-04",

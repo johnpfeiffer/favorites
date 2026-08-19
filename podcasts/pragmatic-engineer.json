@@ -1,0 +1,371 @@
+{
+  "show": "The Pragmatic Engineer",
+  "slug": "pragmatic-engineer",
+  "appleId": 1769051199,
+  "feedUrl": "https://api.substack.com/feed/podcast/458709.rss",
+  "homeUrl": "https://newsletter.pragmaticengineer.com/podcast",
+  "canonicalPattern": "https://newsletter.pragmaticengineer.com/p/<slug>",
+  "episodeCount": 72,
+  "episodes": [
+    {
+      "title": "From Chrome DevTools to AI Engineering, with Addy Osmani",
+      "published": "2026-08-19",
+      "url": "https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering"
+    },
+    {
+      "title": "Stop being skeptical about AI for development with Charity Majors",
+      "published": "2026-08-12",
+      "url": "https://newsletter.pragmaticengineer.com/p/stop-being-skeptical-about-ai-for"
+    },
+    {
+      "title": "Formal methods with Hillel Wayne",
+      "published": "2026-07-29",
+      "url": "https://newsletter.pragmaticengineer.com/p/formal-methods-with-hillel-wayne"
+    },
+    {
+      "title": "Context engineering with Dex Horthy",
+      "published": "2026-07-15",
+      "url": "https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy"
+    },
+    {
+      "title": "The Pragmatic Engineer AMA",
+      "published": "2026-07-08",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-ama"
+    },
+    {
+      "title": "How Kent Beck shapes the software engineering industry",
+      "published": "2026-07-01",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-kent-beck-shapes-the-software"
+    },
+    {
+      "title": "Tech interviews with NeetCode",
+      "published": "2026-06-24",
+      "url": "https://newsletter.pragmaticengineer.com/p/tech-interviews-with-neetcode"
+    },
+    {
+      "title": "CI/CD with Robert Erez",
+      "published": "2026-06-17",
+      "url": "https://newsletter.pragmaticengineer.com/p/cicd-with-robert-erez"
+    },
+    {
+      "title": "Kubernetes and retiring at the top with Kelsey Hightower",
+      "published": "2026-06-03",
+      "url": "https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top"
+    },
+    {
+      "title": "Building OpenCode with Dax Raad",
+      "published": "2026-05-27",
+      "url": "https://newsletter.pragmaticengineer.com/p/opencode"
+    },
+    {
+      "title": "Why Rust is different, with Alice Ryhl",
+      "published": "2026-05-20",
+      "url": "https://newsletter.pragmaticengineer.com/p/why-rust-is-different-with-alice"
+    },
+    {
+      "title": "TypeScript, C# and Turbo Pascal with Anders Hejlsberg",
+      "published": "2026-05-13",
+      "url": "https://newsletter.pragmaticengineer.com/p/typescript-c-and-turbo-pascal-with"
+    },
+    {
+      "title": "Building Pi, and what makes self-modifying software so fascinating",
+      "published": "2026-04-29",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-pi-and-what-makes-self-modifying"
+    },
+    {
+      "title": "Designing Data-intensive Applications with Martin Kleppmann",
+      "published": "2026-04-22",
+      "url": "https://newsletter.pragmaticengineer.com/p/designing-data-intensive-applications"
+    },
+    {
+      "title": "DHH’s new way of writing code",
+      "published": "2026-04-08",
+      "url": "https://newsletter.pragmaticengineer.com/p/dhhs-new-way-of-writing-code"
+    },
+    {
+      "title": "Scaling Uber with Thuan Pham (Uber’s first CTO)",
+      "published": "2026-04-01",
+      "url": "https://newsletter.pragmaticengineer.com/p/scaling-uber-with-thuan-pham-ubers"
+    },
+    {
+      "title": "Building WhatsApp with Jean Lee",
+      "published": "2026-03-18",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-whatsapp-with-jean-lee"
+    },
+    {
+      "title": "From IDEs to AI Agents with Steve Yegge",
+      "published": "2026-03-11",
+      "url": "https://newsletter.pragmaticengineer.com/p/from-ides-to-ai-agents-with-steve"
+    },
+    {
+      "title": "Building Claude Code with Boris Cherny",
+      "published": "2026-03-04",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-claude-code-with-boris-cherny"
+    },
+    {
+      "title": "Mitchell Hashimoto’s new way of writing code",
+      "published": "2026-02-25",
+      "url": "https://newsletter.pragmaticengineer.com/p/mitchell-hashimoto"
+    },
+    {
+      "title": "The programming language after Kotlin – with the creator of Kotlin",
+      "published": "2026-02-12",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-programming-language-after-kotlin"
+    },
+    {
+      "title": "The third golden age of software engineering – thanks to AI, with Grady Booch",
+      "published": "2026-02-04",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-third-golden-age-of-software"
+    },
+    {
+      "title": "The creator of Clawd: \"I ship code I don't read\"",
+      "published": "2026-01-28",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code"
+    },
+    {
+      "title": "How AWS S3 is built",
+      "published": "2026-01-21",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-aws-s3-is-built"
+    },
+    {
+      "title": "The history of servers, the cloud, and what’s next – with Oxide",
+      "published": "2025-12-17",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-history-of-servers-the-cloud"
+    },
+    {
+      "title": "Being a founding engineer at an AI startup",
+      "published": "2025-12-03",
+      "url": "https://newsletter.pragmaticengineer.com/p/being-a-founding-engineer-at-an-ai"
+    },
+    {
+      "title": "Code security for software engineers",
+      "published": "2025-11-26",
+      "url": "https://newsletter.pragmaticengineer.com/p/code-security"
+    },
+    {
+      "title": "How AI will change software engineering – with Martin Fowler",
+      "published": "2025-11-19",
+      "url": "https://newsletter.pragmaticengineer.com/p/martin-fowler"
+    },
+    {
+      "title": "Netflix’s Engineering Culture",
+      "published": "2025-11-12",
+      "url": "https://newsletter.pragmaticengineer.com/p/netflix"
+    },
+    {
+      "title": "From Swift to Mojo and high-performance AI Engineering with Chris Lattner",
+      "published": "2025-11-05",
+      "url": "https://newsletter.pragmaticengineer.com/p/from-swift-to-mojo-and-high-performance"
+    },
+    {
+      "title": "Beyond Vibe Coding with Addy Osmani",
+      "published": "2025-10-29",
+      "url": "https://newsletter.pragmaticengineer.com/p/beyond-vibe-coding-with-addy-osmani"
+    },
+    {
+      "title": "Google’s engineering culture",
+      "published": "2025-10-15",
+      "url": "https://newsletter.pragmaticengineer.com/p/googles-engineering-culture"
+    },
+    {
+      "title": "Python, Go, Rust, TypeScript and AI with Armin Ronacher",
+      "published": "2025-10-08",
+      "url": "https://newsletter.pragmaticengineer.com/p/python-go-rust-typescript-and-ai"
+    },
+    {
+      "title": "Hypergrowth startups: Uber and CloudKitchens with Charles-Axel Dein",
+      "published": "2025-09-24",
+      "url": "https://newsletter.pragmaticengineer.com/p/high-growth-startups-uber-and-cloudkitchens"
+    },
+    {
+      "title": "Code Complete with Steve McConnell",
+      "published": "2025-09-10",
+      "url": "https://newsletter.pragmaticengineer.com/p/code-complete-with-steve-mcconnell"
+    },
+    {
+      "title": "The state of VC within software and AI startups – with Peter Walker",
+      "published": "2025-08-06",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-vc-in-2025"
+    },
+    {
+      "title": "Measuring the impact of AI on software engineering – with Laura Tacho",
+      "published": "2025-07-23",
+      "url": "https://newsletter.pragmaticengineer.com/p/measuring-the-impact-of-ai-on-software"
+    },
+    {
+      "title": "Amazon, Google and Vibe Coding with Steve Yegge",
+      "published": "2025-07-16",
+      "url": "https://newsletter.pragmaticengineer.com/p/amazon-google-and-vibe-coding-with"
+    },
+    {
+      "title": "What is a Principal Engineer at Amazon? With Steve Huynh",
+      "published": "2025-07-09",
+      "url": "https://newsletter.pragmaticengineer.com/p/what-is-a-principal-engineer-at-amazon"
+    },
+    {
+      "title": "How AI is changing software engineering at Shopify with Farhan Thawar",
+      "published": "2025-07-02",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-ai-is-changing-software-engineering"
+    },
+    {
+      "title": "The present, past and future of GitHub",
+      "published": "2025-06-18",
+      "url": "https://newsletter.pragmaticengineer.com/p/github"
+    },
+    {
+      "title": "TDD, AI agents and coding with Kent Beck",
+      "published": "2025-06-11",
+      "url": "https://newsletter.pragmaticengineer.com/p/tdd-ai-agents-and-coding-with-kent"
+    },
+    {
+      "title": "50 Years of Microsoft and Developer Tools with Scott Guthrie",
+      "published": "2025-06-04",
+      "url": "https://newsletter.pragmaticengineer.com/p/50-years-of-microsoft"
+    },
+    {
+      "title": "From Software Engineer to AI Engineer – with Janvi Kalra",
+      "published": "2025-05-28",
+      "url": "https://newsletter.pragmaticengineer.com/p/from-software-engineer-to-ai-engineer"
+    },
+    {
+      "title": "How Kubernetes is Built with Kat Cosgrove",
+      "published": "2025-05-14",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-kubernetes-is-built-with-kat"
+    },
+    {
+      "title": "Building Windsurf with Varun Mohan",
+      "published": "2025-05-07",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-windsurf-with-varun-mohan"
+    },
+    {
+      "title": "How to work better with Product, as an Engineer with Ebi Atawodi",
+      "published": "2025-04-30",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-to-work-better-with-product-as"
+    },
+    {
+      "title": "Building Reddit’s iOS and Android app",
+      "published": "2025-04-23",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-reddits-ios-and-android"
+    },
+    {
+      "title": "Working at Amazon as a software engineer – with Dave Anderson",
+      "published": "2025-04-16",
+      "url": "https://newsletter.pragmaticengineer.com/p/working-at-amazon-as-a-software-engineer"
+    },
+    {
+      "title": "The Philosophy of Software Design – with John Ousterhout",
+      "published": "2025-04-09",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-philosophy-of-software-design"
+    },
+    {
+      "title": "Stacked diffs and tooling at Meta with Tomas Reimers",
+      "published": "2025-04-02",
+      "url": "https://newsletter.pragmaticengineer.com/p/stacked-diffs-and-tooling-at-meta"
+    },
+    {
+      "title": "Building Figma Slides with Noah Finer and Jonathan Kaufman",
+      "published": "2025-03-26",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-figma-slides-with-noah-finer"
+    },
+    {
+      "title": "How Linux is built with Greg Kroah-Hartman",
+      "published": "2025-03-19",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-linux-is-built-with-greg-kroah"
+    },
+    {
+      "title": "Developer Experience at Uber with Gautam Korlam",
+      "published": "2025-03-12",
+      "url": "https://newsletter.pragmaticengineer.com/p/developer-experience-at-uber"
+    },
+    {
+      "title": "Design-first software engineering: Craft – with Balint Orosz",
+      "published": "2025-03-05",
+      "url": "https://newsletter.pragmaticengineer.com/p/design-first-software-engineering"
+    },
+    {
+      "title": "The man behind the Big Tech comics – with Manu Cornet",
+      "published": "2025-02-26",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-man-behind-the-big-tech-comics"
+    },
+    {
+      "title": "Developer productivity with Dr. Nicole Forsgren (creator of DORA, co-creator of SPACE)",
+      "published": "2025-02-19",
+      "url": "https://newsletter.pragmaticengineer.com/p/developer-productivity-with-dr-nicole"
+    },
+    {
+      "title": "Live streaming at world-record scale with Ashutosh Agrawal",
+      "published": "2025-02-12",
+      "url": "https://newsletter.pragmaticengineer.com/p/live-streaming-at-world-record-scale"
+    },
+    {
+      "title": "AI Engineering with Chip Huyen",
+      "published": "2025-02-05",
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-engineering-with-chip-huyen"
+    },
+    {
+      "title": "Building a best-selling game with a tiny team – with Jonas Tyroller",
+      "published": "2025-01-29",
+      "url": "https://newsletter.pragmaticengineer.com/p/thronefall"
+    },
+    {
+      "title": "Observability: the present and future, with Charity Majors",
+      "published": "2025-01-22",
+      "url": "https://newsletter.pragmaticengineer.com/p/observability-the-present-and-future"
+    },
+    {
+      "title": "“The Coding Machine” at Meta with Michael Novati",
+      "published": "2025-01-15",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-coding-machine-at-meta"
+    },
+    {
+      "title": "Confessions of a Big Tech recruiter",
+      "published": "2025-01-08",
+      "url": "https://newsletter.pragmaticengineer.com/p/confessions-of-a-big-tech-recruiter"
+    },
+    {
+      "title": "Shipping projects at Big Tech with Sean Goedecke",
+      "published": "2024-12-18",
+      "url": "https://newsletter.pragmaticengineer.com/p/shipping-projects-at-big-tech-with"
+    },
+    {
+      "title": "Notion: going native on iOS and Android",
+      "published": "2024-12-11",
+      "url": "https://newsletter.pragmaticengineer.com/p/notion-going-native-on-ios-and-android"
+    },
+    {
+      "title": "Software architecture with Grady Booch",
+      "published": "2024-12-04",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-architecture-with-grady-booch"
+    },
+    {
+      "title": "Linear: move fast with little process (with first engineering manager Sabin Roman)",
+      "published": "2024-11-20",
+      "url": "https://newsletter.pragmaticengineer.com/p/linear-move-fast-with-little-process"
+    },
+    {
+      "title": "Promotions and tooling at Google (with Irina Stanescu, Ex-Google)",
+      "published": "2024-11-06",
+      "url": "https://newsletter.pragmaticengineer.com/p/promotions-and-tooling-at-google"
+    },
+    {
+      "title": "Twisting the rules of building software: Bending Spoons (the team behind Evernote)",
+      "published": "2024-10-23",
+      "url": "https://newsletter.pragmaticengineer.com/p/twisting-the-rules-of-building-software"
+    },
+    {
+      "title": "Efficient scaleups in 2024 vs 2021: Sourcegraph (with CEO & Co-founder Quinn Slack)",
+      "published": "2024-10-09",
+      "url": "https://newsletter.pragmaticengineer.com/p/quinn-slack-efficient-scalups"
+    },
+    {
+      "title": "AI tools for software engineers, but without the hype – with Simon Willison (co-creator of Django)",
+      "published": "2024-09-25",
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-tools-for-software-engineers-simon-willison"
+    },
+    {
+      "title": "The Pragmatic Engineer Podcast: Trailer",
+      "published": "2024-09-17",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-podcast-trailer"
+    }
+  ]
+}
