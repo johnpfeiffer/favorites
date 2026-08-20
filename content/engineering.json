@@ -39,7 +39,7 @@
     {
       "title": "Finding dependable Go packages (go dependency management)",
       "url": "https://youtube.com/watch?v=urarTyKn9cg",
-      "published": null,
+      "published": "2019-08-01",
       "tags": [
         "Engineering",
         "Golang",
@@ -61,7 +61,7 @@
     {
       "title": "Fragmented Podcast: The Legacy Code Change Algorithm",
       "url": "https://fragmentedpodcast.com/episodes/219/",
-      "published": null,
+      "published": "2021-07-19",
       "tags": [
         "Engineering",
         "Legacy Code",
@@ -72,7 +72,7 @@
     {
       "title": "Go Time: Mechanical Sympathy with Bill Kennedy",
       "url": "https://changelog.com/gotime/6",
-      "published": null,
+      "published": "2016-06-23",
       "tags": [
         "Engineering",
         "Performance",
@@ -82,7 +82,7 @@
     {
       "title": "Fragmented Podcast: 3 Things Every Developer Needs To Know How To Do",
       "url": "https://fragmentedpodcast.com/episodes/214/",
-      "published": null,
+      "published": "2021-06-07",
       "tags": [
         "Engineering",
         "Career",
@@ -92,7 +92,7 @@
     {
       "title": "Fragmented Podcast: YAGNI - You Aren't Going To Need It",
       "url": "https://fragmentedpodcast.com/episodes/41/",
-      "published": null,
+      "published": "2016-05-23",
       "tags": [
         "Engineering",
         "Software Design",
@@ -102,7 +102,7 @@
     {
       "title": "Programming Advice for My Younger Self",
       "url": "https://mbuffett.com/posts/programming-advice-younger-self",
-      "published": null,
+      "published": "2024-06-29",
       "tags": [
         "Engineering",
         "Career"
@@ -122,7 +122,7 @@
     {
       "title": "Becoming a Principal Engineer at Hashicorp: Evan Phoenix",
       "url": "https://fallthrough.transistor.fm/19",
-      "published": null,
+      "published": "2025-05-12",
       "tags": [
         "Engineering",
         "Career",
@@ -200,16 +200,16 @@
       ]
     },
     {
-  "title": "Git Commands to run before Reading any Codebase",
-  "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-  "published": "2026-04-08",
-  "tags": [
-    "Git",
-    "Code Review",
-    "Engineering",
-    "Article"
-  ]
-},
+      "title": "Git Commands to run before Reading any Codebase",
+      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "published": "2026-04-08",
+      "tags": [
+        "Git",
+        "Code Review",
+        "Engineering",
+        "Article"
+      ]
+    },
     {
       "title": "SE Radio: The CAP Theorem Then and Now",
       "url": "https://se-radio.net/2015/05/the-cap-theorem-then-and-now",
@@ -233,7 +233,7 @@
     {
       "title": "The Log: What Every Software Engineer Should Know About Real-time Data's Unifying Abstraction",
       "url": "https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying",
-      "published": null,
+      "published": "2013-12-16",
       "tags": [
         "Engineering",
         "Logging",
@@ -243,7 +243,7 @@
     {
       "title": "Increment: Documentation",
       "url": "https://increment.com/documentation/",
-      "published": null,
+      "published": "2018-08-01",
       "tags": [
         "Engineering",
         "Documentation"
@@ -264,7 +264,7 @@
     {
       "title": "On Writing Tech Specs",
       "url": "https://codeburst.io/on-writing-tech-specs-6404c9791159?gi=147dabb57a56",
-      "published": null,
+      "published": "2017-11-01",
       "tags": [
         "Engineering",
         "Requirements",
@@ -308,7 +308,7 @@
     {
       "title": "Cautionary Tales: LaLa Land - Galileo's Warning (quality theater)",
       "url": "https://timharford.com/2019/11/cautionary-tales-ep-3-lala-land-galileos-warning/",
-      "published": null,
+      "published": "2019-11-22",
       "tags": [
         "Engineering",
         "Quality",
@@ -318,7 +318,7 @@
     {
       "title": "Code to Debug",
       "url": "https://programmingisterrible.com/post/173883533613/code-to-debug",
-      "published": null,
+      "published": "2018-05-14",
       "tags": [
         "Engineering",
         "Debugging",
@@ -338,7 +338,7 @@
     {
       "title": "Why Most Unit Testing is Waste",
       "url": "https://web.archive.org/web/20180109202817if_/https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf",
-      "published": null,
+      "published": "2014-08-05",
       "tags": [
         "Engineering",
         "Testing",
@@ -378,7 +378,7 @@
     {
       "title": "7 Surefire Strategies to Prevent Downtime",
       "url": "https://www.bluematador.com/blog/delight-customers-this-black-friday-7-surefire-strategies-to-prevent-downtime",
-      "published": null,
+      "published": "2017-11-22",
       "tags": [
         "Engineering",
         "Quality",
@@ -388,7 +388,7 @@
     {
       "title": "Always Be Automating by Thomas Limoncelli",
       "url": "https://queue.acm.org/detail.cfm?id=3197520",
-      "published": null,
+      "published": "2018-02-01",
       "tags": [
         "Engineering",
         "DevOps"
@@ -397,7 +397,7 @@
     {
       "title": "Small Batches Principle by Thomas Limoncelli",
       "url": "https://queue.acm.org/detail.cfm?id=2945077",
-      "published": null,
+      "published": "2016-03-01",
       "tags": [
         "Engineering",
         "Quality",
@@ -408,7 +408,7 @@
     {
       "title": "Fragmented Podcast: The Testing Paradox",
       "url": "https://fragmentedpodcast.com/episodes/183/",
-      "published": null,
+      "published": "2019-11-25",
       "tags": [
         "Engineering",
         "Testing",
@@ -419,7 +419,7 @@
     {
       "title": "Developer Effectiveness by Martin Fowler",
       "url": "https://martinfowler.com/articles/developer-effectiveness.html",
-      "published": null,
+      "published": "2021-01-05",
       "tags": [
         "Engineering",
         "Productivity",
@@ -462,7 +462,7 @@
     {
       "title": "Go Time: All About Infrastructure and DevOps",
       "url": "https://changelog.com/gotime/142",
-      "published": null,
+      "published": "2020-08-13",
       "tags": [
         "Engineering",
         "Infrastructure",
@@ -495,7 +495,7 @@
     {
       "title": "Software Engineering Daily: Cloud Native Applications with Cornelia Davis",
       "url": "https://softwareengineeringdaily.com/2020/12/30/cloud-native-applications-with-cornelia-davis-repeat/",
-      "published": null,
+      "published": "2020-12-30",
       "tags": [
         "Engineering",
         "Cloud",
@@ -526,7 +526,7 @@
     {
       "title": "Visual/Graphical walk through for Quicksort",
       "url": "https://idea-instructions.com/quick-sort/",
-      "published": null,
+      "published": "2018-03-16",
       "tags": [
         "Engineering",
         "Visualization",
@@ -537,7 +537,7 @@
     {
       "title": "Visual/Graphical cheatsheet for CS Algorithms",
       "url": "https://photonlines.substack.com/p/visual-focused-algorithms-cheat-sheet",
-      "published": null,
+      "published": "2025-03-19",
       "tags": [
         "Engineering",
         "Visualization",
@@ -548,7 +548,7 @@
     {
       "title": "Visual/Graphical cheatsheet for CS Data Structures",
       "url": "https://photonlines.substack.com/p/visual-data-structures-cheat-sheet",
-      "published": null,
+      "published": "2024-08-14",
       "tags": [
         "Engineering",
         "Visualization",
@@ -571,7 +571,7 @@
     {
       "title": "Data Sketching Summary",
       "url": "https://queue.acm.org/detail.cfm?id=3104030",
-      "published": null,
+      "published": "2017-04-01",
       "tags": [
         "Engineering",
         "Algorithms"
@@ -604,7 +604,7 @@
     {
       "title": "Microsoft: Introduction to Domain Driven Design",
       "url": "https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design",
-      "published": null,
+      "published": "2009-02-01",
       "tags": [
         "Engineering",
         "Domain Driven Design",
@@ -626,7 +626,7 @@
     {
       "title": "Coding Blocks: Clean Code - Programming Around Boundaries",
       "url": "https://www.codingblocks.net/podcast/clean-code-programming-around-boundaries",
-      "published": null,
+      "published": "2017-01-08",
       "tags": [
         "Engineering",
         "Clean Code",
@@ -637,7 +637,7 @@
     {
       "title": "Virtual DDD: Bounded Contexts, Microservices, and Everything in Between",
       "url": "https://virtualddd.com/sessions/ddddd-20-bounded-contexts-microservices-and-everything-in-between/",
-      "published": null,
+      "published": "2020-05-15",
       "tags": [
         "Engineering",
         "Domain Driven Design",
@@ -669,7 +669,7 @@
     {
       "title": "On Becoming a Software Architect with Lee Atchison",
       "url": "https://www.theartifact.io/videos/ep-4-on-becoming-a-software-architect-with-lee-atchison/",
-      "published": null,
+      "published": "2022-01-31",
       "tags": [
         "Engineering",
         "Architecture",
@@ -700,7 +700,7 @@
     {
       "title": "Martin Fowler: Drawbacks of Serverless",
       "url": "https://martinfowler.com/articles/serverless.html#drawbacks",
-      "published": null,
+      "published": "2018-05-22",
       "tags": [
         "Engineering",
         "Martin Fowler",
@@ -723,7 +723,7 @@
     {
       "title": "Virtual DDD: Orchestration and Choreography",
       "url": "https://virtualddd.com/sessions/orchestration-and-choreography-with-laila-bougria-udi-dahan/",
-      "published": null,
+      "published": "2023-07-26",
       "tags": [
         "Engineering",
         "Orchestration",
@@ -734,7 +734,7 @@
     {
       "title": "Go Time: Event Driven Systems and Architecture",
       "url": "https://changelog.com/gotime/297",
-      "published": null,
+      "published": "2023-11-14",
       "tags": [
         "Engineering",
         "Event Driven",
@@ -747,7 +747,7 @@
     {
       "title": "What's the Difference Between Event and Command?",
       "url": "https://event-driven.io/en/whats_the_difference_between_event_and_command/",
-      "published": null,
+      "published": "2021-02-17",
       "tags": [
         "Engineering",
         "Event Driven",
@@ -770,7 +770,7 @@
     {
       "title": "Evolving Architecture and Organization at eBay with Randy Shoup",
       "url": "https://www.softwaresessions.com/episodes/ebay-architecture/",
-      "published": null,
+      "published": "2022-08-17",
       "tags": [
         "Engineering",
         "Architecture",
@@ -783,7 +783,7 @@
     {
       "title": "Microservices: Real Architectural Decisions by Camille Fournier",
       "url": "https://www.elidedbranches.com/2016/08/microservices-real-architectural.html",
-      "published": null,
+      "published": "2016-08-19",
       "tags": [
         "Engineering",
         "Microservices",
@@ -794,7 +794,7 @@
     {
       "title": "Conway's Law: A Theoretical Basis for the Microservice Architecture",
       "url": "https://alibaba-cloud.medium.com/conways-law-a-theoretical-basis-for-the-microservice-architecture-c666f7fcc66a",
-      "published": null,
+      "published": "2019-10-09",
       "tags": [
         "Engineering",
         "Conway's Law",
@@ -816,7 +816,7 @@
     {
       "title": "Go Time: Monolith vs Microservices",
       "url": "https://changelog.com/gotime/126",
-      "published": null,
+      "published": "2020-04-16",
       "tags": [
         "Engineering",
         "Monolith",
@@ -829,7 +829,7 @@
     {
       "title": "Netflix: Lessons Learned from the AWS Outage",
       "url": "https://netflixtechblog.com/lessons-netflix-learned-from-the-aws-outage-deefe5fd0c04",
-      "published": null,
+      "published": "2011-04-29",
       "tags": [
         "Engineering",
         "Netflix",
@@ -840,7 +840,7 @@
     {
       "title": "High Scalability: WhatsApp Architecture Facebook Bought for $19 Billion",
       "url": "https://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html",
-      "published": null,
+      "published": "2014-02-26",
       "tags": [
         "Engineering",
         "WhatsApp",
@@ -851,7 +851,7 @@
     {
       "title": "High Scalability: How WhatsApp Grew to Nearly 500 Million Users",
       "url": "https://highscalability.com/blog/2014/3/31/how-whatsapp-grew-to-nearly-500-million-users-11000-cores-an.html",
-      "published": null,
+      "published": "2014-03-31",
       "tags": [
         "Engineering",
         "WhatsApp",
@@ -863,7 +863,7 @@
     {
       "title": "High Scalability: Justin.tv's Live Video Broadcasting Architecture",
       "url": "https://highscalability.com/blog/2010/3/16/justintvs-live-video-broadcasting-architecture.html",
-      "published": null,
+      "published": "2010-03-16",
       "tags": [
         "Engineering",
         "Scalability",
@@ -895,7 +895,7 @@
     {
       "title": "Coding Blocks: Transactions in Distributed Systems",
       "url": "https://www.codingblocks.net/podcast/transactions-in-distributed-systems/",
-      "published": null,
+      "published": "2021-09-26",
       "tags": [
         "Engineering",
         "Distributed Systems",
@@ -961,7 +961,7 @@
     {
       "title": "Rob Pike: Concurrency is Not Parallelism",
       "url": "https://blog.golang.org/waza-talk",
-      "published": null,
+      "published": "2013-01-16",
       "tags": [
         "Engineering",
         "Concurrency",
@@ -1021,7 +1021,7 @@
     {
       "title": "Leslie Lamport: Paxos Made Simple",
       "url": "https://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf",
-      "published": null,
+      "published": "2001-12-01",
       "tags": [
         "Engineering",
         "Turing Award",
@@ -1033,7 +1033,7 @@
     {
       "title": "Darknet Diaries: Magecart - Credit Card Skimming and Websites",
       "url": "https://darknetdiaries.com/episode/52/",
-      "published": null,
+      "published": "2019-11-26",
       "tags": [
         "Engineering",
         "Security",
@@ -1043,7 +1043,7 @@
     {
       "title": "Wired: Confessions of Marcus Hutchins - Hacker Who Saved the Internet",
       "url": "https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/",
-      "published": null,
+      "published": "2020-05-12",
       "tags": [
         "Engineering",
         "Security"
@@ -1082,7 +1082,7 @@
     {
       "title": "Why You're Wrong About REST from Fallthrough",
       "url": "https://fallthrough.transistor.fm/28",
-      "published": null,
+      "published": "2025-07-14",
       "tags": [
         "Engineering",
         "HTTP",
@@ -1093,7 +1093,7 @@
     {
       "title": "How HTTP works with Julia Evans",
       "url": "https://www.softwaresessions.com/episodes/how-http-works-with-julia-evans/",
-      "published": null,
+      "published": "2019-09-16",
       "tags": [
         "Engineering",
         "HTTP",
@@ -1125,7 +1125,7 @@
     {
       "title": "How to Build a Personal Webpage From Scratch - Create Yourself a Blog",
       "url": "https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/",
-      "published": null,
+      "published": "2022-02-16",
       "tags": [
         "Engineering",
         "Blog",
@@ -1146,7 +1146,7 @@
     {
       "title": "Dan Luu: I Could Build That in a Weekend",
       "url": "https://danluu.com/sounds-easy/",
-      "published": null,
+      "published": "2016-10-01",
       "tags": [
         "Engineering",
         "Estimation",
@@ -1167,7 +1167,7 @@
     {
       "title": "Paul Graham: Maker's Schedule, Manager's Schedule",
       "url": "https://www.paulgraham.com/makersschedule.html",
-      "published": null,
+      "published": "2009-07-01",
       "tags": [
         "Engineering",
         "Time Management",
@@ -1180,7 +1180,7 @@
     {
       "title": "Go Time: The Trouble with Databases",
       "url": "https://changelog.com/gotime/132",
-      "published": null,
+      "published": "2020-05-28",
       "tags": [
         "Engineering",
         "Databases",
@@ -1200,7 +1200,7 @@
     {
       "title": "Lex Fridman: David Patterson on RISC (Reduced Instruction Set Computer)",
       "url": "https://lexfridman.com/david-patterson/",
-      "published": null,
+      "published": "2020-06-27",
       "tags": [
         "Engineering",
         "RISC",
@@ -1223,7 +1223,7 @@
     {
       "title": "BBC: In Our Time - Game Theory",
       "url": "https://www.bbc.co.uk/programmes/b01h75xp",
-      "published": null,
+      "published": "2012-05-10",
       "tags": [
         "Engineering",
         "Game Theory",
@@ -1233,7 +1233,7 @@
     {
       "title": "The Evolution of Trust - Interactive Game Theory for Prisoner's Dilemma",
       "url": "https://ncase.me/trust/",
-      "published": null,
+      "published": "2017-07-01",
       "tags": [
         "Engineering",
         "Game Theory",
@@ -1243,7 +1243,7 @@
     {
       "title": "Radiolab: The Golden Rule - Game Theory in Practice",
       "url": "https://radiolab.org/podcast/golden-rule-2304",
-      "published": null,
+      "published": "2023-04-28",
       "tags": [
         "Engineering",
         "Game Theory",
@@ -1253,7 +1253,7 @@
     {
       "title": "Claude Shannon: A Mathematical Theory of Communication",
       "url": "https://www.essrl.wustl.edu/~jao/itrg/shannon.pdf",
-      "published": null,
+      "published": "1948-07-01",
       "tags": [
         "Engineering",
         "Information Theory",
@@ -1264,7 +1264,7 @@
     {
       "title": "Leslie Lamport: Time, Clocks, and the Ordering of Events in a Distributed System",
       "url": "https://research.microsoft.com/en-us/um/people/lamport/pubs/time-clocks.pdf",
-      "published": null,
+      "published": "1978-07-01",
       "tags": [
         "Engineering",
         "Turing Award",
@@ -1276,7 +1276,7 @@
     {
       "title": "Butler Lampson: Hints for Computer System Design (1983)",
       "url": "https://bwlampson.site/33-Hints/WebPage.html",
-      "published": null,
+      "published": "1983-10-01",
       "tags": [
         "Engineering",
         "Turing Award",
@@ -1288,7 +1288,7 @@
     {
       "title": "Butler Lampson: Almost Everyone Who Uses a Pencil Will Use a Computer (1972)",
       "url": "https://bwlampson.site/10-SPEGuestEditorial/WebPage.html",
-      "published": null,
+      "published": "1972-04-01",
       "tags": [
         "Engineering",
         "Turing Award",
@@ -1301,7 +1301,7 @@
     {
       "title": "C.A.R. Hoare: An Axiomatic Basis for Computer Programming",
       "url": "https://cacm.acm.org/magazines/2009/10/42360-retrospective-an-axiomatic-basis-for-computer-programming/fulltext",
-      "published": null,
+      "published": "1969-10-01",
       "tags": [
         "Engineering",
         "Turing Award",
@@ -1313,7 +1313,7 @@
     {
       "title": "AWS Lambdas are Powered by Firecracker OS",
       "url": "https://www.usenix.org/system/files/nsdi20-paper-agache.pdf",
-      "published": null,
+      "published": "2020-02-01",
       "tags": [
         "Engineering",
         "AWS",
