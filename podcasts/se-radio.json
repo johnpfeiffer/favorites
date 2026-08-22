@@ -5,8 +5,13 @@
   "feedUrl": "https://rss.libsyn.com/shows/21070/destinations/23379.xml",
   "homeUrl": "https://se-radio.net",
   "canonicalPattern": "https://se-radio.net/YYYY/MM/episode-<n>-<slug>",
-  "episodeCount": 738,
+  "episodeCount": 739,
   "episodes": [
+    {
+      "title": "SE Radio 734: Sathiesh Veera on Engineering Data-Protection Guardrails with LLMs",
+      "published": "2026-08-19",
+      "url": "https://se-radio.net/2026/08/se-radio-734-sathiesh-veera-on-engineering-data-protection-guardrails-with-llms/"
+    },
     {
       "title": "SE Radio 733: Max Corbridge on Securing AI Agents",
       "published": "2026-08-13",

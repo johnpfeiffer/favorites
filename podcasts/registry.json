@@ -161,7 +161,7 @@
       "feedUrl": "https://feeds.transistor.fm/fallthrough",
       "homeUrl": "https://fallthrough.fm",
       "canonicalPattern": "https://fallthrough.transistor.fm/<episode-number>",
-      "notes": "Transistor feed item links are share.transistor.fm/s/<id> shortlinks that do not redirect; existing entries use the fallthrough.transistor.fm/<episode-number> pages. The share page's embedded JSON lists the episode number and hosts. fallthrough.fm 302s to the transistor site."
+      "notes": "Transistor feed item links are inconsistent: older items use share.transistor.fm/s/<id> shortlinks that do not redirect, while newer ones (since ~2026-08) use fallthrough.fm/<episode-number>. Existing entries use the fallthrough.transistor.fm/<episode-number> pages. The share page's embedded JSON lists the episode number and hosts."
     },
     {
       "slug": "effective-engineering-manager",
@@ -171,6 +171,15 @@
       "homeUrl": "https://www.effectiveem.com",
       "canonicalPattern": "https://www.effectiveem.com/<slug>/",
       "notes": "Feed items link to effectiveem.com episode pages with utm query params (strip them). Episode titles on the site can differ slightly from Apple trackNames (site is canonical)."
+    },
+    {
+      "slug": "front-end-happy-hour",
+      "name": "Front End Happy Hour",
+      "appleId": 1089047924,
+      "feedUrl": "https://anchor.fm/s/fb57a4a8/podcast/rss",
+      "homeUrl": "https://www.frontendhappyhour.com",
+      "canonicalPattern": "https://www.frontendhappyhour.com/episodes/<slug>",
+      "notes": "Anchor/Spotify feed; item links point at podcasters.spotify.com, but each description ends with an 'Episode transcript:' link to the frontendhappyhour.com episode page, which is the canonical we store. The site is JS-rendered (curl gets a shell page); confirm slugs via the feed's transcript links or the search index."
     }
   ]
 }

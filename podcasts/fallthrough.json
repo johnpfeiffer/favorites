@@ -5,8 +5,13 @@
   "feedUrl": "https://feeds.transistor.fm/fallthrough",
   "homeUrl": "https://fallthrough.fm",
   "canonicalPattern": "https://fallthrough.transistor.fm/<episode-number>",
-  "episodeCount": 88,
+  "episodeCount": 89,
   "episodes": [
+    {
+      "title": "A Modest Proposal Proposal",
+      "published": "2026-08-22",
+      "url": "https://fallthrough.fm/85"
+    },
     {
       "title": "Backlog to the Future",
       "published": "2026-08-15",

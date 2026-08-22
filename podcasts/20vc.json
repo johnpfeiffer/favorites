@@ -5,8 +5,18 @@
   "feedUrl": "https://rss.libsyn.com/shows/61840/destinations/240976.xml",
   "homeUrl": "https://www.thetwentyminutevc.com",
   "canonicalPattern": "https://www.thetwentyminutevc.com/<guest-slug>",
-  "episodeCount": 1497,
+  "episodeCount": 1499,
   "episodes": [
+    {
+      "title": "20VC: The AI Bubble Will Burst: Half the Neoclouds Will Die | China: Should We Ban Chip Exports & Be Fearful of Chinese Open-Source | Mag7: Who Dies and Who Thrives: Why Meta is Meh and Microsoft is Mega",
+      "published": "2026-08-22",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-the-ai-bubble-will-burst-half-the-neoclouds-will-die-china-should-we-ban-chip-exports-be-fearful-of-chinese-open-source-mag7-who-dies-and-who-thrives-why-meta-is-meh-and-microsoft-is-mega"
+    },
+    {
+      "title": "20VC: SpaceX Buys Cursor for $60BN | Stripe's $8BN OpenRouter Bet | Anthropic's First Profit & The Math Behind Reaching $600BN in Revenue? | Lovable and Higgsfield Raise Mega Rounds",
+      "published": "2026-08-20",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-spacex-buys-cursor-for-60bn-stripes-8bn-openrouter-bet-anthropics-first-profit-the-math-behind-reaching-600bn-in-revenue-lovable-and-higgsfield-raise-mega-rounds"
+    },
     {
       "title": "20VC: Uber President on The Untold Uber Stories: Travis, China and Self-Driving | Why Autonomy Is Existential | How to Beat DoorDash to #1 in Food with Andrew MacDonald",
       "published": "2026-08-17",
