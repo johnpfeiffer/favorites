@@ -1,6 +1,6 @@
 ---
 name: add-favorite
-description: Add a new link to the favorites JSON collection with verified metadata. Use when adding one or more URLs to content/*.json, including sleuthing published dates, canonical podcast URLs via the committed podcasts/ episode indexes, archive.org alternates, and reusing existing tags.
+description: Add a new link to the favorites JSON collection with verified metadata. Use when adding one or more URLs to content/*.json, including canonical podcast URLs via the committed podcasts/ episode indexes, archive.org alternates, and reusing existing tags. Published-date resolution is owned by the resolve-published-date skill.
 ---
 
 # Add a favorite
@@ -20,7 +20,7 @@ Add links to `content/*.json` so they pass `./validate-json.sh`, dedupe cleanly 
 ```
 
 - `alternate-url` is optional; omit it when none exists. `published` is ISO `YYYY-MM-DD` or `null`.
-- `published` records the initial distribution/event date, not the file or upload timestamp. For blogs and web articles the two are highly correlated, but for videos of live events (conference talks, panels, recorded meetups) there can be a lag between the event and the upload — use the event date when known (month-precision `YYYY-MM-01` when only the month is verifiable), and note the upload date in the PR body.
+- `published` records the initial distribution/event date, not the file or upload timestamp. For blogs and web articles the two are highly correlated, but for videos of live events (conference talks, panels, recorded meetups) there can be a lag between the event and the upload — use the event date when known (month-precision `YYYY-MM-01` when only the month is verifiable), and note the upload date in the PR body. Resolve dates with the `resolve-published-date` skill, which owns the full evidence ladder (URL path → podcast indexes → page metadata → Wayback → Crossref → HN) and the precision rules.
 - `alternate-url` usually holds an archive.org snapshot or podcast mirror, but can hold a canonical reference page (e.g. Wikipedia for a book) when the requester asks for it.
 - When the original link is defunct (dead site, error page, or redirect to unrelated content), flip the two fields: the archive.org snapshot becomes the canonical `url` and the original source link becomes the `alternate-url`. Flag the defunct link in the PR body.
 - There is no `type` field. Media type is a capitalized tag, conventionally last in the array. The complete set in use: `Podcast`, `Blog`, `Article`, `Video`, `Book`, `Paper`.
@@ -37,21 +37,11 @@ Five files: `ai.json`, `business.json`, `engineering.json`, `history.json`, `peo
 
 ## Metadata sleuthing
 
-Published date (the initial distribution/event date — see the `published` semantics above), in order of preference:
-1. URL path (`stackoverflow.blog/2026/06/26/...`), page byline, or MP3 filename (`career-tools-2024-12-19.mp3`). Also check schema.org/JSON-LD `datePublished` meta tags when no byline is visible.
-2. When working from a Wayback snapshot (e.g. for a defunct link), grep the archived HTML source for the original page's metadata: `article:published_time`, `article:modified_time`, `article:author` meta tags and the JSON-LD block (`"datePublished"`, `"dateModified"`). Wayback archives the original HTML verbatim and only rewrites URLs (which is why `"@context"` shows up as `web.archive.org/web/<ts>/https://schema.org`), so these values are the original publisher's, not archive.org's. Identical values across two independent snapshots corroborate the date.
-3. Podcast RSS feed `pubDate` (see below). For shows in `podcasts/registry.json`, grep the committed episode index instead of downloading the feed.
-4. Web search index date (when the page doesn't render one statically, or the site bot-blocks fetching — see below). Corroborate with the earliest Wayback capture.
-5. Hacker News threads: the official API (`https://hacker-news.firebaseio.com/v0/item/<id>.json`) returns the exact `title` and `time`.
-6. For content developed in a git repo (e.g. an essay whose source lives on GitHub), the first commit date of the source repo.
+**Published dates**: use the `resolve-published-date` skill. It owns the evidence ladder (URL path → committed podcast indexes → page metadata → Wayback snapshot forensics → Crossref → bibliographic records → HN corroboration), the semantics (initial distribution/event date, original airing over re-release), the precision rules (exact day → `YYYY-MM-01` month fallback → `null` with evidence), bot-block fetch workarounds, and the living-reference `null` convention (blog homepages, index pages, continuously revised docs, Wikipedia articles, GitHub READMEs).
 
-If the exact day stays unverifiable, use `null` and note the evidence in the PR body (e.g. earliest Wayback snapshot, copyright year). Before trusting a URL, verify the live page still serves the expected content: when the original link is defunct (a 301 redirect to unrelated content, an error page, or a JS-heavy page that renders blank), use the Wayback snapshot as the canonical `url`, put the original source link in `alternate-url`, and flag it in the PR.
+Canonical URL and `alternate-url` work stays here. Before trusting a URL, verify the live page still serves the expected content: when the original link is defunct (a 301 redirect to unrelated content, an error page, or a JS-heavy page that renders blank), use the Wayback snapshot as the canonical `url`, put the original source link in `alternate-url`, and flag it in the PR.
 
-Distinguish bot-blocking from defunct. A 403 or a Cloudflare "Attention Required" page (NYT, Medium, hbr.org, and nsa.gov all bot-block curl) usually means the site is alive but refusing non-browser clients — retry with FetchUrl or a browser user-agent, and keep the original as canonical (paywalled-but-live stays canonical too; the Wayback snapshot goes in `alternate-url`). Only flip fields when the content is actually gone: 404, dead or parked domain, redirect to unrelated content. When a link 404s, first web-search the article title for a moved canonical on the same site (publishers re-slug posts); use the moved URL as canonical if it serves the content, and only apply the defunct flip if the moved URL is dead too. If a slug now serves a retitled version of the same article, keep the URL and reflect the current page title (the submitter's framing can survive as a parenthetical).
-
-Living reference pages (NIST DADS dictionary entries, continuously revised textbooks) have no publish date — use `null`, or the page's "entry modified" date if the requester prefers a date.
-
-For videos, fetching the YouTube watch URL returns the title, channel, and upload date. For conference talks, verify the event date via the conference's own archive (e.g. gotopia.tech session pages) or event listings (e.g. EU Agenda); uploads can lag the event by months. For interviews released as both a podcast episode and a video, the podcast release date is the initial distribution (typically a day ahead of the video upload).
+Distinguish bot-blocking from defunct. A 403 or a Cloudflare "Attention Required" page (NYT, Medium, hbr.org, and nsa.gov all bot-block curl) usually means the site is alive but refusing non-browser clients — retry with FetchUrl or a browser user-agent, and keep the original as canonical (paywalled-but-live stays canonical too; the Wayback snapshot goes in `alternate-url`). Only flip fields when the content is actually gone: 404, dead or parked domain, redirect to unrelated content. When a link 404s, first web-search the article title for a moved canonical on the same site (publishers re-slug posts, and shows rebrand — e.g. an art19 show moved to omny.fm); use the moved URL as canonical if it serves the content, and only apply the defunct flip if the moved URL is dead too. If a slug now serves a retitled version of the same article, keep the URL and reflect the current page title (the submitter's framing can survive as a parenthetical).
 
 The Wayback APIs occasionally return 503s for long stretches. Retry once or twice, then omit the unverified alternates rather than guessing, note the outage in the PR body, and backfill later. When the API does cooperate, add the latest 200 capture as `alternate-url` even for healthy live links — sites rot eventually.
 
