@@ -1,0 +1,456 @@
+{
+  "show": "Fallthrough",
+  "slug": "fallthrough",
+  "appleId": 1783181295,
+  "feedUrl": "https://feeds.transistor.fm/fallthrough",
+  "homeUrl": "https://fallthrough.fm",
+  "canonicalPattern": "https://fallthrough.transistor.fm/<episode-number>",
+  "episodeCount": 89,
+  "episodes": [
+    {
+      "title": "A Modest Proposal Proposal",
+      "published": "2026-08-22",
+      "url": "https://fallthrough.fm/85"
+    },
+    {
+      "title": "Backlog to the Future",
+      "published": "2026-08-15",
+      "url": "https://fallthrough.fm/84"
+    },
+    {
+      "title": "Vibe and Prejudice",
+      "published": "2026-08-08",
+      "url": "https://share.transistor.fm/s/1121bfac"
+    },
+    {
+      "title": "Token Maxx: Fury Road",
+      "published": "2026-08-01",
+      "url": "https://share.transistor.fm/s/1d91dad4"
+    },
+    {
+      "title": "I, Builder",
+      "published": "2026-07-25",
+      "url": "https://fallthrough.skriptble.press/episode/45033VZ3/i-builder"
+    },
+    {
+      "title": "Everything Agentic All at Once",
+      "published": "2026-07-18",
+      "url": "https://share.transistor.fm/s/e455eb34"
+    },
+    {
+      "title": "Landlord of the Rings",
+      "published": "2026-07-11",
+      "url": "https://share.transistor.fm/s/f9d7464b"
+    },
+    {
+      "title": "Under Pressure",
+      "published": "2026-07-04",
+      "url": "https://share.transistor.fm/s/1977d4d4"
+    },
+    {
+      "title": "The Spy Who Banned Me",
+      "published": "2026-06-27",
+      "url": "https://share.transistor.fm/s/c4266d8f"
+    },
+    {
+      "title": "Of Fables and Mythos",
+      "published": "2026-06-20",
+      "url": "https://share.transistor.fm/s/ae818884"
+    },
+    {
+      "title": "Shall We Play A Game?",
+      "published": "2026-06-13",
+      "url": "https://share.transistor.fm/s/ec9dd258"
+    },
+    {
+      "title": "Pull the (AI) Lever, Kronk!",
+      "published": "2026-06-06",
+      "url": "https://share.transistor.fm/s/e06de378"
+    },
+    {
+      "title": "Dependencies All The Way Down",
+      "published": "2026-05-30",
+      "url": "https://share.transistor.fm/s/975c2de5"
+    },
+    {
+      "title": "Terminal Velocity",
+      "published": "2026-05-23",
+      "url": "https://share.transistor.fm/s/932da68f"
+    },
+    {
+      "title": "He Who Controls the Source",
+      "published": "2026-05-16",
+      "url": "https://share.transistor.fm/s/c0b8f685"
+    },
+    {
+      "title": "Forging Ahead",
+      "published": "2026-05-09",
+      "url": "https://share.transistor.fm/s/4774655a"
+    },
+    {
+      "title": "Regression to the Mean",
+      "published": "2026-05-02",
+      "url": "https://share.transistor.fm/s/dc133519"
+    },
+    {
+      "title": "No Country for Old Maintainers",
+      "published": "2026-04-25",
+      "url": "https://share.transistor.fm/s/fbb25d36"
+    },
+    {
+      "title": "Supply Chain Reaction",
+      "published": "2026-04-18",
+      "url": "https://share.transistor.fm/s/8f608deb"
+    },
+    {
+      "title": "Another Spectre In The Shell",
+      "published": "2026-04-11",
+      "url": "https://share.transistor.fm/s/0ecb8003"
+    },
+    {
+      "title": "Snake Oil Has an Expiration Date",
+      "published": "2026-04-04",
+      "url": "https://share.transistor.fm/s/a7ab1700"
+    },
+    {
+      "title": "Who's Afraid of Superintelligence?",
+      "published": "2026-03-28",
+      "url": "https://share.transistor.fm/s/a390524e"
+    },
+    {
+      "title": "The Joy of Building",
+      "published": "2026-03-21",
+      "url": "https://share.transistor.fm/s/a7c92711"
+    },
+    {
+      "title": "The Least Contentious Proposal in the History of Go",
+      "published": "2026-03-14",
+      "url": "https://share.transistor.fm/s/bfb13b7d"
+    },
+    {
+      "title": "Deprecate the Error Interface",
+      "published": "2026-03-07",
+      "url": "https://share.transistor.fm/s/ea90d95c"
+    },
+    {
+      "title": "Package Hell",
+      "published": "2026-02-28",
+      "url": "https://share.transistor.fm/s/39d183e4"
+    },
+    {
+      "title": "Is Go Simple Anymore?",
+      "published": "2026-02-21",
+      "url": "https://share.transistor.fm/s/427b2444"
+    },
+    {
+      "title": "Lava Layers",
+      "published": "2026-02-14",
+      "url": "https://share.transistor.fm/s/62eaa2c7"
+    },
+    {
+      "title": "The Vibes-Based Legal System",
+      "published": "2026-02-07",
+      "url": "https://share.transistor.fm/s/09bec87f"
+    },
+    {
+      "title": "The AI Factory Floor",
+      "published": "2026-01-31",
+      "url": "https://share.transistor.fm/s/93e35fba"
+    },
+    {
+      "title": "Systems Thinking for Humans",
+      "published": "2026-01-24",
+      "url": "https://share.transistor.fm/s/e5be7f48"
+    },
+    {
+      "title": "When Reality Drifts",
+      "published": "2026-01-16",
+      "url": "https://share.transistor.fm/s/1d3785fa"
+    },
+    {
+      "title": "New Year, New Nuance",
+      "published": "2026-01-09",
+      "url": "https://share.transistor.fm/s/672492a2"
+    },
+    {
+      "title": "Stack Trace 2025",
+      "published": "2025-12-31",
+      "url": "https://share.transistor.fm/s/bf64cc67"
+    },
+    {
+      "title": "Worse Is Better",
+      "published": "2025-12-25",
+      "url": "https://share.transistor.fm/s/4da68fb6"
+    },
+    {
+      "title": "Why Is Tech So Mid?",
+      "published": "2025-12-19",
+      "url": "https://share.transistor.fm/s/ec5d1d77"
+    },
+    {
+      "title": "Project Management 2 Shell",
+      "published": "2025-12-12",
+      "url": "https://share.transistor.fm/s/61cc582d"
+    },
+    {
+      "title": "Ghostting Is Better Than Shelling",
+      "published": "2025-12-05",
+      "url": "https://share.transistor.fm/s/dbfcb53f"
+    },
+    {
+      "title": "Magic Numbers Take Down The Internet",
+      "published": "2025-11-25",
+      "url": "https://share.transistor.fm/s/050b7053"
+    },
+    {
+      "title": "The AI Marketing Problem",
+      "published": "2025-11-19",
+      "url": "https://share.transistor.fm/s/994e51d4"
+    },
+    {
+      "title": "Artisanal Software Engineering",
+      "published": "2025-11-12",
+      "url": "https://share.transistor.fm/s/7097fbe5"
+    },
+    {
+      "title": "The Fault In Our Clouds",
+      "published": "2025-11-04",
+      "url": "https://share.transistor.fm/s/843a4ea1"
+    },
+    {
+      "title": "JJ and How to Evolve an Open Source Ecosystem",
+      "published": "2025-10-28",
+      "url": "https://share.transistor.fm/s/656cc36f"
+    },
+    {
+      "title": "DevOps: The Answer to Life, The Universe, and Everything",
+      "published": "2025-10-20",
+      "url": "https://share.transistor.fm/s/1ba0dda8"
+    },
+    {
+      "title": "Ghostty & The Shell",
+      "published": "2025-10-13",
+      "url": "https://share.transistor.fm/s/4013f483"
+    },
+    {
+      "title": "The Failure of Open Source Leadership",
+      "published": "2025-10-07",
+      "url": "https://share.transistor.fm/s/cb05a4eb"
+    },
+    {
+      "title": "PHP Was Never Dead",
+      "published": "2025-09-30",
+      "url": "https://share.transistor.fm/s/15a2cfd7"
+    },
+    {
+      "title": "Defer Life Considered Harmful",
+      "published": "2025-09-23",
+      "url": "https://share.transistor.fm/s/53cca82d"
+    },
+    {
+      "title": "Building For The Future",
+      "published": "2025-09-15",
+      "url": "https://share.transistor.fm/s/ca1583b3"
+    },
+    {
+      "title": "Bootstrapping A Podcast",
+      "published": "2025-09-08",
+      "url": "https://share.transistor.fm/s/0b29fe80"
+    },
+    {
+      "title": "What It Takes To Be A Content Creator",
+      "published": "2025-09-01",
+      "url": "https://share.transistor.fm/s/842908aa"
+    },
+    {
+      "title": "How To Have A Great Conference Experience",
+      "published": "2025-08-25",
+      "url": "https://share.transistor.fm/s/f8ff6626"
+    },
+    {
+      "title": "What's New in Go 1.25?",
+      "published": "2025-08-18",
+      "url": "https://share.transistor.fm/s/4ce09c30"
+    },
+    {
+      "title": "Big Data Energy",
+      "published": "2025-08-11",
+      "url": "https://share.transistor.fm/s/fab35ca4"
+    },
+    {
+      "title": "Championing A Cause",
+      "published": "2025-08-04",
+      "url": "https://share.transistor.fm/s/2cde211d"
+    },
+    {
+      "title": "AI Booster? AI Doomer? You're Wrong Either Way",
+      "published": "2025-07-28",
+      "url": "https://share.transistor.fm/s/1149f3ec"
+    },
+    {
+      "title": "Versioning: We Did It To Ourselves",
+      "published": "2025-07-21",
+      "url": "https://share.transistor.fm/s/93b5f25f"
+    },
+    {
+      "title": "[Break] You're Now Less Wrong About REST",
+      "published": "2025-07-15",
+      "url": "https://share.transistor.fm/s/79f38241"
+    },
+    {
+      "title": "Why You're Wrong About REST",
+      "published": "2025-07-14",
+      "url": "https://share.transistor.fm/s/9af2fa10"
+    },
+    {
+      "title": "What Even Is A [Programming|Natural] Language?",
+      "published": "2025-07-07",
+      "url": "https://share.transistor.fm/s/1847ad3e"
+    },
+    {
+      "title": "Language and Codes of Misconduct",
+      "published": "2025-07-07",
+      "url": "https://share.transistor.fm/s/03f8b7f1"
+    },
+    {
+      "title": "SIMD & Go",
+      "published": "2025-06-30",
+      "url": "https://share.transistor.fm/s/3e674ae7"
+    },
+    {
+      "title": "The Three Ps: Understanding Product, Project, and Program Management",
+      "published": "2025-06-23",
+      "url": "https://share.transistor.fm/s/fbd76108"
+    },
+    {
+      "title": "Go's Error Handling Is Handled",
+      "published": "2025-06-16",
+      "url": "https://share.transistor.fm/s/4aed7ba6"
+    },
+    {
+      "title": "A Discourse On AI Discourse",
+      "published": "2025-06-09",
+      "url": "https://share.transistor.fm/s/455953b8"
+    },
+    {
+      "title": "Building An Open Source Maintenance Company",
+      "published": "2025-06-02",
+      "url": "https://share.transistor.fm/s/8b595743"
+    },
+    {
+      "title": "Event Driven Architectures",
+      "published": "2025-05-26",
+      "url": "https://share.transistor.fm/s/1693f1ca"
+    },
+    {
+      "title": "Blown Glass Half-Full of WebAssembly & SQLite",
+      "published": "2025-05-19",
+      "url": "https://share.transistor.fm/s/4afdd70f"
+    },
+    {
+      "title": "A Phoenix's Path to Principal",
+      "published": "2025-05-12",
+      "url": "https://share.transistor.fm/s/6b3a9e9d"
+    },
+    {
+      "title": "The Language of Data Visualization",
+      "published": "2025-05-05",
+      "url": "https://share.transistor.fm/s/87a51299"
+    },
+    {
+      "title": "Maintainers, Monetization, and Making The Time",
+      "published": "2025-04-28",
+      "url": "https://share.transistor.fm/s/423f241a"
+    },
+    {
+      "title": "From TinyGo to Takeoff",
+      "published": "2025-04-21",
+      "url": "https://share.transistor.fm/s/7e5bc1c2"
+    },
+    {
+      "title": "The Podcast Pipeline",
+      "published": "2025-04-14",
+      "url": "https://share.transistor.fm/s/2af82545"
+    },
+    {
+      "title": "APIs: Design Imperfectly, Improve Relentlessly",
+      "published": "2025-04-07",
+      "url": "https://share.transistor.fm/s/956fde8a"
+    },
+    {
+      "title": "What Even Is A Senior Software Engineer?",
+      "published": "2025-03-31",
+      "url": "https://share.transistor.fm/s/0de1216c"
+    },
+    {
+      "title": "Translating The Law for Software Engineers",
+      "published": "2025-03-24",
+      "url": "https://share.transistor.fm/s/ac38bbd7"
+    },
+    {
+      "title": "Choosing, Expanding, & Evolving Communities",
+      "published": "2025-03-17",
+      "url": "https://share.transistor.fm/s/812d194a"
+    },
+    {
+      "title": "An Exploration of APIs, Versioning, & HTTP",
+      "published": "2025-03-10",
+      "url": "https://share.transistor.fm/s/8e38cd91"
+    },
+    {
+      "title": "Tools We Love",
+      "published": "2025-03-03",
+      "url": "https://share.transistor.fm/s/6bedb9f5"
+    },
+    {
+      "title": "Ghosttying Go",
+      "published": "2025-02-24",
+      "url": "https://share.transistor.fm/s/7d278697"
+    },
+    {
+      "title": "Patching Problems with Persnickety Proxies Purveyed by Paternalistic Princes",
+      "published": "2025-02-17",
+      "url": "https://share.transistor.fm/s/9d8e0fc8"
+    },
+    {
+      "title": "What's New In Go 1.24?",
+      "published": "2025-02-10",
+      "url": "https://share.transistor.fm/s/73c5f267"
+    },
+    {
+      "title": "Navigating A Career In Tech",
+      "published": "2025-02-03",
+      "url": "https://share.transistor.fm/s/0dc6f79e"
+    },
+    {
+      "title": "An Exploration of Complexity",
+      "published": "2025-01-27",
+      "url": "https://share.transistor.fm/s/c57ca733"
+    },
+    {
+      "title": "Do We Think You Should Learn To Code?",
+      "published": "2025-01-20",
+      "url": "https://share.transistor.fm/s/89e87f1b"
+    },
+    {
+      "title": "The Gems & Warts of Go",
+      "published": "2025-01-13",
+      "url": "https://share.transistor.fm/s/9544da7e"
+    },
+    {
+      "title": "War Stories",
+      "published": "2025-01-06",
+      "url": "https://share.transistor.fm/s/e74ecbeb"
+    },
+    {
+      "title": "Falling Through: A New Perspective",
+      "published": "2024-12-16",
+      "url": "https://share.transistor.fm/s/7e1a0723"
+    },
+    {
+      "title": "Falling Through: The Trailer",
+      "published": "2024-12-03",
+      "url": "https://share.transistor.fm/s/0c27a226"
+    }
+  ]
+}

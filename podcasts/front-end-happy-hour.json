@@ -1,0 +1,1101 @@
+{
+  "show": "Front End Happy Hour",
+  "slug": "front-end-happy-hour",
+  "appleId": 1089047924,
+  "feedUrl": "https://anchor.fm/s/fb57a4a8/podcast/rss",
+  "homeUrl": "https://www.frontendhappyhour.com",
+  "canonicalPattern": "https://www.frontendhappyhour.com/episodes/<slug>",
+  "episodeCount": 218,
+  "episodes": [
+    {
+      "title": "Portraits of an Artist",
+      "published": "2025-03-04",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Portraits-of-an-Artist-e2vn0s2"
+    },
+    {
+      "title": "Beyond the Bingo Card: Leadership Lessons with Karen Catlin",
+      "published": "2024-10-29",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Beyond-the-Bingo-Card-Leadership-Lessons-with-Karen-Catlin-e2qa93e"
+    },
+    {
+      "title": "Revisiting Server-Driven UI: Scalable Approaches in Large Companies",
+      "published": "2024-10-21",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Revisiting-Server-Driven-UI-Scalable-Approaches-in-Large-Companies-e2ps6qm"
+    },
+    {
+      "title": "Recruiting to Global Leadership: Taylor Desseyn Interview",
+      "published": "2024-10-14",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Recruiting-to-Global-Leadership-Taylor-Desseyn-Interview-e2pkljm"
+    },
+    {
+      "title": "Scaling Startups and Navigating Product-Market Fit with Emre Baran",
+      "published": "2024-10-07",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Scaling-Startups-and-Navigating-Product-Market-Fit-with-Emre-Baran-e2pa2ov"
+    },
+    {
+      "title": "Amazon’s Office Mandate: The End of Remote Work?",
+      "published": "2024-09-30",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Amazons-Office-Mandate-The-End-of-Remote-Work-e2p0th7"
+    },
+    {
+      "title": "Episode 211 - Ken Wheeler Unfiltered - Sips of Wisdom Interview",
+      "published": "2024-09-23",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-211---Ken-Wheeler-Unfiltered---Sips-of-Wisdom-Interview-e2oolvh"
+    },
+    {
+      "title": "Episode 210 - Film to Tech - Jason Torres Sips of Wisdom Interview",
+      "published": "2024-09-16",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-210---Film-to-Tech---Jason-Torres-Sips-of-Wisdom-Interview-e2omgfp"
+    },
+    {
+      "title": "Episode 209 - How promotions really work in tech",
+      "published": "2024-09-10",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-209---How-promotions-really-work-in-tech-e2omgfq"
+    },
+    {
+      "title": "Episode 208 - Why most new developers struggle: The missing skills you need",
+      "published": "2024-09-02",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-208---Why-most-new-developers-struggle-The-missing-skills-you-need-e2omgfs"
+    },
+    {
+      "title": "Episode 207 - Sips of Wisdom: Interview with Kent C. Dodds",
+      "published": "2024-08-26",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-207---Sips-of-Wisdom-Interview-with-Kent-C--Dodds-e2omgfv"
+    },
+    {
+      "title": "Episode 206 - What is it like to work in Silicon Valley?",
+      "published": "2024-08-19",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-206---What-is-it-like-to-work-in-Silicon-Valley-e2omgg7"
+    },
+    {
+      "title": "Episode 205 - After attending a coding Bootcamp",
+      "published": "2024-08-12",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-205---After-attending-a-coding-Bootcamp-e2omgg5"
+    },
+    {
+      "title": "Episode 204 - Sips of Wisdom: Interview with Angie Jones",
+      "published": "2024-08-05",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-204---Sips-of-Wisdom-Interview-with-Angie-Jones-e2omggs"
+    },
+    {
+      "title": "Episode 203 - Normalize taking a break",
+      "published": "2024-07-29",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-203---Normalize-taking-a-break-e2omgh3"
+    },
+    {
+      "title": "Episode 202 - Summer vacation - Online teaching courses",
+      "published": "2024-07-22",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-202---Summer-vacation---Online-teaching-courses-e2omgli"
+    },
+    {
+      "title": "Sips of Wisdom: Interview with Shaundai Person",
+      "published": "2024-07-15",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Sips-of-Wisdom-Interview-with-Shaundai-Person-e2omgh1"
+    },
+    {
+      "title": "Episode 200 - Exploring Isograph",
+      "published": "2024-07-07",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-200---Exploring-Isograph-e2omgn4"
+    },
+    {
+      "title": "Episode 199 - Sips of Wisdom: Interview with April Wensel",
+      "published": "2024-06-30",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-199---Sips-of-Wisdom-Interview-with-April-Wensel-e2omgh9"
+    },
+    {
+      "title": "Episode 198 - Leveraging SQLite in the Cloud",
+      "published": "2024-06-24",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-198---Leveraging-SQLite-in-the-Cloud-e2omgj3"
+    },
+    {
+      "title": "Sips of Wisdom: Interview with Chris Bautista",
+      "published": "2024-06-16",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Sips-of-Wisdom-Interview-with-Chris-Bautista-e2omgi8"
+    },
+    {
+      "title": "Episode 196 - Breaking the typecast: Growing beyond frontend and backend labels",
+      "published": "2024-06-10",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-196---Breaking-the-typecast-Growing-beyond-frontend-and-backend-labels-e2omgmt"
+    },
+    {
+      "title": "Episode 195 - Revisiting Server-Driven UI",
+      "published": "2024-05-27",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-195---Revisiting-Server-Driven-UI-e2omgj9"
+    },
+    {
+      "title": "Episode 194 - Serverless AI",
+      "published": "2024-05-12",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-194---Serverless-AI-e2omgga"
+    },
+    {
+      "title": "Episode 193 - Implementing authentication in your app",
+      "published": "2024-04-29",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-193---Implementing-authentication-in-your-app-e2omgm6"
+    },
+    {
+      "title": "Episode 192 - Do you need to work more than 9 to 5 to get promoted?",
+      "published": "2024-04-14",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-192---Do-you-need-to-work-more-than-9-to-5-to-get-promoted-e2omgku"
+    },
+    {
+      "title": "Episode 191 - More AI and layoffs",
+      "published": "2024-04-01",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-191---More-AI-and-layoffs-e2omgge"
+    },
+    {
+      "title": "Episode 190 - At the bar with Whiskey Web & Whatnot",
+      "published": "2024-03-28",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-190---At-the-bar-with-Whiskey-Web--Whatnot-e2omgg6"
+    },
+    {
+      "title": "Episode 189 - Why does Wordpress dominate the web?",
+      "published": "2024-03-17",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-189---Why-does-Wordpress-dominate-the-web-e2omgha"
+    },
+    {
+      "title": "Episode 188 - Unlocking WordPress: Exploring the powers of WPGraphQL",
+      "published": "2024-03-03",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-188---Unlocking-WordPress-Exploring-the-powers-of-WPGraphQL-e2omgg9"
+    },
+    {
+      "title": "Episode 187 - Social media platforms - where's the party at?",
+      "published": "2024-02-19",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-187---Social-media-platforms---wheres-the-party-at-e2omgl0"
+    },
+    {
+      "title": "Episode 186 - Module Federation - Module Mixology",
+      "published": "2024-02-05",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-186---Module-Federation---Module-Mixology-e2omgh2"
+    },
+    {
+      "title": "Episode 185 - Quitting a job - flipping the bar table",
+      "published": "2024-01-21",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-185---Quitting-a-job---flipping-the-bar-table-e2omggi"
+    },
+    {
+      "title": "Episode 184 - Online learning on the rocks",
+      "published": "2024-01-07",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-184---Online-learning-on-the-rocks-e2omgkp"
+    },
+    {
+      "title": "Episode 183 - Aged to perfection: crafting your internship experience",
+      "published": "2023-12-31",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-183---Aged-to-perfection-crafting-your-internship-experience-e2omgho"
+    },
+    {
+      "title": "Episode 182 - Documentation - Where is the menu bartender?",
+      "published": "2023-12-17",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-182---Documentation---Where-is-the-menu-bartender-e2omggd"
+    },
+    {
+      "title": "Episode 181 - 2023 reflections - looking through the bottle",
+      "published": "2023-11-19",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-181---2023-reflections---looking-through-the-bottle-e2omggk"
+    },
+    {
+      "title": "Episode 180 - Online teaching courses - proof of knowledge",
+      "published": "2023-10-09",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-180---Online-teaching-courses---proof-of-knowledge-e2omggj"
+    },
+    {
+      "title": "Episode 179 - Security - what's your favorite happy hour beverage?",
+      "published": "2023-09-17",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-179---Security---whats-your-favorite-happy-hour-beverage-e2omggr"
+    },
+    {
+      "title": "Episode 178 - Organizing a conference",
+      "published": "2023-08-27",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-178---Organizing-a-conference-e2omgkq"
+    },
+    {
+      "title": "Episode 177 - CSS - Cascading Sips of Sangria",
+      "published": "2023-08-14",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-177---CSS---Cascading-Sips-of-Sangria-e2omggf"
+    },
+    {
+      "title": "Episode 176 - How is AI maturing? - Always intoxicated by augmented intelligence",
+      "published": "2023-07-30",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-176---How-is-AI-maturing----Always-intoxicated-by-augmented-intelligence-e2omgis"
+    },
+    {
+      "title": "Episode 175 - Modern CSS - Drinking in style",
+      "published": "2023-07-16",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-175---Modern-CSS---Drinking-in-style-e2omggt"
+    },
+    {
+      "title": "Episode 174 - Networking - Net-whiskey-ing",
+      "published": "2023-06-25",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-174---Networking---Net-whiskey-ing-e2omghb"
+    },
+    {
+      "title": "Episode 173 - Drag & Drop - drop a drink here",
+      "published": "2023-06-11",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-173---Drag--Drop---drop-a-drink-here-e2omggb"
+    },
+    {
+      "title": "Episode 172 - RenderATL Day 2 Recap",
+      "published": "2023-06-03",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-172---RenderATL-Day-2-Recap-e2omgg2"
+    },
+    {
+      "title": "Episode 171 - RenderATL Day 1 Recap",
+      "published": "2023-06-01",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-171---RenderATL-Day-1-Recap-e2omgjq"
+    },
+    {
+      "title": "Episode 170 - Micro-interactions - micro-brews",
+      "published": "2023-05-28",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-170---Micro-interactions---micro-brews-e2omggn"
+    },
+    {
+      "title": "Episode 169 - Recruiting - Fill the glass to the correct level",
+      "published": "2023-05-14",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-169---Recruiting---Fill-the-glass-to-the-correct-level-e2omggc"
+    },
+    {
+      "title": "Episode 168 - Component libraries - cocktail ingredients",
+      "published": "2023-04-30",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-168---Component-libraries---cocktail-ingredients-e2omgh4"
+    },
+    {
+      "title": "Episode 167 - Learning - time to wine down and learn",
+      "published": "2023-04-17",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-167---Learning---time-to-wine-down-and-learn-e2omghj"
+    },
+    {
+      "title": "Episode 166 - Backstage - Behind the bar",
+      "published": "2023-04-03",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-166---Backstage---Behind-the-bar-e2omgin"
+    },
+    {
+      "title": "Episode 165 - The art of estimates - how many drinks have we had?",
+      "published": "2023-03-19",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-165---The-art-of-estimates---how-many-drinks-have-we-had-e2omgg8"
+    },
+    {
+      "title": "Episode 164 - Engineering levels - our glass level is full",
+      "published": "2023-03-05",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-164---Engineering-levels---our-glass-level-is-full-e2omggl"
+    },
+    {
+      "title": "Episode 163 - Patents - Drinks pending",
+      "published": "2023-02-19",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-163---Patents---Drinks-pending-e2omgmj"
+    },
+    {
+      "title": "Episode 162 - Micro Frontends - Micro Brewing",
+      "published": "2023-02-05",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-162---Micro-Frontends---Micro-Brewing-e2omggq"
+    },
+    {
+      "title": "Episode 161 - Engineering with AI - Always Intoxicated",
+      "published": "2023-01-22",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-161---Engineering-with-AI---Always-Intoxicated-e2omgh6"
+    },
+    {
+      "title": "Episode 160 - Efficient drinks - staying productive in 2023",
+      "published": "2023-01-08",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-160---Efficient-drinks---staying-productive-in-2023-e2omgn6"
+    },
+    {
+      "title": "Episode 159 - Drinks on stage - live at Jamstack 2022",
+      "published": "2022-12-05",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-159---Drinks-on-stage---live-at-Jamstack-2022-e2omgk0"
+    },
+    {
+      "title": "Episode 158 - Layoffs",
+      "published": "2022-11-20",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-158---Layoffs-e2omgmk"
+    },
+    {
+      "title": "Front End Happy Hour Podcast Trailer",
+      "published": "2022-11-18",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Front-End-Happy-Hour-Podcast-Trailer-e2omgg4"
+    },
+    {
+      "title": "Episode 157 - Public sector tech - Public bar vs private club",
+      "published": "2022-10-17",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-157---Public-sector-tech---Public-bar-vs-private-club-e2omgk5"
+    },
+    {
+      "title": "Episode 156 - Sidebar interview with Brian Holt",
+      "published": "2022-10-02",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-156---Sidebar-interview-with-Brian-Holt-e2omgi6"
+    },
+    {
+      "title": "Episode 155 - Testing cocktails at a robot bar - Automated testing at scale",
+      "published": "2022-09-18",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-155---Testing-cocktails-at-a-robot-bar---Automated-testing-at-scale-e2omglk"
+    },
+    {
+      "title": "Episode 154 - Sidebar interview with Mars Jullian",
+      "published": "2022-09-04",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-154---Sidebar-interview-with-Mars-Jullian-e2omgj0"
+    },
+    {
+      "title": "Episode 153 - (Re)mixology",
+      "published": "2022-07-18",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-153---Remixology-e2omghf"
+    },
+    {
+      "title": "Episode 152 - Sidebar interview with Shirley Wu",
+      "published": "2022-06-19",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-152---Sidebar-interview-with-Shirley-Wu-e2omghc"
+    },
+    {
+      "title": "Episode 151 - Building in 2022 and tasting the beverage trends",
+      "published": "2022-06-05",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-151---Building-in-2022-and-tasting-the-beverage-trends-e2omgh5"
+    },
+    {
+      "title": "Episode 150 - Reorgs with a sip of spiced rum",
+      "published": "2022-05-22",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-150---Reorgs-with-a-sip-of-spiced-rum-e2omggm"
+    },
+    {
+      "title": "Episode 149 - Open source software with open liquor",
+      "published": "2022-05-08",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-149---Open-source-software-with-open-liquor-e2omghe"
+    },
+    {
+      "title": "Episode 148 - Sidebar interview with Stacy London",
+      "published": "2022-04-24",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-148---Sidebar-interview-with-Stacy-London-e2omgkg"
+    },
+    {
+      "title": "Episode 147 - Debugging Asynchronous JavaScript - Awaiting My Drink",
+      "published": "2022-04-07",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-147---Debugging-Asynchronous-JavaScript---Awaiting-My-Drink-e2omggg"
+    },
+    {
+      "title": "Episode 146 - Sidebar interview with Jem Young",
+      "published": "2022-03-20",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-146---Sidebar-interview-with-Jem-Young-e2omgmq"
+    },
+    {
+      "title": "Episode 145 - Server Driven UI - Served from behind the bar",
+      "published": "2022-03-06",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-145---Server-Driven-UI---Served-from-behind-the-bar-e2omggp"
+    },
+    {
+      "title": "Episode 144 - Sidebar interview with Ryan Burgess",
+      "published": "2022-02-20",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-144---Sidebar-interview-with-Ryan-Burgess-e2omggv"
+    },
+    {
+      "title": "Episode 143 - TypeScript migration - Strict type of cocktails",
+      "published": "2022-02-06",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-143---TypeScript-migration---Strict-type-of-cocktails-e2omgjj"
+    },
+    {
+      "title": "Episode 142 - Job hunting in 2022 - Standing out in a crowded bar",
+      "published": "2022-01-23",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-142---Job-hunting-in-2022---Standing-out-in-a-crowded-bar-e2omgip"
+    },
+    {
+      "title": "Episode 141 - 2021 Hangover",
+      "published": "2022-01-09",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-141---2021-Hangover-e2omgkv"
+    },
+    {
+      "title": "Episode 140 - Crafting your cocktail mixture to learning",
+      "published": "2021-11-28",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-140---Crafting-your-cocktail-mixture-to-learning-e2omgk9"
+    },
+    {
+      "title": "Episode 139 - Preparing ingredients - Interview prep",
+      "published": "2021-10-31",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-139---Preparing-ingredients---Interview-prep-e2omgms"
+    },
+    {
+      "title": "Episode 138 - Bar debate - Smart homes",
+      "published": "2021-10-17",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-138---Bar-debate---Smart-homes-e2omggo"
+    },
+    {
+      "title": "Episode 137 - One drink and a monolithic architecture",
+      "published": "2021-10-03",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-137---One-drink-and-a-monolithic-architecture-e2omgij"
+    },
+    {
+      "title": "Episode 136 - Old Fashioned, old roles, new beginnings",
+      "published": "2021-09-19",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-136---Old-Fashioned--old-roles--new-beginnings-e2omgkj"
+    },
+    {
+      "title": "Episode 135 - Dealing with burnout - Burnt Orange Campari",
+      "published": "2021-09-05",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-135---Dealing-with-burnout---Burnt-Orange-Campari-e2omggu"
+    },
+    {
+      "title": "Episode 134 - Individual contributor to manager - Transitioning into a bartender",
+      "published": "2021-08-23",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-134---Individual-contributor-to-manager---Transitioning-into-a-bartender-e2omghg"
+    },
+    {
+      "title": "Episode 133 - It’s 5 o’clock somewhere - Joining a remote team",
+      "published": "2021-08-09",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-133---Its-5-oclock-somewhere---Joining-a-remote-team-e2omgj4"
+    },
+    {
+      "title": "Episode 132 - Test Engineering - Beverage quality assurance",
+      "published": "2021-07-19",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-132---Test-Engineering---Beverage-quality-assurance-e2omgi1"
+    },
+    {
+      "title": "Episode 131 - Diversity and inclusion - Tech(K)now Day",
+      "published": "2021-07-04",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-131---Diversity-and-inclusion---TechKnow-Day-e2omgmu"
+    },
+    {
+      "title": "Episode 130 - Stack and infrastructure shaping culture - Drink choice to set the vibe",
+      "published": "2021-06-06",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-130---Stack-and-infrastructure-shaping-culture---Drink-choice-to-set-the-vibe-e2omgn3"
+    },
+    {
+      "title": "Episode 129 - Allyship - Inviting everyone to the party",
+      "published": "2021-05-23",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-129---Allyship---Inviting-everyone-to-the-party-e2omgje"
+    },
+    {
+      "title": "Episode 128 - Branding & self-promotion - mimosa and self-promosa",
+      "published": "2021-05-09",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-128---Branding--self-promotion---mimosa-and-self-promosa-e2omgj6"
+    },
+    {
+      "title": "Episode 127 - Writing a technical book - drafts on tap",
+      "published": "2021-04-25",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-127---Writing-a-technical-book---drafts-on-tap-e2omgh7"
+    },
+    {
+      "title": "Episode 126 - Core Web Vitals - Vital libations",
+      "published": "2021-04-11",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-126---Core-Web-Vitals---Vital-libations-e2omgl4"
+    },
+    {
+      "title": "Episode 125 - Non-traditional backgrounds - Old Fashioneds with a twist",
+      "published": "2021-03-28",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-125---Non-traditional-backgrounds---Old-Fashioneds-with-a-twist-e2omgja"
+    },
+    {
+      "title": "Episode 124 - Software estimating - two finger pour",
+      "published": "2021-03-14",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-124---Software-estimating---two-finger-pour-e2omgk8"
+    },
+    {
+      "title": "Episode 123 - Documentation - the bartenders' almanac",
+      "published": "2021-02-28",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-123---Documentation---the-bartenders-almanac-e2omgih"
+    },
+    {
+      "title": "Episode 122 - Productivity Engineering - Ballmer Peak",
+      "published": "2021-02-14",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-122---Productivity-Engineering---Ballmer-Peak-e2omgn5"
+    },
+    {
+      "title": "Episode 121 - Transitioning to a new role - Bar hopping",
+      "published": "2021-01-31",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-121---Transitioning-to-a-new-role---Bar-hopping-e2omgne"
+    },
+    {
+      "title": "Episode 120 - Building side projects - Served with a tasty Sidecar",
+      "published": "2021-01-17",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-120---Building-side-projects---Served-with-a-tasty-Sidecar-e2omghk"
+    },
+    {
+      "title": "Episode 119 - 2020 reflections - Fireball shots",
+      "published": "2020-12-31",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-119---2020-reflections---Fireball-shots-e2omglo"
+    },
+    {
+      "title": "Episode 118 - Good manager, bad manager - tasty drink, bland drink",
+      "published": "2020-12-21",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-118---Good-manager--bad-manager---tasty-drink--bland-drink-e2omgmh"
+    },
+    {
+      "title": "Episode 117 - Quitting a job - leaving the bar",
+      "published": "2020-11-29",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-117---Quitting-a-job---leaving-the-bar-e2omgjt"
+    },
+    {
+      "title": "Episode 116 - Live at QCon Plus 2020",
+      "published": "2020-11-15",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-116---Live-at-QCon-Plus-2020-e2omgl2"
+    },
+    {
+      "title": "Episode 115 - Imposter Syndrome - Wine connoisseur with a $15 bottle",
+      "published": "2020-11-05",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-115---Imposter-Syndrome---Wine-connoisseur-with-a-15-bottle-e2omgi5"
+    },
+    {
+      "title": "Episode 114 - Remote interviewing - drinking on video calls",
+      "published": "2020-10-18",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-114---Remote-interviewing---drinking-on-video-calls-e2omgir"
+    },
+    {
+      "title": "Episode 113 - Severless - serving(less) drinks",
+      "published": "2020-10-04",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-113---Severless---servingless-drinks-e2omgn0"
+    },
+    {
+      "title": "Episode 112 - SEO - Searching for our drinks",
+      "published": "2020-09-20",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-112---SEO---Searching-for-our-drinks-e2omgkb"
+    },
+    {
+      "title": "Episode 111 - Patron, Palomas, and programmatic problem solving",
+      "published": "2020-09-06",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-111---Patron--Palomas--and-programmatic-problem-solving-e2omgm9"
+    },
+    {
+      "title": "Episode 110 - Bartending to everyone - Inclusive language",
+      "published": "2020-08-23",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-110---Bartending-to-everyone---Inclusive-language-e2omghi"
+    },
+    {
+      "title": "Episode 109 - Quick pour - Web Performance",
+      "published": "2020-08-10",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-109---Quick-pour---Web-Performance-e2omglu"
+    },
+    {
+      "title": "Episode 108 - Whiteboarding for our drinks - The coding interview",
+      "published": "2020-07-27",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-108---Whiteboarding-for-our-drinks---The-coding-interview-e2omgn8"
+    },
+    {
+      "title": "Episode 107 - Public speakeasy - Public speaking",
+      "published": "2020-07-13",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-107---Public-speakeasy---Public-speaking-e2omgld"
+    },
+    {
+      "title": "Episode 106 - Carefully Sipping Sangria - CSS",
+      "published": "2020-06-28",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-106---Carefully-Sipping-Sangria---CSS-e2omghp"
+    },
+    {
+      "title": "Episode 105 - A parcel of drinks - Parcel",
+      "published": "2020-06-14",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-105---A-parcel-of-drinks---Parcel-e2omgl8"
+    },
+    {
+      "title": "Episode 104 - #BlackLivesMatter",
+      "published": "2020-06-05",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-104---BlackLivesMatter-e2omgg3"
+    },
+    {
+      "title": "Episode 103 - Brews in Bars - Ecosystem Engineering",
+      "published": "2020-05-24",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-103---Brews-in-Bars---Ecosystem-Engineering-e2omgki"
+    },
+    {
+      "title": "Episode 102 - Complex flavors - complex systems",
+      "published": "2020-05-10",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-102---Complex-flavors---complex-systems-e2omghl"
+    },
+    {
+      "title": "Episode 101 - Showing off our personal bars - Personal projects",
+      "published": "2020-04-27",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-101---Showing-off-our-personal-bars---Personal-projects-e2omgka"
+    },
+    {
+      "title": "Episode 100 - 100 beers on the wall",
+      "published": "2020-04-13",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-100---100-beers-on-the-wall-e2omgl6"
+    },
+    {
+      "title": "Episode 099 - No REST with Quintessential Libations - GraphQL",
+      "published": "2020-03-29",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-099---No-REST-with-Quintessential-Libations---GraphQL-e2omgiv"
+    },
+    {
+      "title": "Episode 098 - Drinking alone? Together? - Working from home",
+      "published": "2020-03-21",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-098---Drinking-alone--Together----Working-from-home-e2omggh"
+    },
+    {
+      "title": "Episode 097 - Cocktail recipes - Design systems",
+      "published": "2020-03-16",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-097---Cocktail-recipes---Design-systems-e2omglv"
+    },
+    {
+      "title": "Episode 096 - Our preferred beverages - Work preferences",
+      "published": "2020-03-01",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-096---Our-preferred-beverages---Work-preferences-e2omgj1"
+    },
+    {
+      "title": "Episode 095 - Shot for Shot - One on Ones",
+      "published": "2020-02-16",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-095---Shot-for-Shot---One-on-Ones-e2omgkc"
+    },
+    {
+      "title": "Episode 094 - Will code for wine - Civic hacking",
+      "published": "2020-01-21",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-094---Will-code-for-wine---Civic-hacking-e2omgkn"
+    },
+    {
+      "title": "Episode 093 - Beers and Careers - Career Management",
+      "published": "2020-01-06",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-093---Beers-and-Careers---Career-Management-e2omgi2"
+    },
+    {
+      "title": "Episode 092 - Keeping the taps on - Holiday code freeze",
+      "published": "2019-12-23",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-092---Keeping-the-taps-on---Holiday-code-freeze-e2omgmi"
+    },
+    {
+      "title": "Episode 091 - Balancing your drinks & belonging - Inclusion & Diversity in Tech",
+      "published": "2019-12-08",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-091---Balancing-your-drinks--belonging---Inclusion--Diversity-in-Tech-e2omgmg"
+    },
+    {
+      "title": "Episode 090 - Sipping our drinks, enjoying the Vue - Vue JS",
+      "published": "2019-11-25",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-090---Sipping-our-drinks--enjoying-the-Vue---Vue-JS-e2omgjd"
+    },
+    {
+      "title": "Episode 089 - Hollywood Martinis - Netflix Studio Engineering",
+      "published": "2019-10-27",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-089---Hollywood-Martinis---Netflix-Studio-Engineering-e2omgiq"
+    },
+    {
+      "title": "Episode 088 - Tech lead engineer - herding cats & drinks",
+      "published": "2019-09-30",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-088---Tech-lead-engineer---herding-cats--drinks-e2omgjh"
+    },
+    {
+      "title": "Episode 087 - Open bar - all things open source",
+      "published": "2019-09-16",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-087---Open-bar---all-things-open-source-e2omgic"
+    },
+    {
+      "title": "Episode 086 - A new brand of bourbon - code migrations",
+      "published": "2019-08-19",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-086---A-new-brand-of-bourbon---code-migrations-e2omgi0"
+    },
+    {
+      "title": "Episode 085 - The art of mixology - creative coding",
+      "published": "2019-08-04",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-085---The-art-of-mixology---creative-coding-e2omgji"
+    },
+    {
+      "title": "Episode - 084 - Niagara Falls, on the rocks - development process",
+      "published": "2019-07-22",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode---084---Niagara-Falls--on-the-rocks---development-process-e2omgn2"
+    },
+    {
+      "title": "Episode 083 - Behind the bar - Collaborating with the Backend",
+      "published": "2019-06-24",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-083---Behind-the-bar---Collaborating-with-the-Backend-e2omgla"
+    },
+    {
+      "title": "Episode 082 - Product management - Pouring Martinis",
+      "published": "2019-06-09",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-082---Product-management---Pouring-Martinis-e2omgkh"
+    },
+    {
+      "title": "Episode 081 - CSS - continually sipping sazeracs",
+      "published": "2019-05-26",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-081---CSS---continually-sipping-sazeracs-e2omgna"
+    },
+    {
+      "title": "Episode 080 - User experience - what if users are drunk?",
+      "published": "2019-05-14",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-080---User-experience---what-if-users-are-drunk-e2omglq"
+    },
+    {
+      "title": "Episode 079 - Home-brewing front end culture",
+      "published": "2019-04-28",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-079---Home-brewing-front-end-culture-e2omgn7"
+    },
+    {
+      "title": "Episode 078 - Our drinks are overrated",
+      "published": "2019-04-14",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-078---Our-drinks-are-overrated-e2omgln"
+    },
+    {
+      "title": "Episode 077 - Career growth - beers and careers",
+      "published": "2019-03-31",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-077---Career-growth---beers-and-careers-e2omgj7"
+    },
+    {
+      "title": "Episode 076 - Bandersnatching our drinks",
+      "published": "2019-03-04",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-076---Bandersnatching-our-drinks-e2omghu"
+    },
+    {
+      "title": "Episode 075 - Component libraries - sharing our drinks",
+      "published": "2019-02-19",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-075---Component-libraries---sharing-our-drinks-e2omgke"
+    },
+    {
+      "title": "Episode 074 - Beer money - negotiating salaries",
+      "published": "2019-02-04",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-074---Beer-money---negotiating-salaries-e2omgjf"
+    },
+    {
+      "title": "Episode 073 - Drinks to go - Native mobile solutions",
+      "published": "2019-01-21",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-073---Drinks-to-go---Native-mobile-solutions-e2omgle"
+    },
+    {
+      "title": "Episode 072 - Pacing our drinks - Engineering Performance",
+      "published": "2019-01-07",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-072---Pacing-our-drinks---Engineering-Performance-e2omgnc"
+    },
+    {
+      "title": "Episode 071 - Web Performance - Chugging our drinks down fast",
+      "published": "2018-12-10",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-071---Web-Performance---Chugging-our-drinks-down-fast-e2omglg"
+    },
+    {
+      "title": "Episode 070 - Senior Engineer - Master Brewer",
+      "published": "2018-11-26",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-070---Senior-Engineer---Master-Brewer-e2omghs"
+    },
+    {
+      "title": "Episode 069 - Internships - Intern-sips",
+      "published": "2018-10-29",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-069---Internships---Intern-sips-e2omgjc"
+    },
+    {
+      "title": "Episode 068 - Progressive Web Apps - Pale Wheat Ale",
+      "published": "2018-10-15",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-068---Progressive-Web-Apps---Pale-Wheat-Ale-e2omgmr"
+    },
+    {
+      "title": "Episode 067 - Ethics - to drink or not to drink?",
+      "published": "2018-10-01",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-067---Ethics---to-drink-or-not-to-drink-e2omgjl"
+    },
+    {
+      "title": "Episode 066 - Type systems - a static drink list",
+      "published": "2018-09-17",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-066---Type-systems---a-static-drink-list-e2omgn9"
+    },
+    {
+      "title": "Episode 065 - Recruiting - do you have time for a quick beer?",
+      "published": "2018-09-03",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-065---Recruiting---do-you-have-time-for-a-quick-beer-e2omgl9"
+    },
+    {
+      "title": "Episode 064 - Librations - JavaScript libraries",
+      "published": "2018-08-20",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-064---Librations---JavaScript-libraries-e2omgme"
+    },
+    {
+      "title": "Episode 063 - IoT - Internet of Tequila",
+      "published": "2018-08-06",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-063---IoT---Internet-of-Tequila-e2omgk1"
+    },
+    {
+      "title": "Episode 062 - Web Components - shots of shadow dom",
+      "published": "2018-07-23",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-062---Web-Components---shots-of-shadow-dom-e2omgnf"
+    },
+    {
+      "title": "Episode 061 - Build tooling - brewing complex bundles",
+      "published": "2018-07-09",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-061---Build-tooling---brewing-complex-bundles-e2omgm0"
+    },
+    {
+      "title": "Episode 060 - Shots to growlers - finding the right size drink",
+      "published": "2018-06-25",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-060---Shots-to-growlers---finding-the-right-size-drink-e2omgi3"
+    },
+    {
+      "title": "Episode 059 - A/B testing - Ale or Bourbon?",
+      "published": "2018-06-11",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-059---AB-testing---Ale-or-Bourbon-e2omghr"
+    },
+    {
+      "title": "Episode 058 - User testing - Even a drunk person can do it",
+      "published": "2018-05-28",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-058---User-testing---Even-a-drunk-person-can-do-it-e2omgig"
+    },
+    {
+      "title": "Episode 057 - Falcor - Modeling our drinks",
+      "published": "2018-05-14",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-057---Falcor---Modeling-our-drinks-e2omgk6"
+    },
+    {
+      "title": "Episode 056 - Drink-a-thon onstage at Reactathon",
+      "published": "2018-04-29",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-056---Drink-a-thon-onstage-at-Reactathon-e2omgll"
+    },
+    {
+      "title": "Episode 055 - A mixologist's tools",
+      "published": "2018-04-17",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-055---A-mixologists-tools-e2omgl7"
+    },
+    {
+      "title": "Episode 054 - Wasted on Elm",
+      "published": "2018-04-01",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-054---Wasted-on-Elm-e2omgik"
+    },
+    {
+      "title": "Episode 053 - Bar-tending to your codebase",
+      "published": "2018-03-18",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-053---Bar-tending-to-your-codebase-e2omgnb"
+    },
+    {
+      "title": "Episode 052 - Looking Forward to a drink",
+      "published": "2018-03-04",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-052---Looking-Forward-to-a-drink-e2omgm7"
+    },
+    {
+      "title": "Episode 051 - Gin and toxic culture",
+      "published": "2018-02-19",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-051---Gin-and-toxic-culture-e2omgjv"
+    },
+    {
+      "title": "Episode 050 - Angling for a drink",
+      "published": "2018-02-05",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-050---Angling-for-a-drink-e2omgjb"
+    },
+    {
+      "title": "Episode 049 - Independent taste testing",
+      "published": "2018-01-22",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-049---Independent-taste-testing-e2omgm1"
+    },
+    {
+      "title": "Episode 048 - Toast to a new year",
+      "published": "2017-12-19",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-048---Toast-to-a-new-year-e2omglf"
+    },
+    {
+      "title": "Episode 047 - Speak(easy)",
+      "published": "2017-11-27",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-047---Speakeasy-e2omglt"
+    },
+    {
+      "title": "Episode 046 - Locking down the liquor",
+      "published": "2017-11-14",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-046---Locking-down-the-liquor-e2omgio"
+    },
+    {
+      "title": "Episode 045 - Getting the bartender's attention",
+      "published": "2017-10-30",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-045---Getting-the-bartenders-attention-e2omgiu"
+    },
+    {
+      "title": "Episode 044 - Champagne ideas and caviar dreams",
+      "published": "2017-10-15",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-044---Champagne-ideas-and-caviar-dreams-e2omgj2"
+    },
+    {
+      "title": "Episode 043 - Our first drink",
+      "published": "2017-10-01",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-043---Our-first-drink-e2omglm"
+    },
+    {
+      "title": "Episode 042 - Work hard, drink hard",
+      "published": "2017-09-14",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-042---Work-hard--drink-hard-e2omglh"
+    },
+    {
+      "title": "Episode 041 - Maintaining a healthy buzz",
+      "published": "2017-08-28",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-041---Maintaining-a-healthy-buzz-e2omgjn"
+    },
+    {
+      "title": "Episode 040 - React Native - Mix Once, Drink Everywhere",
+      "published": "2017-08-15",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-040---React-Native---Mix-Once--Drink-Everywhere-e2omgj5"
+    },
+    {
+      "title": "Episode 039 - Smashed after a Swift shot",
+      "published": "2017-07-30",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-039---Smashed-after-a-Swift-shot-e2omgkm"
+    },
+    {
+      "title": "Episode 038 - Plotting our drinks",
+      "published": "2017-07-18",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-038---Plotting-our-drinks-e2omgk4"
+    },
+    {
+      "title": "Episode 037 - Amazing Manhattans Anywhere",
+      "published": "2017-07-05",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-037---Amazing-Manhattans-Anywhere-e2omgj8"
+    },
+    {
+      "title": "Episode 036 - First drink in a new bar",
+      "published": "2017-06-18",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-036---First-drink-in-a-new-bar-e2omgjr"
+    },
+    {
+      "title": "Episode 035 - Top shelf style guides",
+      "published": "2017-06-04",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-035---Top-shelf-style-guides-e2omgkt"
+    },
+    {
+      "title": "Episode 034 - npm install beer --save-in-mouth",
+      "published": "2017-05-22",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-034---npm-install-beer---save-in-mouth-e2omgjm"
+    },
+    {
+      "title": "Episode 033 - One part beer, three parts web components. Add lemon to taste",
+      "published": "2017-05-08",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-033---One-part-beer--three-parts-web-components--Add-lemon-to-taste-e2omgi7"
+    },
+    {
+      "title": "Episode 032 - Imposter Syndrome - These are not the drinks you're looking for",
+      "published": "2017-04-23",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-032---Imposter-Syndrome---These-are-not-the-drinks-youre-looking-for-e2omgmv"
+    },
+    {
+      "title": "Episode 031 - A flaming shot of burnout",
+      "published": "2017-04-10",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-031---A-flaming-shot-of-burnout-e2omgif"
+    },
+    {
+      "title": "Episode 030 - Static site generators and dynamic drink drinkers",
+      "published": "2017-03-24",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-030---Static-site-generators-and-dynamic-drink-drinkers-e2omgkf"
+    },
+    {
+      "title": "Episode 029 - Alcoholic Angular",
+      "published": "2017-03-13",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-029---Alcoholic-Angular-e2omgjs"
+    },
+    {
+      "title": "Episode 028 - JavaScript Universi-LongIslandIce-ty",
+      "published": "2017-02-26",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-028---JavaScript-Universi-LongIslandIce-ty-e2omgi9"
+    },
+    {
+      "title": "Episode 027 - A drink for the \"Rust\" of us",
+      "published": "2017-02-16",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-027---A-drink-for-the-Rust-of-us-e2omglc"
+    },
+    {
+      "title": "Episode 026 - Design, neat",
+      "published": "2017-02-07",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-026---Design--neat-e2omgil"
+    },
+    {
+      "title": "Episode 025 - From bar-back to frontender",
+      "published": "2017-01-25",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-025---From-bar-back-to-frontender-e2omgit"
+    },
+    {
+      "title": "Episode 024 - The hangover of 2016",
+      "published": "2017-01-16",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-024---The-hangover-of-2016-e2omgkr"
+    },
+    {
+      "title": "Episode 023 - Ember - Gin & Tomster",
+      "published": "2016-12-31",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-023---Ember---Gin--Tomster-e2omgm3"
+    },
+    {
+      "title": "Episode 022 - Drinking with more style and less sass",
+      "published": "2016-12-17",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-022---Drinking-with-more-style-and-less-sass-e2omglp"
+    },
+    {
+      "title": "Episode 021 - Mixed drinks and mixed languages",
+      "published": "2016-12-06",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-021---Mixed-drinks-and-mixed-languages-e2omgmn"
+    },
+    {
+      "title": "Episode 020 - Wasted on workflows",
+      "published": "2016-11-21",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-020---Wasted-on-workflows-e2omgk3"
+    },
+    {
+      "title": "Episode 019 - Drinking to digital nomads",
+      "published": "2016-11-07",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-019---Drinking-to-digital-nomads-e2omgng"
+    },
+    {
+      "title": "Episode 018 - Shotgunning websites: web performance",
+      "published": "2016-10-29",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-018---Shotgunning-websites-web-performance-e2omgii"
+    },
+    {
+      "title": "Episode 017 - Managing our drinks",
+      "published": "2016-10-14",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-017---Managing-our-drinks-e2omgn1"
+    },
+    {
+      "title": "Episode 016 - Spilled beer and epic fails",
+      "published": "2016-09-26",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-016---Spilled-beer-and-epic-fails-e2omgls"
+    },
+    {
+      "title": "Episode 015 - A flight of JavaScript frameworks",
+      "published": "2016-09-13",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-015---A-flight-of-JavaScript-frameworks-e2omgi4"
+    },
+    {
+      "title": "Episode 014 - Hangovers and hotels: engineer conferences",
+      "published": "2016-08-28",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-014---Hangovers-and-hotels-engineer-conferences-e2omgjk"
+    },
+    {
+      "title": "Episode 013 - Drinking in the present to learn future JavaScript",
+      "published": "2016-08-18",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-013---Drinking-in-the-present-to-learn-future-JavaScript-e2omgju"
+    },
+    {
+      "title": "Episode 012 - Ninja rockstar whiskey drinker with 10 years IPA experience",
+      "published": "2016-08-08",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-012---Ninja-rockstar-whiskey-drinker-with-10-years-IPA-experience-e2omgim"
+    },
+    {
+      "title": "Episode 011 - Transpilers - slow down and drink",
+      "published": "2016-07-28",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-011---Transpilers---slow-down-and-drink-e2omglj"
+    },
+    {
+      "title": "Episode 010 - Raise your glass to women in tech",
+      "published": "2016-07-13",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-010---Raise-your-glass-to-women-in-tech-e2omgjp"
+    },
+    {
+      "title": "Episode 009 - Scotch makes us animated",
+      "published": "2016-06-07",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-009---Scotch-makes-us-animated-e2omgjo"
+    },
+    {
+      "title": "Episode 008 - A Shot of Silicon Valley",
+      "published": "2016-05-24",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-008---A-Shot-of-Silicon-Valley-e2omgia"
+    },
+    {
+      "title": "Episode 007 - a11y Cocktail",
+      "published": "2016-05-15",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-007---a11y-Cocktail-e2omgk2"
+    },
+    {
+      "title": "Episode 006 - Unit testing and whiskey tasting",
+      "published": "2016-04-26",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-006---Unit-testing-and-whiskey-tasting-e2omghn"
+    },
+    {
+      "title": "Episode 005 - Interviews make us drink",
+      "published": "2016-04-15",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-005---Interviews-make-us-drink-e2omgid"
+    },
+    {
+      "title": "Episode 004 - ES6 and a Six Pack",
+      "published": "2016-04-05",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-004---ES6-and-a-Six-Pack-e2omgm5"
+    },
+    {
+      "title": "Episode 003 - From head to footer",
+      "published": "2016-03-25",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-003---From-head-to-footer-e2omgks"
+    },
+    {
+      "title": "Episode 002 - RxJS - Async and Drink",
+      "published": "2016-03-16",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-002---RxJS---Async-and-Drink-e2omgko"
+    },
+    {
+      "title": "Episode 001 - The state of web development",
+      "published": "2016-03-01",
+      "url": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Episode-001---The-state-of-web-development-e2omgnd"
+    }
+  ]
+}
