@@ -446,6 +446,21 @@
         "Kent Beck",
         "Podcast"
       ]
+    },
+    {
+      "title": "The Pragmatic Engineer: Amazon, Google and Vibe Coding with Steve Yegge",
+      "url": "https://newsletter.pragmaticengineer.com/p/amazon-google-and-vibe-coding-with",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000717556804",
+      "published": "2025-07-16",
+      "tags": [
+        "AI",
+        "LLM",
+        "Coding",
+        "Amazon",
+        "Google",
+        "Steve Yegge",
+        "Podcast"
+      ]
     }
   ]
 }
