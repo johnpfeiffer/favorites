@@ -721,9 +721,34 @@
       "type": "Host_of"
     },
     {
-      "source": "1DF05A46-AFBF-40BD-8F67-2628B35A990E",
-      "target": "299308F6-DB9E-4F6F-A514-DFC84E1AA16B",
-      "type": "Author_of"
+      "source": "EDBB5BC8-9EC0-458E-A4D3-478EC5E09257",
+      "target": "9110632E-8787-4E02-B8F4-072594F7F359",
+      "type": "Founder_of"
+    },
+    {
+      "source": "EDBB5BC8-9EC0-458E-A4D3-478EC5E09257",
+      "target": "9110632E-8787-4E02-B8F4-072594F7F359",
+      "type": "Current_Employee_of"
+    },
+    {
+      "source": "ACC240CC-13D1-49B2-8A3F-B737091E7EC1",
+      "target": "9110632E-8787-4E02-B8F4-072594F7F359",
+      "type": "Current_Employee_of"
+    },
+    {
+      "source": "BDA051EC-1BEA-467F-A62C-95C9676755A1",
+      "target": "81BC5506-9505-447F-89FE-6547B6FBCE71",
+      "type": "Current_Employee_of"
+    },
+    {
+      "source": "645BB0D1-344F-4CC7-B34A-A0A7CB9EAB5D",
+      "target": "84A59D5B-603F-4F60-8BB9-B4262857B081",
+      "type": "Host_of"
+    },
+    {
+      "source": "645BB0D1-344F-4CC7-B34A-A0A7CB9EAB5D",
+      "target": "DA8F258E-74A4-4727-B57D-13B6A89A41B4",
+      "type": "Current_Employee_of"
     }
   ]
 }
