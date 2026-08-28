@@ -180,6 +180,15 @@
       "homeUrl": "https://www.frontendhappyhour.com",
       "canonicalPattern": "https://www.frontendhappyhour.com/episodes/<slug>",
       "notes": "Anchor/Spotify feed; item links point at podcasters.spotify.com, but each description ends with an 'Episode transcript:' link to the frontendhappyhour.com episode page, which is the canonical we store. The site is JS-rendered (curl gets a shell page); confirm slugs via the feed's transcript links or the search index."
+    },
+    {
+      "slug": "dev-interrupted",
+      "name": "Dev Interrupted",
+      "appleId": 1537003676,
+      "feedUrl": "https://rss.buzzsprout.com/1422892.rss",
+      "homeUrl": "https://linearb.io/dev-interrupted",
+      "canonicalPattern": "https://linearb.io/dev-interrupted/podcast/<slug>",
+      "notes": "Buzzsprout feed items have no <link>; canonical episode pages live on linearb.io/dev-interrupted/podcast/ (linearb.io 429s curl; confirm slugs via web search or FetchUrl). Episodes also appear on the devinterrupted.substack.com newsletter and devinterrupted.buzzsprout.com episode pages."
     }
   ]
 }
