@@ -461,6 +461,33 @@
         "Steve Yegge",
         "Podcast"
       ]
+    },
+    {
+      "title": "Dev Interrupted: How spec-driven development is changing the rules - AWS' Amit Patel",
+      "url": "https://linearb.io/dev-interrupted/podcast/spec-driven-development-aws-kiro",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/dev-interrupted/id1537003676?i=1000736252405",
+      "published": "2025-11-11",
+      "tags": [
+        "AI",
+        "LLM",
+        "Coding",
+        "AWS",
+        "Amit Patel",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "The Pragmatic Engineer: Beyond Vibe Coding with Addy Osmani",
+      "url": "https://newsletter.pragmaticengineer.com/p/beyond-vibe-coding-with-addy-osmani",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000734074401",
+      "published": "2025-10-29",
+      "tags": [
+        "AI",
+        "LLM",
+        "Coding",
+        "Addy Osmani",
+        "Podcast"
+      ]
     }
   ]
 }

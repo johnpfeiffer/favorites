@@ -1750,6 +1750,41 @@
         "Steve Huynh",
         "Podcast"
       ]
+    },
+    {
+      "title": "Oxide RFD 1: Requests for Discussion",
+      "url": "https://rfd.shared.oxide.computer/rfd/0001",
+      "alternate-url": "https://web.archive.org/web/20260625174027/https://rfd.shared.oxide.computer/rfd/0001",
+      "published": null,
+      "tags": [
+        "Engineering",
+        "Documentation",
+        "Process",
+        "Article"
+      ]
+    },
+    {
+      "title": "More Than DNS: The 14 hour AWS us-east-1 outage",
+      "url": "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
+      "alternate-url": "https://web.archive.org/web/20260616154816/https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
+      "published": "2025-10-26",
+      "tags": [
+        "Engineering",
+        "AWS",
+        "Cloud",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Caleb Mellas: How to plan a large/complex project",
+      "url": "https://calebmellas.beehiiv.com/p/how-to-plan-a-complex-project",
+      "alternate-url": "https://web.archive.org/web/20230628121742/https://calebmellas.beehiiv.com/p/how-to-plan-a-complex-project",
+      "published": "2023-06-14",
+      "tags": [
+        "Engineering",
+        "Project Management",
+        "Blog"
+      ]
     }
   ]
 }
