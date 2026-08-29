@@ -754,6 +754,16 @@
       "source": "BDA051EC-1BEA-467F-A62C-95C9676755A1",
       "target": "139E5801-A50C-4D70-AC42-AC20686C4447",
       "type": "Host_of"
+    },
+    {
+      "source": "C81B1A09-C38D-48F4-9ECB-DA4DF34BE7FA",
+      "target": "E1200EB5-1B0D-45B5-92D9-240CD8460D62",
+      "type": "Current_Employee_of"
+    },
+    {
+      "source": "54AEAEA9-E4DA-4FE7-8B98-CC9C43FD8139",
+      "target": "EC9CBB3A-0FFA-40E3-89A2-1A86474ED033",
+      "type": "Previous_Employee_of"
     }
   ]
 }
