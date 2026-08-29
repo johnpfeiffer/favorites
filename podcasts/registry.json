@@ -189,6 +189,15 @@
       "homeUrl": "https://linearb.io/dev-interrupted",
       "canonicalPattern": "https://linearb.io/dev-interrupted/podcast/<slug>",
       "notes": "Buzzsprout feed items have no <link>; canonical episode pages live on linearb.io/dev-interrupted/podcast/ (linearb.io 429s curl; confirm slugs via web search or FetchUrl). Episodes also appear on the devinterrupted.substack.com newsletter and devinterrupted.buzzsprout.com episode pages."
+    },
+    {
+      "slug": "acquired",
+      "name": "Acquired",
+      "appleId": 1050462261,
+      "feedUrl": "https://feeds.transistor.fm/acquired",
+      "homeUrl": "https://www.acquired.fm",
+      "canonicalPattern": "https://www.acquired.fm/episodes/<slug>",
+      "notes": "Transistor feed; item links point at acquired.fm episode pages. Recurs heavily in history.json (company histories). Feed pubDates are Pacific-time while acquired.fm renders UTC, so index dates can read one day earlier than the acquired.fm date, which is the stored canonical."
     }
   ]
 }

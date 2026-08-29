@@ -1,0 +1,1091 @@
+{
+  "show": "Acquired",
+  "slug": "acquired",
+  "appleId": 1050462261,
+  "feedUrl": "https://feeds.transistor.fm/acquired",
+  "homeUrl": "https://www.acquired.fm",
+  "canonicalPattern": "https://www.acquired.fm/episodes/<slug>",
+  "episodeCount": 216,
+  "episodes": [
+    {
+      "title": "Disney: The Renaissance and the Empire",
+      "published": "2026-08-09",
+      "url": "https://www.acquired.fm/episodes/disney-the-renaissance-and-the-empire"
+    },
+    {
+      "title": "The Walt Disney Company",
+      "published": "2026-06-21",
+      "url": "https://www.acquired.fm/episodes/the-walt-disney-company"
+    },
+    {
+      "title": "Vanguard",
+      "published": "2026-05-17",
+      "url": "https://www.acquired.fm/episodes/vanguard"
+    },
+    {
+      "title": "Ferrari",
+      "published": "2026-04-12",
+      "url": "https://www.acquired.fm/episodes/ferrari"
+    },
+    {
+      "title": "Rolex",
+      "published": "2026-03-04",
+      "url": "https://www.acquired.fm/episodes/rolex"
+    },
+    {
+      "title": "Costco",
+      "published": "2026-03-03",
+      "url": "https://www.acquired.fm/episodes/costco"
+    },
+    {
+      "title": "Formula 1",
+      "published": "2026-03-02",
+      "url": "https://www.acquired.fm/episodes/formula-1"
+    },
+    {
+      "title": "The NFL",
+      "published": "2026-01-26",
+      "url": "https://www.acquired.fm/episodes/the-nfl"
+    },
+    {
+      "title": "10 Years of Acquired (with Michael Lewis)",
+      "published": "2025-12-14",
+      "url": "https://www.acquired.fm/episodes/10-years-of-acquired-with-michael-lewis"
+    },
+    {
+      "title": "Coca-Cola",
+      "published": "2025-11-23",
+      "url": "https://www.acquired.fm/episodes/coca-cola"
+    },
+    {
+      "title": "Trader Joe’s",
+      "published": "2025-10-26",
+      "url": "https://www.acquired.fm/episodes/trader-joes"
+    },
+    {
+      "title": "Google Part III: The AI Company",
+      "published": "2025-10-05",
+      "url": "https://www.acquired.fm/episodes/google-the-ai-company"
+    },
+    {
+      "title": "Acquired Live at Radio City Music Hall (Presented by J.P. Morgan)",
+      "published": "2025-09-30",
+      "url": "https://www.acquired.fm/episodes/acquired-live-at-radio-city-music-hall-presented-by-j-p-morgan"
+    },
+    {
+      "title": "Google Part II: Alphabet",
+      "published": "2025-08-26",
+      "url": "https://www.acquired.fm/episodes/alphabet-inc"
+    },
+    {
+      "title": "The Jamie Dimon Interview",
+      "published": "2025-07-16",
+      "url": "https://www.acquired.fm/episodes/the-jamie-dimon-interview"
+    },
+    {
+      "title": "Google Part I: Origins of Search",
+      "published": "2025-06-29",
+      "url": "https://www.acquired.fm/episodes/google"
+    },
+    {
+      "title": "The Steve Ballmer Interview",
+      "published": "2025-06-01",
+      "url": "https://www.acquired.fm/episodes/the-steve-ballmer-interview"
+    },
+    {
+      "title": "Epic Systems (MyChart)",
+      "published": "2025-04-20",
+      "url": "https://www.acquired.fm/episodes/epic-systems-mychart"
+    },
+    {
+      "title": "Indian Premier League Cricket",
+      "published": "2025-03-23",
+      "url": "https://www.acquired.fm/episodes/indian-premier-league-cricket"
+    },
+    {
+      "title": "TSMC Founder Morris Chang",
+      "published": "2025-01-26",
+      "url": "https://www.acquired.fm/episodes/tsmc-founder-morris-chang"
+    },
+    {
+      "title": "Mars Inc. (the chocolate story)",
+      "published": "2024-12-15",
+      "url": "https://www.acquired.fm/episodes/mars-inc-the-chocolate-story"
+    },
+    {
+      "title": "IKEA",
+      "published": "2024-11-17",
+      "url": "https://www.acquired.fm/episodes/ikea"
+    },
+    {
+      "title": "Meta",
+      "published": "2024-10-27",
+      "url": "https://www.acquired.fm/episodes/meta"
+    },
+    {
+      "title": "Acquired LIVE from Chase Center (with Daniel Ek, Emily Chang, Jensen Huang and Mark Zuckerberg)",
+      "published": "2024-09-29",
+      "url": "https://www.acquired.fm/episodes/acquired-live-from-chase-center-with-daniel-ek-emily-chang-jensen-huang-and-mark-zuckerberg"
+    },
+    {
+      "title": "The Mark Zuckerberg Interview",
+      "published": "2024-09-17",
+      "url": "https://www.acquired.fm/episodes/the-mark-zuckerberg-interview"
+    },
+    {
+      "title": "Chase Center + Summer Update",
+      "published": "2024-08-08",
+      "url": "https://share.transistor.fm/s/db73bbc2"
+    },
+    {
+      "title": "Microsoft Volume II",
+      "published": "2024-07-21",
+      "url": "https://www.acquired.fm/episodes/microsoft-volume-ii"
+    },
+    {
+      "title": "Starbucks (with Howard Schultz)",
+      "published": "2024-06-03",
+      "url": "https://www.acquired.fm/episodes/starbucks-with-howard-schultz"
+    },
+    {
+      "title": "Microsoft Volume I",
+      "published": "2024-04-21",
+      "url": "https://www.acquired.fm/episodes/microsoft"
+    },
+    {
+      "title": "Renaissance Technologies",
+      "published": "2024-03-17",
+      "url": "https://www.acquired.fm/episodes/renaissance-technologies"
+    },
+    {
+      "title": "Hermès",
+      "published": "2024-02-19",
+      "url": "https://www.acquired.fm/episodes/hermes"
+    },
+    {
+      "title": "Novo Nordisk (Ozempic)",
+      "published": "2024-01-21",
+      "url": "https://www.acquired.fm/episodes/novo-nordisk-ozempic"
+    },
+    {
+      "title": "Holiday Special 2023",
+      "published": "2023-12-17",
+      "url": "https://www.acquired.fm/episodes/holiday-special-2023"
+    },
+    {
+      "title": "Visa",
+      "published": "2023-11-26",
+      "url": "https://www.acquired.fm/episodes/visa"
+    },
+    {
+      "title": "Charlie Munger",
+      "published": "2023-10-29",
+      "url": "https://www.acquired.fm/episodes/charlie-munger"
+    },
+    {
+      "title": "NVIDIA CEO Jensen Huang",
+      "published": "2023-10-15",
+      "url": "https://www.acquired.fm/episodes/jensen-huang"
+    },
+    {
+      "title": "Nvidia Part III: The Dawn of the AI Era (2022-2023)",
+      "published": "2023-09-05",
+      "url": "https://www.acquired.fm/episodes/nvidia-the-dawn-of-the-ai-era"
+    },
+    {
+      "title": "Nike",
+      "published": "2023-07-24",
+      "url": "https://www.acquired.fm/episodes/nike"
+    },
+    {
+      "title": "Porsche (with Doug DeMuro)",
+      "published": "2023-06-26",
+      "url": "https://www.acquired.fm/episodes/porsche-with-doug-demuro"
+    },
+    {
+      "title": "Uber CEO Dara Khosrowshahi",
+      "published": "2023-06-12",
+      "url": "https://www.acquired.fm/episodes/uber-ceo-dara-khosrowshahi"
+    },
+    {
+      "title": "Lockheed Martin",
+      "published": "2023-05-29",
+      "url": "https://www.acquired.fm/episodes/lockheed-martin"
+    },
+    {
+      "title": "Spotify CEO Daniel Ek",
+      "published": "2023-05-17",
+      "url": "https://www.acquired.fm/episodes/spotify-ceo-daniel-ek"
+    },
+    {
+      "title": "Benchmark’s Mitch Lasky and Blake Robbins on The Art of Business in Gaming",
+      "published": "2023-04-25",
+      "url": "https://www.acquired.fm/episodes/benchmarks-mitch-lasky-and-blake-robbins-on-the-art-of-business-in-gaming"
+    },
+    {
+      "title": "Short: The Death of Sega",
+      "published": "2023-04-17",
+      "url": "https://www.acquired.fm/episodes/short-the-death-of-sega"
+    },
+    {
+      "title": "Nintendo: The Console Wars",
+      "published": "2023-04-11",
+      "url": "https://www.acquired.fm/episodes/nintendo-the-console-wars"
+    },
+    {
+      "title": "Hamilton Helmer & Chenyi Shi on How to Build an AWS-Like Second Business",
+      "published": "2023-04-03",
+      "url": "https://www.acquired.fm/episodes/interview-hamilton-helmer-chenyi-shi-on-how-to-build-an-aws-like-second-business"
+    },
+    {
+      "title": "Sessions: David Senra (Founders Podcast)",
+      "published": "2023-03-29",
+      "url": "https://www.acquired.fm/episodes/sessions-david-senra-founders-podcast"
+    },
+    {
+      "title": "Nintendo's Origins",
+      "published": "2023-03-15",
+      "url": "https://www.acquired.fm/episodes/nintendo"
+    },
+    {
+      "title": "LVMH",
+      "published": "2023-02-21",
+      "url": "https://www.acquired.fm/episodes/lvmh"
+    },
+    {
+      "title": "Holiday Special 2022",
+      "published": "2022-12-18",
+      "url": "https://www.acquired.fm/episodes/holiday-special-2022"
+    },
+    {
+      "title": "Stratechery (with Ben Thompson)",
+      "published": "2022-12-05",
+      "url": "https://www.acquired.fm/episodes/stratechery-with-ben-thompson"
+    },
+    {
+      "title": "Enron",
+      "published": "2022-11-28",
+      "url": "https://www.acquired.fm/episodes/enron"
+    },
+    {
+      "title": "Qualcomm",
+      "published": "2022-11-14",
+      "url": "https://www.acquired.fm/episodes/qualcomm"
+    },
+    {
+      "title": "Benchmark Part II: The Dinner",
+      "published": "2022-10-17",
+      "url": "https://www.acquired.fm/episodes/benchmark-part-ii-the-dinner"
+    },
+    {
+      "title": "ACQ Sessions: Jason Calacanis",
+      "published": "2022-10-04",
+      "url": "https://www.acquired.fm/episodes/acq-sessions-jason-calacanis"
+    },
+    {
+      "title": "Benchmark Part I",
+      "published": "2022-09-27",
+      "url": "https://www.acquired.fm/episodes/benchmark-capital"
+    },
+    {
+      "title": "Amazon Web Services",
+      "published": "2022-09-05",
+      "url": "https://www.acquired.fm/episodes/amazon-web-services"
+    },
+    {
+      "title": "Howard Marks & Andrew Marks: Something of Value",
+      "published": "2022-08-29",
+      "url": "https://www.acquired.fm/episodes/howard-marks-andrew-marks-something-of-value"
+    },
+    {
+      "title": "Amazon.com",
+      "published": "2022-08-16",
+      "url": "https://www.acquired.fm/episodes/amazon-com"
+    },
+    {
+      "title": "From NFL to Startup COO to Congressman Regulating Crypto (with Rep. Anthony Gonzalez)",
+      "published": "2022-08-01",
+      "url": "https://www.acquired.fm/episodes/from-nfl-to-startup-coo-to-congressman-regulating-crypto-with-rep-anthony-gonzalez"
+    },
+    {
+      "title": "Walmart",
+      "published": "2022-07-18",
+      "url": "https://www.acquired.fm/episodes/walmart"
+    },
+    {
+      "title": "The Playbook: Lessons from 200+ Company Stories",
+      "published": "2022-06-19",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "American Dynamism (with Katherine Boyle)",
+      "published": "2022-06-05",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Capital-Efficient Growth (with Zoom CEO Eric Yuan & Veeva CEO Peter Gassner)",
+      "published": "2022-05-19",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Arena Show Part II: Brooks Running (with CEO Jim Weber)",
+      "published": "2022-05-15",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Arena Show Part I: Idea Dinner + YC Continuity",
+      "published": "2022-05-12",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Nvidia Part II: The Machine Learning Company (2006-2022)",
+      "published": "2022-04-20",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Platforms and Power (with Hamilton Helmer and Chenyi Shi)",
+      "published": "2022-04-05",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Nvidia Part I: The GPU Company (1993-2006)",
+      "published": "2022-03-27",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Altimeter (with Brad Gerstner)",
+      "published": "2022-03-14",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "SONY",
+      "published": "2022-03-07",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Super Pumped (with Brian Koppelman and Joseph Gordon-Levitt)",
+      "published": "2022-02-21",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Browser (with Brendan Eich, Chief Architect of Netscape + Mozilla and CEO of Brave)",
+      "published": "2022-02-14",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Peloton",
+      "published": "2022-02-10",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Taylor Swift (Acquired’s Version)",
+      "published": "2022-01-23",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "CAA (with Michael Ovitz)",
+      "published": "2021-12-21",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "FTX (with Sam Bankman-Fried & Mario Gabriele)",
+      "published": "2021-12-14",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "7 Powers with Hamilton Helmer",
+      "published": "2021-12-07",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Not Boring (with Packy McCormick)",
+      "published": "2021-12-02",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Complexity Investing & Semiconductors (with NZS Capital)",
+      "published": "2021-11-02",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Standard Oil Part II",
+      "published": "2021-10-18",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Michael Mauboussin Master Class — Moats, Skill, Luck, Decision Making and a Whole Lot More",
+      "published": "2021-10-05",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Standard Oil Part I",
+      "published": "2021-09-21",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "TSMC",
+      "published": "2021-09-06",
+      "url": "https://www.acquired.fm/episodes/tsmc"
+    },
+    {
+      "title": "Kevin Rose from Web 2.0 to Web3",
+      "published": "2021-08-29",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Andreessen Horowitz Part II",
+      "published": "2021-08-09",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Andreessen Horowitz Part I",
+      "published": "2021-07-26",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Special: Solana (with CEO Anatoly Yakovenko)",
+      "published": "2021-07-18",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Ethereum",
+      "published": "2021-07-05",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Special: Ho Nam from Altos Ventures — A Different Approach to VC",
+      "published": "2021-06-20",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Berkshire Hathaway Part III",
+      "published": "2021-06-06",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Special: Amazon Unbound (with Brad Stone)",
+      "published": "2021-05-26",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Berkshire Hathaway Part II",
+      "published": "2021-05-12",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Special: 2021 China Tech Trends (with Tech Buzz China)",
+      "published": "2021-05-05",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Berkshire Hathaway Part I",
+      "published": "2021-04-20",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Special: \"Why Now\" for Digital Health (with Levels founder Josh Clemente)",
+      "published": "2021-04-05",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Rec Room Part II (with CEO Nick Fajt)",
+      "published": "2021-03-23",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Meituan",
+      "published": "2021-03-10",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The New York Times Company",
+      "published": "2021-02-17",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Special: Sequoia Capital's Investment Playbook (with Alfred Lin)",
+      "published": "2021-01-31",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Bitcoin",
+      "published": "2021-01-18",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Special: Acquired x Indie Hackers",
+      "published": "2020-12-16",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Airbnb",
+      "published": "2020-12-10",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "DoorDash",
+      "published": "2020-12-09",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Special: Slack + Salesforce Emergency Pod with Packy McCormick of Not Boring",
+      "published": "2020-12-01",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Virgin Galactic",
+      "published": "2020-11-22",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Special: Superhuman Part II - Designing Software to Feel like a Game (with Rahul Vohra)",
+      "published": "2020-11-12",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Twitter (with Dick Costolo)",
+      "published": "2020-10-28",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Special: Invest Like the Best on Acquired",
+      "published": "2020-10-06",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The NBA",
+      "published": "2020-09-30",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Special: Acquired x My First Million",
+      "published": "2020-09-09",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Epic Games",
+      "published": "2020-09-01",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Eventbrite (with Julia & Kevin Hartz)",
+      "published": "2020-08-25",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Pinduoduo",
+      "published": "2020-07-16",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Oprah (Harpo Studios)",
+      "published": "2020-06-25",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "SpaceX",
+      "published": "2020-05-26",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Adapting Episode 3: Intel",
+      "published": "2020-05-11",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Special: Jason Calacanis",
+      "published": "2020-04-28",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Adapting Episode 2: Sequoia’s Black Swan Memo (with Roelof Botha)",
+      "published": "2020-03-30",
+      "url": "https://share.transistor.fm/s/02875aa1"
+    },
+    {
+      "title": "Adapting Episode 1: Canlis",
+      "published": "2020-03-20",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Top 10 Acquisitions of All-Time",
+      "published": "2020-03-17",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Sequoia Capital Part II (with Doug Leone)",
+      "published": "2020-02-17",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "WhatsApp",
+      "published": "2020-01-28",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Lean Startup and the Long-Term Stock Exchange (with Eric Ries)",
+      "published": "2019-12-29",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Convoy (with CEO Dan Lewis)",
+      "published": "2019-12-19",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "TikTok",
+      "published": "2019-12-08",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Disney, Plus",
+      "published": "2019-11-25",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The WeWork “Acquisition” (with Dan Primack)",
+      "published": "2019-10-24",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Atari (with Nolan Bushnell)",
+      "published": "2019-10-15",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Sequoia Capital (Part 1)",
+      "published": "2019-09-26",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Google Maps",
+      "published": "2019-08-26",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Shopify IPO",
+      "published": "2019-08-06",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Huawei",
+      "published": "2019-07-22",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Superhuman (with CEO Rahul Vohra)",
+      "published": "2019-06-27",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Slack DPO",
+      "published": "2019-06-24",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Zoom IPO (with Santi Subotovsky)",
+      "published": "2019-06-18",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Electronic Arts IPO (with Trip Hawkins)",
+      "published": "2019-05-27",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Uber IPO",
+      "published": "2019-05-11",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Pinterest IPO",
+      "published": "2019-04-23",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Lyft IPO",
+      "published": "2019-03-30",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Instagram Revisited (with Emily White)",
+      "published": "2019-02-25",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Special: Spotify + Gimlet/Anchor Quick Take + Worldwide Meetup Details!",
+      "published": "2019-02-18",
+      "url": "https://share.transistor.fm/s/9183cdee"
+    },
+    {
+      "title": "ARM & SoftBank",
+      "published": "2019-02-03",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "ESPN",
+      "published": "2019-01-21",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Tencent",
+      "published": "2018-12-16",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Netflix (Part 2)",
+      "published": "2018-11-25",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Netflix (Part 1)",
+      "published": "2018-11-11",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Venmo (live with Andrew Kortina)",
+      "published": "2018-10-29",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Behance (with Scott Belsky)",
+      "published": "2018-10-01",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Alibaba",
+      "published": "2018-09-23",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Recode (with Kara Swisher)",
+      "published": "2018-09-10",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Sonos IPO",
+      "published": "2018-08-20",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Xiaomi IPO",
+      "published": "2018-08-05",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Tesla",
+      "published": "2018-07-16",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Rover-DogVacay Merger (with Rover CEO Aaron Easterly)",
+      "published": "2018-06-17",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "GitHub",
+      "published": "2018-06-05",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "T-Mobile / Sprint",
+      "published": "2018-05-21",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "PowerPoint",
+      "published": "2018-05-04",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Spotify’s Direct Listing",
+      "published": "2018-04-05",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Dropbox IPO",
+      "published": "2018-03-25",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "SoftBank, Fortress and the Vision Fund",
+      "published": "2018-03-22",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Nest",
+      "published": "2018-02-19",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Raising a Seed Round with Against Gravity CEO Nick Fajt",
+      "published": "2018-02-06",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Zappos (with Alfred Lin)",
+      "published": "2018-01-22",
+      "url": "https://share.transistor.fm/s/6476b194"
+    },
+    {
+      "title": "2017 Holiday Special",
+      "published": "2017-12-18",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Apple - Beats",
+      "published": "2017-12-11",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Stitch Fix IPO",
+      "published": "2017-12-04",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Qualcomm - Broadcom",
+      "published": "2017-11-20",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Atlassian IPO",
+      "published": "2017-11-06",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Blue Bottle Coffee",
+      "published": "2017-10-07",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "HTC, Google and the Future of Mobile",
+      "published": "2017-09-21",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "AOL and Time Warner (with the Internet History Podcast)",
+      "published": "2017-09-17",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Square IPO",
+      "published": "2017-08-16",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Opsware (with Michel Feaster)",
+      "published": "2017-08-04",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Booking.com with Jetsetter & Room 77 CEO Drew Patterson",
+      "published": "2017-07-25",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Activision Blizzard",
+      "published": "2017-07-12",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Whole Foods Market",
+      "published": "2017-06-20",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "SoundJam (iTunes)",
+      "published": "2017-05-31",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "BAMTech, Disney and \"the Biggest Media Company You've Never Heard Of”",
+      "published": "2017-05-10",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The LA Clippers",
+      "published": "2017-04-23",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Oculus",
+      "published": "2017-04-11",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Starbucks IPO with Dan Levitan",
+      "published": "2017-04-03",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Overture (with the Internet History Podcast!)",
+      "published": "2017-03-13",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Snap Inc. IPO",
+      "published": "2017-03-04",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Uber - Didi Chuxing Merger with Brad Stone, author of The Upstarts & The Everything Store",
+      "published": "2017-02-28",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "P.A. Semi + AuthenTec",
+      "published": "2017-01-24",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Special: 2016 Review and 2017 Predictions",
+      "published": "2017-01-11",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Amazon IPO with original Amazon Board Member Tom Alberg",
+      "published": "2016-12-31",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Special: A Conversation with Microsoft's Head of Strategic Investments Brian Schultz",
+      "published": "2016-12-16",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Marvel",
+      "published": "2016-12-05",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "The Facebook IPO",
+      "published": "2016-11-11",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Skype",
+      "published": "2016-11-01",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "NeXT (Live show at the GeekWire Summit)",
+      "published": "2016-10-23",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Zillow + Trulia (with Zillow Group CFO Kathleen Philips)",
+      "published": "2016-10-13",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Inside the M&A Press with Bloomberg's Alex Sherman",
+      "published": "2016-09-27",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Android",
+      "published": "2016-09-16",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Jet",
+      "published": "2016-08-29",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Special: An Acquirer’s View into M&A with Taylor Barada, head of Corp Dev at Adobe",
+      "published": "2016-08-22",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Waze",
+      "published": "2016-08-03",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Midroll + Stitcher (acquired by Scripps)",
+      "published": "2016-07-12",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "ExactTarget (acquired by Salesforce) with Scott Dorsey",
+      "published": "2016-07-05",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "LinkedIn",
+      "published": "2016-06-16",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Push Pop Press (Facebook Instant Articles) with Todd Bishop",
+      "published": "2016-06-05",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Snapchat",
+      "published": "2016-05-22",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "PayPal",
+      "published": "2016-05-08",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Virgin America",
+      "published": "2016-04-26",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Writely (Google Docs)",
+      "published": "2016-03-29",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Acompli, Sunrise, and Wunderlist (with Kurt DelBene)",
+      "published": "2016-02-29",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "YouTube",
+      "published": "2016-02-03",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Lucasfilm",
+      "published": "2016-01-19",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Siri",
+      "published": "2015-12-14",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Bungie (with Xbox Co-Founder Ed Fries)",
+      "published": "2015-11-30",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Twitch",
+      "published": "2015-11-16",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Instagram",
+      "published": "2015-11-01",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Pixar",
+      "published": "2015-10-15",
+      "url": "http://acquired.fm/"
+    },
+    {
+      "title": "Trailer: What is Acquired?",
+      "published": "2015-10-01",
+      "url": "https://share.transistor.fm/s/860cafa1"
+    }
+  ]
+}
