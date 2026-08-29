@@ -1785,6 +1785,44 @@
         "Project Management",
         "Blog"
       ]
+    },
+    {
+      "title": "SE Radio: Kent Beck on 'Tidy First?'",
+      "url": "https://se-radio.net/2024/05/se-radio-615-kent-beck-on-tidy-first/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714?i=1000655195504",
+      "published": "2024-05-10",
+      "tags": [
+        "Engineering",
+        "Refactoring",
+        "Kent Beck",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "GOTO: From XP to TCR & Limbo - Kent Beck & Daniel Terhorst-North",
+      "url": "https://gotopia.tech/articles/355/from-extreme-programming-to-tcr-and-limbo",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/goto-the-brightest-minds-in-tech/id1559093928?i=1000709558831",
+      "published": "2025-05-23",
+      "tags": [
+        "Engineering",
+        "Extreme Programming",
+        "Agile",
+        "Kent Beck",
+        "Daniel Terhorst-North",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Go Time: Foundations of Go performance",
+      "url": "https://changelog.com/gotime/304",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/go-time-golang-software-engineering/id1120964487?i=1000646041879",
+      "published": "2024-02-20",
+      "tags": [
+        "Engineering",
+        "Golang",
+        "Performance",
+        "Podcast"
+      ]
     }
   ]
 }
