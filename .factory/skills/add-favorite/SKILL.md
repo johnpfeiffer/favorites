@@ -111,5 +111,7 @@ Adding a link often surfaces pre-existing issues: invalid JSON, duplicate URLs, 
 
 Branch off latest `main` (`git checkout main && git pull --ff-only && git checkout -b <branch>`), commit with a short lowercase message, push, and open a PR with `gh pr create --base main`. The PR body should include a table of added links (URL, published date, file, tags) and notes on date sources and placement reasoning.
 
+Open the PR early as a draft when the requester wants the intent captured up front (or when a batch will take a while): create the branch, `git commit --allow-empty` a marker commit, push, and `gh pr create --draft --base main` with a body that records the intent — the submitted links with the requester's annotations, the planned handling per link, and a checklist (resolve → dedupe → tags/placement → graph → validators). Push real commits as they land, and replace the intent section with the final evidence tables before marking the PR ready for review.
+
 - Push auth: `git config credential.helper "!gh auth git-credential"` reuses the authenticated `gh` session; set a repo-local `user.name`/`user.email` if git has no identity.
 - If the previous PR was merged and its branch deleted before you push follow-up commits, pushing recreates a stray branch. Instead cherry-pick the commits onto a fresh branch off `origin/main`, open a new PR, and delete the stray branch after verifying by diff that it holds nothing unique.
