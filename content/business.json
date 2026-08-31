@@ -273,6 +273,32 @@
         "Peter Walker",
         "Podcast"
       ]
+    },
+    {
+      "title": "Lenny's Podcast: A framework for finding product-market fit with Todd Jackson",
+      "url": "https://www.lennysnewsletter.com/p/a-framework-for-finding-product-market",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000652134742",
+      "published": "2024-04-11",
+      "tags": [
+        "Business",
+        "Startups",
+        "Product Management",
+        "Todd Jackson",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Lenny's Podcast: Pattern Breakers - How to find a breakthrough startup idea with Mike Maples, Jr.",
+      "url": "https://www.lennysnewsletter.com/p/how-to-find-a-great-startup-idea-mike-maples-jr",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000661433522",
+      "published": "2024-07-07",
+      "tags": [
+        "Business",
+        "Startups",
+        "VC",
+        "Mike Maples",
+        "Podcast"
+      ]
     }
   ]
 }

@@ -1750,6 +1750,92 @@
         "Steve Huynh",
         "Podcast"
       ]
+    },
+    {
+      "title": "Oxide RFD 1: Requests for Discussion",
+      "url": "https://rfd.shared.oxide.computer/rfd/0001",
+      "alternate-url": "https://web.archive.org/web/20260625174027/https://rfd.shared.oxide.computer/rfd/0001",
+      "published": null,
+      "tags": [
+        "Engineering",
+        "Documentation",
+        "Process",
+        "Article"
+      ]
+    },
+    {
+      "title": "More Than DNS: The 14 hour AWS us-east-1 outage",
+      "url": "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
+      "alternate-url": "https://web.archive.org/web/20260616154816/https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
+      "published": "2025-10-26",
+      "tags": [
+        "Engineering",
+        "AWS",
+        "Cloud",
+        "Blog"
+      ]
+    },
+    {
+      "title": "Caleb Mellas: How to plan a large/complex project",
+      "url": "https://calebmellas.beehiiv.com/p/how-to-plan-a-complex-project",
+      "alternate-url": "https://web.archive.org/web/20230628121742/https://calebmellas.beehiiv.com/p/how-to-plan-a-complex-project",
+      "published": "2023-06-14",
+      "tags": [
+        "Engineering",
+        "Project Management",
+        "Blog"
+      ]
+    },
+    {
+      "title": "SE Radio: Kent Beck on 'Tidy First?'",
+      "url": "https://se-radio.net/2024/05/se-radio-615-kent-beck-on-tidy-first/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714?i=1000655195504",
+      "published": "2024-05-10",
+      "tags": [
+        "Engineering",
+        "Refactoring",
+        "Kent Beck",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "GOTO: From XP to TCR & Limbo - Kent Beck & Daniel Terhorst-North",
+      "url": "https://gotopia.tech/articles/355/from-extreme-programming-to-tcr-and-limbo",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/goto-the-brightest-minds-in-tech/id1559093928?i=1000709558831",
+      "published": "2025-05-23",
+      "tags": [
+        "Engineering",
+        "Extreme Programming",
+        "Agile",
+        "Kent Beck",
+        "Daniel Terhorst-North",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Go Time: Foundations of Go performance",
+      "url": "https://changelog.com/gotime/304",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/go-time-golang-software-engineering/id1120964487?i=1000646041879",
+      "published": "2024-02-20",
+      "tags": [
+        "Engineering",
+        "Golang",
+        "Performance",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "ELC: Speed v. Quality, Measuring Productivity & Cross-Functional Relationships - Tackling the Top 10 Eng Leadership Challenges! #186",
+      "url": "https://sfelc.com/podcasts/speed-v-quality-measuring-productivity-and-cross-functional-relationships-tackling-the-top-10-eng-leadership-challenges",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-engineering-leadership-podcast/id1481996448?i=1000661628400",
+      "published": "2024-07-09",
+      "tags": [
+        "Engineering",
+        "Product Management",
+        "Productivity",
+        "Metrics",
+        "Podcast"
+      ]
     }
   ]
 }

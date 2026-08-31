@@ -1,0 +1,1626 @@
+{
+  "show": "Dev Interrupted",
+  "slug": "dev-interrupted",
+  "appleId": 1537003676,
+  "feedUrl": "https://rss.buzzsprout.com/1422892.rss",
+  "homeUrl": "https://linearb.io/dev-interrupted",
+  "canonicalPattern": "https://linearb.io/dev-interrupted/podcast/<slug>",
+  "episodeCount": 323,
+  "episodes": [
+    {
+      "title": "Can agents keep a secret? We asked 1Password’s CTO Nancy Wang",
+      "published": "2026-08-25",
+      "url": null
+    },
+    {
+      "title": "The battle to replace Github, building assembly lines for software, and why no one finishes projects anymore",
+      "published": "2026-08-21",
+      "url": null
+    },
+    {
+      "title": "Agent, skill, or MCP? Which to use and when to use them | AWS’ Clare Liguori",
+      "published": "2026-08-18",
+      "url": null
+    },
+    {
+      "title": "Telling your agent “no” is a moat now, rearward deployed engineers, and harnessing the context for your SDLC",
+      "published": "2026-08-14",
+      "url": null
+    },
+    {
+      "title": "The playbook to close your team’s AI productivity gap | LinearB’s Yishai Beeri",
+      "published": "2026-08-11",
+      "url": null
+    },
+    {
+      "title": "Model welfare, building a civilization for agents, and the CI/CD landrush",
+      "published": "2026-08-07",
+      "url": null
+    },
+    {
+      "title": "Why AI gains are unevenly distributed in your engineering team | Asana’s Arnab Bose",
+      "published": "2026-08-04",
+      "url": null
+    },
+    {
+      "title": "The rise of software factories, the fall of first drafts, and the hidden tax holding back your agents",
+      "published": "2026-07-31",
+      "url": null
+    },
+    {
+      "title": "Why the traditional pull request has a target on its back | CircleCI’s Rob Zuber",
+      "published": "2026-07-28",
+      "url": null
+    },
+    {
+      "title": "Models escaping containment, intelligence becoming a commodity, and AI code review to the rescue",
+      "published": "2026-07-24",
+      "url": null
+    },
+    {
+      "title": "The most underrated dataset in enterprise AI is your org chart | Rippling's Albert Strasheim",
+      "published": "2026-07-21",
+      "url": null
+    },
+    {
+      "title": "Rebuilding CLIs for agents, it’s time to get MCP-certified, and why human code review will never catch up",
+      "published": "2026-07-17",
+      "url": null
+    },
+    {
+      "title": "How to see in the dark factory | LaunchDarkly's Cameron Etezadi",
+      "published": "2026-07-14",
+      "url": null
+    },
+    {
+      "title": "How to cultivate expertise with local models, delegating to subagents, and we all really stopped reading, huh?",
+      "published": "2026-07-10",
+      "url": null
+    },
+    {
+      "title": "Agents moved where the work happens (and using MCP to find it again) | Slack’s Jaime DeLanghe",
+      "published": "2026-07-07",
+      "url": null
+    },
+    {
+      "title": "Empathetic leadership for tech overlords, a good backlog completes itself, and who’s agent is this, anyways?",
+      "published": "2026-07-03",
+      "url": null
+    },
+    {
+      "title": "How LinearB helps Kraken find hidden bottlenecks across thousands of engineers | Nik Sudan",
+      "published": "2026-06-30",
+      "url": null
+    },
+    {
+      "title": "The discernment horizon, loop-driven development, and a wizard’s very defensible pond",
+      "published": "2026-06-26",
+      "url": null
+    },
+    {
+      "title": "Your developers are the attack surface now and vibe coding as a vulnerability | Tanya Janca",
+      "published": "2026-06-23",
+      "url": null
+    },
+    {
+      "title": "Microsoft’s wandering eyes, data labeling duties for senior devs at Meta, and prod is the new source code",
+      "published": "2026-06-19",
+      "url": null
+    },
+    {
+      "title": "Your SDLC needs a productivity context engine",
+      "published": "2026-06-16",
+      "url": null
+    },
+    {
+      "title": "How to harness your dragon with Fable, tech leaders turn to model routing, and coping with AI rockstars",
+      "published": "2026-06-12",
+      "url": null
+    },
+    {
+      "title": "All software is an optimization of tokens and time (and speed is still the moat) | AMD’s Anush Elangovan",
+      "published": "2026-06-09",
+      "url": null
+    },
+    {
+      "title": "Microsoft breaks free from OpenAI, using your harness to add drag instead of velocity, and the Linux built-ins you're sleeping on",
+      "published": "2026-06-05",
+      "url": null
+    },
+    {
+      "title": "How to turn your 1000x engineer into a 10x everyone | LinkedIn’s Karthik Ramgopal",
+      "published": "2026-06-02",
+      "url": null
+    },
+    {
+      "title": "The cost of intelligence will never be this cheap again, the failure of intensive specs, and how bots disguise inefficient workflows",
+      "published": "2026-05-29",
+      "url": null
+    },
+    {
+      "title": "Observability is your profit center now | Honeycomb’s Christine Yen",
+      "published": "2026-05-26",
+      "url": null
+    },
+    {
+      "title": "What Google didn’t announce at I/O, defining “dark flow” and ignoring your first brain to build your second one",
+      "published": "2026-05-22",
+      "url": null
+    },
+    {
+      "title": "Android is the frontier for agents and other lessons from Google I/O | Matthew McCullough",
+      "published": "2026-05-19",
+      "url": null
+    },
+    {
+      "title": "Agents get their own AOL, Andrew gets published, and vibe coding is actually good?",
+      "published": "2026-05-15",
+      "url": null
+    },
+    {
+      "title": "It’s Tuesday and your tech stack is obsolete (again). Now what? | Theory Venture’s Bryan Bischof",
+      "published": "2026-05-12",
+      "url": null
+    },
+    {
+      "title": "Goblins in prod, the messy middle of AI adoption, and everything is a harness now",
+      "published": "2026-05-08",
+      "url": null
+    },
+    {
+      "title": "Teach the primitives or watch your competitor define them | Baseten’s Philip Kiely",
+      "published": "2026-05-05",
+      "url": null
+    },
+    {
+      "title": "Tokenmaxxing scoreboards, the vegan LLM from before 1931, and 30% of the web is now AI-generated",
+      "published": "2026-05-01",
+      "url": null
+    },
+    {
+      "title": "Giving robots a brain | Intrinsic’s Brian Gerkey",
+      "published": "2026-04-28",
+      "url": null
+    },
+    {
+      "title": "The harness is the showdown, the humans are the tool calls, and have you seen my Claude Code buddy?",
+      "published": "2026-04-24",
+      "url": null
+    },
+    {
+      "title": "The best model for your team? You haven’t invented it yet. | Ai2’s Tim Dettmers",
+      "published": "2026-04-21",
+      "url": null
+    },
+    {
+      "title": "The self-authoring wiki, beating brain fry, and Obsidian as memory is a trap",
+      "published": "2026-04-17",
+      "url": null
+    },
+    {
+      "title": "The guardian in the machine | Wayfound’s Tatyana Mamut",
+      "published": "2026-04-14",
+      "url": null
+    },
+    {
+      "title": "Reading model benchmarks like a pro, Mythos is looming, and Claude talk caveman, save big token",
+      "published": "2026-04-10",
+      "url": null
+    },
+    {
+      "title": "Stop measuring AI adoption. Start measuring AI impact. | LinearB’s APEX framework",
+      "published": "2026-04-07",
+      "url": null
+    },
+    {
+      "title": "Virtual pets in your terminal, ads in your pull request, & no more CSS in your browser?",
+      "published": "2026-04-03",
+      "url": null
+    },
+    {
+      "title": "Retrofit or reimagine? Developer environments for humans and agents | Ona’s Matt Boyle",
+      "published": "2026-03-31",
+      "url": null
+    },
+    {
+      "title": "The T-shaped leader, Disney can’t catch a break, and will you trust Auto mode?",
+      "published": "2026-03-27",
+      "url": null
+    },
+    {
+      "title": "Why AI-assisted PRs merge at half the rate of human code | LinearB’s 2026 Benchmarks",
+      "published": "2026-03-24",
+      "url": null
+    },
+    {
+      "title": "Sloppypasta culprits, unpacking MCP’s spotlight, and Anthropic wants your agents to work the graveyard shift",
+      "published": "2026-03-20",
+      "url": null
+    },
+    {
+      "title": "Many tokens make all bugs shallow & open source’s new maintainers | Chainguard's Dan Lorenc",
+      "published": "2026-03-17",
+      "url": null
+    },
+    {
+      "title": "Inference is the new 401k matching and what we’re learning from AI-related outages",
+      "published": "2026-03-13",
+      "url": null
+    },
+    {
+      "title": "Your engineers need an AI control plane, not more tools | Guild.ai’s James Everingham",
+      "published": "2026-03-10",
+      "url": null
+    },
+    {
+      "title": "The agent wasteland, federated workflows, and a computer for computers",
+      "published": "2026-03-06",
+      "url": null
+    },
+    {
+      "title": "How monday.com paused its roadmap for 30 days to hit AI escape velocity | Sergei Liakhovetsky",
+      "published": "2026-03-03",
+      "url": null
+    },
+    {
+      "title": "Draining the COBOL moat, cybersecurity inequalities, and Claude’s retirement home",
+      "published": "2026-02-27",
+      "url": null
+    },
+    {
+      "title": "Your keyboard is the real bottleneck | Wispr’s Sahaj Garg",
+      "published": "2026-02-24",
+      "url": null
+    },
+    {
+      "title": "Outcome engineering, AI hit pieces, and the end of the backlog",
+      "published": "2026-02-20",
+      "url": null
+    },
+    {
+      "title": "Dex Horthy on Ralph, RPI, and escaping the \"Dumb Zone\"",
+      "published": "2026-02-17",
+      "url": null
+    },
+    {
+      "title": "Breaking GitHub, AI vampires & the great Oz | Warp’s Zach Lloyd",
+      "published": "2026-02-13",
+      "url": null
+    },
+    {
+      "title": "Multi-agent orchestration in Slack | Saleforce's Kurtis Kemple",
+      "published": "2026-02-10",
+      "url": null
+    },
+    {
+      "title": "Moltbook, Rent-a-Human, Super Agents & Connectivity Benchmark Report | ft. Gary Lerhaupt",
+      "published": "2026-02-06",
+      "url": null
+    },
+    {
+      "title": "Nobody is shipping your agent’s code (yet) | Predictions from LinearB’s Ori Keren",
+      "published": "2026-02-03",
+      "url": null
+    },
+    {
+      "title": "OpenClaw, a constitution for AI, breaking dark flow, and open source as a moat?",
+      "published": "2026-01-30",
+      "url": null
+    },
+    {
+      "title": "Scaffolding is coping not scaling, and other lessons from Codex | OpenAI’s Thibault Sottiaux",
+      "published": "2026-01-27",
+      "url": null
+    },
+    {
+      "title": "Angie Jones on Ralphing 25k repos at Block, GPT-5.2 Codex, and CES weirdness",
+      "published": "2026-01-23",
+      "url": null
+    },
+    {
+      "title": "Backstage’s journey from spreadsheets to global IDP standard | Spotify’s Tyson Singer",
+      "published": "2026-01-20",
+      "url": null
+    },
+    {
+      "title": "Ralph Wiggum goes to Gas Town and the death of the IC",
+      "published": "2026-01-16",
+      "url": null
+    },
+    {
+      "title": "Inventing the Ralph Wiggum Loop | Creator Geoffrey Huntley",
+      "published": "2026-01-13",
+      "url": null
+    },
+    {
+      "title": "How Capital One supports 14,000 technologists with one pipeline | Ameesh Paleja",
+      "published": "2026-01-06",
+      "url": null
+    },
+    {
+      "title": "The one where we vibe code holiday cards | Season 5 Finale",
+      "published": "2025-12-23",
+      "url": null
+    },
+    {
+      "title": "Why engineering leadership matters more than ever | Manoj Mohan",
+      "published": "2025-12-16",
+      "url": null
+    },
+    {
+      "title": "The hidden costs of pre-computing data | Chalk's Elliot Marx",
+      "published": "2025-12-09",
+      "url": null
+    },
+    {
+      "title": "Are developers happy yet? Unpacking the 2025 Developer Survey | Stack Overflow’s Erin Yepis",
+      "published": "2025-12-02",
+      "url": null
+    },
+    {
+      "title": "From Kubernetes to AI maximalism | Stacklok's Craig McLuckie",
+      "published": "2025-11-25",
+      "url": null
+    },
+    {
+      "title": "Speed is the moat | AMD’s Anush Elangovan",
+      "published": "2025-11-18",
+      "url": null
+    },
+    {
+      "title": "How spec-driven development is changing the rules | AWS’ Amit Patel",
+      "published": "2025-11-11",
+      "url": null
+    },
+    {
+      "title": "The CTO must now think like the CFO to survive | Sancus Ventures’ Lake Dai",
+      "published": "2025-11-04",
+      "url": null
+    },
+    {
+      "title": "How leaders win over their team’s biggest AI skeptics | Superhuman’s Loic Houssier",
+      "published": "2025-10-28",
+      "url": null
+    },
+    {
+      "title": "AI isn't for cutting costs, it's for multiplying impact | Super.com's Matt Culver",
+      "published": "2025-10-21",
+      "url": null
+    },
+    {
+      "title": "The timelessness of vector databases | Pinecone’s Ram Sriharsha",
+      "published": "2025-10-14",
+      "url": null
+    },
+    {
+      "title": "Is Agentforce the future of enterprise vibe coding? | Salesforce’s Dan Fernandez",
+      "published": "2025-10-07",
+      "url": null
+    },
+    {
+      "title": "Building the internet’s next infrastructure layer | Cloudflare's Brendan Irvine-Broque",
+      "published": "2025-09-30",
+      "url": null
+    },
+    {
+      "title": "Making tech literacy irrelevant | Infactory’s Ken Kocienda",
+      "published": "2025-09-23",
+      "url": null
+    },
+    {
+      "title": "Why enterprise AI lives or dies on applied research | Contextual AI’s Elizabeth Lingg",
+      "published": "2025-09-16",
+      "url": null
+    },
+    {
+      "title": "Your AI demo is a lie (and how to make it real) | Arcade’s Alex Salazar",
+      "published": "2025-09-09",
+      "url": null
+    },
+    {
+      "title": "The future of the terminal is not a terminal | Warp’s Zach Lloyd",
+      "published": "2025-09-02",
+      "url": null
+    },
+    {
+      "title": "Forget vibe coding. Say hello to vibe entrepreneurship. | Shopify’s Andrew McNamara",
+      "published": "2025-08-26",
+      "url": null
+    },
+    {
+      "title": "You can't have AI without DevOps | GitHub’s Martin Woodward",
+      "published": "2025-08-19",
+      "url": null
+    },
+    {
+      "title": "The art of letting go as a manager | Transcend’s Minh Nguyen",
+      "published": "2025-08-12",
+      "url": null
+    },
+    {
+      "title": "AI agents are knocking. Is your API ready to answer? | GraphQL’s Matt DeBergalis",
+      "published": "2025-08-05",
+      "url": null
+    },
+    {
+      "title": "The people-pleaser in the machine | Wayfound’s Dr. Tatyana Mamut",
+      "published": "2025-07-29",
+      "url": null
+    },
+    {
+      "title": "Is your AI strategy built for speed or stability? | Qodo’s Itamar Friedman",
+      "published": "2025-07-22",
+      "url": null
+    },
+    {
+      "title": "You don't need more code. You need more business impact. | Thoughtworks' Chris Westerhold",
+      "published": "2025-07-15",
+      "url": null
+    },
+    {
+      "title": "The fundamentals of agent-driven software workflows",
+      "published": "2025-07-08",
+      "url": null
+    },
+    {
+      "title": "You’re not the user anymore | Layer’s Andrew Hamilton",
+      "published": "2025-07-01",
+      "url": null
+    },
+    {
+      "title": "Inside Amazon's AI video generator | Kabir Bedi",
+      "published": "2025-06-24",
+      "url": null
+    },
+    {
+      "title": "Google DeepMind's AI playbook for engineering at hyperspeed | Philipp Schmid",
+      "published": "2025-06-17",
+      "url": null
+    },
+    {
+      "title": "AI is the future of the SDLC",
+      "published": "2025-06-10",
+      "url": null
+    },
+    {
+      "title": "Now is the time to rethink engineering productivity",
+      "published": "2025-06-03",
+      "url": null
+    },
+    {
+      "title": "The Odyssey of Innovation: Classics, Code, and Cognitive Load | Two Sigma's Matt Greenwood",
+      "published": "2025-05-27",
+      "url": null
+    },
+    {
+      "title": "Redefining Ambition After Burnout | Zapier’s Kelly Vaughn",
+      "published": "2025-05-20",
+      "url": null
+    },
+    {
+      "title": "Foresight Over Firefighting: Being Proactive in a Reactive World | Rootly's JJ Tang",
+      "published": "2025-05-13",
+      "url": null
+    },
+    {
+      "title": "The End of Specialization? How AI Shapes Modern Dev Teams | Vercel’s Lee Robinson",
+      "published": "2025-05-06",
+      "url": null
+    },
+    {
+      "title": "AI Gets Eyes and Ears | LiveKit’s Russ d’Sa",
+      "published": "2025-04-29",
+      "url": null
+    },
+    {
+      "title": "The Shift to Agent-Driven API Consumption | Speakeasy’s Sagar Batchu",
+      "published": "2025-04-22",
+      "url": null
+    },
+    {
+      "title": "How Marketing Ruined Shift Left | Semgrep’s Tanya Janca",
+      "published": "2025-04-15",
+      "url": null
+    },
+    {
+      "title": "How to Build AI Workflows You Can Trust | Infactory’s Brooke Hartley Moy",
+      "published": "2025-04-08",
+      "url": null
+    },
+    {
+      "title": "Amazon Q and The Future of Autonomous Development | AWS' Adnan Ijaz",
+      "published": "2025-04-01",
+      "url": null
+    },
+    {
+      "title": "Ditch the Ticket Factory Mentality | Cosmic Teacups’ Thanos Diacakis",
+      "published": "2025-03-25",
+      "url": null
+    },
+    {
+      "title": "Will AI Finally Make TDD Practical? | Diffblue’s Animesh Mishra",
+      "published": "2025-03-18",
+      "url": null
+    },
+    {
+      "title": "Can You Buy Your Way to DevSecOps Success? | Arcjet’s David Mytton",
+      "published": "2025-03-11",
+      "url": null
+    },
+    {
+      "title": "Simplifying the AI Stack | IBM's Dr. Maryam Ashoori",
+      "published": "2025-03-04",
+      "url": null
+    },
+    {
+      "title": "Why Are Teams Only Aligned During a Crisis? | CircleCI & MongoDB",
+      "published": "2025-02-24",
+      "url": null
+    },
+    {
+      "title": "Can Your AI Strategy Be Future-Proof? | Galileo’s Vikram Chatterji",
+      "published": "2025-02-18",
+      "url": null
+    },
+    {
+      "title": "Why Teams Will Break This Year (and How to Fix Them) | Battery Venture’s Dharmesh Thakker",
+      "published": "2025-02-11",
+      "url": null
+    },
+    {
+      "title": "Hunting for a Flywheel | Refactoring’s Luca Rossi",
+      "published": "2025-02-04",
+      "url": null
+    },
+    {
+      "title": "Low-Code Won’t Replace You | Camunda’s Bernd Ruecker",
+      "published": "2025-01-28",
+      "url": null
+    },
+    {
+      "title": "The Need for Speed | 2025 Engineering Benchmarks",
+      "published": "2025-01-21",
+      "url": null
+    },
+    {
+      "title": "Managing Developer Feedback Effectively | Atlassian’s Andrew Boyagi",
+      "published": "2025-01-14",
+      "url": null
+    },
+    {
+      "title": "The Hero Culture Trap | Sowmya Subramanian",
+      "published": "2025-01-07",
+      "url": null
+    },
+    {
+      "title": "Season 4 Finale: A Fond Farewell, What’s Next & Would You Rather",
+      "published": "2024-12-17",
+      "url": null
+    },
+    {
+      "title": "Developer Productivity Will Decline in 2025 | Predictions from LinearB’s Ori Keren",
+      "published": "2024-12-10",
+      "url": null
+    },
+    {
+      "title": "From Rockets to Roadmaps: An Engineer's Guide to Product Success | Sift Stack’s Austin Spiegel",
+      "published": "2024-12-03",
+      "url": null
+    },
+    {
+      "title": "From Fear to Function: Rethinking Engineering Processes | Stytch’s Julianna Lamb",
+      "published": "2024-11-26",
+      "url": null
+    },
+    {
+      "title": "Are Only 20% of Devs Happy? | Stack Overflow’s Erin Yepis",
+      "published": "2024-11-19",
+      "url": null
+    },
+    {
+      "title": "Making Sense of Agentic AI | ThoughtWorks Birgitta Boeckeler",
+      "published": "2024-11-12",
+      "url": null
+    },
+    {
+      "title": "Open Source Meets AI | Red Hat's Scott McCarty",
+      "published": "2024-11-05",
+      "url": null
+    },
+    {
+      "title": "Back to First Principles | Productiv CTO Ashish Aggarwal",
+      "published": "2024-10-29",
+      "url": null
+    },
+    {
+      "title": "The Real Measure of Success in Platform Engineering | MassDriver CEO Cory O'Daniel",
+      "published": "2024-10-22",
+      "url": null
+    },
+    {
+      "title": "Transforming Customer Support with AI | DevRev’s Co-founder & CEO Dheeraj Pandey",
+      "published": "2024-10-15",
+      "url": null
+    },
+    {
+      "title": "Observability as a Success Catalyst | Momento’s Co-Founder & CTO Daniela Miao",
+      "published": "2024-10-08",
+      "url": null
+    },
+    {
+      "title": "Iteration Velocity is the Key to Engineering Success | Vercel’s Malte Ubl",
+      "published": "2024-10-01",
+      "url": null
+    },
+    {
+      "title": "How Specialized Models Drive Developer Productivity | Tabnine’s Brandon Jung",
+      "published": "2024-09-24",
+      "url": null
+    },
+    {
+      "title": "Agentic AI: Dissecting the Future of AI Workflows | Memra's Founder Amir Behbehani",
+      "published": "2024-09-17",
+      "url": null
+    },
+    {
+      "title": "The Rising Demand for Soft Skills in Engineering | LinkedIn’s VPE Aarathi Vidyasagar",
+      "published": "2024-09-10",
+      "url": null
+    },
+    {
+      "title": "Finding the Best Gen AI Use Case for Your Dev Team | Sonar’s Peter McKee",
+      "published": "2024-08-27",
+      "url": null
+    },
+    {
+      "title": "Mastering Developer Experience at Shopify | Eytan Seidman, Director of Product",
+      "published": "2024-08-20",
+      "url": null
+    },
+    {
+      "title": "Helping Government Software Teams Move Faster | Carnegie Mellon's Robin Yeman",
+      "published": "2024-08-13",
+      "url": null
+    },
+    {
+      "title": "Scaling Smart: Strategies for Product Development | Semgrep’s Adam Berman",
+      "published": "2024-08-06",
+      "url": null
+    },
+    {
+      "title": "From Mentor to Manager: How to Get Into Engineering Management | Asana’s Amanda Sopkin",
+      "published": "2024-07-23",
+      "url": null
+    },
+    {
+      "title": "The Rise of Cloud Costs, and How to Optimize Them | Plaid’s Mark Robinson",
+      "published": "2024-07-16",
+      "url": null
+    },
+    {
+      "title": "AI Hype Cycle: How to Find Real and Practical vs. Shiny | OpenAI’s Louis Brandy",
+      "published": "2024-07-09",
+      "url": null
+    },
+    {
+      "title": "Realistic Product Roadmaps and Other Lies | Best Egg’s Johnny Ray Austin",
+      "published": "2024-07-02",
+      "url": null
+    },
+    {
+      "title": "Labs: Everything You Need to Know About Software Engineering Intelligence (SEI)",
+      "published": "2024-06-25",
+      "url": null
+    },
+    {
+      "title": "Data Science & AI: Getting Buy-In and Demonstrating ROI | PagerDuty’s Sanghamitra Goswami",
+      "published": "2024-06-18",
+      "url": null
+    },
+    {
+      "title": "The Power of Micro Frontends & Breaking Down Monoliths | Thayse Onofrio",
+      "published": "2024-06-04",
+      "url": null
+    },
+    {
+      "title": "Deliver Better Results: How to Unlock Your Organization's Potential | Gil Broza",
+      "published": "2024-05-28",
+      "url": null
+    },
+    {
+      "title": "How to Increase Adoption of Internal Developer Tooling | Bloomberg’s Luis Vega",
+      "published": "2024-05-21",
+      "url": null
+    },
+    {
+      "title": "Labs: Setting Engineering Goals and Reporting to Stakeholders",
+      "published": "2024-05-14",
+      "url": null
+    },
+    {
+      "title": "Why You Need to Take Risks as an Engineering Leader | GitHub’s VPE Neha Batra",
+      "published": "2024-04-30",
+      "url": null
+    },
+    {
+      "title": "Unlocking Employee Engagement and Innovation | ADP’s Chuck Lafferty",
+      "published": "2024-04-23",
+      "url": null
+    },
+    {
+      "title": "Automated ≠ Autonomous: Developer Productivity and AI | MongoDB’s Tara Hernandez",
+      "published": "2024-04-16",
+      "url": null
+    },
+    {
+      "title": "How Microsoft Integrates AI into Security | Binil Pillai",
+      "published": "2024-04-02",
+      "url": null
+    },
+    {
+      "title": "How to Leverage a Non-Technical Background in Engineering Leadership | Melissa DePuydt",
+      "published": "2024-03-26",
+      "url": null
+    },
+    {
+      "title": "Preparing for Your First VP of Engineering Role | Honeycomb VPE, Emily Nakashima",
+      "published": "2024-03-19",
+      "url": null
+    },
+    {
+      "title": "How to Build Influence as an Engineering Leader | Kelly Vaughn",
+      "published": "2024-03-12",
+      "url": null
+    },
+    {
+      "title": "How to Achieve Predictable Software Delivery at Scale | Syngenta’s Jason Krohn",
+      "published": "2024-02-27",
+      "url": null
+    },
+    {
+      "title": "The Startup CTO's Handbook | Zach Goldberg",
+      "published": "2024-02-20",
+      "url": null
+    },
+    {
+      "title": "How to Build a Technical Strategy That Solves Business Problems | CircleCI CTO, Rob Zuber",
+      "published": "2024-02-13",
+      "url": null
+    },
+    {
+      "title": "The 12 Scenarios of Failure: Applying Chaos Engineering to SAP at AWS",
+      "published": "2024-02-06",
+      "url": null
+    },
+    {
+      "title": "The Build vs. Buy Debate, GenAI and Section 174 | Kelly Vaughn",
+      "published": "2024-01-30",
+      "url": null
+    },
+    {
+      "title": "Netflix's Blueprint for Building Inspired Engineering Teams | Carol Barrett",
+      "published": "2024-01-23",
+      "url": null
+    },
+    {
+      "title": "Unveiling the Hidden Side of Org Charts at the NYTimes",
+      "published": "2024-01-16",
+      "url": null
+    },
+    {
+      "title": "Scaling ChatGPT: Inside OpenAI's Rapid Growth and Technical Challenges | Evan Morikawa",
+      "published": "2024-01-09",
+      "url": null
+    },
+    {
+      "title": "Wiring The Winning Organization pt. 2 | Gene Kim",
+      "published": "2024-01-02",
+      "url": null
+    },
+    {
+      "title": "Season 3 Finale: Best of 2023, a Glimpse into Season 4, and Holiday Cheer",
+      "published": "2023-12-19",
+      "url": null
+    },
+    {
+      "title": "Protecting GitHub’s 100M Developers | Jacob DePriest VP, Deputy CSO",
+      "published": "2023-12-12",
+      "url": null
+    },
+    {
+      "title": "Wrong Fit, Right Fit | Author Dr. André Martin",
+      "published": "2023-12-05",
+      "url": null
+    },
+    {
+      "title": "What Engineering Leaders Can Expect In 2024 | Predictions from Ori Keren",
+      "published": "2023-11-28",
+      "url": null
+    },
+    {
+      "title": "Wiring The Winning Organization | Author Dr. Steven J. Spear",
+      "published": "2023-11-21",
+      "url": null
+    },
+    {
+      "title": "Labs: Programmable Workflows & Policy-as-Code | Ben Lloyd Pearson",
+      "published": "2023-11-14",
+      "url": null
+    },
+    {
+      "title": "Career Journey 6: Your Invitation to the Boardroom",
+      "published": "2023-11-07",
+      "url": null
+    },
+    {
+      "title": "Getting Unstuck in Your Career | Charles Max Wood",
+      "published": "2023-10-31",
+      "url": null
+    },
+    {
+      "title": "Career Journey 5: Bringing Diversity to Tech Leadership | Bhavini Soneji",
+      "published": "2023-10-24",
+      "url": null
+    },
+    {
+      "title": "Unpacking DORA’s State of DevOps Report | Nathen Harvey",
+      "published": "2023-10-17",
+      "url": null
+    },
+    {
+      "title": "Career Journey 4: Product-Led & Customer-Obsessed | Bhavini Soneji",
+      "published": "2023-10-10",
+      "url": null
+    },
+    {
+      "title": "Where are all the laid-off software developers going? | LeadDev’s Scott Carey",
+      "published": "2023-10-03",
+      "url": null
+    },
+    {
+      "title": "Career Journey 3: Assembling & Nurturing Engineering Teams | Code Story's Noah Labhart",
+      "published": "2023-09-26",
+      "url": null
+    },
+    {
+      "title": "The McKinsey Developer Productivity Debate | Ori Keren & Kelly Vaughn",
+      "published": "2023-09-19",
+      "url": null
+    },
+    {
+      "title": "Career Journey 2: Essential Skills & Key Attributes | Thiago Ghisi",
+      "published": "2023-09-12",
+      "url": null
+    },
+    {
+      "title": "Career Journey 1: Interviewing & Getting Promoted | Thiago Ghisi",
+      "published": "2023-09-05",
+      "url": null
+    },
+    {
+      "title": "Using HEAT Metrics to Bring Purpose to Platforms | Simone Casciaroli",
+      "published": "2023-08-29",
+      "url": null
+    },
+    {
+      "title": "Going Global: Establishing a Team and Office Abroad | Kelly Vaughn",
+      "published": "2023-08-22",
+      "url": null
+    },
+    {
+      "title": "Is Internal Tooling Holding Your Team Back? | DevZero’s Debosmit Ray",
+      "published": "2023-08-15",
+      "url": null
+    },
+    {
+      "title": "The Essence of Shipping Code: a CTO's Perspective | Flowcode’s Mike Hamrah",
+      "published": "2023-08-08",
+      "url": null
+    },
+    {
+      "title": "Labs: The Evolution of Continuous Merge | DevCycle’s Nik LeBlanc",
+      "published": "2023-08-01",
+      "url": null
+    },
+    {
+      "title": "AI Tooling For Your Dev Team: To Adopt or Not to Adopt? | CodiumAI's Itamar Friedman",
+      "published": "2023-07-25",
+      "url": null
+    },
+    {
+      "title": "Have Engineering Leaders Become Too Hands-off? | Braze's Francisco Trindade",
+      "published": "2023-07-18",
+      "url": null
+    },
+    {
+      "title": "Reimagining DORA Metrics & Leveraging Feature Flags | Split's Ariel Perez",
+      "published": "2023-07-11",
+      "url": null
+    },
+    {
+      "title": "The Art of Landing a DevRel Role | daily.dev's Francesco Ciulla",
+      "published": "2023-07-04",
+      "url": null
+    },
+    {
+      "title": "Labs: Inside the Top 10% of Engineering Orgs",
+      "published": "2023-06-27",
+      "url": null
+    },
+    {
+      "title": "You Are What You Build: Making Your Code More Human | GitHub’s Christina Entcheva",
+      "published": "2023-06-20",
+      "url": null
+    },
+    {
+      "title": "Healthcare’s Digital Accessibility Problem | Ro’s Plum Ertz",
+      "published": "2023-06-13",
+      "url": null
+    },
+    {
+      "title": "Decoding Duolingo: Returning to the Office, Enabling First-Time Managers & More | Fabio Lessa",
+      "published": "2023-06-06",
+      "url": null
+    },
+    {
+      "title": "Labs: The Magic of Compound Efficiencies in Engineering",
+      "published": "2023-05-30",
+      "url": null
+    },
+    {
+      "title": "From Twitter Spaces to Independent Artists: Leading Org-Based Innovation | Pablo Jablonski",
+      "published": "2023-05-23",
+      "url": null
+    },
+    {
+      "title": "Exploring the Capabilities of eBPF | Author Liz Rice",
+      "published": "2023-05-16",
+      "url": null
+    },
+    {
+      "title": "Tech Hiring in 2023: Trends, Predictions & Strategies for Success | Datapeople's Maryam Jahanshahi",
+      "published": "2023-05-09",
+      "url": null
+    },
+    {
+      "title": "Upskilling Your Eng Team: The Problem with the Modern Approach to Learning | Skiller Whale's Hywel Carver",
+      "published": "2023-05-02",
+      "url": null
+    },
+    {
+      "title": "Redefining Incident Response: Insights from the Chaos Engineer Behind Jeli.io | Nora Jones",
+      "published": "2023-04-25",
+      "url": null
+    },
+    {
+      "title": "Coding Your Dreams into Reality: Lessons from an Engineer turned Entrepreneur | ButterCMS Jake Lumetta",
+      "published": "2023-04-18",
+      "url": null
+    },
+    {
+      "title": "Surviving SVB's Collapse & Outsmarting Uber | Kyte's Nick Cobb",
+      "published": "2023-04-11",
+      "url": null
+    },
+    {
+      "title": "The Art of Community Building | Postman's Joyce Lin",
+      "published": "2023-04-04",
+      "url": null
+    },
+    {
+      "title": "DevOps is the Philosophy, Platform is the Practice | Humanitec's Kaspar von Grünberg",
+      "published": "2023-03-28",
+      "url": null
+    },
+    {
+      "title": "Team Topologies: Organizing Business & Technology Teams | Authors Matthew Skelton & Manuel Pais",
+      "published": "2023-03-21",
+      "url": null
+    },
+    {
+      "title": "Developer Experience: It’s Time to Start Complaining | Gradle's Justin Reock",
+      "published": "2023-03-14",
+      "url": null
+    },
+    {
+      "title": "Reinventing IBM: DevSecOps, AI, Quantum Computing | Rosalind Radcliffe",
+      "published": "2023-03-07",
+      "url": null
+    },
+    {
+      "title": "Solving the Enduring Pain of Authorization | Aserto’s Omri Gazitt",
+      "published": "2023-02-28",
+      "url": null
+    },
+    {
+      "title": "Labs: The Science Of Allocating Dev Resources In 2023",
+      "published": "2023-02-21",
+      "url": null
+    },
+    {
+      "title": "Can Value Stream Management Solve DevOps‘ Struggles? | Steve Pereira",
+      "published": "2023-02-14",
+      "url": null
+    },
+    {
+      "title": "The Problem with MTTR: Learning from Incident Reports | Courtney Nash",
+      "published": "2023-02-07",
+      "url": null
+    },
+    {
+      "title": "The Rise of Vector Search | Pinecone's Edo Liberty",
+      "published": "2023-01-31",
+      "url": null
+    },
+    {
+      "title": "Connecting Your Devs' Work to the Business | A Conversation with Shopify, Slack & Stripe",
+      "published": "2023-01-24",
+      "url": null
+    },
+    {
+      "title": "The Journey to Code Mastery | Marqeta's Randy Kern",
+      "published": "2023-01-17",
+      "url": null
+    },
+    {
+      "title": "Startup Growth & Metrics: What to Measure & When | Laura Tacho",
+      "published": "2023-01-10",
+      "url": null
+    },
+    {
+      "title": "Educating the Next Generation of Cloud Engineers | Google Cloud's Forrest Brazeal",
+      "published": "2023-01-03",
+      "url": null
+    },
+    {
+      "title": "Season 2 Finale: Holidays, 2022’s Favorite Moments, Season 3 Sneak Peek & more!",
+      "published": "2022-12-20",
+      "url": null
+    },
+    {
+      "title": "It’s Not Open Source, It’s You. Where Open Source Risk Comes From w/ Sonatype",
+      "published": "2022-12-13",
+      "url": null
+    },
+    {
+      "title": "Treating Devs Like Human Beings | A Conversation with Kelly Vaughn, Jean Hsu & Lena Reinhard",
+      "published": "2022-12-06",
+      "url": null
+    },
+    {
+      "title": "Gene Kim + The Rise and Fall of DevOps | Conversations from DevOps Enterprise Summit",
+      "published": "2022-11-29",
+      "url": null
+    },
+    {
+      "title": "Economic Downturn is No Excuse to Use Individual Metrics w/ Ori Keren, Co-Founder & CEO of LinearB",
+      "published": "2022-11-22",
+      "url": null
+    },
+    {
+      "title": "Why Startups Suck at Security w/ Vanta's Head of Engineering, Matt Spitz",
+      "published": "2022-11-15",
+      "url": null
+    },
+    {
+      "title": "Leading Engineers in Uncertain Times | A Conversation with CircleCI, Blockchain.com & Oliver Wyman",
+      "published": "2022-11-08",
+      "url": null
+    },
+    {
+      "title": "The Promise of Platform Engineering w/ Charity Majors, CTO at Honeycomb",
+      "published": "2022-11-01",
+      "url": null
+    },
+    {
+      "title": "Interact: A Word From Your Co-Hosts",
+      "published": "2022-10-25",
+      "url": null
+    },
+    {
+      "title": "Why Discord is Betting Big on Devs w/ Anjney Midha VP of Platform Ecosystem at Discord",
+      "published": "2022-10-18",
+      "url": null
+    },
+    {
+      "title": "Where Did All The Focus Time Go? Dissecting 1.5 Million Meetings w/ Clockwise's VP of Engineering, Dan Kador",
+      "published": "2022-10-11",
+      "url": null
+    },
+    {
+      "title": "Labs: The Best & Worst Programming Languages For Dev Workflow",
+      "published": "2022-10-04",
+      "url": null
+    },
+    {
+      "title": "Atlassian’s Eye-Opening State of Teams Report w/ Mark Cruth Modern Work Evangelist",
+      "published": "2022-09-27",
+      "url": null
+    },
+    {
+      "title": "Ship/Show/Ask - A Branching Strategy for Modern Dev Teams w/ Author & Eng Leader Rouan Wilsenach",
+      "published": "2022-09-20",
+      "url": null
+    },
+    {
+      "title": "We Solved Dev Infrastructure, So Why Does it Suck to Build Stuff? w/ Hasura's Tanmai Gopal",
+      "published": "2022-09-13",
+      "url": null
+    },
+    {
+      "title": "Lessons Learned from Programming at Google w/ Hyrum Wright & Titus Winters",
+      "published": "2022-09-06",
+      "url": null
+    },
+    {
+      "title": "The Day-1 Decisions that Make or Break Companies w/ PlanetScale's CEO Sam Lambert",
+      "published": "2022-08-27",
+      "url": null
+    },
+    {
+      "title": "Stripe on Treating Dev Bandwidth as Your Most Valuable Resource w/ Stripe’s Head of Engineering, Smruti Patel",
+      "published": "2022-08-20",
+      "url": null
+    },
+    {
+      "title": "Labs: Solving The Pull Request Problem w/ Continuous Merge",
+      "published": "2022-08-13",
+      "url": null
+    },
+    {
+      "title": "Why Devs Break Up with Their Bosses w/ Oliver Wyman's Carolyn Vo",
+      "published": "2022-08-06",
+      "url": null
+    },
+    {
+      "title": "The Art of Letting Your Devs Step Up w/ Equinix’s Rajah Kalipatnapu",
+      "published": "2022-07-30",
+      "url": null
+    },
+    {
+      "title": "How a Trained Therapist Diagnoses Healthy Dev Teams w/ Engineer & Entrepreneur, Kelly Vaughn",
+      "published": "2022-07-23",
+      "url": null
+    },
+    {
+      "title": "The Dangers of Shipping at All Costs w/ CEO & Cofounder of 33 Teams, Drew McManus",
+      "published": "2022-07-16",
+      "url": null
+    },
+    {
+      "title": "What a Healthy Relationship with Open Source Looks Like ft. GitLab's John Coghlan",
+      "published": "2022-07-09",
+      "url": null
+    },
+    {
+      "title": "How to Train Devs to Disrupt Industries w/ Lessen's CTO Chris Bee",
+      "published": "2022-07-02",
+      "url": null
+    },
+    {
+      "title": "Creating a Better CTO Playbook w/ Dama Financial's CTO Zach Goldberg",
+      "published": "2022-06-25",
+      "url": null
+    },
+    {
+      "title": "The Best Solution to Burnout We’ve Ever Heard | A Conversation With Slack, Netlify & Ambassador Labs",
+      "published": "2022-06-18",
+      "url": null
+    },
+    {
+      "title": "Labs: What Do Elite Dev Teams Look Like? w/ Ori Keren, Co-Founder & CEO of LinearB",
+      "published": "2022-06-15",
+      "url": null
+    },
+    {
+      "title": "Getting the Respect Your Work Deserves: A Live Workshop w/ Engineering Coach Lena Reinhard",
+      "published": "2022-06-11",
+      "url": null
+    },
+    {
+      "title": "The 2 Things You Ask Your Team When You Pass $1B w/ Hippo’s VP of Engineering",
+      "published": "2022-06-04",
+      "url": null
+    },
+    {
+      "title": "The Quest to Build the Perfect Bot w/ Ubisoft's Joshua Romoff",
+      "published": "2022-05-28",
+      "url": null
+    },
+    {
+      "title": "The 3 Conversations That Improve Developers' Lives w/ Reprise's Jennie MacDougall",
+      "published": "2022-05-21",
+      "url": null
+    },
+    {
+      "title": "Why Engineers Make the Best Entrepreneurs w/ Drata's Co-founder & CTO Daniel Marashlian",
+      "published": "2022-05-14",
+      "url": null
+    },
+    {
+      "title": "Stupid Things Orgs Do That Kill Productivity | A Conversation With Netflix, FloSports & Refactoring.club",
+      "published": "2022-05-07",
+      "url": null
+    },
+    {
+      "title": "Why 1 Good UX Is Worth 5 Engineers w/ Toast's Director of Engineering Brad Pielech",
+      "published": "2022-04-30",
+      "url": null
+    },
+    {
+      "title": "Why Great Money Doesn’t Retain Great Devs w/ Stack Overflow, DataStax & Reprise",
+      "published": "2022-04-23",
+      "url": null
+    },
+    {
+      "title": "The Subversive Structure of the World's Best-Performing Dev Teams w/ A Radical Enterprise Author Matt K. Parker",
+      "published": "2022-04-16",
+      "url": null
+    },
+    {
+      "title": "How to Fix Tech's Mentorship Problem w/ Amex's VP of Technology, Sarvenaz Myslicki",
+      "published": "2022-04-09",
+      "url": null
+    },
+    {
+      "title": "How Promotions Ruin Dev Careers w/ Shopify's Dir. of Engineering James Stanier",
+      "published": "2022-04-02",
+      "url": null
+    },
+    {
+      "title": "What The Next 20 Million Devs Want w/ Tiff in Tech & Stereotype Breakers' Masha Zvereva",
+      "published": "2022-03-26",
+      "url": null
+    },
+    {
+      "title": "Is Your Dev Team TOO Big to Succeed? w/ SAIC’s Bob Ritchie",
+      "published": "2022-03-19",
+      "url": null
+    },
+    {
+      "title": "What Devs Need To Teach CEOs About AI w/ Lexion’s Emad Elwany",
+      "published": "2022-03-12",
+      "url": null
+    },
+    {
+      "title": "How to Reclaim Your Dev Team’s Focus w/ Ambassador Labs' Katie Wilde",
+      "published": "2022-03-05",
+      "url": null
+    },
+    {
+      "title": "What If You Don't Want To Be a Developer Anymore? w/ CTO Connection's Peter Bell",
+      "published": "2022-02-26",
+      "url": null
+    },
+    {
+      "title": "Why Imperfect Data Isn’t Just Bad, It’s Harmful w/ Treeverse’s Einat Orr",
+      "published": "2022-02-19",
+      "url": null
+    },
+    {
+      "title": "How a $725M VC Judges Your Engineering Team w/ Redpoint Ventures' Jason Warner",
+      "published": "2022-02-12",
+      "url": null
+    },
+    {
+      "title": "What CTOs Say vs. What Developers Hear w/ DataStax's Shankar Ramaswamy",
+      "published": "2022-02-05",
+      "url": null
+    },
+    {
+      "title": "What Hackers Know About Your Software Supply Chain (That You Don’t) w/ Chainguard's Kim Lewandowski",
+      "published": "2022-01-29",
+      "url": null
+    },
+    {
+      "title": "Why an Autistic Developer is Your Next Great Hire w/ Matt Nigh of UW Medicine",
+      "published": "2022-01-22",
+      "url": null
+    },
+    {
+      "title": "How a hacker, a hustler and a designer made RSS feeds cool",
+      "published": "2022-01-15",
+      "url": null
+    },
+    {
+      "title": "From Devs, to VPs, to Co-Founders: 10Xing a Startup 5,000 Miles Apart",
+      "published": "2022-01-08",
+      "url": null
+    },
+    {
+      "title": "Holidays, Entrepreneurship and SLOs with Nobl9",
+      "published": "2021-12-29",
+      "url": null
+    },
+    {
+      "title": "Combining Machine Learning and Human Intelligence at Unbabel",
+      "published": "2021-12-18",
+      "url": null
+    },
+    {
+      "title": "Under the Lid: How AtomicJar is Reshaping Testcontainers",
+      "published": "2021-12-11",
+      "url": null
+    },
+    {
+      "title": "Automating AppSec with Contrast Security",
+      "published": "2021-12-04",
+      "url": null
+    },
+    {
+      "title": "Rethinking Teamwork with Range",
+      "published": "2021-11-27",
+      "url": null
+    },
+    {
+      "title": "Building a Unicorn Engineering Org at GRIN",
+      "published": "2021-11-20",
+      "url": null
+    },
+    {
+      "title": "Beyond Compliance: Fable’s Mission to Improve Digital Accessibility",
+      "published": "2021-11-13",
+      "url": null
+    },
+    {
+      "title": "Management and the Future of AI with Azure's CTO",
+      "published": "2021-11-06",
+      "url": null
+    },
+    {
+      "title": "How to handle hypergrowth like Grammarly",
+      "published": "2021-10-30",
+      "url": null
+    },
+    {
+      "title": "Live From INTERACT: Engineering Leadership Screwups",
+      "published": "2021-10-23",
+      "url": null
+    },
+    {
+      "title": "Unearthing Observability with New Relic",
+      "published": "2021-10-16",
+      "url": null
+    },
+    {
+      "title": "Live From INTERACT: Microsoft's Developer Velocity Research",
+      "published": "2021-10-10",
+      "url": null
+    },
+    {
+      "title": "How to Scale Engineering Processes w/ Twitter's VP of Engineering",
+      "published": "2021-10-02",
+      "url": null
+    },
+    {
+      "title": "OutSystems: the journey to a $9.5B valuation",
+      "published": "2021-09-25",
+      "url": null
+    },
+    {
+      "title": "Creating a 10 million visits a month community at DZone",
+      "published": "2021-09-19",
+      "url": null
+    },
+    {
+      "title": "Building a culture of trust - with Metrics - at Slack",
+      "published": "2021-09-11",
+      "url": null
+    },
+    {
+      "title": "Co-Founding Kubernetes with Microsoft CVP Brendan Burns",
+      "published": "2021-09-01",
+      "url": null
+    },
+    {
+      "title": "Leading 650 engineers with Microsoft’s Brendan Burns",
+      "published": "2021-08-26",
+      "url": null
+    },
+    {
+      "title": "Team Topologies 2: Organizing Business and Technology Teams w/ Manuel Pais & Matthew Skelton",
+      "published": "2021-08-21",
+      "url": null
+    },
+    {
+      "title": "Team Topologies 1: Organizing Business and Technology Teams w/ Manuel Pais & Matthew Skelton",
+      "published": "2021-08-14",
+      "url": null
+    },
+    {
+      "title": "Move Fast, Break Things & Win: How Facebook Builds Software w/ Jeff Meyerson",
+      "published": "2021-08-08",
+      "url": null
+    },
+    {
+      "title": "The Tech Executive Operating System - Part II",
+      "published": "2021-07-28",
+      "url": null
+    },
+    {
+      "title": "The Tech Executive Operating System - Part I",
+      "published": "2021-07-24",
+      "url": null
+    },
+    {
+      "title": "Improve Your Engineering Pipeline with Value Streams",
+      "published": "2021-07-15",
+      "url": null
+    },
+    {
+      "title": "Developer First Culture & Collectives at Stack Overflow",
+      "published": "2021-07-10",
+      "url": null
+    },
+    {
+      "title": "Lessons Learned from Programming at Google - Part II",
+      "published": "2021-07-02",
+      "url": null
+    },
+    {
+      "title": "Lessons Learned from Programming at Google - Part I",
+      "published": "2021-06-26",
+      "url": null
+    },
+    {
+      "title": "Understanding Open Telemetry and Observability w/ Splunk's Spiros Xanthos",
+      "published": "2021-06-18",
+      "url": null
+    },
+    {
+      "title": "Ensuring Quality Code that Fits Your Business w/ Erika Chestnut of Calendly",
+      "published": "2021-06-10",
+      "url": null
+    },
+    {
+      "title": "Focus, Culture, and Metrics in a Remote-First World w/ Chris Brookins of Appcues",
+      "published": "2021-06-02",
+      "url": null
+    },
+    {
+      "title": "Building High Performance Remote Dev Teams w/ Eric Johnson of GitLab",
+      "published": "2021-05-17",
+      "url": null
+    },
+    {
+      "title": "The Organization Behind Chaos Engineering with Matt Fornaciari of Gremlin",
+      "published": "2021-05-11",
+      "url": null
+    },
+    {
+      "title": "Using Open Source Tools at Your Company w/ Doron Gill of Logz.io",
+      "published": "2021-05-05",
+      "url": null
+    },
+    {
+      "title": "Engineering Productivity & Culture at Netflix w/ Kathryn Koehler",
+      "published": "2021-04-27",
+      "url": null
+    },
+    {
+      "title": "The 7 Categories of Engineering Management w/ Ian Nowland of Datadog",
+      "published": "2021-04-20",
+      "url": null
+    },
+    {
+      "title": "Lessons When Scaling From 0 - 130 Devs w/ Kirby Frugia of MURAL",
+      "published": "2021-04-14",
+      "url": null
+    },
+    {
+      "title": "Defining The Role Of Staff Engineer w/ Will Larson of Calm",
+      "published": "2021-04-06",
+      "url": null
+    },
+    {
+      "title": "Running Experiments To Create Change w/ Dominica DeGrandis of TaskTop",
+      "published": "2021-03-31",
+      "url": null
+    },
+    {
+      "title": "Stop Telling Devs What To Do w/ Dana Lawson of GitHub",
+      "published": "2021-03-23",
+      "url": null
+    },
+    {
+      "title": "No Continuous Delivery? Then Walk Out. w/ Charity Majors of Honeycomb",
+      "published": "2021-03-17",
+      "url": null
+    },
+    {
+      "title": "Diving Into DevSecOps with John Willis pt.2",
+      "published": "2021-03-09",
+      "url": null
+    },
+    {
+      "title": "Diving Into DevSecOps with John Willis of Red Hat",
+      "published": "2021-03-03",
+      "url": null
+    },
+    {
+      "title": "Winning Wars (Literally) with Agile & DevOps w/ Adam Furtado of Kessel Run",
+      "published": "2021-02-23",
+      "url": null
+    },
+    {
+      "title": "Making Project Management Not Suck w/ Zach Ozer of Clubhouse",
+      "published": "2021-02-15",
+      "url": null
+    },
+    {
+      "title": "Finding Time For Security When Scaling w/ Liran Tal of Snyk",
+      "published": "2021-02-09",
+      "url": null
+    },
+    {
+      "title": "Eliminating Software Development Process w/ Adam Carmi of Applitools",
+      "published": "2021-02-02",
+      "url": null
+    },
+    {
+      "title": "Improving Visibility Without Being Annoying w/ Anders Wallgren of Cloudbees",
+      "published": "2021-01-26",
+      "url": null
+    },
+    {
+      "title": "Technical Leadership: Beyond Problem Solving w/ Pat Kua",
+      "published": "2021-01-21",
+      "url": null
+    },
+    {
+      "title": "Engineering Customer Success with Sunil Mavadia of Cloudbees",
+      "published": "2021-01-13",
+      "url": null
+    },
+    {
+      "title": "Outcome-based Development with Bryan Finster",
+      "published": "2021-01-05",
+      "url": null
+    },
+    {
+      "title": "Automation Limitations with Judy Johnson",
+      "published": "2020-12-23",
+      "url": null
+    },
+    {
+      "title": "Evolving from Dev to CEO with Stephen Magill of Muse.dev",
+      "published": "2020-12-15",
+      "url": null
+    },
+    {
+      "title": "Uncover the Real Senior Developer with Tomasz Waraksa",
+      "published": "2020-12-08",
+      "url": null
+    },
+    {
+      "title": "Uptime Is For Amateurs with SRE Expert Brian Murphy",
+      "published": "2020-12-01",
+      "url": null
+    },
+    {
+      "title": "How to game dev metrics with Ray Elenteny of Solutech",
+      "published": "2020-11-24",
+      "url": null
+    },
+    {
+      "title": "Asynchronous Communication with Cate Huston of DuckDuckGo",
+      "published": "2020-11-17",
+      "url": null
+    },
+    {
+      "title": "What should dev teams measure first? With Luca Rossi of Translated",
+      "published": "2020-11-11",
+      "url": null
+    },
+    {
+      "title": "Does dev methodology matter? w/ Chris Downard of GigSmart",
+      "published": "2020-11-02",
+      "url": null
+    },
+    {
+      "title": "Asynchronous Development for Hybrid Remote Teams w/ Ori Keren of LinearB",
+      "published": "2020-10-22",
+      "url": null
+    }
+  ]
+}

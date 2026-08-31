@@ -2969,6 +2969,93 @@
         "Communication",
         "Podcast"
       ]
+    },
+    {
+      "title": "Dev Interrupted: Labs - Setting Engineering Goals and Reporting to Stakeholders",
+      "url": "https://linearb.io/dev-interrupted/podcast/setting-engineering-goals-and-reporting-to-stakeholders",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/dev-interrupted/id1537003676?i=1000655521330",
+      "published": "2024-05-14",
+      "tags": [
+        "People",
+        "Engineering Management",
+        "Goals",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Managing Up Show: The Manager's Calendar",
+      "url": "https://www.managingup.show/episodes/the-managers-calendar",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/managing-up/id1412411569?i=1000493096958",
+      "published": "2020-09-30",
+      "tags": [
+        "People",
+        "Management",
+        "Meetings",
+        "Time Management",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Manager Tools Forums: Is Role Power Really the Least Powerful Form of Power?",
+      "url": "https://www.manager-tools.com/forums/role-power-really-least-powerful-form-power",
+      "alternate-url": "https://web.archive.org/web/20240615210420/https://www.manager-tools.com/forums/role-power-really-least-powerful-form-power",
+      "published": "2009-05-09",
+      "tags": [
+        "People",
+        "Manager Tools",
+        "Leadership",
+        "Team"
+      ]
+    },
+    {
+      "title": "Radical Candor: Building Pockets of Excellence - Introducing Radical Candor to Your Team 6 | 39",
+      "url": "https://www.radicalcandor.com/podcast/introducing-radical-candor-6-39/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/radical-candor-communication-at-work/id1188489488?i=1000672326485",
+      "published": "2024-10-09",
+      "tags": [
+        "People",
+        "Radical Candor",
+        "Culture",
+        "Management",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Radical Candor: Guide for New Managers | 14",
+      "url": "https://www.radicalcandor.com/podcast/s1-e14-guide-for-new-managers",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/radical-candor-communication-at-work/id1188489488?i=1000383822647",
+      "published": "2017-04-04",
+      "tags": [
+        "People",
+        "Radical Candor",
+        "Management",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Radical Candor: Two Managers, One Team - Making Co-Management Work 6 | 20",
+      "url": "https://www.radicalcandor.com/podcast/co-management-6-20/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/radical-candor-communication-at-work/id1188489488?i=1000656363705",
+      "published": "2024-05-22",
+      "tags": [
+        "People",
+        "Radical Candor",
+        "Management",
+        "Feedback",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Manager Tools: The Management Trinity - Feedback",
+      "url": "https://www.manager-tools.com/2008/03/the-management-trinity-feedback",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-effective-manager-book/id1451618807?i=1000429235305",
+      "published": "2008-03-03",
+      "tags": [
+        "People",
+        "Manager Tools",
+        "Feedback",
+        "Podcast"
+      ]
     }
   ]
 }
