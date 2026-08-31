@@ -490,6 +490,19 @@
         "Addy Osmani",
         "Podcast"
       ]
+    },
+    {
+      "title": "Lenny's Podcast: The future of AI in software development with Inbal Shani",
+      "url": "https://www.lennysnewsletter.com/p/the-future-of-ai-in-software-development",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000637179313",
+      "published": "2023-12-01",
+      "tags": [
+        "AI",
+        "GitHub",
+        "Copilot",
+        "Inbal Shani",
+        "Podcast"
+      ]
     }
   ]
 }
