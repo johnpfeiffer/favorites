@@ -598,6 +598,32 @@
         "Business",
         "Podcast"
       ]
+    },
+    {
+      "title": "Salon: Death to the Minotaur - Wizards of the Coast History, Part 1 (John Tynes)",
+      "url": "https://www.salon.com/2001/03/23/wizards/",
+      "alternate-url": "https://web.archive.org/web/20260820031453/https://www.salon.com/2001/03/23/wizards/",
+      "published": "2001-03-23",
+      "tags": [
+        "History",
+        "Gaming",
+        "Wizards of the Coast",
+        "Startups",
+        "Article"
+      ]
+    },
+    {
+      "title": "Salon: Death to the Minotaur - Wizards of the Coast History, Part 2 (John Tynes)",
+      "url": "https://www.salon.com/2001/03/26/wizards_part2/",
+      "alternate-url": "https://web.archive.org/web/20260305105725/https://www.salon.com/2001/03/26/wizards_part2/",
+      "published": "2001-03-26",
+      "tags": [
+        "History",
+        "Gaming",
+        "Wizards of the Coast",
+        "Startups",
+        "Article"
+      ]
     }
   ]
 }
