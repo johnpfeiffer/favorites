@@ -1513,6 +1513,7 @@
         "People",
         "Career Development",
         "Software Engineering",
+        "Patrick McKenzie",
         "Blog"
       ]
     },
@@ -3078,6 +3079,30 @@
         "Manager Tools",
         "Delegation",
         "Podcast"
+      ]
+    },
+    {
+      "title": "Kalzumeus: Salary Negotiation - Make More Money, Be More Valued (Patrick McKenzie)",
+      "url": "https://www.kalzumeus.com/2012/01/23/salary-negotiation/",
+      "alternate-url": "https://web.archive.org/web/20260826234406/https://www.kalzumeus.com/2012/01/23/salary-negotiation/",
+      "published": "2012-01-23",
+      "tags": [
+        "People",
+        "Career Development",
+        "Negotiation",
+        "Patrick McKenzie",
+        "Blog"
+      ]
+    },
+    {
+      "title": "High Growth Engineer: The Journey to Staff Engineer - Main Takeaways (Jordan Cutler)",
+      "url": "https://read.highgrowthengineer.com/p/the-journey-to-staff-engineer-main",
+      "alternate-url": "https://careercutler.substack.com/p/the-journey-to-staff-engineer-main",
+      "published": "2023-09-10",
+      "tags": [
+        "People",
+        "Career Development",
+        "Blog"
       ]
     }
   ]

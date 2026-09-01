@@ -599,6 +599,11 @@
       "source": "38295D05-339B-4CA7-9053-9CFF0C5021BD",
       "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
       "type": "Is_a_Person"
+    },
+    {
+      "source": "C7ECBE6B-5256-422F-A7CC-46E870A9C300",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
     }
   ]
 }
