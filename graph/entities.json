@@ -34,7 +34,7 @@
     },
     {
       "id": "A2AE6713-CDBF-4DB2-8808-ECBE87AACBE3",
-      "name": "Łukasz Kaiser"
+      "name": "\u0141ukasz Kaiser"
     },
     {
       "id": "A3871963-16FC-4B75-A1C8-E1D39AB1033F",
@@ -895,6 +895,34 @@
     {
       "id": "97EE834E-0807-4632-A693-19C440A31B5A",
       "name": "Floodgate"
+    },
+    {
+      "id": "6600F64B-E0B7-4050-9C23-B2F40DC2C4B9",
+      "name": "Inbal Shani"
+    },
+    {
+      "id": "BE9D548C-924C-473A-87AB-50B6682F6421",
+      "name": "GitHub"
+    },
+    {
+      "id": "82FEF2A2-3D6B-4C11-9F86-F4927958358C",
+      "name": "Twilio"
+    },
+    {
+      "id": "14BFDFA3-7D5B-473D-985D-ECB70E2B571F",
+      "name": "Naval Ravikant"
+    },
+    {
+      "id": "C1F81DC1-8882-4345-9DF7-D5252AAD3371",
+      "name": "AngelList"
+    },
+    {
+      "id": "38295D05-339B-4CA7-9053-9CFF0C5021BD",
+      "name": "Shane Parrish"
+    },
+    {
+      "id": "25B0C8B2-51AF-4032-9E27-8E0FD5025B06",
+      "name": "The Knowledge Project"
     }
   ]
 }

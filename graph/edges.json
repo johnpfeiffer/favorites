@@ -819,6 +819,26 @@
       "source": "410E2949-AE4B-4D36-AAA9-E338B35E7840",
       "target": "97EE834E-0807-4632-A693-19C440A31B5A",
       "type": "Founder_of"
+    },
+    {
+      "source": "6600F64B-E0B7-4050-9C23-B2F40DC2C4B9",
+      "target": "BE9D548C-924C-473A-87AB-50B6682F6421",
+      "type": "Previous_Employee_of"
+    },
+    {
+      "source": "6600F64B-E0B7-4050-9C23-B2F40DC2C4B9",
+      "target": "82FEF2A2-3D6B-4C11-9F86-F4927958358C",
+      "type": "Current_Employee_of"
+    },
+    {
+      "source": "14BFDFA3-7D5B-473D-985D-ECB70E2B571F",
+      "target": "C1F81DC1-8882-4345-9DF7-D5252AAD3371",
+      "type": "Founder_of"
+    },
+    {
+      "source": "38295D05-339B-4CA7-9053-9CFF0C5021BD",
+      "target": "25B0C8B2-51AF-4032-9E27-8E0FD5025B06",
+      "type": "Host_of"
     }
   ]
 }

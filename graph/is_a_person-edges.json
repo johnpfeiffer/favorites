@@ -584,6 +584,21 @@
       "source": "410E2949-AE4B-4D36-AAA9-E338B35E7840",
       "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
       "type": "Is_a_Person"
+    },
+    {
+      "source": "6600F64B-E0B7-4050-9C23-B2F40DC2C4B9",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "14BFDFA3-7D5B-473D-985D-ECB70E2B571F",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "38295D05-339B-4CA7-9053-9CFF0C5021BD",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
     }
   ]
 }
