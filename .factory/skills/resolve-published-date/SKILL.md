@@ -17,10 +17,13 @@ Fill `published` with the **initial distribution/event date** of the linked cont
 
 ## Resolution order, cheapest first
 
+Run `tools/fav/fav date <url>...` first: it executes rungs 1–5, 7, and 8 below deterministically (batch-capable and polite; `--offline` for the local rungs only, `--force` to keep climbing after a day-precision hit) and prints every candidate ranked, with conflict notes. It never picks a winner — the semantics, precision rules, and trust pitfalls in this skill still decide. The manual commands below remain as fallback, for rungs the tool doesn't cover (6 bibliographic records, 9 git), and for the hostile-site playbooks (FetchUrl, YouTube search snippets).
+
 1. **URL path**: exact day (`/2024/06/28/`, `/2015/12/23/`) or month (`/2016/08/` → fetch the page for the day, else `YYYY-MM-01`). MP3 filenames too (`career-tools-2024-12-19.mp3`).
 2. **Committed podcast indexes**: `podcasts/<slug>.json` holds `{title, published, url}` per episode for recurring shows. Grep by title keyword, not number — feed and site numbering can drift (a Radical Candor episode is S3E7 in the feed but `season-3-episode-8` on the site). A transcript-mirror entry shares its episode's date.
    ```bash
-   jq -r '.episodes[] | select(.title | test("keyword"; "i")) | [.published, .title] | @tsv' podcasts/<slug>.json
+   tools/fav/fav podcast lookup --show <slug> keyword
+   # fallback: jq -r '.episodes[] | select(.title | test("keyword"; "i")) | [.published, .title] | @tsv' podcasts/<slug>.json
    ```
 3. **Direct page fetch** (`curl -sL --compressed` with a browser UA; many sites 403 plain curl): grep the HTML for, in rough order of reliability:
    - JSON-LD `"datePublished"` / `"dateCreated"`
@@ -44,7 +47,7 @@ If the exact day stays unverifiable after this ladder, use `YYYY-MM-01` (month v
 
 ## Podcast specifics
 
-- Show ID discovery: `curl -s "https://itunes.apple.com/search?term=<show+name>&entity=podcast"` → `collectionId`. Episode listing: `https://itunes.apple.com/lookup?id=<collectionId>&media=podcast&entity=podcastEpisode&limit=200` gives `trackName`/`releaseDate`/`trackViewUrl`.
+- Show ID discovery: `curl -s "https://itunes.apple.com/search?term=<show+name>&entity=podcast"` → `collectionId`. Episode listing: `https://itunes.apple.com/lookup?id=<collectionId>&media=podcast&entity=podcastEpisode&limit=200` gives `trackName`/`releaseDate`/`trackViewUrl`. For a bare Apple episode URL (`.../id<collectionId>?i=<trackId>`), `tools/fav/fav date <apple-url>` runs this listing and matches the track id for you — bare `lookup?id=<trackId>` returns zero results for podcast episodes, and a track absent from the latest ~200 listings is delisted or old, not necessarily either.
 - The lookup returns only the ~200 most recent episodes. For older ones, fetch the Apple episode page directly (it shows the release date), or the show's RSS feed if it carries full history (Simplecast feeds often do).
 - The RSS `feedUrl` from `lookup?id=<showId>` may redirect after a rebrand — follow redirects and match episodes by topic, not just title (see pitfalls).
 - Early-access windows: some shows (Wondery+ like 10% Happier) release a week early on Spotify. Use the wide/Apple release date when the entry's canonical is the Apple link.
@@ -71,7 +74,7 @@ If the exact day stays unverifiable after this ladder, use `YYYY-MM-01` (month v
 
 For repo-wide `published: null` sweeps, one PR per content file:
 
-1. Inventory nulls by index (`python3` over `content/*.json`), and partition up front: URL-path dates, committed-index episodes, living references (stay null), needs-fetch.
-2. Resolve in the order above; keep a per-entry evidence note for the PR body table.
+1. Inventory nulls by index (`python3` over `content/*.json`), and partition up front: URL-path dates, committed-index episodes, living references (stay null), needs-fetch. `tools/fav/fav date --offline` does most of this partition mechanically (rungs 1–2 only, no network).
+2. Resolve in the order above (batch `tools/fav/fav date` for the needs-fetch set); keep a per-entry evidence note for the PR body table.
 3. Apply with an index-keyed Python script that asserts `published is None` before writing and asserts the expected living-null set afterward; then verify the diff touches only `published` lines (plus any intentional, separately-committed anomaly fixes).
 4. `./validate-json.sh` and `./count-urls.sh` before committing; dates and anomaly fixes go in separate commits.
