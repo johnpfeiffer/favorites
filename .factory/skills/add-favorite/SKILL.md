@@ -7,6 +7,23 @@ description: Add a new link to the favorites JSON collection with verified metad
 
 Add links to `content/*.json` so they pass `./validate-json.sh`, dedupe cleanly against `./count-urls.sh`, and match existing conventions.
 
+## Batch order
+
+For multi-link batches, run the cheapest, most-eliminating steps first — local before network, and never spend network calls on links that turn out to be duplicates:
+
+1. `tools/fav/fav dedupe <url> [title words...] ...` on every submitted link (local, seconds; feed URLs exactly as submitted). A batch can end right here — one batch of six was 6/6 duplicates already stored as `alternate-url`.
+2. `tools/fav/fav date --offline` and `tools/fav/fav podcast lookup` (local): partition survivors into "resolved for free" (URL-path dates, committed indexes) vs "needs network".
+3. `tools/fav/fav date` (network) to identify and date the survivors.
+4. `tools/fav/fav check` on the canonical candidates.
+5. `tools/fav/fav wayback` last — it is the slowest and flakiest step (8s delays), and only survivors need alternates.
+6. Tags and placement → write entries → `fav lint` + validators → graph → finalize the PR.
+
+Batch N URLs per tool invocation (one process, one content-file load). The early draft PR (see PR section) captures intent before any of this work.
+
+## Spot-check the tools
+
+At random intervals — about one item per 10-link batch — redo one tool answer with the manual fallback path and compare: grep `content/` for a URL that `fav dedupe` called new, curl the availability API behind a `fav wayback` result, FetchUrl a page that `fav check` classified, eyeball the JSON-LD behind a `fav date` candidate. Deterministic tools fail *consistently*, which makes silent drift look authoritative — a broken rung will repeat a plausible wrong answer forever until audited (an iTunes lookup change once reported six stored episodes as "delisted?"). The fallback paths in this skill exist partly to keep that audit possible. Report any disagreement in the PR body, and fix whichever side is wrong.
+
 ## Entry schema
 
 ```json
@@ -39,26 +56,32 @@ Five files: `ai.json`, `business.json`, `engineering.json`, `history.json`, `peo
 
 **Published dates**: use the `resolve-published-date` skill. It owns the evidence ladder (URL path → committed podcast indexes → page metadata → Wayback snapshot forensics → Crossref → bibliographic records → HN corroboration), the semantics (initial distribution/event date, original airing over re-release), the precision rules (exact day → `YYYY-MM-01` month fallback → `null` with evidence), bot-block fetch workarounds, and the living-reference `null` convention (blog homepages, index pages, continuously revised docs, Wikipedia articles, GitHub READMEs).
 
-Canonical URL and `alternate-url` work stays here. Before trusting a URL, verify the live page still serves the expected content: when the original link is defunct (a 301 redirect to unrelated content, an error page, or a JS-heavy page that renders blank), use the Wayback snapshot as the canonical `url`, put the original source link in `alternate-url`, and flag it in the PR.
+Canonical URL and `alternate-url` work stays here. Before trusting a URL, verify the live page still serves the expected content. Run `tools/fav/fav check <url>...` first: it follows the redirect chain (flagging cross-host hops), extracts `<title>` and `rel=canonical`/`og:url` (catching moved domains), and classifies the response (`ok` / `bot-block-suspect` / `forbidden` / `not-found` / `server-error`). When the original link is defunct (a 301 redirect to unrelated content, an error page, or a JS-heavy page that renders blank), use the Wayback snapshot as the canonical `url`, put the original source link in `alternate-url`, and flag it in the PR.
 
-Distinguish bot-blocking from defunct. A 403 or a Cloudflare "Attention Required" page (NYT, Medium, hbr.org, and nsa.gov all bot-block curl) usually means the site is alive but refusing non-browser clients — retry with FetchUrl or a browser user-agent, and keep the original as canonical (paywalled-but-live stays canonical too; the Wayback snapshot goes in `alternate-url`). Only flip fields when the content is actually gone: 404, dead or parked domain, redirect to unrelated content. When a link 404s, first web-search the article title for a moved canonical on the same site (publishers re-slug posts, and shows rebrand — e.g. an art19 show moved to omny.fm); use the moved URL as canonical if it serves the content, and only apply the defunct flip if the moved URL is dead too. If a slug now serves a retitled version of the same article, keep the URL and reflect the current page title (the submitter's framing can survive as a parenthetical).
+Distinguish bot-blocking from defunct. A 403 or a Cloudflare "Attention Required" page (NYT, Medium, hbr.org, and nsa.gov all bot-block curl) usually means the site is alive but refusing non-browser clients — retry with FetchUrl or a browser user-agent, and keep the original as canonical (paywalled-but-live stays canonical too; the Wayback snapshot goes in `alternate-url`). A few sites (e.g. mckinsey.com) reject this environment at the TLS/network layer entirely; use FetchUrl for those. Only flip fields when the content is actually gone: 404, dead or parked domain, redirect to unrelated content. When a link 404s, first web-search the article title for a moved canonical on the same site (publishers re-slug posts, and shows rebrand — e.g. an art19 show moved to omny.fm); use the moved URL as canonical if it serves the content, and only apply the defunct flip if the moved URL is dead too. If a slug now serves a retitled version of the same article, keep the URL and reflect the current page title (the submitter's framing can survive as a parenthetical).
 
 The Wayback APIs occasionally return 503s for long stretches. Retry once or twice, then omit the unverified alternates rather than guessing, note the outage in the PR body, and backfill later. When the API does cooperate, add the latest 200 capture as `alternate-url` even for healthy live links — sites rot eventually.
 
 Canonical URL for an Apple Podcasts link:
-1. **Check the episode index first.** `podcasts/<slug>.json` holds `{title, published, url}` for every episode of each show the collection uses repeatedly (SE Radio, Manager Tools, Lenny's, ELC, Go Time, ILTB, Knowledge Project, YC, Managing Up, Darknet Diaries, Radical Candor, Developing Leadership, Engineering Unblocked). Grep it for title keywords:
+1. **Check the episode index first.** `podcasts/<slug>.json` holds `{title, published, url}` for every episode of each show the collection uses repeatedly (SE Radio, Manager Tools, Lenny's, ELC, Go Time, ILTB, Knowledge Project, YC, Managing Up, Darknet Diaries, Radical Candor, Developing Leadership, Engineering Unblocked). Search it with the fav CLI:
    ```bash
-   jq -r '.episodes[] | select(.title | test("rumelt"; "i"))' podcasts/lennys-podcast.json
+   tools/fav/fav podcast lookup --show lennys rumelt
    ```
-   The `canonicalPattern` field shows the site's URL shape; `notes` records quirks (Cloudflare 403s, parked domains, which mirror to prefer). Regenerate with `./update-podcast-indexes.sh` when an episode is newer than the index.
-2. For shows not yet indexed: `curl -s "https://itunes.apple.com/lookup?id=<PODCAST_ID>"` returns `feedUrl` (the RSS feed) and the show name/author. Fetch the RSS feed, find the episode `<item>` by title, read its `<link>` and `<pubDate>`. If the show recurs in the collection, add it to `podcasts/registry.json` and regenerate.
+   (Fallback: `jq -r '.episodes[] | select(.title | test("rumelt"; "i"))' podcasts/lennys-podcast.json`.)
+   The `canonicalPattern` field shows the site's URL shape; `notes` records quirks (Cloudflare 403s, parked domains, which mirror to prefer). When an episode is newer than the index, regenerate with `tools/fav/fav podcast refresh` (or `refresh --check` to see the drift first; fallback: `./update-podcast-indexes.sh`).
+2. For shows not yet indexed: `curl -s "https://itunes.apple.com/lookup?id=<PODCAST_ID>"` returns `feedUrl` (the RSS feed) and the show name/author. Fetch the RSS feed, find the episode `<item>` by title, read its `<link>` and `<pubDate>`. If the show recurs in the collection, add it to `podcasts/registry.json` and regenerate with `tools/fav/fav podcast refresh --show <slug>`.
 3. The fastest path from a video or other mirror to the Apple episode link: find the show with `curl -s "https://itunes.apple.com/search?term=<show+name>&entity=podcast"` (returns `collectionId`), then list episodes with `curl -s "https://itunes.apple.com/lookup?id=<collectionId>&entity=podcastEpisode&limit=200"` — each result has `trackName`, `releaseDate`, and `trackViewUrl` (the Apple episode URL; strip the `&uo=4` suffix). Two gotchas: auto-generated transcripts mangle show names (a transcript said "Gradient Descent" for the real "Gradient Dissent"), so confirm the show name via the search API; and the podcast episode title often differs from the video title.
-4. To identify an episode from a bare Apple `?i=<EPISODE_ID>` when the title is unknown, web-search `"i=<EPISODE_ID>"` — the Apple episode page is usually the top hit with title and date.
+4. To identify an episode from a bare Apple `?i=<EPISODE_ID>` when the title is unknown, run `tools/fav/fav date <apple-url>` — it lists the show via the iTunes collection API and matches the track id (bare `lookup?id=<trackId>` returns zero results for podcast episodes), printing the episode title and release date plus the Apple page's own JSON-LD date. A track missing from the ~200-episode listing window is delisted or old, not a tool failure. Fallback: web-search `"i=<EPISODE_ID>"` — the Apple episode page is usually the top hit with title and date.
 5. Check whether the host publishes episodes on their own site (e.g. The Peterman Pod episodes are canonical on `developing.dev`, not anchor.fm); a web search for `<site> <episode keywords>` confirms. Prefer the author's own site as `url`, matching existing entries from the same show.
 6. Put the original Apple Podcasts URL in `alternate-url`.
 
 Archive.org alternate (when the Apple/mirror slot isn't taken):
-`https://archive.org/wayback/available?url=<url-without-scheme>` returns the closest snapshot; use `archived_snapshots.closest.url` as `alternate-url` (https scheme).
+```bash
+tools/fav/fav wayback --mode latest <url> [<url>...]
+```
+It tries the availability API then CDX, retries `www.`/trailing-slash variants, throttles politely (8s spacing, 25s backoff on 429/503), and prints https-normalized snapshot URLs ready for `alternate-url`.
+
+Manual fallback when the tool can't reach archive.org: `https://archive.org/wayback/available?url=<url-without-scheme>` returns the closest snapshot; use `archived_snapshots.closest.url` as `alternate-url` (https scheme).
 
 The availability API rate-limits aggressively (429s even with spacing between requests). Fallback: the CDX API, which also answers "earliest snapshot" for dating undated pages:
 
@@ -88,16 +111,17 @@ When the requester pastes records from an older export (`{"url", "title", "type"
 
 ## Graph
 
-When the repo has `graph/` and the `maintain-favorites-graph` skill, extract evidence-backed entities and edges from the new entries in a separate commit on the same branch: `Founder_of`, `Author_of`, `Host_of`, and employment edges only when the linked source explicitly supports them. Interviewees and talk speakers are not authors of the interview article. List plausible entities you omitted for lack of evidence in the PR body, and run `python3 .agents/skills/maintain-favorites-graph/scripts/validate_graph.py .` before committing.
+When the repo has `graph/` and the `maintain-favorites-graph` skill, extract evidence-backed entities and edges from the new entries with `tools/fav/fav graph add-edge` in a separate commit on the same branch: `Founder_of`, `Author_of`, `Host_of`, and employment edges only when the linked source explicitly supports them. Interviewees and talk speakers are not authors of the interview article. List plausible entities you omitted for lack of evidence in the PR body, and run `python3 .agents/skills/maintain-favorites-graph/scripts/validate_graph.py .` before committing.
 
 ## Checks before committing
 
 ```bash
+tools/fav/fav lint   # structure + normalized duplicates + tag conventions (strict superset)
 ./validate-json.sh   # jq syntax check on every content/*.json
 ./count-urls.sh      # per-file counts, total vs unique URLs, duplicate list
 ```
 
-The new URL must not already exist (count-urls.sh lists duplicates). Grep `content/` for the URL and title keywords before adding; list any skipped duplicates in the PR body.
+The new URL must not already exist (count-urls.sh and `fav lint` both list duplicates). Dedupe before adding with `tools/fav/fav dedupe <url> [title words...]` — it matches normalized `url` and `alternate-url` (unwrapping Wayback snapshots, dropping utm params, collapsing www/scheme variants) and prints the full stored records, not just a verdict; fallback: grep `content/` for the URL and title keywords. List any skipped duplicates in the PR body. `fav lint` also surfaces pre-existing data debt as warnings — report warnings your own entries introduce, but don't treat repo-wide legacy warnings as blockers.
 
 ## Anomalies and discrepancies
 
@@ -111,7 +135,7 @@ Adding a link often surfaces pre-existing issues: invalid JSON, duplicate URLs, 
 
 Branch off latest `main` (`git checkout main && git pull --ff-only && git checkout -b <branch>`), commit with a short lowercase message, push, and open a PR with `gh pr create --base main`. The PR body should include a table of added links (URL, published date, file, tags) and notes on date sources and placement reasoning.
 
-Open the PR early as a draft when the requester wants the intent captured up front (or when a batch will take a while): create the branch, `git commit --allow-empty` a marker commit, push, and `gh pr create --draft --base main` with a body that records the intent — the submitted links with the requester's annotations, the planned handling per link, and a checklist (resolve → dedupe → tags/placement → graph → validators). Push real commits as they land, and replace the intent section with the final evidence tables before marking the PR ready for review.
+Open the PR early as a draft when the requester wants the intent captured up front (or when a batch will take a while): create the branch, `git commit --allow-empty` a marker commit, push, and `gh pr create --draft --base main` with a body that records the intent — the submitted links with the requester's annotations, the planned handling per link, and a checklist (dedupe → resolve → tags/placement → graph → validators, per the Batch order section). Push real commits as they land, and replace the intent section with the final evidence tables before marking the PR ready for review.
 
 - Push auth: `git config credential.helper "!gh auth git-credential"` reuses the authenticated `gh` session; set a repo-local `user.name`/`user.email` if git has no identity.
 - If the previous PR was merged and its branch deleted before you push follow-up commits, pushing recreates a stray branch. Instead cherry-pick the commits onto a fresh branch off `origin/main`, open a new PR, and delete the stray branch after verifying by diff that it holds nothing unique.

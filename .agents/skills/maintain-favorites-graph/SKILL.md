@@ -85,7 +85,7 @@ When a name is ambiguous, do not add the classification edge. Ask the user to co
 
 1. Read the selected content record and its existing graph neighborhood.
 2. Extract only relationships stated explicitly or supported by the linked source.
-3. Resolve the linked page when needed to identify canonical names, authors, or named works.
+3. Resolve the linked page when needed to identify canonical names, authors, or named works. For people and organizations, `tools/fav/fav graph bio <name>` gathers Wikidata candidates (employers with start/end qualifiers → `Current_`/`Previous_Employee_of` candidates, founded-by in both directions). It prints evidence only; every candidate still goes through the verification rules here, and `Current_Employee_of` always needs a first-party current source.
 4. Treat vague associations such as `with Company`, a tag, or a company mentioned in a topic as insufficient evidence of employment.
 5. Verify `Current_Employee_of` against a reliable current source because it is time-sensitive. Remove or change stale current-employment edges when evidence shows they are no longer current.
 6. Prefer omission over guessing. Report useful candidate relationships that need confirmation instead of silently adding them.
@@ -97,7 +97,7 @@ Keep content records in `content/`; do not copy their URLs, tags, publication da
 1. Inspect `entities.json`, `edges.json`, and `is_a_person-edges.json` before editing.
 2. Match candidates against existing names case-insensitively and check common punctuation or branding variants.
 3. Preserve existing UUIDs and edge direction.
-4. Add or update the smallest evidence-backed set of entities and edges.
+4. Write with `tools/fav/fav graph add-edge` (batch triples via args or stdin; `--dry-run` first): it reuses entities case-insensitively, mints uppercase UUID4s only for genuinely new entities, checks edge types against the closed ontology, routes `Is_a_Person` to its segregated file, and writes byte-compatibly with the Python format so diffs stay append-only. Manual JSON edits remain the fallback for what the writer doesn't cover (e.g. removals during cleanup). Add or update the smallest evidence-backed set of entities and edges.
 5. Remove nodes left isolated by cleanup unless they are explicitly admitted subject companies.
 6. Preserve valid unrelated graph data.
 7. Run the adjacent validator from the repository root before handoff:
@@ -105,6 +105,8 @@ Keep content records in `content/`; do not copy their URLs, tags, publication da
 ```bash
 python3 .agents/skills/maintain-favorites-graph/scripts/validate_graph.py .
 ```
+
+8. Spot-check the tooling at random intervals (about one batch in ten): after a `fav graph add-edge` write, diff the graph files by eye — the change must be append-only, byte-compatible, and exactly the intended triples — and verify one `fav graph bio` candidate directly against Wikidata. Deterministic tools fail consistently, so silent drift looks authoritative until audited; report disagreements.
 
 ## Report the result
 
