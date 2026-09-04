@@ -844,6 +844,11 @@
       "source": "C7ECBE6B-5256-422F-A7CC-46E870A9C300",
       "target": "92664F80-065B-4640-909A-7AB25D524FB0",
       "type": "Founder_of"
+    },
+    {
+      "source": "729572D7-4BF9-4D9A-8A76-EB15580FAAA2",
+      "target": "311276D1-14D7-421A-BF42-8B990CFCFDB1",
+      "type": "Founder_of"
     }
   ]
 }
