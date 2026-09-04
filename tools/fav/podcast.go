@@ -55,8 +55,10 @@ func cmdPodcast(args []string) error {
 		return cmdPodcastLookup(args[1:])
 	case "refresh":
 		return cmdPodcastRefresh(args[1:])
+	case "delisted":
+		return cmdPodcastDelisted(args[1:])
 	default:
-		return fmt.Errorf("unknown podcast subcommand %q (want lookup | refresh)", args[0])
+		return fmt.Errorf("unknown podcast subcommand %q (want lookup | refresh | delisted)", args[0])
 	}
 }
 
@@ -461,4 +463,197 @@ func writeIndex(path string, idx *podcastIndex) error {
 		return err
 	}
 	return f.Close()
+}
+
+// ---------------------------------------------------------------------------
+// delisted: diff the committed index against Apple's store listing
+// ---------------------------------------------------------------------------
+
+// itunesEpisode mirrors the podcastEpisode results of the iTunes lookup API.
+type itunesEpisode struct {
+	TrackID      int64  `json:"trackId"`
+	TrackName    string `json:"trackName"`
+	ReleaseDate  string `json:"releaseDate"`
+	TrackViewURL string `json:"trackViewUrl"`
+}
+
+type delistedRow struct {
+	Title     string  `json:"title"`
+	Published *string `json:"published,omitempty"`
+	URL       string  `json:"url"`
+}
+
+type delistedResult struct {
+	Show          string        `json:"show"`
+	Slug          string        `json:"slug"`
+	IndexCount    int           `json:"indexCount"`
+	AppleCount    int           `json:"appleCount"`
+	Windowed      bool          `json:"windowed"`             // Apple listing hit the ~200-episode cap
+	NotInApple    []delistedRow `json:"notInApple,omitempty"` // delisted suspects
+	NotInIndex    []delistedRow `json:"notInIndex,omitempty"` // in Apple, absent from feed/index
+	OutsideWindow int           `json:"outsideWindow,omitempty"`
+	Error         string        `json:"error,omitempty"`
+}
+
+func cmdPodcastDelisted(args []string) error {
+	fs := flag.NewFlagSet("podcast delisted", flag.ContinueOnError)
+	repo := fs.String("repo", ".", "repository root (contains podcasts/)")
+	showFilter := fs.String("show", "", "only check shows whose slug or name contains this")
+	delay := fs.Duration("delay", 2*time.Second, "minimum delay between iTunes API calls (be polite)")
+	asJSON := fs.Bool("json", false, "emit a JSON array instead of text")
+	if err := fs.Parse(args); err != nil {
+		return err
+	}
+	if len(fs.Args()) > 0 {
+		return fmt.Errorf("delisted takes no positional arguments (use --show to filter)")
+	}
+	reg, err := loadRegistry(*repo)
+	if err != nil {
+		return err
+	}
+	shows, err := selectShows(reg, *showFilter)
+	if err != nil {
+		return err
+	}
+	client := newPoliteClient(
+		"fav/"+version+" (favorites repo podcast-delisted-checker; +https://github.com/johnpfeiffer/favorites)",
+		*delay, 15*time.Second, 2, 60*time.Second)
+
+	var results []delistedResult
+	failed := false
+	for _, show := range shows {
+		res := delistedResult{Show: show.Name, Slug: show.Slug}
+		results = append(results, res)
+		idx, err := loadIndex(*repo, show.Slug)
+		if err != nil {
+			results[len(results)-1].Error = err.Error()
+			failed = true
+			continue
+		}
+		appleEps, err := itunesEpisodes(client, show.AppleID)
+		if err != nil {
+			results[len(results)-1].Error = err.Error()
+			failed = true
+			continue
+		}
+		results[len(results)-1] = diffDelisted(idx, appleEps)
+	}
+
+	if *asJSON {
+		enc := json.NewEncoder(os.Stdout)
+		enc.SetIndent("", "  ")
+		enc.SetEscapeHTML(false)
+		enc.Encode(results)
+	} else {
+		for i, res := range results {
+			if i > 0 {
+				fmt.Println()
+			}
+			printDelistedResult(res)
+		}
+	}
+	if failed {
+		return errReported
+	}
+	return nil
+}
+
+func printDelistedResult(res delistedResult) {
+	fmt.Printf("SHOW   %s (slug=%s)\n", res.Show, res.Slug)
+	if res.Error != "" {
+		fmt.Printf("ERROR  %s\n", res.Error)
+		return
+	}
+	window := ""
+	if res.Windowed {
+		window = fmt.Sprintf(" [Apple listing capped at ~200; %d older index episodes skipped]", res.OutsideWindow)
+	}
+	fmt.Printf("COUNTS index=%d apple=%d notInApple=%d notInIndex=%d%s\n",
+		res.IndexCount, res.AppleCount, len(res.NotInApple), len(res.NotInIndex), window)
+	for _, r := range res.NotInApple {
+		fmt.Printf("  DELISTED? %s | %s\n            %s\n", deref(r.Published), r.Title, r.URL)
+	}
+	for _, r := range res.NotInIndex {
+		fmt.Printf("  APPLE-ONLY %s | %s\n            %s\n", deref(r.Published), r.Title, r.URL)
+	}
+}
+
+// itunesEpisodes lists the show's Apple catalog episodes (~200 most recent).
+func itunesEpisodes(client *politeClient, appleID int64) ([]itunesEpisode, error) {
+	u := fmt.Sprintf("https://itunes.apple.com/lookup?id=%d&entity=podcastEpisode&limit=200", appleID)
+	res, err := client.get(u, 8<<20)
+	if err != nil {
+		return nil, err
+	}
+	if res.Status != 200 {
+		return nil, fmt.Errorf("itunes lookup: HTTP %d", res.Status)
+	}
+	var parsed struct {
+		Results []struct {
+			WrapperType string `json:"wrapperType"`
+			itunesEpisode
+		} `json:"results"`
+	}
+	if err := json.Unmarshal(res.Body, &parsed); err != nil {
+		return nil, err
+	}
+	var eps []itunesEpisode
+	for _, r := range parsed.Results {
+		if r.WrapperType == "podcastEpisode" {
+			eps = append(eps, r.itunesEpisode)
+		}
+	}
+	return eps, nil
+}
+
+func foldTitle(s string) string {
+	return strings.ToLower(strings.Join(strings.Fields(s), " "))
+}
+
+// diffDelisted compares the committed index against Apple's store listing.
+// Apple returns only the ~200 most recent episodes, so for longer feeds the
+// comparison is windowed: index episodes older than Apple's oldest are
+// skipped rather than misreported as delisted.
+func diffDelisted(idx *podcastIndex, appleEps []itunesEpisode) delistedResult {
+	res := delistedResult{Show: idx.Show, Slug: idx.Slug, IndexCount: len(idx.Episodes), AppleCount: len(appleEps)}
+
+	appleTitles := map[string]bool{}
+	var appleEarliest string
+	for _, ep := range appleEps {
+		appleTitles[foldTitle(ep.TrackName)] = true
+		if d, ok := isoDatePrefix(ep.ReleaseDate); ok {
+			if appleEarliest == "" || d < appleEarliest {
+				appleEarliest = d
+			}
+		}
+	}
+	res.Windowed = len(appleEps) >= 200
+
+	indexTitles := map[string]bool{}
+	for _, ep := range idx.Episodes {
+		if ep.Title == nil {
+			continue
+		}
+		folded := foldTitle(*ep.Title)
+		indexTitles[folded] = true
+		if appleTitles[folded] {
+			continue
+		}
+		if res.Windowed && ep.Published != nil && appleEarliest != "" && *ep.Published < appleEarliest {
+			res.OutsideWindow++
+			continue
+		}
+		row := delistedRow{Title: *ep.Title, Published: ep.Published}
+		if ep.URL != nil {
+			row.URL = *ep.URL
+		}
+		res.NotInApple = append(res.NotInApple, row)
+	}
+	for _, ep := range appleEps {
+		if !indexTitles[foldTitle(ep.TrackName)] {
+			d, _ := isoDatePrefix(ep.ReleaseDate)
+			res.NotInIndex = append(res.NotInIndex, delistedRow{Title: ep.TrackName, Published: &d, URL: ep.TrackViewURL})
+		}
+	}
+	return res
 }
