@@ -100,12 +100,17 @@ func TestHNItemID(t *testing.T) {
 	}
 }
 
-func TestAppleTrackID(t *testing.T) {
-	if got := appleTrackID("https://podcasts.apple.com/us/podcast/show/id1120964487?i=1000634833899"); got != "1000634833899" {
-		t.Errorf("got %q", got)
+func TestAppleIDs(t *testing.T) {
+	coll, trk := appleIDs("https://podcasts.apple.com/us/podcast/show/id1120964487?i=1000634833899")
+	if coll != "1120964487" || trk != "1000634833899" {
+		t.Errorf("got %q %q", coll, trk)
 	}
-	if got := appleTrackID("https://changelog.com/gotime/297"); got != "" {
-		t.Errorf("got %q", got)
+	coll, trk = appleIDs("https://podcasts.apple.com/us/podcast/id1120964487")
+	if coll != "1120964487" || trk != "" {
+		t.Errorf("got %q %q", coll, trk)
+	}
+	if coll, trk := appleIDs("https://changelog.com/gotime/297"); coll != "" || trk != "" {
+		t.Errorf("got %q %q", coll, trk)
 	}
 }
 

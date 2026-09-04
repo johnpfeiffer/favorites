@@ -170,11 +170,11 @@ func resolveDate(client *politeClient, indexes *podcastIndexes, rawurl string, o
 	}
 
 	// Bare Apple episode URLs: identify the episode via the iTunes lookup API.
-	if trackID := appleTrackID(rawurl); trackID != "" {
-		if c, err := itunesEpisodeDate(client, trackID); err == nil && c != nil {
+	if collectionID, trackID := appleIDs(rawurl); trackID != "" {
+		if c, note := itunesEpisodeDate(client, collectionID, trackID); c != nil {
 			add(*c)
-		} else if err != nil {
-			res.Notes = append(res.Notes, "itunes lookup failed: "+err.Error())
+		} else if note != "" {
+			res.Notes = append(res.Notes, "itunes lookup: "+note)
 		}
 	}
 
@@ -489,38 +489,52 @@ func hnItemDate(client *politeClient, id string) (*dateCandidate, error) {
 	return c, nil
 }
 
-// appleTrackID extracts the episode id (?i=...) from a podcasts.apple.com URL.
-func appleTrackID(rawurl string) string {
+// appleCollectionIDRe captures the show id from a podcasts.apple.com path
+// (.../us/podcast/<slug>/id1627920305).
+var appleCollectionIDRe = regexp.MustCompile(`/id(\d+)`)
+
+// appleIDs extracts the show (collection) id and episode (track) id from a
+// podcasts.apple.com URL.
+func appleIDs(rawurl string) (collectionID, trackID string) {
 	u, err := url.Parse(rawurl)
 	if err != nil || !strings.Contains(strings.ToLower(u.Host), "podcasts.apple.com") {
-		return ""
+		return "", ""
 	}
-	return u.Query().Get("i")
+	if m := appleCollectionIDRe.FindStringSubmatch(u.Path); m != nil {
+		collectionID = m[1]
+	}
+	return collectionID, u.Query().Get("i")
 }
 
-func itunesEpisodeDate(client *politeClient, trackID string) (*dateCandidate, error) {
-	res, err := client.get("https://itunes.apple.com/lookup?id="+trackID, 1<<20)
+// itunesEpisodeDate identifies an episode by matching its track id inside the
+// show's Apple listing. Apple does not resolve bare episode-track lookups
+// (lookup?id=<trackId> returns zero results), so the collection listing is
+// the only deterministic route; its ~200-episode cap means an absent track
+// is delisted *or* merely older than the window, and the note says so.
+func itunesEpisodeDate(client *politeClient, collectionID, trackID string) (*dateCandidate, string) {
+	collID, err := strconv.ParseInt(collectionID, 10, 64)
+	if err != nil || collID == 0 {
+		return nil, "no usable show id in the URL"
+	}
+	trkID, err := strconv.ParseInt(trackID, 10, 64)
 	if err != nil {
-		return nil, err
+		return nil, "bad episode id " + trackID
 	}
-	var parsed struct {
-		Results []struct {
-			TrackName   string `json:"trackName"`
-			ReleaseDate string `json:"releaseDate"`
-		} `json:"results"`
+	eps, err := itunesEpisodes(client, collID)
+	if err != nil {
+		return nil, err.Error()
 	}
-	if err := json.Unmarshal(res.Body, &parsed); err != nil {
-		return nil, err
+	for _, ep := range eps {
+		if ep.TrackID == trkID {
+			d, ok := isoDatePrefix(ep.ReleaseDate)
+			if !ok {
+				return nil, "episode found but releaseDate unparseable: " + ep.ReleaseDate
+			}
+			return &dateCandidate{Source: "itunes-lookup", Date: d, Precision: "day",
+				Detail: ep.TrackName, Rank: 2}, ""
+		}
 	}
-	if len(parsed.Results) == 0 {
-		return nil, fmt.Errorf("track %s not in catalog (delisted?)", trackID)
-	}
-	d, ok := isoDatePrefix(parsed.Results[0].ReleaseDate)
-	if !ok {
-		return nil, nil
-	}
-	return &dateCandidate{Source: "itunes-lookup", Date: d, Precision: "day",
-		Detail: parsed.Results[0].TrackName, Rank: 2}, nil
+	return nil, fmt.Sprintf("episode %s absent from the show's latest %d Apple listings (delisted, or older than the ~200-episode window)", trackID, len(eps))
 }
 
 // crossrefDate handles queue.acm.org/detail.cfm?id=N (the Crossref record
