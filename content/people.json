@@ -3104,6 +3104,43 @@
         "Career Development",
         "Blog"
       ]
+    },
+    {
+      "title": "HBR: How Do I Get Out of Constant Crisis Mode? (Coaching Real Leaders)",
+      "url": "https://hbr.org/podcast/2025/05/how-do-i-get-out-of-constant-crisis-mode",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/coaching-real-leaders/id1545444200?i=1000706381257",
+      "published": "2025-05-05",
+      "tags": [
+        "People",
+        "Coaching",
+        "Burnout",
+        "HBR",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Managing Up: Personality Conflicts and the \"Us vs. Them\" Mindset",
+      "url": "https://www.managingup.show/episodes/personality-conflicts-and-the-us-vs-them-mindset",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/managing-up/id1412411569?i=1000458005929",
+      "published": "2019-11-27",
+      "tags": [
+        "People",
+        "Management",
+        "Communication",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Level Up Engineering: How to Be a Great Leader and Manager (Strategies to Improve Your Team and Their Results)",
+      "url": "https://www.apexlab.io/podcast/how-to-be-a-good-leader-and-manager",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/level-up-engineering/id1482889491?i=1000636941019",
+      "published": "2023-11-29",
+      "tags": [
+        "People",
+        "Engineering Management",
+        "Coaching",
+        "Podcast"
+      ]
     }
   ]
 }
