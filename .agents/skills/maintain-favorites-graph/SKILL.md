@@ -106,6 +106,8 @@ Keep content records in `content/`; do not copy their URLs, tags, publication da
 python3 .agents/skills/maintain-favorites-graph/scripts/validate_graph.py .
 ```
 
+8. Spot-check the tooling at random intervals (about one batch in ten): after a `fav graph add-edge` write, diff the graph files by eye — the change must be append-only, byte-compatible, and exactly the intended triples — and verify one `fav graph bio` candidate directly against Wikidata. Deterministic tools fail consistently, so silent drift looks authoritative until audited; report disagreements.
+
 ## Report the result
 
 Summarize entity and edge counts, standalone company counts, counts by edge type, canonicalizations or removals, evidence limitations, and validator status. Call out time-sensitive employment claims separately.

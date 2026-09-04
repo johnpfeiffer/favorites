@@ -7,6 +7,23 @@ description: Add a new link to the favorites JSON collection with verified metad
 
 Add links to `content/*.json` so they pass `./validate-json.sh`, dedupe cleanly against `./count-urls.sh`, and match existing conventions.
 
+## Batch order
+
+For multi-link batches, run the cheapest, most-eliminating steps first — local before network, and never spend network calls on links that turn out to be duplicates:
+
+1. `tools/fav/fav dedupe <url> [title words...] ...` on every submitted link (local, seconds; feed URLs exactly as submitted). A batch can end right here — one batch of six was 6/6 duplicates already stored as `alternate-url`.
+2. `tools/fav/fav date --offline` and `tools/fav/fav podcast lookup` (local): partition survivors into "resolved for free" (URL-path dates, committed indexes) vs "needs network".
+3. `tools/fav/fav date` (network) to identify and date the survivors.
+4. `tools/fav/fav check` on the canonical candidates.
+5. `tools/fav/fav wayback` last — it is the slowest and flakiest step (8s delays), and only survivors need alternates.
+6. Tags and placement → write entries → `fav lint` + validators → graph → finalize the PR.
+
+Batch N URLs per tool invocation (one process, one content-file load). The early draft PR (see PR section) captures intent before any of this work.
+
+## Spot-check the tools
+
+At random intervals — about one item per 10-link batch — redo one tool answer with the manual fallback path and compare: grep `content/` for a URL that `fav dedupe` called new, curl the availability API behind a `fav wayback` result, FetchUrl a page that `fav check` classified, eyeball the JSON-LD behind a `fav date` candidate. Deterministic tools fail *consistently*, which makes silent drift look authoritative — a broken rung will repeat a plausible wrong answer forever until audited (an iTunes lookup change once reported six stored episodes as "delisted?"). The fallback paths in this skill exist partly to keep that audit possible. Report any disagreement in the PR body, and fix whichever side is wrong.
+
 ## Entry schema
 
 ```json
@@ -118,7 +135,7 @@ Adding a link often surfaces pre-existing issues: invalid JSON, duplicate URLs, 
 
 Branch off latest `main` (`git checkout main && git pull --ff-only && git checkout -b <branch>`), commit with a short lowercase message, push, and open a PR with `gh pr create --base main`. The PR body should include a table of added links (URL, published date, file, tags) and notes on date sources and placement reasoning.
 
-Open the PR early as a draft when the requester wants the intent captured up front (or when a batch will take a while): create the branch, `git commit --allow-empty` a marker commit, push, and `gh pr create --draft --base main` with a body that records the intent — the submitted links with the requester's annotations, the planned handling per link, and a checklist (resolve → dedupe → tags/placement → graph → validators). Push real commits as they land, and replace the intent section with the final evidence tables before marking the PR ready for review.
+Open the PR early as a draft when the requester wants the intent captured up front (or when a batch will take a while): create the branch, `git commit --allow-empty` a marker commit, push, and `gh pr create --draft --base main` with a body that records the intent — the submitted links with the requester's annotations, the planned handling per link, and a checklist (dedupe → resolve → tags/placement → graph → validators, per the Batch order section). Push real commits as they land, and replace the intent section with the final evidence tables before marking the PR ready for review.
 
 - Push auth: `git config credential.helper "!gh auth git-credential"` reuses the authenticated `gh` session; set a repo-local `user.name`/`user.email` if git has no identity.
 - If the previous PR was merged and its branch deleted before you push follow-up commits, pushing recreates a stray branch. Instead cherry-pick the commits onto a fresh branch off `origin/main`, open a new PR, and delete the stray branch after verifying by diff that it holds nothing unique.

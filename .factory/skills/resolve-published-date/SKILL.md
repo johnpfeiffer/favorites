@@ -19,6 +19,8 @@ Fill `published` with the **initial distribution/event date** of the linked cont
 
 Run `tools/fav/fav date <url>...` first: it executes rungs 1–5, 7, and 8 below deterministically (batch-capable and polite; `--offline` for the local rungs only, `--force` to keep climbing after a day-precision hit) and prints every candidate ranked, with conflict notes. It never picks a winner — the semantics, precision rules, and trust pitfalls in this skill still decide. The manual commands below remain as fallback, for rungs the tool doesn't cover (6 bibliographic records, 9 git), and for the hostile-site playbooks (FetchUrl, YouTube search snippets).
 
+Spot-check the tool at random intervals — about one date per 10-link batch: redo one candidate with the manual rung (grep the page's JSON-LD yourself, `jq` the index, curl the availability API) and confirm the tool neither missed a stronger rung nor misread one. Deterministic tools fail consistently, so a broken rung repeats a plausible wrong answer until audited; report disagreements in the PR body.
+
 1. **URL path**: exact day (`/2024/06/28/`, `/2015/12/23/`) or month (`/2016/08/` → fetch the page for the day, else `YYYY-MM-01`). MP3 filenames too (`career-tools-2024-12-19.mp3`).
 2. **Committed podcast indexes**: `podcasts/<slug>.json` holds `{title, published, url}` per episode for recurring shows. Grep by title keyword, not number — feed and site numbering can drift (a Radical Candor episode is S3E7 in the feed but `season-3-episode-8` on the site). A transcript-mirror entry shares its episode's date.
    ```bash
