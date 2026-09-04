@@ -53,11 +53,25 @@ func unwrapWayback(raw string) string {
 // the fragment removed. Wayback snapshot URLs are unwrapped first, so an
 // original URL compares equal to a snapshot of itself.
 func normalize(raw string) string {
+	return normalizeOpt(raw, true)
+}
+
+// normalizeKeepWayback normalizes without unwrapping Wayback snapshots, so a
+// snapshot URL stays distinct from the original URL it captured. Used when
+// the question is "is this the same web address" rather than "is this the
+// same page".
+func normalizeKeepWayback(raw string) string {
+	return normalizeOpt(raw, false)
+}
+
+func normalizeOpt(raw string, unwrap bool) string {
 	raw = strings.TrimSpace(raw)
 	if raw == "" {
 		return ""
 	}
-	raw = unwrapWayback(raw)
+	if unwrap {
+		raw = unwrapWayback(raw)
+	}
 	u, err := url.Parse(raw)
 	if err != nil || u.Host == "" {
 		u, err = url.Parse("https://" + raw)
