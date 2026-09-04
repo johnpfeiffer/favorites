@@ -503,6 +503,33 @@
         "Inbal Shani",
         "Podcast"
       ]
+    },
+    {
+      "title": "The Pragmatic Engineer: Building Windsurf with Varun Mohan",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-windsurf-with-varun-mohan",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000706692814",
+      "published": "2025-05-07",
+      "tags": [
+        "AI",
+        "LLM",
+        "Coding",
+        "Windsurf",
+        "Varun Mohan",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Dev Interrupted: The End of Specialization? How AI Shapes Modern Dev Teams - Vercel's Lee Robinson",
+      "url": "https://linearb.io/dev-interrupted/podcast/the-end-of-specialization-how-ai-shapes-modern-dev-teams",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/dev-interrupted/id1537003676?i=1000706505028",
+      "published": "2025-05-06",
+      "tags": [
+        "AI",
+        "Engineering",
+        "Vercel",
+        "Lee Robinson",
+        "Podcast"
+      ]
     }
   ]
 }
