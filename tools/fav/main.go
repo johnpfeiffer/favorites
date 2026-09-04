@@ -27,6 +27,12 @@ func main() {
 		err = cmdWayback(os.Args[2:])
 	case "check":
 		err = cmdCheck(os.Args[2:])
+	case "date":
+		err = cmdDate(os.Args[2:])
+	case "lint":
+		err = cmdLint(os.Args[2:])
+	case "graph":
+		err = cmdGraph(os.Args[2:])
 	case "podcast":
 		err = cmdPodcast(os.Args[2:])
 	case "version", "--version":
@@ -50,8 +56,13 @@ Usage:
   fav dedupe  [--content dir] [--json] <url> [title words...] ...
   fav wayback [--mode latest|earliest|both] [--delay 8s] [--json] <url> ...
   fav check   [--delay 2s] [--json] <url> ...
-  fav podcast lookup  [--repo dir] [--show slug-or-name] [--json] <keywords...>
-  fav podcast refresh [--repo dir] [--show slug-or-name] [--check] [--delay 2s]
+  fav date    [--offline] [--force] [--delay 2s] [--json] <url> ...
+  fav lint    [--content dir] [--json]
+  fav graph   add-edge [--repo dir] [--dry-run] [--json] <Source Type Target...>
+  fav graph   bio [--delay 2s] [--json] <name> ...
+  fav podcast lookup   [--repo dir] [--show slug-or-name] [--json] <keywords...>
+  fav podcast refresh  [--repo dir] [--show slug-or-name] [--check] [--delay 2s]
+  fav podcast delisted [--repo dir] [--show slug-or-name] [--delay 2s] [--json]
 
 Batch input: pass items as arguments, or pipe one per line on stdin ("-" also
 reads stdin). For dedupe, a line may be "URL optional title keywords"; the URL
@@ -68,9 +79,11 @@ type inputLine struct {
 	Rest   string
 }
 
-// readInputs collects batch items from args, or from stdin when args are
-// empty or a single "-".
-func readInputs(args []string) ([]inputLine, error) {
+// readRawLines collects batch items from args verbatim, or from stdin when
+// args are empty or a single "-". Use readInputs when items are
+// "target [free text]"; use this when the whole line is meaningful (e.g.
+// tab-separated triples).
+func readRawLines(args []string) ([]string, error) {
 	var raw []string
 	if len(args) > 0 && !(len(args) == 1 && args[0] == "-") {
 		raw = args
@@ -84,17 +97,30 @@ func readInputs(args []string) ([]inputLine, error) {
 			return nil, fmt.Errorf("reading stdin: %w", err)
 		}
 	}
-	var out []inputLine
+	var out []string
 	for _, line := range raw {
-		line = strings.TrimSpace(line)
-		if line == "" || strings.HasPrefix(line, "#") {
+		line = strings.TrimRight(line, "\r")
+		if strings.TrimSpace(line) == "" || strings.HasPrefix(strings.TrimSpace(line), "#") {
 			continue
 		}
-		fields := strings.Fields(line)
-		out = append(out, inputLine{Target: fields[0], Rest: strings.Join(fields[1:], " ")})
+		out = append(out, line)
 	}
 	if len(out) == 0 {
 		return nil, fmt.Errorf("no input items (pass arguments or pipe lines on stdin)")
+	}
+	return out, nil
+}
+
+// readInputs collects batch items as "target [optional free text]" pairs.
+func readInputs(args []string) ([]inputLine, error) {
+	raw, err := readRawLines(args)
+	if err != nil {
+		return nil, err
+	}
+	var out []inputLine
+	for _, line := range raw {
+		fields := strings.Fields(line)
+		out = append(out, inputLine{Target: fields[0], Rest: strings.Join(fields[1:], " ")})
 	}
 	return out, nil
 }

@@ -46,9 +46,15 @@ func newPoliteClient(ua string, delay, backoff time.Duration, retries int, timeo
 	clients := []*http.Client{{Jar: jar, Timeout: timeout, CheckRedirect: noRedirect}}
 	// Some servers drop HTTP/2 streams from non-browser clients; the
 	// resolve-published-date playbook falls back to --http1.1, so the second
-	// client disables HTTP/2 and is tried on alternate retry attempts.
+	// client disables HTTP/2 and is tried on alternate retry attempts. All
+	// three switches are required: ForceAttemptHTTP2 off so H2 is never
+	// configured, an empty TLSNextProto so no H2 handler survives, and ALPN
+	// restricted to http/1.1 so the TLS handshake itself never negotiates h2
+	// (otherwise the server speaks H2 to a client parsing HTTP/1.x).
 	t1 := http.DefaultTransport.(*http.Transport).Clone()
+	t1.ForceAttemptHTTP2 = false
 	t1.TLSNextProto = map[string]func(string, *tls.Conn) http.RoundTripper{}
+	t1.TLSClientConfig = &tls.Config{NextProtos: []string{"http/1.1"}}
 	clients = append(clients, &http.Client{Jar: jar, Timeout: timeout, Transport: t1, CheckRedirect: noRedirect})
 	return &politeClient{
 		clients: clients,
