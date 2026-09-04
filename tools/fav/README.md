@@ -118,9 +118,125 @@ fav podcast refresh --check             # report drift, write nothing
   clean diffs.
 - Politeness: `--delay 2s` default between feed fetches.
 
+## fav podcast delisted
+
+Diff each committed index against Apple's store listing to find delisted
+episodes (and Apple-only episodes the index lacks).
+
+```bash
+fav podcast delisted                      # every show (slow: one API call per show)
+fav podcast delisted --show fallthrough
+```
+
+- Source of truth for "still listed": the iTunes lookup API
+  (`entity=podcastEpisode&limit=200`), compared by case-folded title.
+- Apple returns only the ~200 most recent episodes; for longer feeds the
+  comparison is windowed: index episodes older than Apple's oldest are
+  reported as `skipped`, not falsely flagged delisted.
+- Output: `notInApple` (delisted suspects), `notInIndex` (in Apple, absent
+  from the index — usually just-published episodes a refresh would add).
+- Politeness: `--delay 2s` default between API calls.
+
+## fav date
+
+Gather published-date evidence for URLs, ranked by the resolve-published-date
+skill's ladder — every candidate printed, never a verdict.
+
+```bash
+fav date https://www.kalzumeus.com/2012/01/23/salary-negotiation/
+fav date --offline < urls.txt     # local rungs only (URL dates, podcast indexes)
+fav date --force <url>            # fetch the page even when an early rung found a day
+```
+
+The ladder, cheapest/most-authoritative first:
+
+1. URL path/filename dates (`/2012/01/23/`, `manager-tools-2011-03-07.mp3`).
+2. Committed podcast indexes (normalized episode-URL match), HN item
+   timestamps (Firebase API), bare Apple episode URLs (iTunes lookup; reports
+   delisted episodes).
+3. Page metadata: JSON-LD `datePublished`/`dateCreated`/`uploadDate`,
+   `article:published_time`, `dc.date`, `<time datetime>`, dated MP3 links;
+   for PDFs, XMP `CreateDate` and Info `CreationDate`.
+4. Wayback snapshot content when the live page is blocked/failed.
+5. Crossref for `queue.acm.org/detail.cfm?id=N` and `doi.org` links
+   (month precision for 2-part date-parts).
+7. HN Algolia first-submission month.
+8. Wayback earliest capture as a lower bound.
+
+- Early exit once a day-precision candidate exists (`--force` overrides);
+  later rungs also stop when a day is known.
+- Conflicting day-precision dates (the feed-date vs MP3-filename trap) are
+  surfaced as `NOTE`s.
+- `--offline` runs only rungs 1–2 (no network).
+- Politeness: `--delay 2s` default, one retry, 20s per-request cap — metadata
+  sniffing fails fast with a NOTE rather than hanging on slow captures.
+
+## fav lint
+
+Content-file hygiene checks. Absorbs `validate-json.sh` (structure) and
+`count-urls.sh` (duplicate detection, but stricter: normalization makes
+utm/www/scheme variants collide too).
+
+```bash
+fav lint                  # content/ in the repo root
+fav lint --content dir
+```
+
+- Errors (exit 1): JSON syntax, single top-level category key, empty
+  title/tags, non-absolute URL, malformed/invalid `published`, duplicate
+  normalized `url`, duplicate normalized `alternate-url`.
+- Warnings (exit 0): unknown category, first tag not the file category,
+  missing media-type tag (HN Discussions exempt), media-type tag not last,
+  multiple media-type tags, `alternate-url` same address as `url` (a Wayback
+  backup of the url itself is fine and not flagged), `alternate-url` matching
+  another entry's `url`, year-parenthetical in title, HN URL without the
+  `HN Discussion:` prefix, tag case-collisions (`Golang` vs `golang`).
+
+## fav graph add-edge
+
+Idempotent graph writer for the maintain-favorites-graph skill. Reuses
+existing entities case-insensitively, mints uppercase UUID4s for new ones,
+checks edge types against the closed ontology, and routes `Is_a_Person` edges
+to `is_a_person-edges.json` with the `Person` class entity forced as target.
+
+```bash
+fav graph add-edge "Peter Adkison" Founder_of "Wizards of the Coast" \
+                   "Peter Adkison" Is_a_Person Person
+printf '%s\t%s\t%s\n' "Charity Majors" "Current_Employee_of" "Honeycomb" | fav graph add-edge -
+fav graph add-edge --dry-run ...        # report adds/reuses, write nothing
+```
+
+- Writes byte-compatibly with the Python `json.dump(indent=2,
+  ensure_ascii=True)` format (non-ASCII as `\uXXXX`, no trailing newline), so
+  diffs stay append-only.
+- Duplicate edges are no-ops; per-triple output reports
+  `added | exists` plus whether each endpoint entity was created.
+- Reminder printed on write: run the graph validator before committing.
+
+## fav graph bio
+
+Wikidata evidence for people/orgs — candidates printed for the agent to
+judge, never written.
+
+```bash
+fav graph bio "Naval Ravikant" "Wizards of the Coast"
+fav graph bio --qid Q978815 "Peter Adkison"   # skip the search step
+```
+
+- `wbsearchentities` top hit plus up to 2 alternatives (`ALTS`); `--qid`
+  pins the entity when the search hit is wrong.
+- Claims read: P31=Q5 (human check), P108 employers with P580/P582
+  qualifiers → `Current_Employee_of` (no end date) vs `Previous_Employee_of`
+  (has end date) candidates, P112 founded-by for orgs.
+- Reverse founder lookup for humans (orgs whose P112 points at them) via the
+  Wikidata SPARQL endpoint.
+- Always prints the verification note: `Current_Employee_of` claims need a
+  first-party current source (LinkedIn, personal site) before writing.
+- Politeness: `--delay 2s` default between Wikidata calls.
+
 ## Exit codes
 
-`0` success; `1` runtime failure (or staleness for `refresh --check`);
-`2` usage error. Query subcommands (`dedupe`, `wayback`, `check`, `lookup`)
-exit 0 even when inputs miss — the verdicts live in the output, not the
-exit code.
+`0` success; `1` runtime failure, staleness (`refresh --check`), or lint
+errors; `2` usage error. Query subcommands (`dedupe`, `wayback`, `check`,
+`date`, `lookup`, `bio`) exit 0 even when inputs miss — the verdicts live in
+the output, not the exit code. `lint` warnings alone do not fail the run.
