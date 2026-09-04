@@ -152,8 +152,10 @@ The ladder, cheapest/most-authoritative first:
 
 1. URL path/filename dates (`/2012/01/23/`, `manager-tools-2011-03-07.mp3`).
 2. Committed podcast indexes (normalized episode-URL match), HN item
-   timestamps (Firebase API), bare Apple episode URLs (iTunes lookup; reports
-   delisted episodes).
+   timestamps (Firebase API), bare Apple episode URLs (iTunes lookup of the
+   show's listing, matched by track id — Apple does not resolve bare
+   episode-track lookups; an absent track is delisted *or* older than the
+   ~200-episode listing window, and the note says so).
 3. Page metadata: JSON-LD `datePublished`/`dateCreated`/`uploadDate`,
    `article:published_time`, `dc.date`, `<time datetime>`, dated MP3 links;
    for PDFs, XMP `CreateDate` and Info `CreationDate`.
