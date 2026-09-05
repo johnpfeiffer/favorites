@@ -311,6 +311,32 @@
         "Strategy",
         "Article"
       ]
+    },
+    {
+      "title": "Lenny's Podcast: Why Great AI Products Are All About the Data (Shaun Clowes)",
+      "url": "https://www.lennysnewsletter.com/p/why-great-ai-products-are-all-about-the-data-shaun-clowes",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-growth-career/id1627920305?i=1000682021835",
+      "published": "2024-12-29",
+      "tags": [
+        "Business",
+        "Product Management",
+        "AI",
+        "Shaun Clowes",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Lenny's Podcast: Seth Godin's Tactics for Building Remarkable Products",
+      "url": "https://www.lennysnewsletter.com/p/seth-godins-tactics-for-building-remarkable-products",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-growth-career/id1627920305?i=1000679640627",
+      "published": "2024-12-08",
+      "tags": [
+        "Business",
+        "Marketing",
+        "Product Management",
+        "Seth Godin",
+        "Podcast"
+      ]
     }
   ]
 }
