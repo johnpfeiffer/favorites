@@ -849,6 +849,21 @@
       "source": "729572D7-4BF9-4D9A-8A76-EB15580FAAA2",
       "target": "311276D1-14D7-421A-BF42-8B990CFCFDB1",
       "type": "Founder_of"
+    },
+    {
+      "source": "786138E4-A2BB-4EEA-92E2-EBC93211DAE7",
+      "target": "29AEBAE0-5923-4A17-A5C6-9C92CC9DC295",
+      "type": "Founder_of"
+    },
+    {
+      "source": "786138E4-A2BB-4EEA-92E2-EBC93211DAE7",
+      "target": "29AEBAE0-5923-4A17-A5C6-9C92CC9DC295",
+      "type": "Current_Employee_of"
+    },
+    {
+      "source": "566769BD-1FD9-4F41-8731-B21DD7DD5AF4",
+      "target": "0A9CA05A-6B60-4FC2-B60B-36162B3AAD13",
+      "type": "Current_Employee_of"
     }
   ]
 }
