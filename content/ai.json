@@ -190,7 +190,7 @@
       "published": "2023-06-20",
       "tags": [
         "AI",
-        "Engineering",        
+        "Engineering",
         "Architecture",
         "Article"
       ]
@@ -529,6 +529,30 @@
         "Vercel",
         "Lee Robinson",
         "Podcast"
+      ]
+    },
+    {
+      "title": "Caltech: Lecture 01 - The Learning Problem (Yaser Abu-Mostafa, Learning From Data)",
+      "url": "https://www.youtube.com/watch?v=mbyG85GZ0PI",
+      "alternate-url": "https://m.youtube.com/watch?v=mbyG85GZ0PI",
+      "published": "2012-08-28",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "Yaser Abu-Mostafa",
+        "Video"
+      ]
+    },
+    {
+      "title": "DeepLearning.AI: What is a Neural Network? (C1W1L02) - Andrew Ng",
+      "url": "https://www.youtube.com/watch?v=n1l-9lIMW7E",
+      "alternate-url": "https://m.youtube.com/watch?v=n1l-9lIMW7E",
+      "published": "2017-08-25",
+      "tags": [
+        "AI",
+        "Deep Learning",
+        "Andrew Ng",
+        "Video"
       ]
     }
   ]
