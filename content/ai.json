@@ -554,6 +554,42 @@
         "Andrew Ng",
         "Video"
       ]
+    },
+    {
+      "title": "Princeton Distinguished Colloquium: Jeff Dean - Important Trends in AI",
+      "url": "https://www.youtube.com/watch?v=UTTeXZrpMR0",
+      "alternate-url": "https://m.youtube.com/watch?v=UTTeXZrpMR0",
+      "published": "2026-02-13",
+      "tags": [
+        "AI",
+        "LLM",
+        "Jeff Dean",
+        "Video"
+      ]
+    },
+    {
+      "title": "Sequoia: When to Build Your Own Agent Harness - Harrison Chase (LangChain)",
+      "url": "https://www.youtube.com/watch?v=HI2q3ci3Iuc",
+      "alternate-url": "https://m.youtube.com/watch?v=HI2q3ci3Iuc",
+      "published": "2026-08-13",
+      "tags": [
+        "AI",
+        "Agents",
+        "LangChain",
+        "Harrison Chase",
+        "Video"
+      ]
+    },
+    {
+      "title": "Dev Interrupted: Inventing the Ralph Wiggum Loop (Geoffrey Huntley)",
+      "url": "https://linearb.io/dev-interrupted/podcast/inventing-the-ralph-wiggum-loop",
+      "published": "2026-01-13",
+      "tags": [
+        "AI",
+        "Agents",
+        "Context Engineering",
+        "Podcast"
+      ]
     }
   ]
 }
