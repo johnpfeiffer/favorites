@@ -1898,6 +1898,43 @@
         "Coding",
         "Blog"
       ]
+    },
+    {
+      "title": "SE Radio 662: Vlad Khononov on Balancing Coupling in Software Design",
+      "url": "https://se-radio.net/2025/04/se-radio-662-vlad-khononov-on-balancing-coupling-in-software-design/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714?i=1000701788230",
+      "published": "2025-04-01",
+      "tags": [
+        "Engineering",
+        "Architecture",
+        "Coupling",
+        "Vlad Khononov",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "GOTO Book Club: Software Design X-Rays - Adam Tornhill & Sven Johann",
+      "url": "https://podcasts.apple.com/us/podcast/software-design-x-rays-adam-tornhill-sven-johann/id1559093928?i=1000541588555",
+      "published": "2021-11-12",
+      "tags": [
+        "Engineering",
+        "Quality",
+        "Conway's Law",
+        "Adam Tornhill",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "SE Radio 658: Tanya Janca on Secure Coding",
+      "url": "https://se-radio.net/2025/03/se-radio-658-tanya-janca-on-secure-coding/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714?i=1000697986971",
+      "published": "2025-03-06",
+      "tags": [
+        "Engineering",
+        "Security",
+        "Tanya Janca",
+        "Podcast"
+      ]
     }
   ]
 }

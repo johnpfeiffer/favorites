@@ -590,6 +590,17 @@
         "Context Engineering",
         "Podcast"
       ]
+    },
+    {
+      "title": "The Changelog: Storytime with Steve Yegge (Changelog Interviews #549)",
+      "url": "https://changelog.com/podcast/549",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-changelog-software-development-open-source/id341623264?i=1000621843052",
+      "published": "2023-07-20",
+      "tags": [
+        "AI",
+        "Steve Yegge",
+        "Podcast"
+      ]
     }
   ]
 }
