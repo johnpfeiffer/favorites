@@ -1849,6 +1849,44 @@
         "Ebi Atawodi",
         "Podcast"
       ]
+    },
+    {
+      "title": "The Pragmatic Engineer: 'The Coding Machine' at Meta with Michael Novati",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-coding-machine-at-meta",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000684141722",
+      "published": "2025-01-15",
+      "tags": [
+        "Engineering",
+        "Career",
+        "Meta",
+        "Michael Novati",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "The Pragmatic Engineer: Software Architecture with Grady Booch (History of UML)",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-architecture-with-grady-booch",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000679233993",
+      "published": "2024-12-04",
+      "tags": [
+        "Engineering",
+        "Architecture",
+        "UML",
+        "Grady Booch",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "The Pragmatic Engineer: Notion - Going Native on iOS and Android",
+      "url": "https://newsletter.pragmaticengineer.com/p/notion-going-native-on-ios-and-android",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000680046064",
+      "published": "2024-12-11",
+      "tags": [
+        "Engineering",
+        "Mobile",
+        "Notion",
+        "Podcast"
+      ]
     }
   ]
 }

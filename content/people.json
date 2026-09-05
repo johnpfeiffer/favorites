@@ -3141,6 +3141,31 @@
         "Coaching",
         "Podcast"
       ]
+    },
+    {
+      "title": "SE Radio: Charles Humble on Professional Skills for Software Engineers",
+      "url": "https://se-radio.net/2025/02/se-radio-655-charles-humble-on-professional-skills-for-software-engineers/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714?i=1000691963328",
+      "published": "2025-02-13",
+      "tags": [
+        "People",
+        "Career Development",
+        "Charles Humble",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Manager Tools: What You've Been Taught About Management Is Wrong (Hall of Fame)",
+      "url": "https://www.manager-tools.com/2015/08/what-youve-been-taught-about-management-wrong",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/manager-tools-hall-of-fame-casts/id1451618276?i=1000429234886",
+      "published": "2019-02-01",
+      "tags": [
+        "People",
+        "Management",
+        "Manager Tools",
+        "Results",
+        "Podcast"
+      ]
     }
   ]
 }
