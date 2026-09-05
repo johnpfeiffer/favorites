@@ -955,6 +955,34 @@
     {
       "id": "0A9CA05A-6B60-4FC2-B60B-36162B3AAD13",
       "name": "Scale AI"
+    },
+    {
+      "id": "4652EB39-E749-436B-8D87-519E4BAFCD86",
+      "name": "Jeff Dean"
+    },
+    {
+      "id": "1A1B8DB4-98AB-481F-A84F-93BDAF2F62DF",
+      "name": "Harrison Chase"
+    },
+    {
+      "id": "F248CBA2-C3D0-4C63-AB00-03784BEF4C73",
+      "name": "LangChain"
+    },
+    {
+      "id": "03ECBB9C-A029-4866-B6DC-F9191909969C",
+      "name": "Max Schoening"
+    },
+    {
+      "id": "1BD40B6C-0014-4CC6-8F92-3410DC5A5C0D",
+      "name": "Notion"
+    },
+    {
+      "id": "C8BED604-9A45-41CC-8A7B-6D68809200D6",
+      "name": "Neil Movva"
+    },
+    {
+      "id": "CD4D8E91-32C0-45B4-83BD-E80A5843555B",
+      "name": "Sail Research"
     }
   ]
 }
