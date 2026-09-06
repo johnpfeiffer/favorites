@@ -1,0 +1,2238 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Engineering",
+  "itemListElement": [
+    {
+      "@type": "PodcastEpisode",
+      "name": "Leslie Lamport interviewed about his papers on distributed systems",
+      "url": "https://www.developing.dev/p/turing-award-winner-on-working-with",
+      "datePublished": "2026-02-23",
+      "keywords": [
+        "Engineering",
+        "Turing Award",
+        "Algorithms",
+        "Distributed Systems",
+        "History",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Golang context.Context package",
+      "url": "https://changelog.com/gotime/143",
+      "datePublished": "2020-08-20",
+      "keywords": [
+        "Engineering",
+        "Golang",
+        "Context",
+        "Dependencies",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Dave Cheney about the Golang Context package",
+      "url": "https://dave.cheney.net/2017/08/20/context-isnt-for-cancellation",
+      "datePublished": "2017-08-20",
+      "keywords": [
+        "Engineering",
+        "Golang",
+        "Context",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Finding dependable Go packages (go dependency management)",
+      "url": "https://youtube.com/watch?v=urarTyKn9cg",
+      "datePublished": "2019-08-01",
+      "keywords": [
+        "Engineering",
+        "Golang",
+        "Dependencies",
+        "Video"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Michael Feathers on Legacy Code",
+      "url": "https://se-radio.net/2017/06/se-radio-episode-295-michael-feathers-on-legacy-code",
+      "datePublished": "2017-06-27",
+      "keywords": [
+        "Engineering",
+        "Legacy Code",
+        "Michael Feathers",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Fragmented Podcast: The Legacy Code Change Algorithm",
+      "url": "https://fragmentedpodcast.com/episodes/219/",
+      "datePublished": "2021-07-19",
+      "keywords": [
+        "Engineering",
+        "Legacy Code",
+        "Michael Feathers",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Go Time: Mechanical Sympathy with Bill Kennedy",
+      "url": "https://changelog.com/gotime/6",
+      "datePublished": "2016-06-23",
+      "keywords": [
+        "Engineering",
+        "Performance",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Fragmented Podcast: 3 Things Every Developer Needs To Know How To Do",
+      "url": "https://fragmentedpodcast.com/episodes/214/",
+      "datePublished": "2021-06-07",
+      "keywords": [
+        "Engineering",
+        "Career",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Fragmented Podcast: YAGNI - You Aren't Going To Need It",
+      "url": "https://fragmentedpodcast.com/episodes/41/",
+      "datePublished": "2016-05-23",
+      "keywords": [
+        "Engineering",
+        "Software Design",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Programming Advice for My Younger Self",
+      "url": "https://mbuffett.com/posts/programming-advice-younger-self",
+      "datePublished": "2024-06-29",
+      "keywords": [
+        "Engineering",
+        "Career"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Becoming a Senior Engineer with Swizec Teller",
+      "url": "https://se-radio.net/2022/06/episode-515-swizec-teller-on-becoming-a-senior-engineer/",
+      "datePublished": "2022-06-08",
+      "keywords": [
+        "Engineering",
+        "Senior Engineer",
+        "Career",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Becoming a Principal Engineer at Hashicorp: Evan Phoenix",
+      "url": "https://fallthrough.transistor.fm/19",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/fallthrough/id1783181295?i=1000708052758",
+      "datePublished": "2025-05-12",
+      "keywords": [
+        "Engineering",
+        "Career",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Sandi Metz: Code Smells Presentation at Laracon 2016",
+      "url": "https://www.youtube.com/watch?v=MksJTtt7jS4&t=93s",
+      "archivedAt": "https://speakerdeck.com/skmetz/get-a-whiff-of-this",
+      "datePublished": "2016-07-28",
+      "keywords": [
+        "Engineering",
+        "Quality",
+        "Video"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Sandi Metz: ",
+      "url": "https://sandimetz.com/blog/2017/6/1/why-we-argue-style",
+      "datePublished": "2017-06-01",
+      "keywords": [
+        "Engineering",
+        "Team",
+        "Culture",
+        "Code Review",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Why and How to Make Smaller Pull Requests",
+      "url": "https://robertheaton.com/2015/10/26/why-and-how-to-make-smaller-pull-requests/",
+      "archivedAt": "https://web.archive.org/web/20170526110111/https://robertheaton.com/2015/10/26/why-and-how-to-make-smaller-pull-requests/",
+      "datePublished": "2015-10-26",
+      "keywords": [
+        "Engineering",
+        "Code Review",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Code Review Without Your Eyes - Heuristics for Quickly Reviewing Code",
+      "url": "https://robertheaton.com/2014/06/20/code-review-without-your-eyes/",
+      "archivedAt": "https://web.archive.org/web/20160125080003/https://robertheaton.com/2014/06/20/code-review-without-your-eyes/",
+      "datePublished": "2014-06-20",
+      "keywords": [
+        "Engineering",
+        "Code Review",
+        "Quality",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Code Reviews Do Find Bugs",
+      "url": "https://entropicthoughts.com/code-reviews-do-find-bugs",
+      "datePublished": "2024-09-17",
+      "keywords": [
+        "Engineering",
+        "Code Review",
+        "Quality",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "The Art of Giving and Receiving Code Reviews",
+      "url": "https://web.archive.org/web/20200111065923/https://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/",
+      "datePublished": "2018-06-25",
+      "keywords": [
+        "Engineering",
+        "Team",
+        "Culture",
+        "Code Review",
+        "Communication",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Git Commands to run before Reading any Codebase",
+      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "datePublished": "2026-04-08",
+      "keywords": [
+        "Git",
+        "Code Review",
+        "Engineering",
+        "Article"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: The CAP Theorem Then and Now",
+      "url": "https://se-radio.net/2015/05/the-cap-theorem-then-and-now",
+      "datePublished": "2015-05-27",
+      "keywords": [
+        "Engineering",
+        "Distributed Systems",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Technical Debt with Sven Johann and Eberhard Wolff",
+      "url": "https://se-radio.net/2015/04/episode-224-sven-johann-and-eberhard-wolff-on-technical-debt",
+      "datePublished": "2015-04-01",
+      "keywords": [
+        "Engineering",
+        "Technical Debt",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "The Log: What Every Software Engineer Should Know About Real-time Data's Unifying Abstraction",
+      "url": "https://web.archive.org/web/20131217183346/http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying",
+      "archivedAt": "https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying",
+      "datePublished": "2013-12-16",
+      "keywords": [
+        "Engineering",
+        "Logging",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Increment: Documentation",
+      "url": "https://increment.com/documentation/",
+      "datePublished": "2018-08-01",
+      "keywords": [
+        "Engineering",
+        "Documentation"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Why We Need Software Specifications",
+      "url": "https://www.wired.com/2013/01/code-bugs-programming-why-we-need-specs/",
+      "datePublished": "2013-01-01",
+      "keywords": [
+        "Engineering",
+        "Turing Award",
+        "Requirements",
+        "Quality",
+        "Leslie Lamport"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "On Writing Tech Specs",
+      "url": "https://codeburst.io/on-writing-tech-specs-6404c9791159?gi=147dabb57a56",
+      "datePublished": "2017-11-01",
+      "keywords": [
+        "Engineering",
+        "Requirements",
+        "Documentation",
+        "Technical Specifications",
+        "Process",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Software Requirements Essentials with Karl Wiegers and Candase Hokanson",
+      "url": "https://se-radio.net/2024/02/se-radio-604-karl-wiegers-and-candase-hokanson-on-software-requirements-essentials/",
+      "datePublished": "2024-02-22",
+      "keywords": [
+        "Engineering",
+        "Requirements",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "The Rise and Fall of Knight Capital: Buy High, Sell Low, Rinse and Repeat",
+      "url": "https://medium.com/dataseries/the-rise-and-fall-of-knight-capital-buy-high-sell-low-rinse-and-repeat-ae17fae780f6",
+      "datePublished": "2018-08-05",
+      "keywords": [
+        "Engineering",
+        "Quality",
+        "History"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "BBC: 13 Minutes to the Moon Episode 5 - The 4th Astronaut (first mission critical software)",
+      "url": "https://www.bbc.co.uk/programmes/w3csz4dn",
+      "datePublished": "2019-06-12",
+      "keywords": [
+        "Engineering",
+        "History",
+        "Quality",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Cautionary Tales: LaLa Land - Galileo's Warning (quality theater)",
+      "url": "https://timharford.com/2019/11/cautionary-tales-ep-3-lala-land-galileos-warning/",
+      "datePublished": "2019-11-22",
+      "keywords": [
+        "Engineering",
+        "Quality",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Code to Debug",
+      "url": "https://programmingisterrible.com/post/173883533613/code-to-debug",
+      "datePublished": "2018-05-14",
+      "keywords": [
+        "Engineering",
+        "Debugging",
+        "Quality"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Gerald Weinberg on Bugs, Errors, and Software Quality",
+      "url": "https://se-radio.net/2017/01/se-radio-episode-280-gerald-weinberg-on-bugs-errors-and-software-quality",
+      "datePublished": "2017-01-24",
+      "keywords": [
+        "Engineering",
+        "Quality",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Why Most Unit Testing is Waste",
+      "url": "https://web.archive.org/web/20180109202817if_/https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf",
+      "datePublished": "2014-08-05",
+      "keywords": [
+        "Engineering",
+        "Testing",
+        "Quality",
+        "Paper"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "HN Discussion: Write Tests. Not Too Many. Mostly Integration",
+      "url": "https://news.ycombinator.com/item?id=15565875",
+      "datePublished": "2017-10-27",
+      "keywords": [
+        "Engineering",
+        "Testing",
+        "Quality"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "HN Discussion: List of Strings to Use in QA Testing",
+      "url": "https://news.ycombinator.com/item?id=18466787",
+      "datePublished": "2018-11-16",
+      "keywords": [
+        "Engineering",
+        "Quality",
+        "Testing"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "HN Discussion: Crowdsourcing How to Review Code",
+      "url": "https://news.ycombinator.com/item?id=11416746",
+      "datePublished": "2016-04-03",
+      "keywords": [
+        "Engineering",
+        "Code Review"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "7 Surefire Strategies to Prevent Downtime",
+      "url": "https://www.bluematador.com/blog/delight-customers-this-black-friday-7-surefire-strategies-to-prevent-downtime",
+      "datePublished": "2017-11-22",
+      "keywords": [
+        "Engineering",
+        "Quality",
+        "DevOps"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Always Be Automating by Thomas Limoncelli",
+      "url": "https://queue.acm.org/detail.cfm?id=3197520",
+      "datePublished": "2018-02-01",
+      "keywords": [
+        "Engineering",
+        "DevOps"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Small Batches Principle by Thomas Limoncelli",
+      "url": "https://queue.acm.org/detail.cfm?id=2945077",
+      "datePublished": "2016-03-01",
+      "keywords": [
+        "Engineering",
+        "Quality",
+        "DevOps",
+        "Continuous Delivery"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Fragmented Podcast: The Testing Paradox",
+      "url": "https://fragmentedpodcast.com/episodes/183/",
+      "datePublished": "2019-11-25",
+      "keywords": [
+        "Engineering",
+        "Testing",
+        "Quality",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Developer Effectiveness by Martin Fowler",
+      "url": "https://martinfowler.com/articles/developer-effectiveness.html",
+      "datePublished": "2021-01-05",
+      "keywords": [
+        "Engineering",
+        "Productivity",
+        "Martin Fowler"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: The History of JUnit and the Future of Testing with Kent Beck",
+      "url": "https://se-radio.net/2010/09/episode-167-the-history-of-junit-and-the-future-of-testing-with-kent-beck",
+      "datePublished": "2010-09-26",
+      "keywords": [
+        "Engineering",
+        "Testing",
+        "Kent Beck",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Release It! with Michael Nygard",
+      "url": "https://se-radio.net/2009/05/episode-134-release-it-with-michael-nygard/",
+      "datePublished": "2009-05-06",
+      "keywords": [
+        "Engineering",
+        "Production",
+        "Quality",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Continuous Delivery with Jez Humble",
+      "url": "https://se-radio.net/2015/02/episode-221-jez-humble-on-continuous-delivery",
+      "datePublished": "2015-02-24",
+      "keywords": [
+        "Engineering",
+        "Continuous Delivery",
+        "DevOps",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Go Time: All About Infrastructure and DevOps",
+      "url": "https://changelog.com/gotime/142",
+      "datePublished": "2020-08-13",
+      "keywords": [
+        "Engineering",
+        "Infrastructure",
+        "DevOps",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Borg and Kubernetes with John Wilkes",
+      "url": "https://se-radio.net/2016/01/se-radio-show-246-john-wilkes-on-borg-and-kubernetes",
+      "datePublished": "2016-01-07",
+      "keywords": [
+        "Engineering",
+        "Kubernetes",
+        "Containers",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Infrastructure as Code Best Practices with Yevgeniy Brikman",
+      "url": "https://se-radio.net/2020/04/episode-405-yevgeniy-brikman-on-infrastructure-as-code-best-practices/",
+      "datePublished": "2020-04-07",
+      "keywords": [
+        "Engineering",
+        "Infrastructure as Code",
+        "DevOps",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Software Engineering Daily: Cloud Native Applications with Cornelia Davis",
+      "url": "https://softwareengineeringdaily.com/2020/12/30/cloud-native-applications-with-cornelia-davis-repeat/",
+      "datePublished": "2020-12-30",
+      "keywords": [
+        "Engineering",
+        "Cloud",
+        "Architecture",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Gang of Four 20 Years Later",
+      "url": "https://se-radio.net/2014/11/episode-215-gang-of-four-20-years-later",
+      "datePublished": "2014-11-20",
+      "keywords": [
+        "Engineering",
+        "Design Patterns",
+        "Architecture",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Queueing Theory Summary and Resources",
+      "url": "https://github.com/joelparkerhenderson/queueing_theory",
+      "datePublished": null,
+      "keywords": [
+        "Engineering",
+        "Queueing Theory"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Visual/Graphical walk through for Quicksort",
+      "url": "https://idea-instructions.com/quick-sort/",
+      "datePublished": "2018-03-16",
+      "keywords": [
+        "Engineering",
+        "Visualization",
+        "Algorithms",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Visual/Graphical cheatsheet for CS Algorithms",
+      "url": "https://photonlines.substack.com/p/visual-focused-algorithms-cheat-sheet",
+      "datePublished": "2025-03-19",
+      "keywords": [
+        "Engineering",
+        "Visualization",
+        "Algorithms",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Visual/Graphical cheatsheet for CS Data Structures",
+      "url": "https://photonlines.substack.com/p/visual-data-structures-cheat-sheet",
+      "datePublished": "2024-08-14",
+      "keywords": [
+        "Engineering",
+        "Visualization",
+        "Data Structures",
+        "Algorithms",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Probabilistic Data Structures for Big Data Problems",
+      "url": "https://se-radio.net/2019/02/se-radio-episode-358-probabilistic-data-structure-for-big-data-problems/",
+      "datePublished": "2019-02-27",
+      "keywords": [
+        "Engineering",
+        "Data Structures",
+        "Algorithms",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Data Sketching Summary",
+      "url": "https://queue.acm.org/detail.cfm?id=3104030",
+      "datePublished": "2017-04-01",
+      "keywords": [
+        "Engineering",
+        "Algorithms"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Big Ball of Mud - Foundational Essay on Software Architecture",
+      "url": "https://web.archive.org/web/20210414115314/http://www.laputan.org/mud/",
+      "datePublished": "1999-06-26",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "Anti-Patterns",
+        "Systems Design",
+        "Article"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "ELC Preventing Over-Engineering aka Aspirational Mismatches by Lisa Dusseault",
+      "url": "https://elc.community/public/podcasts/the-cost-of-aspirational-mismatches-and-how-to-avoid-them-lisa-dusseault-compaas",
+      "datePublished": "2020-08-30",
+      "keywords": [
+        "Engineering",
+        "Anti-Patterns",
+        "Systems Design",
+        "Architecture",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Microsoft: Introduction to Domain Driven Design",
+      "url": "https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design",
+      "datePublished": "2009-02-01",
+      "keywords": [
+        "Engineering",
+        "Domain Driven Design",
+        "Architecture"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Eric Evans on Domain Driven Design at 10 Years",
+      "url": "https://se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years",
+      "datePublished": "2015-05-13",
+      "keywords": [
+        "Engineering",
+        "Domain Driven Design",
+        "Eric Evans",
+        "Architecture",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Coding Blocks: Clean Code - Programming Around Boundaries",
+      "url": "https://www.codingblocks.net/podcast/clean-code-programming-around-boundaries",
+      "datePublished": "2017-01-08",
+      "keywords": [
+        "Engineering",
+        "Clean Code",
+        "Programming",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Virtual DDD: Bounded Contexts, Microservices, and Everything in Between",
+      "url": "https://virtualddd.com/sessions/ddddd-20-bounded-contexts-microservices-and-everything-in-between/",
+      "datePublished": "2020-05-15",
+      "keywords": [
+        "Engineering",
+        "Domain Driven Design",
+        "Microservices"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Success Skills for Architects with Neil Ford",
+      "url": "https://se-radio.net/2017/04/se-radio-episode-287-success-skills-for-architects-with-neil-ford",
+      "datePublished": "2017-04-12",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "Career",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: The Role of the Software Architect with Ori Saporta",
+      "url": "https://se-radio.net/2024/05/se-radio-616-ori-saporta-on-the-role-of-the-software-architect/",
+      "datePublished": "2024-05-15",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "Career",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "On Becoming a Software Architect with Lee Atchison",
+      "url": "https://www.theartifact.io/videos/ep-4-on-becoming-a-software-architect-with-lee-atchison/",
+      "datePublished": "2022-01-31",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "Career"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: The Twelve-Factor App with Joe Kutner",
+      "url": "https://se-radio.net/2020/05/episode-409-joe-kutner-on-the-twelve-factor-app/",
+      "datePublished": "2020-05-14",
+      "keywords": [
+        "Engineering",
+        "Twelve-Factor App",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Serverless Paradigm with Nate Taggart",
+      "url": "https://se-radio.net/2018/03/se-radio-episode-320-nate-taggart-on-serverless-paradigm",
+      "datePublished": "2018-03-27",
+      "keywords": [
+        "Engineering",
+        "Serverless",
+        "Architecture",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Martin Fowler: Drawbacks of Serverless",
+      "url": "https://martinfowler.com/articles/serverless.html#drawbacks",
+      "datePublished": "2018-05-22",
+      "keywords": [
+        "Engineering",
+        "Martin Fowler",
+        "Serverless",
+        "Architecture"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Immutable Architecture with Michael Perry",
+      "url": "https://se-radio.net/2021/02/episode-447-michael-perry-on-immutable-architecture/",
+      "datePublished": "2021-02-18",
+      "keywords": [
+        "Engineering",
+        "Immutable Architecture",
+        "Functional Programming",
+        "Architecture",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Virtual DDD: Orchestration and Choreography",
+      "url": "https://virtualddd.com/sessions/orchestration-and-choreography-with-laila-bougria-udi-dahan/",
+      "datePublished": "2023-07-26",
+      "keywords": [
+        "Engineering",
+        "Orchestration",
+        "Choreography",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Go Time: Event Driven Systems and Architecture",
+      "url": "https://changelog.com/gotime/297",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/go-time-golang-software-engineering-building/id1120964487?i=1000634833899",
+      "datePublished": "2023-11-14",
+      "keywords": [
+        "Engineering",
+        "Event Driven",
+        "Architecture",
+        "Systems Design",
+        "Golang",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "What's the Difference Between Event and Command?",
+      "url": "https://event-driven.io/en/whats_the_difference_between_event_and_command/",
+      "datePublished": "2021-02-17",
+      "keywords": [
+        "Engineering",
+        "Event Driven",
+        "Architecture"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Evolving Architecture and Organization at eBay with Randy Shoup",
+      "url": "https://se-radio.net/2022/08/episode-525-randy-shoup-on-evolving-architecture-and-organization-at-ebay/",
+      "datePublished": "2022-08-17",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "Scalability",
+        "eBay",
+        "Microservices",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Evolving Architecture and Organization at eBay with Randy Shoup",
+      "url": "https://www.softwaresessions.com/episodes/ebay-architecture/",
+      "datePublished": "2022-08-17",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "Scalability",
+        "eBay",
+        "Microservices",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Microservices: Real Architectural Decisions by Camille Fournier",
+      "url": "https://www.elidedbranches.com/2016/08/microservices-real-architectural.html",
+      "datePublished": "2016-08-19",
+      "keywords": [
+        "Engineering",
+        "Microservices",
+        "Architecture",
+        "Camille Fournier"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Conway's Law: A Theoretical Basis for the Microservice Architecture",
+      "url": "https://alibaba-cloud.medium.com/conways-law-a-theoretical-basis-for-the-microservice-architecture-c666f7fcc66a",
+      "datePublished": "2019-10-09",
+      "keywords": [
+        "Engineering",
+        "Conway's Law",
+        "Microservices",
+        "Organization"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "HN Discussion: Modules vs Microservices",
+      "url": "https://news.ycombinator.com/item?id=13960107",
+      "datePublished": "2017-03-26",
+      "keywords": [
+        "Engineering",
+        "Modules",
+        "Microservices",
+        "Architecture"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Go Time: Monolith vs Microservices",
+      "url": "https://changelog.com/gotime/126",
+      "datePublished": "2020-04-16",
+      "keywords": [
+        "Engineering",
+        "Monolith",
+        "Microservices",
+        "Architecture",
+        "Golang",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Netflix: Lessons Learned from the AWS Outage",
+      "url": "https://netflixtechblog.com/lessons-netflix-learned-from-the-aws-outage-deefe5fd0c04",
+      "datePublished": "2011-04-29",
+      "keywords": [
+        "Engineering",
+        "Netflix",
+        "AWS Outage",
+        "Scalability"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "High Scalability: WhatsApp Architecture Facebook Bought for $19 Billion",
+      "url": "https://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html",
+      "datePublished": "2014-02-26",
+      "keywords": [
+        "Engineering",
+        "WhatsApp",
+        "Architecture",
+        "Scalability"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "High Scalability: How WhatsApp Grew to Nearly 500 Million Users",
+      "url": "https://highscalability.com/blog/2014/3/31/how-whatsapp-grew-to-nearly-500-million-users-11000-cores-an.html",
+      "datePublished": "2014-03-31",
+      "keywords": [
+        "Engineering",
+        "WhatsApp",
+        "Scalability",
+        "Growth",
+        "Architecture"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "High Scalability: Justin.tv's Live Video Broadcasting Architecture",
+      "url": "https://highscalability.com/blog/2010/3/16/justintvs-live-video-broadcasting-architecture.html",
+      "datePublished": "2010-03-16",
+      "keywords": [
+        "Engineering",
+        "Scalability",
+        "Architecture"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "HN Discussion: A Simple Guide to Scaling to 10M Users",
+      "url": "https://news.ycombinator.com/item?id=18760350",
+      "datePublished": "2018-12-26",
+      "keywords": [
+        "Engineering",
+        "Scalability",
+        "Growth",
+        "Architecture"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Fallacies of Distributed Computing with L. Peter Deutsch",
+      "url": "https://se-radio.net/2021/07/episode-470-l-peter-deutsch-on-the-fallacies-of-distributed-computing/",
+      "datePublished": "2021-07-27",
+      "keywords": [
+        "Engineering",
+        "Distributed Systems",
+        "L. Peter Deutsch",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Coding Blocks: Transactions in Distributed Systems",
+      "url": "https://www.codingblocks.net/podcast/transactions-in-distributed-systems/",
+      "datePublished": "2021-09-26",
+      "keywords": [
+        "Engineering",
+        "Distributed Systems",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Consensus in Distributed Systems with Kyle Kingsbury",
+      "url": "https://se-radio.net/2015/11/se-radio-episode-241-kyle-kingsbury-on-consensus-in-distributed-systems",
+      "datePublished": "2015-11-03",
+      "keywords": [
+        "Engineering",
+        "Distributed Systems",
+        "Algorithms",
+        "Kyle Kingsbury",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Debugging Distributed Systems with Donny Nadolny",
+      "url": "https://se-radio.net/2017/02/se-radio-episode-282-donny-nadolny-on-debugging-distributed-systems",
+      "datePublished": "2017-02-14",
+      "keywords": [
+        "Engineering",
+        "Distributed Systems",
+        "Debugging",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Dropbox's Distributed Storage System with James Cowling",
+      "url": "https://se-radio.net/2017/03/se-radio-episode-285-james-cowling-on-dropboxs-distributed-storage-system",
+      "datePublished": "2017-03-14",
+      "keywords": [
+        "Engineering",
+        "Dropbox",
+        "James Cowling",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Hadoop with Philip Zeyliger",
+      "url": "https://se-radio.net/2010/03/episode-157-hadoop-with-philip-zeyliger",
+      "datePublished": "2010-03-08",
+      "keywords": [
+        "Engineering",
+        "Hadoop",
+        "Distributed Systems",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Software Engineering Daily: Go Networking with Sneha Inguva",
+      "url": "https://softwareengineeringdaily.com/2020/02/18/go-networking-with-sneha-inguva/",
+      "datePublished": "2020-02-18",
+      "keywords": [
+        "Engineering",
+        "Golang",
+        "Networking",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Rob Pike: Concurrency is Not Parallelism",
+      "url": "https://blog.golang.org/waza-talk",
+      "datePublished": "2013-01-16",
+      "keywords": [
+        "Engineering",
+        "Concurrency",
+        "Parallelism",
+        "Golang",
+        "Rob Pike"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Tony Hoare: Communicating Sequential Processes",
+      "url": "https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf",
+      "datePublished": "1978-08-01",
+      "keywords": [
+        "Engineering",
+        "Turing Award",
+        "Concurrency",
+        "Tony Hoare",
+        "Paper"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Tony Hoare: 1980 Turing Award Speech on learning from failure and simple reduces risk",
+      "url": "https://www.labouseur.com/projects/codeReckon/papers/The-Emperors-Old-Clothes.pdf",
+      "datePublished": "1980-10-27",
+      "keywords": [
+        "Engineering",
+        "Turing Award",
+        "Complexity",
+        "Tony Hoare",
+        "Paper"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Butler Lampson: Paxos ABCD Abstract",
+      "url": "https://bwlampson.site/65-ABCDPaxos/Abstract.html",
+      "datePublished": "2001-08-01",
+      "keywords": [
+        "Engineering",
+        "Turing Award",
+        "Algorithms",
+        "Butler Lampson",
+        "Paper"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Leslie Lamport: The Part-Time Parliament (Paxos)",
+      "url": "https://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf",
+      "datePublished": "1998-05-01",
+      "keywords": [
+        "Engineering",
+        "Turing Award",
+        "Algorithms",
+        "Leslie Lamport",
+        "Paper"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Leslie Lamport: Paxos Made Simple",
+      "url": "https://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf",
+      "datePublished": "2001-12-01",
+      "keywords": [
+        "Engineering",
+        "Turing Award",
+        "Algorithms",
+        "Leslie Lamport",
+        "Paper"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Darknet Diaries: Magecart - Credit Card Skimming and Websites",
+      "url": "https://darknetdiaries.com/episode/52/",
+      "datePublished": "2019-11-26",
+      "keywords": [
+        "Engineering",
+        "Security",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Wired: Confessions of Marcus Hutchins - Hacker Who Saved the Internet",
+      "url": "https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/",
+      "datePublished": "2020-05-12",
+      "keywords": [
+        "Engineering",
+        "Security"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "SE Radio: Secure by Design - Daniel Deogun and Dan Bergh Johnsson",
+      "url": "https://se-radio.net/2025/09/se-radio-684-dan-bergh-johnsson-and-daniel-deogun-on-secure-by-design/",
+      "datePublished": "2025-09-03",
+      "keywords": [
+        "Engineering",
+        "Security",
+        "Software Design"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Segment: A Brief History of the UUID",
+      "url": "https://segment.com/blog/a-brief-history-of-the-uuid/",
+      "datePublished": "2017-06-07",
+      "keywords": [
+        "Engineering",
+        "UUID",
+        "History"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Urchin: Pre-history of Google Analytics",
+      "url": "https://urchin.biz",
+      "datePublished": "2016-09-02",
+      "keywords": [
+        "Engineering",
+        "Google Analytics",
+        "History"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Why You're Wrong About REST from Fallthrough",
+      "url": "https://fallthrough.transistor.fm/28",
+      "datePublished": "2025-07-14",
+      "keywords": [
+        "Engineering",
+        "HTTP",
+        "Protocols",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "How HTTP works with Julia Evans",
+      "url": "https://www.softwaresessions.com/episodes/how-http-works-with-julia-evans/",
+      "datePublished": "2019-09-16",
+      "keywords": [
+        "Engineering",
+        "HTTP",
+        "Protocols",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: HTTP/2 with Mark Nottingham",
+      "url": "https://se-radio.net/2015/07/episode-232-mark-nottingham-on-http2/",
+      "datePublished": "2015-07-16",
+      "keywords": [
+        "Engineering",
+        "HTTP",
+        "Protocols",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "HTTP/2 Explained",
+      "url": "https://http2-explained.haxx.se/en/part2",
+      "datePublished": null,
+      "keywords": [
+        "Engineering",
+        "HTTP",
+        "Protocols"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "How to Build a Personal Webpage From Scratch - Create Yourself a Blog",
+      "url": "https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/",
+      "datePublished": "2022-02-16",
+      "keywords": [
+        "Engineering",
+        "Blog",
+        "Web"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Dan Luu's Blog",
+      "url": "https://danluu.com",
+      "datePublished": null,
+      "keywords": [
+        "Engineering",
+        "Blog",
+        "Programming",
+        "Systems Design"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Dan Luu: I Could Build That in a Weekend",
+      "url": "https://danluu.com/sounds-easy/",
+      "datePublished": "2016-10-01",
+      "keywords": [
+        "Engineering",
+        "Estimation",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Charity Majors' Blog",
+      "url": "https://charity.wtf",
+      "datePublished": null,
+      "keywords": [
+        "Engineering",
+        "Blog",
+        "Leadership",
+        "DevOps"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Paul Graham: Maker's Schedule, Manager's Schedule",
+      "url": "https://www.paulgraham.com/makersschedule.html",
+      "datePublished": "2009-07-01",
+      "keywords": [
+        "Engineering",
+        "Time Management",
+        "Career Transition",
+        "Engineering Management",
+        "Y Combinator",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Go Time: The Trouble with Databases",
+      "url": "https://changelog.com/gotime/132",
+      "datePublished": "2020-05-28",
+      "keywords": [
+        "Engineering",
+        "Databases",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Memory Grid Architecture with Nati Shalom",
+      "url": "https://se-radio.net/2010/11/episode-169-memory-grid-architecture-with-nati-shalom",
+      "datePublished": "2010-11-30",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lex Fridman: David Patterson on RISC (Reduced Instruction Set Computer)",
+      "url": "https://lexfridman.com/david-patterson/",
+      "datePublished": "2020-06-27",
+      "keywords": [
+        "Engineering",
+        "RISC",
+        "Architecture",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Data Driven Products - by Dan McKinley",
+      "url": "https://mcfunley.com/data-driven-products-now",
+      "datePublished": "2014-09-18",
+      "keywords": [
+        "Engineering",
+        "A/B Testing",
+        "Product",
+        "Etsy",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "BBC: In Our Time - Game Theory",
+      "url": "https://www.bbc.co.uk/programmes/b01h75xp",
+      "datePublished": "2012-05-10",
+      "keywords": [
+        "Engineering",
+        "Game Theory",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "The Evolution of Trust - Interactive Game Theory for Prisoner's Dilemma",
+      "url": "https://ncase.me/trust/",
+      "datePublished": "2017-07-01",
+      "keywords": [
+        "Engineering",
+        "Game Theory",
+        "Prisoner's Dilemma"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Radiolab: The Golden Rule - Game Theory in Practice",
+      "url": "https://radiolab.org/podcast/golden-rule-2304",
+      "datePublished": "2023-04-28",
+      "keywords": [
+        "Engineering",
+        "Game Theory",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Claude Shannon: A Mathematical Theory of Communication",
+      "url": "https://www.essrl.wustl.edu/~jao/itrg/shannon.pdf",
+      "datePublished": "1948-07-01",
+      "keywords": [
+        "Engineering",
+        "Information Theory",
+        "Claude Shannon",
+        "Paper"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Leslie Lamport: Time, Clocks, and the Ordering of Events in a Distributed System",
+      "url": "https://research.microsoft.com/en-us/um/people/lamport/pubs/time-clocks.pdf",
+      "datePublished": "1978-07-01",
+      "keywords": [
+        "Engineering",
+        "Turing Award",
+        "Distributed Systems",
+        "Leslie Lamport",
+        "Paper"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Butler Lampson: Hints for Computer System Design (1983)",
+      "url": "https://bwlampson.site/33-Hints/WebPage.html",
+      "datePublished": "1983-10-01",
+      "keywords": [
+        "Engineering",
+        "Turing Award",
+        "Systems Design",
+        "Butler Lampson",
+        "Paper"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Butler Lampson: Almost Everyone Who Uses a Pencil Will Use a Computer (1972)",
+      "url": "https://bwlampson.site/10-SPEGuestEditorial/WebPage.html",
+      "datePublished": "1972-04-01",
+      "keywords": [
+        "Engineering",
+        "Turing Award",
+        "History",
+        "Butler Lampson",
+        "Jevons Paradox",
+        "Paper"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "C.A.R. Hoare: An Axiomatic Basis for Computer Programming",
+      "url": "https://cacm.acm.org/magazines/2009/10/42360-retrospective-an-axiomatic-basis-for-computer-programming/fulltext",
+      "datePublished": "1969-10-01",
+      "keywords": [
+        "Engineering",
+        "Turing Award",
+        "Verification",
+        "C.A.R. Hoare",
+        "Paper"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "AWS Lambdas are Powered by Firecracker OS",
+      "url": "https://www.usenix.org/system/files/nsdi20-paper-agache.pdf",
+      "datePublished": "2020-02-01",
+      "keywords": [
+        "Engineering",
+        "AWS",
+        "Serverless",
+        "Operating Systems",
+        "Paper"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Turing Award winner Barbara Liskov interviewed about data abstraction, Dijkstra, and distributed systems",
+      "url": "https://www.developing.dev/p/turing-award-winner-data-abstraction",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835?i=1000763787598",
+      "datePublished": "2026-04-27",
+      "keywords": [
+        "Engineering",
+        "Turing Award",
+        "Distributed Systems",
+        "History",
+        "Barbara Liskov",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Bryan Cantrill: The peril of laziness lost - LLMs lack the virtuous laziness that drives good abstraction",
+      "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+      "datePublished": "2026-04-12",
+      "keywords": [
+        "Engineering",
+        "AI",
+        "LLM",
+        "Complexity",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Turing Award winner Mike Stonebraker interviewed about Postgres, disagreeing with Google, and future problems",
+      "url": "https://www.developing.dev/p/turing-award-winner-postgres-disagreeing",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835?i=1000762376752",
+      "datePublished": "2026-04-20",
+      "keywords": [
+        "Engineering",
+        "Turing Award",
+        "Databases",
+        "Postgres",
+        "History",
+        "Mike Stonebraker",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The a16z Show: Accelerate book authors on DevOps, company culture, and change",
+      "url": "https://a16z.simplecast.com/episodes/a16z-podcast-feedback-loops-company-culture-change-and-devops-jfDYhdUM",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-a16z-show/id842818711?i=1000407698712",
+      "datePublished": "2018-03-28",
+      "keywords": [
+        "Engineering",
+        "DevOps",
+        "Accelerate",
+        "Continuous Delivery",
+        "Culture",
+        "DORA",
+        "Nicole Forsgren",
+        "Jez Humble",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Darknet Diaries: Deviant - physical penetration testing",
+      "url": "https://darknetdiaries.com/episode/134/",
+      "datePublished": "2023-06-06",
+      "keywords": [
+        "Engineering",
+        "Security",
+        "Physical Security",
+        "Penetration Testing",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Go Time: Principles of Simplicity with Sam Boyer",
+      "url": "https://changelog.com/gotime/296",
+      "datePublished": "2023-11-08",
+      "keywords": [
+        "Engineering",
+        "Simplicity",
+        "Golang",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Steve Yegge: Execution in the Kingdom of Nouns (a Java parable on noun-oriented programming)",
+      "url": "https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html",
+      "archivedAt": "https://web.archive.org/web/20260731085437/https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html",
+      "datePublished": "2006-03-30",
+      "keywords": [
+        "Engineering",
+        "Software Engineering",
+        "Steve Yegge",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Artem Zakirullin: Cognitive Load Is What Matters",
+      "url": "https://minds.md/zakirullin/cognitive",
+      "archivedAt": "https://web.archive.org/web/20260705061101/https://minds.md/zakirullin/cognitive",
+      "datePublished": "2023-05-19",
+      "keywords": [
+        "Engineering",
+        "Software Engineering",
+        "Complexity",
+        "Article"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Christian Kästner: Feature Flags vs Configuration Options - Same Difference?",
+      "url": "https://www.cs.cmu.edu/~ckaestne/featureflags/",
+      "archivedAt": "https://web.archive.org/web/20260217001612/https://www.cs.cmu.edu/~ckaestne/featureflags/",
+      "datePublished": "2019-05-20",
+      "keywords": [
+        "Engineering",
+        "Software Engineering",
+        "Best Practices",
+        "Feature Flags",
+        "Article"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Netflix: Artwork Personalization at Netflix (contextual bandits)",
+      "url": "https://netflixtechblog.com/artwork-personalization-c589f074ad76",
+      "archivedAt": "https://web.archive.org/web/20250516025317/https://netflixtechblog.com/artwork-personalization-c589f074ad76",
+      "datePublished": "2017-12-07",
+      "keywords": [
+        "Engineering",
+        "Netflix",
+        "Machine Learning",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Database Fundamentals (ACID, storage engines, B-trees vs LSM trees, distributed systems)",
+      "url": "https://tontinton.com/posts/database-fundementals/",
+      "archivedAt": "https://web.archive.org/web/20260606041140/https://tontinton.com/posts/database-fundementals/",
+      "datePublished": "2023-12-15",
+      "keywords": [
+        "Engineering",
+        "Databases",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Pragmatic Engineer: How Microsoft Does Quality Assurance (QA) - the SDET role and its 2014 retirement",
+      "url": "https://blog.pragmaticengineer.com/how-microsoft-does-qa/",
+      "archivedAt": "https://web.archive.org/web/20260420101812/https://blog.pragmaticengineer.com/how-microsoft-does-qa/",
+      "datePublished": "2023-09-19",
+      "keywords": [
+        "Engineering",
+        "Quality",
+        "Testing",
+        "Microsoft",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Maxwell Krohn: Building Secure High-Performance Web Services with OKWS (USENIX 2004)",
+      "url": "https://pdos.csail.mit.edu/papers/okws-usenix04.pdf",
+      "archivedAt": "https://web.archive.org/web/20250512124951/https://pdos.csail.mit.edu/papers/okws-usenix04.pdf",
+      "datePublished": "2004-06-01",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "Scalability",
+        "Paper"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Bright Journey: Why Would OkCupid Write Their Own Web Server? (answered by co-founder Chris Coyne)",
+      "url": "https://web.archive.org/web/20250906201441/http://www.brightjourney.com/q/okcupid-write-web-server",
+      "archivedAt": "https://www.brightjourney.com/q/okcupid-write-web-server",
+      "datePublished": "2011-03-10",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "Scalability",
+        "Article"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Stripe: Scaling your API with rate limiters",
+      "url": "https://stripe.com/blog/rate-limiters",
+      "archivedAt": "https://web.archive.org/web/20260803014506/https://stripe.com/blog/rate-limiters",
+      "datePublished": "2017-03-30",
+      "keywords": [
+        "Engineering",
+        "Scalability",
+        "Stripe",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Quastor: How Netflix Implements Load Shedding",
+      "url": "https://web.archive.org/web/20251213193518/https://blog.quastor.org/p/netflix-implements-load-shedding",
+      "archivedAt": "https://blog.quastor.org/p/netflix-implements-load-shedding",
+      "datePublished": "2022-08-23",
+      "keywords": [
+        "Engineering",
+        "Scalability",
+        "Netflix",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "An Introduction to Computer Networks: Token Bucket Rate Limiting (Peter Dordal)",
+      "url": "https://intronetworks.cs.luc.edu/current/html/tokenbucket.html",
+      "archivedAt": "https://web.archive.org/web/20251007210626/https://intronetworks.cs.luc.edu/current/html/tokenbucket.html",
+      "datePublished": null,
+      "keywords": [
+        "Engineering",
+        "Networking",
+        "Scalability",
+        "Article"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "HN Discussion: What are some examples of good database schema designs?",
+      "url": "https://news.ycombinator.com/item?id=22324691",
+      "datePublished": "2020-02-14",
+      "keywords": [
+        "Engineering",
+        "Databases"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "The Scale: Talking Microservices with the Man Who Made Netflix's Cloud Famous (Adrian Cockcroft)",
+      "url": "https://medium.com/s-c-a-l-e/talking-microservices-with-the-man-who-made-netflix-s-cloud-famous-1032689afed3",
+      "archivedAt": "https://web.archive.org/web/20151028201630/https://medium.com/s-c-a-l-e/talking-microservices-with-the-man-who-made-netflix-s-cloud-famous-1032689afed3",
+      "datePublished": "2015-05-30",
+      "keywords": [
+        "Engineering",
+        "Microservices",
+        "Netflix",
+        "Adrian Cockcroft",
+        "Article"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "GOTO 2017: Cloud Trends (Adrian Cockcroft keynote; culture, Netflix cloud migration, monoliths to microservices)",
+      "url": "https://www.youtube.com/watch?v=EDZBYbEwhm8",
+      "datePublished": "2017-06-01",
+      "keywords": [
+        "Engineering",
+        "Microservices",
+        "Adrian Cockcroft",
+        "Video"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Nabeel Qureshi: Reflections on Palantir (Forward Deployed Engineering)",
+      "url": "https://nabeelqu.substack.com/p/reflections-on-palantir",
+      "datePublished": "2024-10-15",
+      "keywords": [
+        "Engineering",
+        "Palantir",
+        "Forward Deployed Engineering",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "ACM Queue: Zero Tolerance for Bias (unbiased shuffling; PRNG seed and modulo bias)",
+      "url": "https://queue.acm.org/detail.cfm?id=3664645",
+      "datePublished": "2024-05-29",
+      "keywords": [
+        "Engineering",
+        "Algorithms",
+        "Probability",
+        "Article"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "NIST DADS: Ideal Random Shuffle",
+      "url": "https://xlinux.nist.gov/dads/HTML/idealRandomShuffle.html",
+      "datePublished": "2021-10-04",
+      "keywords": [
+        "Engineering",
+        "Algorithms",
+        "Probability",
+        "Article"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "NeetCode: Why do companies lay off their best engineers? Vasilios Syrakis on the Atlassian layoffs and engineering as tradeoffs",
+      "url": "https://www.youtube.com/watch?v=s4EOVsBO7Ck",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/why-do-companies-lay-off-their-best-engineers-w-vasilios/id1867041268?i=1000772850033",
+      "datePublished": "2026-06-15",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "Layoffs",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "ELC: Rapid prototyping and developing your product instinct with David Crawshaw",
+      "url": "https://sfelc.com/podcasts/rapid-prototyping-and-developing-your-product-instinct-david-crawshaw",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/rapid-prototyping-developing-your-product-instinct/id1481996448?i=1000617768828",
+      "datePublished": "2023-06-20",
+      "keywords": [
+        "Engineering",
+        "Product Management",
+        "Quality",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Murat Erder and Eoin Woods on Continuous Architecture",
+      "url": "https://se-radio.net/2026/01/se-radio-705-murat-erder-and-eoin-woods-on-continuous-architecture/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714?i=1000746934669",
+      "datePublished": "2026-01-27",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Sean Goedecke: How I ship projects at big tech companies",
+      "url": "https://www.seangoedecke.com/how-to-ship/",
+      "archivedAt": "https://web.archive.org/web/20260731091554/https://www.seangoedecke.com/how-to-ship/",
+      "datePublished": "2024-11-09",
+      "keywords": [
+        "Engineering",
+        "Leadership",
+        "Project Management",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Incredibuild: A Comprehensive Guide to E2E Testing",
+      "url": "https://www.incredibuild.com/blog/a-comprehensive-guide-to-e2e-testing",
+      "datePublished": "2024-07-15",
+      "keywords": [
+        "Engineering",
+        "Testing",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "John Allspaw: Multiple Perspectives on Technical Problems and Solutions (Etsy's architecture review process)",
+      "url": "https://www.kitchensoap.com/2017/08/12/multiple-perspectives-on-technical-problems-and-solutions/",
+      "archivedAt": "https://web.archive.org/web/20260629001415/https://www.kitchensoap.com/2017/08/12/multiple-perspectives-on-technical-problems-and-solutions/",
+      "datePublished": "2017-08-12",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "Decision Making",
+        "Etsy",
+        "John Allspaw",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "John Allspaw: On Being a Senior Engineer",
+      "url": "https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/",
+      "archivedAt": "https://web.archive.org/web/20260817171629/https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/",
+      "datePublished": "2012-10-25",
+      "keywords": [
+        "Engineering",
+        "Career Development",
+        "John Allspaw",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "John Allspaw: Counterfactual Thinking, Rules, and the Knight Capital Accident",
+      "url": "https://www.kitchensoap.com/2013/10/29/counterfactuals-knight-capital/",
+      "archivedAt": "https://web.archive.org/web/20260419080337/https://www.kitchensoap.com/2013/10/29/counterfactuals-knight-capital/",
+      "datePublished": "2013-10-29",
+      "keywords": [
+        "Engineering",
+        "Testing",
+        "Knight Capital",
+        "John Allspaw",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "ELC: Pragmatic Microservices with Randy Shoup",
+      "url": "https://www.youtube.com/watch?v=FCxsxm3TLo8",
+      "datePublished": "2017-09-26",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "Microservices",
+        "Randy Shoup",
+        "Video"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "ELC: The End-to-End Engineer - How WorkOS Collapsed the Talent Stack for High-Velocity Execution, Ownership and Better Product Decisions, with Michael Grinich",
+      "url": "https://sfelc.com/podcasts/the-end-to-end-engineer-how-workos-collapsed-the-talent-stack-for-high-velocity-execution-ownership-better-product-decisions-w-michael-grinich",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-engineering-leadership-podcast/id1481996448?i=1000720692757",
+      "datePublished": "2025-08-05",
+      "keywords": [
+        "Engineering",
+        "Product Management",
+        "Ownership",
+        "WorkOS",
+        "Michael Grinich",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Fallthrough: The Three Ps - Understanding Product, Project, and Program Management",
+      "url": "https://fallthrough.transistor.fm/25",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/fallthrough/id1783181295?i=1000713995736",
+      "datePublished": "2025-06-23",
+      "keywords": [
+        "Engineering",
+        "Product Management",
+        "Project Management",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: What is a Principal Engineer at Amazon? with Steve Huynh",
+      "url": "https://newsletter.pragmaticengineer.com/p/what-is-a-principal-engineer-at-amazon",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000716528089",
+      "datePublished": "2025-07-09",
+      "keywords": [
+        "Engineering",
+        "Career",
+        "Amazon",
+        "Steve Huynh",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Oxide RFD 1: Requests for Discussion",
+      "url": "https://rfd.shared.oxide.computer/rfd/0001",
+      "archivedAt": "https://web.archive.org/web/20260625174027/https://rfd.shared.oxide.computer/rfd/0001",
+      "datePublished": null,
+      "keywords": [
+        "Engineering",
+        "Documentation",
+        "Process",
+        "Article"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "More Than DNS: The 14 hour AWS us-east-1 outage",
+      "url": "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
+      "archivedAt": "https://web.archive.org/web/20260616154816/https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
+      "datePublished": "2025-10-26",
+      "keywords": [
+        "Engineering",
+        "AWS",
+        "Cloud",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Caleb Mellas: How to plan a large/complex project",
+      "url": "https://calebmellas.beehiiv.com/p/how-to-plan-a-complex-project",
+      "archivedAt": "https://web.archive.org/web/20230628121742/https://calebmellas.beehiiv.com/p/how-to-plan-a-complex-project",
+      "datePublished": "2023-06-14",
+      "keywords": [
+        "Engineering",
+        "Project Management",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Kent Beck on 'Tidy First?'",
+      "url": "https://se-radio.net/2024/05/se-radio-615-kent-beck-on-tidy-first/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714?i=1000655195504",
+      "datePublished": "2024-05-10",
+      "keywords": [
+        "Engineering",
+        "Refactoring",
+        "Kent Beck",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "GOTO: From XP to TCR & Limbo - Kent Beck & Daniel Terhorst-North",
+      "url": "https://gotopia.tech/articles/355/from-extreme-programming-to-tcr-and-limbo",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/goto-the-brightest-minds-in-tech/id1559093928?i=1000709558831",
+      "datePublished": "2025-05-23",
+      "keywords": [
+        "Engineering",
+        "Extreme Programming",
+        "Agile",
+        "Kent Beck",
+        "Daniel Terhorst-North",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Go Time: Foundations of Go performance",
+      "url": "https://changelog.com/gotime/304",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/go-time-golang-software-engineering/id1120964487?i=1000646041879",
+      "datePublished": "2024-02-20",
+      "keywords": [
+        "Engineering",
+        "Golang",
+        "Performance",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "ELC: Speed v. Quality, Measuring Productivity & Cross-Functional Relationships - Tackling the Top 10 Eng Leadership Challenges! #186",
+      "url": "https://sfelc.com/podcasts/speed-v-quality-measuring-productivity-and-cross-functional-relationships-tackling-the-top-10-eng-leadership-challenges",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-engineering-leadership-podcast/id1481996448?i=1000661628400",
+      "datePublished": "2024-07-09",
+      "keywords": [
+        "Engineering",
+        "Product Management",
+        "Productivity",
+        "Metrics",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: How to Work Better with Product, as an Engineer (Ebi Atawodi)",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-to-work-better-with-product-as",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000705586324",
+      "datePublished": "2025-04-30",
+      "keywords": [
+        "Engineering",
+        "Product Management",
+        "Ebi Atawodi",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: 'The Coding Machine' at Meta with Michael Novati",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-coding-machine-at-meta",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000684141722",
+      "datePublished": "2025-01-15",
+      "keywords": [
+        "Engineering",
+        "Career",
+        "Meta",
+        "Michael Novati",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: Software Architecture with Grady Booch (History of UML)",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-architecture-with-grady-booch",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000679233993",
+      "datePublished": "2024-12-04",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "UML",
+        "Grady Booch",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: Notion - Going Native on iOS and Android",
+      "url": "https://newsletter.pragmaticengineer.com/p/notion-going-native-on-ios-and-android",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000680046064",
+      "datePublished": "2024-12-11",
+      "keywords": [
+        "Engineering",
+        "Mobile",
+        "Notion",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Developer Way: Building the Playground - How to Prep Your Codebase for AI Coders",
+      "url": "https://www.developerway.com/posts/building-the-playground-for-ai-coders",
+      "datePublished": "2026-05-22",
+      "keywords": [
+        "Engineering",
+        "AI",
+        "Coding",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio 662: Vlad Khononov on Balancing Coupling in Software Design",
+      "url": "https://se-radio.net/2025/04/se-radio-662-vlad-khononov-on-balancing-coupling-in-software-design/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714?i=1000701788230",
+      "datePublished": "2025-04-01",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "Coupling",
+        "Vlad Khononov",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "GOTO Book Club: Software Design X-Rays - Adam Tornhill & Sven Johann",
+      "url": "https://podcasts.apple.com/us/podcast/software-design-x-rays-adam-tornhill-sven-johann/id1559093928?i=1000541588555",
+      "datePublished": "2021-11-12",
+      "keywords": [
+        "Engineering",
+        "Quality",
+        "Conway's Law",
+        "Adam Tornhill",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio 658: Tanya Janca on Secure Coding",
+      "url": "https://se-radio.net/2025/03/se-radio-658-tanya-janca-on-secure-coding/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714?i=1000697986971",
+      "datePublished": "2025-03-06",
+      "keywords": [
+        "Engineering",
+        "Security",
+        "Tanya Janca",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: Code Complete with Steve McConnell",
+      "url": "https://newsletter.pragmaticengineer.com/p/code-complete-with-steve-mcconnell",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000725919628",
+      "datePublished": "2025-09-10",
+      "keywords": [
+        "Engineering",
+        "Quality",
+        "Steve McConnell",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "GOTO: When To Use Microservices (And When Not) - Sam Newman",
+      "url": "https://podcasts.apple.com/us/podcast/when-to-use-microservices-and-when-not-sam-newman/id1559093928?i=1000514252180",
+      "datePublished": "2021-03-24",
+      "keywords": [
+        "Engineering",
+        "Microservices",
+        "Sam Newman",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Kent Beck: Explore Then Expand Then Extract",
+      "url": "https://newsletter.kentbeck.com/p/explore-then-expand-then-extract",
+      "archivedAt": "https://tidyfirst.substack.com/p/explore-then-expand-then-extract",
+      "datePublished": "2025-12-04",
+      "keywords": [
+        "Engineering",
+        "Kent Beck",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio 696: Flavia Saldanha on Data Engineering for AI",
+      "url": "https://se-radio.net/2025/11/se-radio-696-flavia-saldanha-on-data-engineering-for-ai/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714?i=1000738430346",
+      "datePublished": "2025-11-25",
+      "keywords": [
+        "Engineering",
+        "Data Engineering",
+        "AI",
+        "Flavia Saldanha",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "ELC: Specs as the new source of truth, synthetic data as the next wave of defensibility, product vision & decision making frameworks w/ Ruslan Belkin #237",
+      "url": "https://sfelc.com/podcasts/specs-as-the-new-source-of-truth-synthetic-data-as-the-next-wave-of-defensibility-product-vision-and-decision-making-frameworks-ruslan-belkini-inflection-ai",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-engineering-leadership-podcast/id1481996448?i=1000737606935",
+      "datePublished": "2025-11-20",
+      "keywords": [
+        "Engineering",
+        "AI",
+        "LLM",
+        "Requirements",
+        "Product Management",
+        "Ruslan Belkin",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio 520: John Ousterhout on A Philosophy of Software Design",
+      "url": "https://se-radio.net/2022/07/episode-520-john-ousterhout-on-a-philosophy-of-software-design/",
+      "archivedAt": "https://web.archive.org/web/20260218235439/https://se-radio.net/2022/07/episode-520-john-ousterhout-on-a-philosophy-of-software-design/",
+      "datePublished": "2022-07-12",
+      "keywords": [
+        "Engineering",
+        "Software Design",
+        "Complexity",
+        "John Ousterhout",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "John Ousterhout: The Nature of Complexity - Stanford CS 190 Software Design Studio lecture notes, Winter 2018",
+      "url": "https://web.stanford.edu/~ouster/cgi-bin/cs190-winter18/lecture.php?topic=complexity",
+      "archivedAt": "https://web.archive.org/web/20260316022855/https://web.stanford.edu/~ouster/cgi-bin/cs190-winter18/lecture.php?topic=complexity",
+      "datePublished": "2018-01-10",
+      "keywords": [
+        "Engineering",
+        "Software Design",
+        "Complexity",
+        "John Ousterhout",
+        "Article"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Swizec: Big Ball of Mud - the world's most popular software architecture",
+      "url": "https://swizec.com/blog/big-ball-of-mud-the-worlds-most-popular-software-architecture",
+      "archivedAt": "https://web.archive.org/web/20260614100514/https://swizec.com/blog/big-ball-of-mud-the-worlds-most-popular-software-architecture/",
+      "datePublished": "2024-11-06",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "Anti-Patterns",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Dev Interrupted: Why Are Teams Only Aligned During a Crisis? (CircleCI & MongoDB)",
+      "url": "https://linearb.io/dev-interrupted/podcast/why-are-teams-only-aligned-during-a-crisis",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/dev-interrupted/id1537003676?i=1000695657611",
+      "datePublished": "2025-02-25",
+      "keywords": [
+        "Engineering",
+        "Metrics",
+        "DevOps",
+        "LinearB",
+        "Rob Zuber",
+        "Tara Hernandez",
+        "Podcast"
+      ]
+    }
+  ]
+}

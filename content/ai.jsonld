@@ -1,0 +1,702 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "AI",
+  "itemListElement": [
+    {
+      "@type": "Article",
+      "name": "Wired: Eight Google Employees Invented Modern AI - Transformers Paper",
+      "url": "https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/",
+      "datePublished": "2024-03-20",
+      "keywords": [
+        "AI",
+        "Machine Learning",
+        "History",
+        "Article"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Invest Like the Best: The Reality of AI LLM Chat Support - Intercom co-founder Des Traynor",
+      "url": "https://www.joincolossus.com/episodes/54663623/traynor-the-reality-of-ai",
+      "datePublished": "2023-08-08",
+      "keywords": [
+        "AI",
+        "Business",
+        "Agents",
+        "Intercom",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lex Fridman: Gustav Soderstrom on AI in Spotify Music",
+      "url": "https://lexfridman.com/gustav-soderstrom/",
+      "datePublished": "2019-07-29",
+      "keywords": [
+        "AI",
+        "Machine Learning",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Biography of Demis Hassabis co-founder of DeepMind",
+      "url": "https://youtube.com/watch?v=QnpPY5ubgPU",
+      "datePublished": "2026-04-03",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Karpathy high level summary explaining Large Language Models aka LLMs",
+      "url": "https://m.youtube.com/watch?v=zjkBMFhNj_g",
+      "datePublished": "2023-11-22",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Karpathy",
+        "Video"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Shanahan: stochastic token generation - deanthropomorphize the illusion",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3624724",
+      "datePublished": "2024-01-25",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Article"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Apple AI researchers question OpenAI's claims about o1's reasoning capabilities - not logical",
+      "url": "https://the-decoder.com/apple-ai-researchers-question-openais-claims-about-o1s-reasoning-capabilities/",
+      "datePublished": "2024-10-12",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Article"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Invest Like the Best: 2024-03 Aravind Srinivas (founder of Perplexity) on Building an Answer Engine",
+      "url": "https://joincolossus.com/episode/srinivas-building-an-answer-engine/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909?i=1000648050144",
+      "datePublished": "2024-03-05",
+      "keywords": [
+        "AI",
+        "Perplexity",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Invest Like the Best: Bill Gurley and Michael Mauboussin on Putting Theory into Practice - VCs on AI",
+      "url": "https://joincolossus.com/episode/mauboussin-a-meeting-of-the-minds/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909?i=1000653305035",
+      "datePublished": "2024-04-23",
+      "keywords": [
+        "AI",
+        "Business",
+        "VC",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "AI engineer Patrick Dougherty with Practical tips on AI Agents in Production",
+      "url": "https://youtube.com/watch?v=7MiFIhlkBoE&list=PLcfpQ4tk2k0VetQVGT1EqTbcr-qcgbfFs&index=4&pp=iAQB",
+      "datePublished": "2025-02-22",
+      "keywords": [
+        "AI",
+        "Agents",
+        "Video"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "No Priors How AI changes the economy with Cloudfare CEO Matthew Prince",
+      "url": "https://www.youtube.com/watch?v=ZttW75ys0BQ&list=PLMKa0PxGwad7jf8hwwX8w5FHitXZ1L_h1&index=10",
+      "datePublished": "2025-08-07",
+      "keywords": [
+        "AI",
+        "Economics",
+        "Cloudflare",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Could AI Datacenter Spending Blow Up The Economy? With Paul Kedrosky",
+      "url": "https://www.youtube.com/watch?v=t_ey5z30gf0",
+      "datePublished": "2025-08-06",
+      "keywords": [
+        "AI",
+        "Business",
+        "Economics",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "How Carta pragmatically ramped up using AI agents by solving internal business needs",
+      "url": "https://www.firstround.com/ai/carta",
+      "datePublished": "2025-07-22",
+      "keywords": [
+        "AI",
+        "Business",
+        "Agents",
+        "Workflow",
+        "Article"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Creator of Redis (antirez) explains: judicious use of tools (llm) for maximum coding impact",
+      "url": "https://antirez.com/news/154",
+      "datePublished": "2025-07-20",
+      "keywords": [
+        "AI",
+        "Coding",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "A clever approach to using agents by combining models (sort of MoE at agent runtime)",
+      "url": "https://xbow.com/blog/alloy-agents/",
+      "datePublished": "2025-07-17",
+      "keywords": [
+        "AI",
+        "Coding",
+        "Agents",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Pragmatic coders are getting utility from LLMs by Thomas Ptacek",
+      "url": "https://fly.io/blog/youre-all-nuts/",
+      "datePublished": "2025-06-02",
+      "keywords": [
+        "AI",
+        "Coding",
+        "Agents",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Defeating Nondeterminism in LLM Inference by ThinkingMachines",
+      "url": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/",
+      "datePublished": "2025-09-10",
+      "keywords": [
+        "AI",
+        "Engineering",
+        "Architecture",
+        "Article"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "A16z on AI Application Architecture (aka LLM App Stack) patterns",
+      "url": "https://a16z.com/emerging-architectures-for-llm-applications/",
+      "datePublished": "2023-06-20",
+      "keywords": [
+        "AI",
+        "Engineering",
+        "Architecture",
+        "Article"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "GitHub on the LLM App: AI Application Architecture patterns",
+      "url": "https://github.blog/ai-and-ml/llms/the-architecture-of-todays-llm-applications/",
+      "datePublished": "2023-10-30",
+      "keywords": [
+        "AI",
+        "Engineering",
+        "Architecture",
+        "Article"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Inference optimization using speculative decoding - spending more infra and inference to guess at probabilistic tokens",
+      "url": "https://research.google/blog/looking-back-at-speculative-decoding/",
+      "datePublished": "2024-12-06",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Engineering",
+        "Architecture",
+        "Article"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio interviews Sahaj Garg CTO of wispr.ai on low latency voice AI",
+      "url": "https://se-radio.net/2026/01/se-radio-703-sahaj-garg-on-low-latency-ai/",
+      "datePublished": "2026-01-14",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Engineering",
+        "CTO",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Pragmatic Engineer interviews Grady Booch on the third golden age of software engineering - AI",
+      "url": "https://youtube.com/watch?v=OfMAtaocvJw&pp=0gcJCcQBo7VqN5tD",
+      "datePublished": "2026-02-04",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Engineering",
+        "History",
+        "Video"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Simply manage your context - like not leaving debug logs on in prod",
+      "url": "https://www.humanlayer.dev/blog/context-efficient-backpressure",
+      "datePublished": "2025-12-09",
+      "keywords": [
+        "AI",
+        "Coding",
+        "Agents",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Slow down the agentic accelerated complexity by Mario Zechner of Pi fame",
+      "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+      "datePublished": "2026-03-25",
+      "keywords": [
+        "AI",
+        "Coding",
+        "Agents",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Learn Generative AI: Evaluation and Monitoring for LLM Systems",
+      "url": "https://www.youtube.com/watch?v=cvp5IHPw-ME",
+      "datePublished": "2026-05-13",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Observability",
+        "Agents",
+        "Video"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Agents are Just While Loops with Hamza Tahir (ZenML)",
+      "url": "https://podcasts.apple.com/us/podcast/agents-are-just-while-loops/id1505372978?i=1000767970107",
+      "datePublished": "2026-05-15",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Agents",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Honeycomb: 30 to 70 PRs a Day - How We Managed to Not Wreck Our Systems",
+      "url": "https://www.honeycomb.io/blog/30-70-prs-day-how-we-managed-not-wreck-systems",
+      "archivedAt": "https://web.archive.org/web/20260724033144/https://www.honeycomb.io/blog/30-70-prs-day-how-we-managed-not-wreck-systems",
+      "datePublished": "2026-07-16",
+      "keywords": [
+        "AI",
+        "Engineering",
+        "Productivity",
+        "Continuous Delivery",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Invest Like the Best: Dylan Patel - The Infinite Demand for Tokens, Claude Mythos, and Supply Constraints",
+      "url": "https://colossus.com/episode/supply-demand-of-tokens/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909?i=1000763216172",
+      "datePublished": "2026-04-23",
+      "keywords": [
+        "AI",
+        "Business",
+        "LLM",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Dex Horthy (HumanLayer): No Vibes Allowed - Solving Hard Problems in Complex Codebases",
+      "url": "https://www.youtube.com/watch?v=rmvDxxNubIg",
+      "datePublished": "2025-12-02",
+      "keywords": [
+        "AI",
+        "Coding",
+        "Agents",
+        "Context Engineering",
+        "HumanLayer",
+        "Video"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: Building Pi (agent harness), and what makes self-modifying software so fascinating",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-pi-and-what-makes-self-modifying",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000764502093",
+      "datePublished": "2026-04-29",
+      "keywords": [
+        "AI",
+        "Coding",
+        "Agents",
+        "Pi",
+        "Mario Zechner",
+        "Armin Ronacher",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "TensorOps: Emerging Architectures of LLM Applications - stop the JS to see the article (2025 Update)",
+      "url": "https://web.archive.org/web/20250708071532/https://www.tensorops.ai/post/emerging-architectures-of-llm-applications-2025-update",
+      "archivedAt": "https://www.tensorops.ai/post/emerging-architectures-of-llm-applications-2025-update",
+      "datePublished": "2024-12-08",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Engineering",
+        "Architecture",
+        "Article"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "LessWrong: SolidGoldMagikarp (plus, prompt generation) - anomalous glitch tokens that break GPT models",
+      "url": "https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation",
+      "archivedAt": "https://web.archive.org/web/20260722140656/https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation",
+      "datePublished": "2023-02-05",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Article"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Modern-Day Oracles or Bullshit Machines (Bergstrom & West): Lesson 1 - Autocomplete in Overdrive",
+      "url": "https://thebullshitmachines.com/lesson-1-autocomplete-in-overdrive/index.html",
+      "archivedAt": "https://web.archive.org/web/20260726121651/https://thebullshitmachines.com/lesson-1-autocomplete-in-overdrive/index.html",
+      "datePublished": "2025-02-05",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Article"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Gradient Dissent: Most AI Startups Are Scaling Into Bankruptcy (Lin Qiao, CEO of Fireworks)",
+      "url": "https://www.youtube.com/watch?v=Tf7DEYfZc0g",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/40-trillion-tokens-a-day-yes-more-than-openai-lin/id1504567418?i=1000779889469",
+      "datePublished": "2026-08-03",
+      "keywords": [
+        "AI",
+        "Startups",
+        "FireworksAI",
+        "Video"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "eferro: Encoding Experience into AI Skills",
+      "url": "https://www.eferro.net/2026/03/encoding-experience-into-ai-skills.html",
+      "archivedAt": "https://web.archive.org/web/20260313024600/https://www.eferro.net/2026/03/encoding-experience-into-ai-skills.html",
+      "datePublished": "2026-03-01",
+      "keywords": [
+        "AI",
+        "Agents",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The Weekly Show with Jon Stewart: AI, What Could Go Wrong? with Geoffrey Hinton",
+      "url": "https://www.youtube.com/watch?v=jrK3PsD3APk",
+      "datePublished": "2025-10-09",
+      "keywords": [
+        "AI",
+        "Video"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: Measuring the impact of AI on software engineering - with Laura Tacho (DX)",
+      "url": "https://newsletter.pragmaticengineer.com/p/measuring-the-impact-of-ai-on-software",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000718710555",
+      "datePublished": "2025-07-23",
+      "keywords": [
+        "AI",
+        "Productivity",
+        "Metrics",
+        "DX",
+        "Laura Tacho",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Dev Interrupted: The fundamentals of agent-driven software workflows - six trends shaping AI-driven development",
+      "url": "https://linearb.io/dev-interrupted/podcast/the-fundamentals-of-agent-driven-software-workflows",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/dev-interrupted/id1537003676?i=1000716306210",
+      "datePublished": "2025-07-08",
+      "keywords": [
+        "AI",
+        "Agents",
+        "Productivity",
+        "Strategy",
+        "LinearB",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: TDD, AI agents and coding with Kent Beck",
+      "url": "https://newsletter.pragmaticengineer.com/p/tdd-ai-agents-and-coding-with-kent",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000712458898",
+      "datePublished": "2025-06-11",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Testing",
+        "History",
+        "Kent Beck",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: Amazon, Google and Vibe Coding with Steve Yegge",
+      "url": "https://newsletter.pragmaticengineer.com/p/amazon-google-and-vibe-coding-with",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000717556804",
+      "datePublished": "2025-07-16",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Coding",
+        "Amazon",
+        "Google",
+        "Steve Yegge",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Dev Interrupted: How spec-driven development is changing the rules - AWS' Amit Patel",
+      "url": "https://linearb.io/dev-interrupted/podcast/spec-driven-development-aws-kiro",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/dev-interrupted/id1537003676?i=1000736252405",
+      "datePublished": "2025-11-11",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Coding",
+        "AWS",
+        "Amit Patel",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: Beyond Vibe Coding with Addy Osmani",
+      "url": "https://newsletter.pragmaticengineer.com/p/beyond-vibe-coding-with-addy-osmani",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000734074401",
+      "datePublished": "2025-10-29",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Coding",
+        "Addy Osmani",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lenny's Podcast: The future of AI in software development with Inbal Shani",
+      "url": "https://www.lennysnewsletter.com/p/the-future-of-ai-in-software-development",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000637179313",
+      "datePublished": "2023-12-01",
+      "keywords": [
+        "AI",
+        "GitHub",
+        "Copilot",
+        "Inbal Shani",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: Building Windsurf with Varun Mohan",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-windsurf-with-varun-mohan",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000706692814",
+      "datePublished": "2025-05-07",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Coding",
+        "Windsurf",
+        "Varun Mohan",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Dev Interrupted: The End of Specialization? How AI Shapes Modern Dev Teams - Vercel's Lee Robinson",
+      "url": "https://linearb.io/dev-interrupted/podcast/the-end-of-specialization-how-ai-shapes-modern-dev-teams",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/dev-interrupted/id1537003676?i=1000706505028",
+      "datePublished": "2025-05-06",
+      "keywords": [
+        "AI",
+        "Engineering",
+        "Vercel",
+        "Lee Robinson",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Caltech: Lecture 01 - The Learning Problem (Yaser Abu-Mostafa, Learning From Data)",
+      "url": "https://www.youtube.com/watch?v=mbyG85GZ0PI",
+      "datePublished": "2012-08-28",
+      "keywords": [
+        "AI",
+        "Machine Learning",
+        "Yaser Abu-Mostafa",
+        "Video"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "DeepLearning.AI: What is a Neural Network? (C1W1L02) - Andrew Ng",
+      "url": "https://www.youtube.com/watch?v=n1l-9lIMW7E",
+      "datePublished": "2017-08-25",
+      "keywords": [
+        "AI",
+        "Deep Learning",
+        "Andrew Ng",
+        "Video"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Princeton Distinguished Colloquium: Jeff Dean - Important Trends in AI",
+      "url": "https://www.youtube.com/watch?v=UTTeXZrpMR0",
+      "datePublished": "2026-02-13",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Jeff Dean",
+        "Video"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Sequoia: When to Build Your Own Agent Harness - Harrison Chase (LangChain)",
+      "url": "https://www.youtube.com/watch?v=HI2q3ci3Iuc",
+      "datePublished": "2026-08-13",
+      "keywords": [
+        "AI",
+        "Agents",
+        "LangChain",
+        "Harrison Chase",
+        "Video"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Dev Interrupted: Inventing the Ralph Wiggum Loop (Geoffrey Huntley)",
+      "url": "https://linearb.io/dev-interrupted/podcast/inventing-the-ralph-wiggum-loop",
+      "datePublished": "2026-01-13",
+      "keywords": [
+        "AI",
+        "Agents",
+        "Context Engineering",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Changelog: Storytime with Steve Yegge (Changelog Interviews #549)",
+      "url": "https://changelog.com/podcast/549",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-changelog-software-development-open-source/id341623264?i=1000621843052",
+      "datePublished": "2023-07-20",
+      "keywords": [
+        "AI",
+        "Steve Yegge",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "AI Engineer: Building Closed-Loop Evals for a Multimodal Agent at Scale (Soumya Gupta & Jai Chopra, Uber)",
+      "url": "https://www.youtube.com/watch?v=31GUkCBD-Uc",
+      "archivedAt": "https://web.archive.org/web/20260807155947/https://www.youtube.com/watch?v=31GUkCBD-Uc",
+      "datePublished": "2026-07-24",
+      "keywords": [
+        "AI",
+        "Agents",
+        "Evals",
+        "Uber",
+        "Soumya Gupta",
+        "Jai Chopra",
+        "Video"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "ELC: How Box Builds AI Agents, Redefines Technical Vision, and Balances Speed with Security w/ Ben Kus #230",
+      "url": "https://sfelc.com/podcasts/how-box-builds-ai-agents-redefines-technical-vision-and-balances-speed-with-security-ben-kus-box",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-engineering-leadership-podcast/id1481996448?i=1000723614270",
+      "datePublished": "2025-08-26",
+      "keywords": [
+        "AI",
+        "Agents",
+        "Engineering",
+        "Box",
+        "Ben Kus",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "No Priors: How Harvey AI is Changing the Legal Industry (Winston Weinberg)",
+      "url": "https://www.youtube.com/watch?v=0DDS8jWqEPg",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/no-priors-artificial-intelligence-technology-startups/id1668002688?i=1000692211839",
+      "datePublished": "2025-02-14",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Legal",
+        "Harvey",
+        "Winston Weinberg",
+        "Podcast"
+      ]
+    }
+  ]
+}

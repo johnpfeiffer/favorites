@@ -1,0 +1,489 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Business",
+  "itemListElement": [
+    {
+      "@type": "Book",
+      "name": "Founders at Work: Stories of Startups' Early Days by Jessica Livingston",
+      "url": "https://archive.org/details/foundersatworkst0000livi/mode/2up",
+      "datePublished": "2007-01-26",
+      "keywords": [
+        "Business",
+        "Startups",
+        "People Management",
+        "Leadership",
+        "Y Combinator",
+        "Book"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Social Radar: Y Combinator's secret weapon with Jessica Livingston",
+      "url": "https://www.lennysnewsletter.com/p/the-social-radar-jessica-livingston",
+      "datePublished": "2024-06-27",
+      "keywords": [
+        "Business",
+        "Startups",
+        "Decision Making",
+        "Y Combinator",
+        "Leadership",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Book",
+      "name": "The Lean Startup by Eric Ries",
+      "url": "https://theleanstartup.com/",
+      "datePublished": "2011-09-01",
+      "keywords": [
+        "Business",
+        "Startups",
+        "Entrepreneurship",
+        "Book"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Commoditize Your Complement",
+      "url": "https://www.gwern.net/Complement",
+      "datePublished": null,
+      "keywords": [
+        "Business",
+        "Strategy",
+        "Open Source",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Think Like an Economist: Gains from Trade and Specialization",
+      "url": "https://omny.fm/shows/platypus-economics/gains-from-trade-why-ringo-played-the-drums",
+      "archivedAt": "https://art19.com/shows/think-like-an-economist/episodes/abb4af12-01fa-4d8e-b7d5-a387ae9d989a",
+      "datePublished": "2020-10-20",
+      "keywords": [
+        "Business",
+        "Economics",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Bloomberg Odd Lots: The Theory on Why Everyone Went Crazy",
+      "url": "https://www.bloomberg.com/news/audio/2024-06-28/odd-lots-the-theory-on-why-everyone-went-crazy-podcast",
+      "datePublished": "2024-06-28",
+      "keywords": [
+        "Business",
+        "Economics",
+        "Psychology",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Knowledge Project: Naval Ravikant",
+      "url": "https://fs.blog/knowledge-project-podcast/naval-ravikant-171/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000620729212",
+      "datePublished": "2017-04-11",
+      "keywords": [
+        "Business",
+        "Naval Ravikant",
+        "Philosophy",
+        "Success",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Naval Ravikant Embrace Accountability to Get Leverage",
+      "url": "https://nav.al/accountability-leverage",
+      "datePublished": "2019-04-11",
+      "keywords": [
+        "Business",
+        "Naval Ravikant",
+        "Philosophy",
+        "Success",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Joel Spolsky on Startups, Growth, and Valuation",
+      "url": "https://se-radio.net/2019/07/episode-373-joel-spolsky-on-startups-growth-and-valuation/",
+      "datePublished": "2019-07-18",
+      "keywords": [
+        "Business",
+        "Joel Spolsky",
+        "Startups",
+        "CTO",
+        "Leadership",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Keith Rabois Lecture 14: How to Operate",
+      "url": "https://web.archive.org/web/20200113140527/https://genius.com/Keith-rabois-lecture-14-how-to-operate-annotated?referent_id=4336630#note-4336630",
+      "datePublished": "2014-11-06",
+      "keywords": [
+        "Business",
+        "Operations",
+        "Keith Rabois",
+        "LinkedIn",
+        "Square",
+        "Article"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "This Week In Startups e1062 with guests Acquired's Ben and David",
+      "url": "https://thisweekinstartups.com/episodes/2aUpnuDXkr8",
+      "datePublished": "2021-05-26",
+      "keywords": [
+        "Business",
+        "Analysis",
+        "Acquired",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "HBR How venture capital works (Bob Zider 1998)",
+      "url": "https://hbr.org/1998/11/how-venture-capital-works",
+      "datePublished": "1998-11-01",
+      "keywords": [
+        "Business",
+        "VC",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "How VCs Make Money (Two and Twenty)",
+      "url": "https://vcstarterkit.substack.com/p/how-vcs-make-money",
+      "datePublished": "2019-11-06",
+      "keywords": [
+        "Business",
+        "VC",
+        "Article"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Delian Asparouhov: Inside the Walls of Founders Fund, (how VCs think with interviewer Harry Stebbings)",
+      "url": "https://www.youtube.com/watch?v=ZAScF7kEzOw",
+      "datePublished": "2024-07-29",
+      "keywords": [
+        "Business",
+        "VC",
+        "Video"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Invest Like the Best: A Conversation with Charlie Munger & John Collison (EP.355)",
+      "url": "https://joincolossus.com/episodes/76168278/munger-a-conversation-with-charlie-munger-john-collison",
+      "datePublished": "2023-12-05",
+      "keywords": [
+        "Business",
+        "Investing",
+        "Charlie Munger",
+        "Decision Making",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Invest Like the Best: Founder vs Investor with Elizabeth Zalman & Jerry Neumann (EP.351)",
+      "url": "https://joincolossus.com/episodes/90886887/zalman-founder-vs-investor",
+      "datePublished": "2023-11-07",
+      "keywords": [
+        "Business",
+        "Startups",
+        "VC",
+        "Founder",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Joel on Software: Strategy Letter V - commoditize your complement",
+      "url": "https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/",
+      "archivedAt": "https://web.archive.org/web/20260728165453/https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/",
+      "datePublished": "2002-06-12",
+      "keywords": [
+        "Business",
+        "Strategy",
+        "Open Source",
+        "Joel Spolsky",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "Book",
+      "name": "Good to Great by Jim Collins (successful businesses use flywheels, great people, and focus)",
+      "url": "https://www.jimcollins.com/article_topics/articles/good-to-great.html",
+      "archivedAt": "https://en.wikipedia.org/wiki/Good_to_Great",
+      "datePublished": "2001-10-16",
+      "keywords": [
+        "Business",
+        "Leadership",
+        "Management",
+        "Book"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Stratechery: Meta (Facebook rebrands and an Alphabet-style reorg - surprising without mention of the toxic brand)",
+      "url": "https://stratechery.com/2021/meta/",
+      "archivedAt": "https://web.archive.org/web/20260202094031/https://stratechery.com/2021/meta/",
+      "datePublished": "2021-10-28",
+      "keywords": [
+        "Business",
+        "Strategy",
+        "Article"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Engineering Founders: Determining bets, using customer insights to pivot, and gaining developer buy-in and trust with Tomas Reimers (Graphite)",
+      "url": "https://engineering-founders.simplecast.com/episodes/determining-bets-using-customer-insights-to-pivot-and-gaining-developer-buy-in-trust-tomas-reimers-graphite-gZJoBCsa",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/determining-bets-using-customer-insights-to-pivot-and/id1607135532?i=1000768942575",
+      "datePublished": "2026-05-21",
+      "keywords": [
+        "Business",
+        "Startups",
+        "Sales",
+        "Graphite",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "20Sales: The $100M CRO Bubble - Why Anthropic Are Causing a Comp Crisis (Chad Peets and Chris Degnan)",
+      "url": "https://www.thetwentyminutevc.com/chad-peets-chris-degnan",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/20sales-the-%24100m-cro-bubble-why-anthropic-are/id958230465?i=1000769195123",
+      "datePublished": "2026-05-23",
+      "keywords": [
+        "Business",
+        "Sales",
+        "Hiring",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "20Sales: Inside Clay's Sales Playbook Scaling to $100M ARR (Head of Sales, Becca Lindquist)",
+      "url": "https://www.thetwentyminutevc.com/becca-lindquist",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/20vc-inside-clays-sales-playbook-scaling-to-%24100m-arr/id958230465?i=1000765735433",
+      "datePublished": "2026-05-02",
+      "keywords": [
+        "Business",
+        "Sales",
+        "Hiring",
+        "Clay",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: The state of VC within software and AI startups - with Peter Walker (Carta)",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-vc-in-2025",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000720927286",
+      "datePublished": "2025-08-06",
+      "keywords": [
+        "Business",
+        "VC",
+        "Startups",
+        "AI",
+        "Carta",
+        "Peter Walker",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lenny's Podcast: A framework for finding product-market fit with Todd Jackson",
+      "url": "https://www.lennysnewsletter.com/p/a-framework-for-finding-product-market",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000652134742",
+      "datePublished": "2024-04-11",
+      "keywords": [
+        "Business",
+        "Startups",
+        "Product Management",
+        "Todd Jackson",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lenny's Podcast: Pattern Breakers - How to find a breakthrough startup idea with Mike Maples, Jr.",
+      "url": "https://www.lennysnewsletter.com/p/how-to-find-a-great-startup-idea-mike-maples-jr",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000661433522",
+      "datePublished": "2024-07-07",
+      "keywords": [
+        "Business",
+        "Startups",
+        "VC",
+        "Mike Maples",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "McKinsey: A Practical Guide to New-Business Building for Incumbents",
+      "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/a-practical-guide-to-new-business-building-for-incumbents",
+      "archivedAt": "https://web.archive.org/web/20250809160348/https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/a-practical-guide-to-new-business-building-for-incumbents",
+      "datePublished": "2023-06-21",
+      "keywords": [
+        "Business",
+        "Strategy",
+        "Article"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lenny's Podcast: Why Great AI Products Are All About the Data (Shaun Clowes)",
+      "url": "https://www.lennysnewsletter.com/p/why-great-ai-products-are-all-about-the-data-shaun-clowes",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-growth-career/id1627920305?i=1000682021835",
+      "datePublished": "2024-12-29",
+      "keywords": [
+        "Business",
+        "Product Management",
+        "AI",
+        "Shaun Clowes",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lenny's Podcast: Seth Godin's Tactics for Building Remarkable Products",
+      "url": "https://www.lennysnewsletter.com/p/seth-godins-tactics-for-building-remarkable-products",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-growth-career/id1627920305?i=1000679640627",
+      "datePublished": "2024-12-08",
+      "keywords": [
+        "Business",
+        "Marketing",
+        "Product Management",
+        "Seth Godin",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Invest Like the Best: Karim Atiyeh - Building Ramp",
+      "url": "https://colossus.com/episode/building-ramp/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909?i=1000732781715",
+      "datePublished": "2025-10-21",
+      "keywords": [
+        "Business",
+        "Startups",
+        "Founder",
+        "Ramp",
+        "Karim Atiyeh",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lenny's Podcast: First interview with Scale AI's CEO Jason Droege (ex-Uber Eats)",
+      "url": "https://www.lennysnewsletter.com/p/first-interview-with-scale-ais-ceo-jason-droege",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000730973871",
+      "datePublished": "2025-10-09",
+      "keywords": [
+        "Business",
+        "Product Management",
+        "AI",
+        "Scale AI",
+        "Jason Droege",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Invest Like the Best: Neil Movva - From Transistor to Token (Sail Research)",
+      "url": "https://colossus.com/episode/from-transistor-to-token/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909?i=1000785705137",
+      "datePublished": "2026-08-25",
+      "keywords": [
+        "Business",
+        "AI",
+        "Neil Movva",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lenny's Podcast: Why Cultivating Agency Matters More Than Skills in the AI Era (Max Schoening, Notion)",
+      "url": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000765889270",
+      "datePublished": "2026-05-03",
+      "keywords": [
+        "Business",
+        "Product Management",
+        "AI",
+        "Notion",
+        "Max Schoening",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lenny's Podcast: Why LinkedIn Is Replacing PMs with AI-Powered Full-Stack Builders (Tomer Cohen)",
+      "url": "https://www.lennysnewsletter.com/p/why-linkedin-is-replacing-pms",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000739678600",
+      "datePublished": "2025-12-04",
+      "keywords": [
+        "Business",
+        "Product Management",
+        "AI",
+        "LinkedIn",
+        "Tomer Cohen",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Reboot Podcast #45: What's Love Got to Do with It? - Brad Feld & Fred Wilson (candid VC board member and investor dynamics)",
+      "url": "https://www.reboot.io/episode/45-whats-love-got-to-do-with-it-fred-wilson-brad-feld/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-reboot-podcast/id918963927?i=1000373569252",
+      "datePublished": "2016-08-01",
+      "keywords": [
+        "Business",
+        "VC",
+        "Brad Feld",
+        "Fred Wilson",
+        "Jerry Colonna",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lenny's Podcast: Linear's secret to building beloved B2B products (Nan Yu)",
+      "url": "https://www.lennysnewsletter.com/p/linears-secret-to-building-beloved-b2b-products-nan-yu",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-growth-career/id1627920305?i=1000687118072",
+      "datePublished": "2025-01-30",
+      "keywords": [
+        "Business",
+        "Product Management",
+        "Linear",
+        "Nan Yu",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Bloomberg Odd Lots: How Oaktree's Howard Marks Spots a Market Bubble",
+      "url": "https://www.bloomberg.com/news/audio/2025-01-27/odd-lots-how-howard-marks-spots-a-market-bubble-podcast",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/odd-lots/id1056200096?i=1000685603876",
+      "datePublished": "2025-01-27",
+      "keywords": [
+        "Business",
+        "Economics",
+        "Investing",
+        "Howard Marks",
+        "Podcast"
+      ]
+    }
+  ]
+}

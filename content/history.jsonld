@@ -1,0 +1,706 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "History",
+  "itemListElement": [
+    {
+      "@type": "PodcastEpisode",
+      "name": "BBC: Alan Turing",
+      "url": "https://www.bbc.co.uk/programmes/m000ncmw",
+      "archivedAt": "https://web.archive.org/web/20260623091748/https://www.bbc.co.uk/programmes/m000ncmw",
+      "datePublished": "2020-10-15",
+      "keywords": [
+        "Engineering",
+        "Alan Turing",
+        "History",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "IEEE Spectrum: Hans Peter Luhn and the Birth of the Hashing Algorithm",
+      "url": "https://spectrum.ieee.org/tech-history/silicon-revolution/hans-peter-luhn-and-the-birth-of-the-hashing-algorithm",
+      "archivedAt": "https://web.archive.org/web/20210726160017/https://spectrum.ieee.org/tech-history/silicon-revolution/hans-peter-luhn-and-the-birth-of-the-hashing-algorithm",
+      "datePublished": "2018-01-30",
+      "keywords": [
+        "Engineering",
+        "Hashing",
+        "History",
+        "Algorithms"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Gary Kildall - the man who could have been Bill Gates",
+      "url": "https://www.internethistorypodcast.com/2016/03/the-man-who-could-have-been-bill-gates-the-gary-kildall-story/#tabpanel10",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/100-the-man-who-could-have-been-bill-gates-the/id829119009?i=1000364750587",
+      "datePublished": "2016-03-13",
+      "keywords": [
+        "History",
+        "Microsoft",
+        "Gary Kildall",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Acquired: Microsoft Volume I",
+      "url": "https://www.acquired.fm/episodes/microsoft",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/microsoft-volume-i/id1050462261?i=1000653148600",
+      "datePublished": "2024-04-21",
+      "keywords": [
+        "History",
+        "Microsoft",
+        "Acquired",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Guy Kawasaki: Steve Wozniak - Apple Hardware Wizard",
+      "url": "https://guykawasaki.com/steve-wozniak/",
+      "archivedAt": "https://web.archive.org/web/20260212160743/https://guykawasaki.com/steve-wozniak/",
+      "datePublished": "2020-02-05",
+      "keywords": [
+        "Engineering",
+        "Steve Wozniak",
+        "Apple",
+        "History",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Internet History Podcast: Netscape founding from Mosaic",
+      "url": "https://www.internethistorypodcast.com/2014/01/chapter-1-part-2-netscape-the-big-bang/",
+      "archivedAt": "https://web.archive.org/web/20260412114930/https://www.internethistorypodcast.com/2014/01/chapter-1-part-2-netscape-the-big-bang/",
+      "datePublished": "2014-01-31",
+      "keywords": [
+        "History",
+        "Netscape",
+        "Jim Clark",
+        "Marc Andreessen",
+        "Startups",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Internet History Podcast: Lou Montulli founding Engineer",
+      "url": "https://www.internethistorypodcast.com/2014/03/chapter-1-supplemental-1-an-interview-with-lou-montulli/",
+      "archivedAt": "https://web.archive.org/web/20260606225602/https://www.internethistorypodcast.com/2014/03/chapter-1-supplemental-1-an-interview-with-lou-montulli/",
+      "datePublished": "2014-03-06",
+      "keywords": [
+        "History",
+        "Netscape",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Internet History Podcast: e-commerce and Amazon",
+      "url": "https://www.internethistorypodcast.com/2015/02/how-did-amazon-get-started/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/52-ch-7-1-the-birth-of-amazon-com/id829119009?i=1000335642247",
+      "datePublished": "2015-02-16",
+      "keywords": [
+        "History",
+        "Amazon",
+        "Jeff Bezos",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Acquired: Amazon and Jeff Bezos",
+      "url": "https://www.acquired.fm/episodes/amazon-com",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/amazon-com/id1050462261?i=1000606224597",
+      "datePublished": "2022-08-16",
+      "keywords": [
+        "History",
+        "Amazon",
+        "Jeff Bezos",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Acquired: Amazon IPO",
+      "url": "https://www.acquired.fm/episodes/episode-28-the-amazon-ipo-with-original-amazon-board-member-tom-alberg",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-amazon-ipo-with-original-amazon-board-member-tom-alberg/id1050462261?i=1000428067473",
+      "datePublished": "2016-12-31",
+      "keywords": [
+        "History",
+        "Amazon",
+        "Jeff Bezos",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "The Untold Origin Story of eBay on cake.co - by Chris MacAskill",
+      "url": "https://web.archive.org/web/20191023202844/https://www.cake.co/conversations/VXHSjBG/the-untold-origin-story-of-ebay-that-i-lived-and-the-times-that-could-have-killed-it",
+      "datePublished": "2018-08-14",
+      "keywords": [
+        "Engineering",
+        "eBay",
+        "History",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Internet History Podcast: eBay from AuctionWeb",
+      "url": "https://www.internethistorypodcast.com/2015/05/the-founding-of-ebay/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/66-ch-7-3-the-founding-of-ebay/id829119009?i=1000343089572",
+      "datePublished": "2015-05-25",
+      "keywords": [
+        "History",
+        "eBay",
+        "Startups",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Alta Vista history by Ernie Smith",
+      "url": "https://tedium.co/2020/12/15/altavista-history-digital-dot-com-domain-name/",
+      "archivedAt": "https://web.archive.org/web/20260411122326/https://tedium.co/2020/12/15/altavista-history-digital-dot-com-domain-name/",
+      "datePublished": "2020-12-15",
+      "keywords": [
+        "History",
+        "Alta Vista",
+        "Business",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "History of Apple acquiring NeXT which brought back Steve Jobs - by Chris MacAskill",
+      "url": "https://web.archive.org/web/20180726000012/https://www.cake.co/conversations/g4CP6zJ/the-secret-call-to-andy-grove-that-may-have-helped-apple-buy-next",
+      "datePublished": "2018-07-26",
+      "keywords": [
+        "History",
+        "Apple",
+        "Steve Jobs",
+        "Business",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Acquired: History of Apple acquiring NeXT which brought back Steve Jobs Podcast",
+      "url": "https://www.acquired.fm/episodes/episode-23-next-live-show-at-the-geekwire-summit",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/next-live-show-at-the-geekwire-summit/id1050462261?i=1000428067456",
+      "datePublished": "2016-10-23",
+      "keywords": [
+        "History",
+        "Apple",
+        "Steve Jobs",
+        "Business",
+        "Acquired",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Internet History Podcast: AOL Time Warner Merger",
+      "url": "https://www.internethistorypodcast.com/2017/09/the-story-of-the-aoltime-warner-merger/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/153-the-aol-time-warner-merger-crossover-with/id829119009?i=1000392362032",
+      "datePublished": "2017-09-17",
+      "keywords": [
+        "History",
+        "AOL",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Acquired: AOL Time Warner with Internet History Podcast",
+      "url": "https://www.acquired.fm/episodes/episode-44-aol-time-warner-with-the-internet-history-podcast",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/aol-and-time-warner-with-the-internet-history-podcast/id1050462261?i=1000428067479",
+      "datePublished": "2017-09-17",
+      "keywords": [
+        "History",
+        "AOL",
+        "Acquired",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Acquired: Microsoft Volume II",
+      "url": "https://www.acquired.fm/episodes/microsoft-volume-ii",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/microsoft-volume-ii/id1050462261?i=1000662929328",
+      "datePublished": "2024-07-21",
+      "keywords": [
+        "History",
+        "Microsoft",
+        "Acquired",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Internet History Podcast: Microsoft CTO Kevin Scott",
+      "url": "https://www.internethistorypodcast.com/2019/05/microsoft-cto-kevin-scott/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/195-microsoft-cto-kevin-scott/id829119009?i=1000437210229",
+      "datePublished": "2019-05-04",
+      "keywords": [
+        "History",
+        "Kevin Scott",
+        "Microsoft",
+        "Business",
+        "CTO",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Internet History Podcast: The Del.icio.us Story",
+      "url": "https://www.internethistorypodcast.com/2022/12/the-del-icio-us-story-with-joshua-schachter/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/202-the-del-icio-us-story-with-joshua-schachter/id829119009?i=1000495900145",
+      "datePublished": "2022-12-13",
+      "keywords": [
+        "History",
+        "Business",
+        "Startups",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Choose boring technology at Etsy - by Dan McKinley",
+      "url": "https://web.archive.org/web/20180123211622/https://boringtechnology.club/",
+      "archivedAt": "https://boringtechnology.club/",
+      "datePublished": "2015-03-30",
+      "keywords": [
+        "History",
+        "Business",
+        "Startups",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Scaling Etsy by Dan McKinley",
+      "url": "https://web.archive.org/web/20191222081200/https://twtext.com/article/1194713712516423681",
+      "archivedAt": "https://twtext.com/article/1194713712516423681",
+      "datePublished": "2019-12-22",
+      "keywords": [
+        "History",
+        "Business",
+        "Etsy",
+        "Startups",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Amazon Prime launched February 2005",
+      "url": "https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping",
+      "archivedAt": "https://web.archive.org/web/20260714134212/https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping",
+      "datePublished": "2019-05-03",
+      "keywords": [
+        "History",
+        "Amazon",
+        "Business",
+        "Article"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Werner Vogels About AWS 2006",
+      "url": "https://queue.acm.org/detail.cfm?id=1142065",
+      "archivedAt": "https://web.archive.org/web/20251201230226/https://queue.acm.org/detail.cfm?id=1142065",
+      "datePublished": "2006-06-30",
+      "keywords": [
+        "History",
+        "AWS",
+        "Werner Vogels",
+        "Cloud",
+        "Article"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Andy Jassy on How AWS came to be",
+      "url": "https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/",
+      "archivedAt": "https://web.archive.org/web/20260708172051/https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/",
+      "datePublished": "2016-07-02",
+      "keywords": [
+        "History",
+        "AWS",
+        "Andy Jassy",
+        "Cloud",
+        "Article"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Story of Andy Jassy and the AWS Trillion dollar baby by John Furrier",
+      "url": "https://medium.com/@furrier/original-content-the-story-of-aws-and-andy-jassys-trillion-dollar-baby-4e8a35fd7ed",
+      "archivedAt": "https://web.archive.org/web/20240606133930/https://medium.com/@furrier/original-content-the-story-of-aws-and-andy-jassys-trillion-dollar-baby-4e8a35fd7ed",
+      "datePublished": "2015-01-29",
+      "keywords": [
+        "History",
+        "AWS",
+        "Andy Jassy",
+        "Cloud",
+        "Article"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Acquired: Amazon Web Services (AWS)",
+      "url": "https://www.acquired.fm/episodes/amazon-web-services",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/amazon-web-services/id1050462261?i=1000606224513",
+      "datePublished": "2022-09-05",
+      "keywords": [
+        "History",
+        "AWS",
+        "Andy Jassy",
+        "Cloud",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Steve Yegge about Amazon and Google - aka Stevey's Google Platforms Rant",
+      "url": "https://gist.github.com/chitchcock/1281611",
+      "archivedAt": "https://web.archive.org/web/20260810161028/https://gist.github.com/chitchcock/1281611",
+      "datePublished": "2011-10-12",
+      "keywords": [
+        "History",
+        "AWS",
+        "Google",
+        "Cloud",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "HackerNews comments on Steve Yegge about Amazon and Google",
+      "url": "https://news.ycombinator.com/item?id=3101876",
+      "archivedAt": "https://web.archive.org/web/20260308050735/https://news.ycombinator.com/item?id=3101876",
+      "datePublished": "2011-10-12",
+      "keywords": [
+        "History",
+        "AWS",
+        "Google",
+        "Cloud",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Masters of Scale: Brian Chesky - Do things that don't scale aka Handcrafted (Airbnb)",
+      "url": "https://mastersofscale.com/brian-chesky/",
+      "archivedAt": "https://web.archive.org/web/20260717020718/https://mastersofscale.com/brian-chesky/",
+      "datePublished": "2017-05-03",
+      "keywords": [
+        "History",
+        "Brian Chesky",
+        "Airbnb",
+        "Business",
+        "Scaling",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Masters of Scale: Brian Chesky from Airbnb - transcript",
+      "url": "https://web.archive.org/web/20171120091627/https://mastersofscale.com/wp-content/uploads/2017/05/moshandcraftedtranscript.pdf",
+      "archivedAt": "https://mastersofscale.com/wp-content/uploads/2017/05/moshandcraftedtranscript.pdf",
+      "datePublished": "2017-05-03",
+      "keywords": [
+        "History",
+        "Brian Chesky",
+        "Airbnb",
+        "Business",
+        "Startups",
+        "Scaling",
+        "Transcript"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Masters of Scale: Stewart Butterfield - The Big Pivot (Slack)",
+      "url": "https://mastersofscale.com/stewart-butterfield-the-big-pivot/",
+      "archivedAt": "https://web.archive.org/web/20260708074508/https://mastersofscale.com/stewart-butterfield-the-big-pivot/",
+      "datePublished": "2017-11-15",
+      "keywords": [
+        "History",
+        "Stewart Butterfield",
+        "Slack",
+        "Pivots",
+        "Business",
+        "Startups",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "The Atlantic: How Slack Upended the Workplace (the infinite virtual water-cooler after HipChat)",
+      "url": "https://www.theatlantic.com/magazine/archive/2021/11/slack-office-trouble/620173/",
+      "archivedAt": "https://web.archive.org/web/20211012102224/https://www.theatlantic.com/magazine/archive/2021/11/slack-office-trouble/620173/",
+      "datePublished": "2021-10-12",
+      "keywords": [
+        "History",
+        "Slack",
+        "Culture",
+        "Communication",
+        "Article"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "History of Datadog Founder Olivier Pomel",
+      "url": "https://www.youtube.com/watch?v=PmvHxj8FJhE",
+      "datePublished": "2025-09-19",
+      "keywords": [
+        "History",
+        "Datadog",
+        "Business",
+        "Startups",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Economics: Migrating from steam power to electricity was not overnight",
+      "url": "https://www.bbc.com/news/business-40673694",
+      "archivedAt": "https://web.archive.org/web/20260715171742/https://www.bbc.com/news/business-40673694",
+      "datePublished": "2017-08-20",
+      "keywords": [
+        "History",
+        "AI",
+        "Business",
+        "Economics",
+        "Electricity",
+        "Steam Power",
+        "Tim Harford",
+        "Change Management",
+        "Article"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Product Perspective: disruption of steam power to electricity was not overnight",
+      "url": "https://maeda.pm/2019/12/19/electricity-versus-steam-power",
+      "archivedAt": "https://web.archive.org/web/20231206065627/https://maeda.pm/2019/12/19/electricity-versus-steam-power/",
+      "datePublished": "2019-12-19",
+      "keywords": [
+        "History",
+        "Product",
+        "AI",
+        "Electricity",
+        "Steam Power",
+        "Change Management",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Acquired: Nvidia - The GPU company",
+      "url": "https://www.acquired.fm/episodes/nvidia-the-gpu-company-1993-2006",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/nvidia-part-i-the-gpu-company-1993-2006/id1050462261?i=1000606224351",
+      "datePublished": "2022-03-27",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "History",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Acquired: Nvidia - ML and CUDA and Crypto",
+      "url": "https://www.acquired.fm/episodes/nvidia-the-machine-learning-company-2006-2022",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/nvidia-part-ii-the-machine-learning-company-2006-2022/id1050462261?i=1000606224474",
+      "datePublished": "2022-04-20",
+      "keywords": [
+        "Nvidia",
+        "Acquired",
+        "Business",
+        "History",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Acquired: Nvidia - The Dawn of the AI Era",
+      "url": "https://www.acquired.fm/episodes/nvidia-the-dawn-of-the-ai-era",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/nvidia-part-iii-the-dawn-of-the-ai-era-2022-2023/id1050462261?i=1000626913736",
+      "datePublished": "2023-09-05",
+      "keywords": [
+        "Nvidia",
+        "Acquired",
+        "Business",
+        "AI",
+        "History",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "New Books Network: Sally Smith Hughes on Genentech: The Beginnings of Biotech (founders and founding)",
+      "url": "https://newbooksnetwork.com/sally-smith-hughes-genentech-the-beginnings-of-biotech-university-of-chicago-press-2011",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/new-books-in-biology-and-evolution/id1600136626?i=1000544860489",
+      "datePublished": "2012-12-03",
+      "keywords": [
+        "History",
+        "Business",
+        "Startups",
+        "BioTech",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Internet History Podcast: Jason Calacanis on Silicon Alley, the Dot-Com Bubble, and Web 2.0",
+      "url": "https://www.internethistorypodcast.com/2016/10/jason-calacanis-on-silicon-alley-the-dot-com-bubble-and-web-2-0/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/techmeme-ride-home/id1355212895?i=1000610214874",
+      "datePublished": "2016-10-24",
+      "keywords": [
+        "History",
+        "Jason Calacanis",
+        "Dot-Com Bubble",
+        "Silicon Alley",
+        "Web 2.0",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "All Things Distributed: Continuous Reinvention - A Brief History of Block Storage at AWS (EBS)",
+      "url": "https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html",
+      "archivedAt": "https://web.archive.org/web/20260725132438/https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html",
+      "datePublished": "2024-08-22",
+      "keywords": [
+        "History",
+        "AWS",
+        "Infrastructure",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "NYT: How Discord, Born From an Obscure Game, Became a Social Hub for Young People (history of Discord)",
+      "url": "https://www.nytimes.com/2021/12/29/business/discord-server-social-media.html",
+      "archivedAt": "https://web.archive.org/web/20211229080828/https://www.nytimes.com/2021/12/29/business/discord-server-social-media.html",
+      "datePublished": "2021-12-29",
+      "keywords": [
+        "History",
+        "Discord",
+        "Startups",
+        "Article"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "NSA: Capt. Grace Hopper on Future Possibilities - Data, Hardware, Software, and People",
+      "url": "https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/",
+      "archivedAt": "https://web.archive.org/web/20260610090519/https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/View/Article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/",
+      "datePublished": "1982-08-19",
+      "keywords": [
+        "History",
+        "Grace Hopper",
+        "Article"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Damn Interesting: The Tragic Birth of FM Radio",
+      "url": "https://www.damninteresting.com/the-tragic-birth-of-fm-radio/",
+      "archivedAt": "https://web.archive.org/web/20260825101439/https://www.damninteresting.com/the-tragic-birth-of-fm-radio/",
+      "datePublished": "2006-08-10",
+      "keywords": [
+        "History",
+        "Radio",
+        "Edwin Armstrong",
+        "Article"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Acquired: Novo Nordisk (Ozempic)",
+      "url": "https://www.acquired.fm/episodes/novo-nordisk-ozempic",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/acquired/id1050462261?i=1000642431678",
+      "datePublished": "2024-01-22",
+      "keywords": [
+        "History",
+        "Novo Nordisk",
+        "Acquired",
+        "Business",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Salon: Death to the Minotaur - Wizards of the Coast History, Part 1 (John Tynes)",
+      "url": "https://www.salon.com/2001/03/23/wizards/",
+      "archivedAt": "https://web.archive.org/web/20260820031453/https://www.salon.com/2001/03/23/wizards/",
+      "datePublished": "2001-03-23",
+      "keywords": [
+        "History",
+        "Gaming",
+        "Wizards of the Coast",
+        "Startups",
+        "Article"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Salon: Death to the Minotaur - Wizards of the Coast History, Part 2 (John Tynes)",
+      "url": "https://www.salon.com/2001/03/26/wizards_part2/",
+      "archivedAt": "https://web.archive.org/web/20260305105725/https://www.salon.com/2001/03/26/wizards_part2/",
+      "datePublished": "2001-03-26",
+      "keywords": [
+        "History",
+        "Gaming",
+        "Wizards of the Coast",
+        "Startups",
+        "Article"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Acquired: Epic Systems (MyChart)",
+      "url": "https://www.acquired.fm/episodes/epic-systems-mychart",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/acquired/id1050462261?i=1000704248986",
+      "datePublished": "2025-04-20",
+      "keywords": [
+        "History",
+        "Business",
+        "Healthcare",
+        "Epic Systems",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Acquired: The Steve Ballmer Interview",
+      "url": "https://www.acquired.fm/episodes/the-steve-ballmer-interview",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/acquired/id1050462261?i=1000710802439",
+      "datePublished": "2025-06-02",
+      "keywords": [
+        "History",
+        "Acquired",
+        "Microsoft",
+        "Steve Ballmer",
+        "Podcast"
+      ]
+    }
+  ]
+}
