@@ -207,6 +207,15 @@
       "homeUrl": "https://www.apexlab.io/podcast",
       "canonicalPattern": "https://www.apexlab.io/podcast/<slug>",
       "notes": "Captivate feed, 99 episodes. Link host split from the 2024 rebrand (show was Coding Sans before Apex Lab): the newest ~17 items link to apexlab.io/podcast/<slug>, the older ~82 to codingsans.com/blog/<slug> — codingsans.com now returns HTTP 402, so use the apexlab.io episode page as canonical (stored entries do) even though the index records the feed's codingsans link for old episodes. Episode-page titles can differ from Apple trackNames, and the pages' rel=canonical misconfiguredly points at the apexlab.io root — ignore it. The podcast archive paginates at apexlab.io/podcast/<n>/."
+    },
+    {
+      "slug": "no-priors",
+      "name": "No Priors: Artificial Intelligence | Technology | Startups",
+      "appleId": 1668002688,
+      "feedUrl": "https://feeds.megaphone.fm/nopriors",
+      "homeUrl": "https://www.youtube.com/@NoPriorsPodcast",
+      "canonicalPattern": "https://www.youtube.com/watch?v=<video-id>",
+      "notes": "Megaphone feed (~177 items) has no per-item <link> and the show has no episode web pages, so the canonical we store is the official YouTube upload (channel @NoPriorsPodcast, same-day as the feed pubDate; titles there are prefixed 'No Priors Ep. <n> |'). Match feed title to YouTube upload via search; the YouTube oEmbed endpoint works even though youtube.com pages 429 curl."
     }
   ]
 }

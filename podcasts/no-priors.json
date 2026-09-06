@@ -1,0 +1,896 @@
+{
+  "show": "No Priors: Artificial Intelligence | Technology | Startups",
+  "slug": "no-priors",
+  "appleId": 1668002688,
+  "feedUrl": "https://feeds.megaphone.fm/nopriors",
+  "homeUrl": "https://www.youtube.com/@NoPriorsPodcast",
+  "canonicalPattern": "https://www.youtube.com/watch?v=<video-id>",
+  "episodeCount": 177,
+  "episodes": [
+    {
+      "title": "Redefining Chip Architecture with Arm CEO Rene Haas",
+      "published": "2026-09-03",
+      "url": null
+    },
+    {
+      "title": "Rethinking Legacy Data Infrastructure with Eon Co-Founders Ofir Ehrlich and Gonen Stein",
+      "published": "2026-08-27",
+      "url": null
+    },
+    {
+      "title": "From Restoring Sight to Reimagining the Brain, with Max Hodak",
+      "published": "2026-08-20",
+      "url": null
+    },
+    {
+      "title": "What Chess.com Teaches US About Superhuman Capabilities, with CEO Erik Allebest",
+      "published": "2026-08-13",
+      "url": null
+    },
+    {
+      "title": "Chasing Trillion-Dollar Companies, Founder Ambition, Token Budgets, and Regulatory Capture with Sarah & Elad",
+      "published": "2026-08-06",
+      "url": null
+    },
+    {
+      "title": "Building an Autonomous Enterprise for Real-World Services with Netic Founder Melisa Tokmak",
+      "published": "2026-07-31",
+      "url": null
+    },
+    {
+      "title": "Building an Autonomous Delivery Experience with DoorDash Co-Founders Andy Fang and Stanley Tang",
+      "published": "2026-07-23",
+      "url": null
+    },
+    {
+      "title": "Travel Through the Lens of AI with with Booking.com CEO Glenn Fogel",
+      "published": "2026-07-09",
+      "url": null
+    },
+    {
+      "title": "How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor",
+      "published": "2026-07-02",
+      "url": null
+    },
+    {
+      "title": "Really Big Test-Time Compute in AI Changes Benchmarks, Safety and Research with OpenAI Research Scientist Noam Brown",
+      "published": "2026-06-26",
+      "url": null
+    },
+    {
+      "title": "Re-engineering the Semiconductor Supply Chain with Intel CEO Lip-Bu Tan",
+      "published": "2026-06-18",
+      "url": null
+    },
+    {
+      "title": "Biohub: The Future of Biology is Open-Source with Co-Founders Mark Zuckerberg, Priscilla Chan, and Head of Science Alex Rives",
+      "published": "2026-06-10",
+      "url": null
+    },
+    {
+      "title": "We Need An Ecosystem in AI, And Every Company Can Win A Place In It",
+      "published": "2026-06-04",
+      "url": null
+    },
+    {
+      "title": "Building an AI Guardian for Enterprise with Onyx Security CEO Maxim Bar Kogan",
+      "published": "2026-05-28",
+      "url": null
+    },
+    {
+      "title": "The Story Behind Cerebras’ $63 Billion IPO with Founder and CEO Andrew Feldman",
+      "published": "2026-05-21",
+      "url": null
+    },
+    {
+      "title": "Pax Silica: Inside the Trump Administration’s Tech Strategy with US Under Secretary of State for Economic Affairs Jacob Helberg",
+      "published": "2026-05-14",
+      "url": null
+    },
+    {
+      "title": "Amex Global Business Travel: The World’s First AI Take Private with Long Lake CEO Alexander Taubman",
+      "published": "2026-05-11",
+      "url": null
+    },
+    {
+      "title": "Baseten CEO Tuhin Srivastava on the AI Inference Crunch, Custom Models, and Building the Inference Cloud",
+      "published": "2026-05-01",
+      "url": null
+    },
+    {
+      "title": "SAP: Bringing the ‘Operating System’ of a Company into the AI Era with CTO Philipp Herzig",
+      "published": "2026-04-23",
+      "url": null
+    },
+    {
+      "title": "Scaling Global Organizations in the Age of AI with ServiceNow Chairman and CEO Bill McDermott",
+      "published": "2026-04-17",
+      "url": null
+    },
+    {
+      "title": "The Agentic Economy: How AI Agents Will Transform the Financial System with Circle Co-Founder and CEO Jeremy Allaire",
+      "published": "2026-04-09",
+      "url": null
+    },
+    {
+      "title": "AI for Atoms: How Periodic Labs is Revolutionizing Materials Engineering with Co-Founder Liam Fedus",
+      "published": "2026-04-03",
+      "url": null
+    },
+    {
+      "title": "Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI",
+      "published": "2026-03-20",
+      "url": null
+    },
+    {
+      "title": "From Coder to Manager: Navigating the Shift to Agentic Engineering with Notion Co-Founder Simon Last",
+      "published": "2026-03-12",
+      "url": null
+    },
+    {
+      "title": "How Capital is Powering the AI Infrastructure Buildout with Magnetar Capital Managing Director Neil Tiwari",
+      "published": "2026-02-26",
+      "url": null
+    },
+    {
+      "title": "From SaaS to AI-First: How Companies Are Reshaping Innovation",
+      "published": "2026-02-19",
+      "url": null
+    },
+    {
+      "title": "Rivian’s Roadmap to AI Architecture and Autonomy with Founder and CEO RJ Scaringe",
+      "published": "2026-02-12",
+      "url": null
+    },
+    {
+      "title": "Introducing 4D Creation Open Beta: NPCs, 4D Worlds, and the Future of Gaming with Roblox CEO Dave Baszucki",
+      "published": "2026-02-05",
+      "url": null
+    },
+    {
+      "title": "Why Cryopreservation is No Longer Science Fiction with Until Co-founder and CEO Laura Deming",
+      "published": "2026-01-29",
+      "url": null
+    },
+    {
+      "title": "No Priors Live: Building Durable Software in the AI Age with MongoDB President & CEO CJ Desai",
+      "published": "2026-01-22",
+      "url": null
+    },
+    {
+      "title": "AI and the Future of Warfare with US Under Secretary of War Emil Michael",
+      "published": "2026-01-15",
+      "url": null
+    },
+    {
+      "title": "NVIDIA’s Jensen Huang on Reasoning Models, Robotics, and Refuting the “AI Bubble” Narrative",
+      "published": "2026-01-08",
+      "url": null
+    },
+    {
+      "title": "The 2026 AI Forecast: Foundation Models, IPOs, and Robotics with Sarah Guo and Elad Gil",
+      "published": "2025-12-19",
+      "url": null
+    },
+    {
+      "title": "The Future of Voice AI: Agents, Dubbing, and Real-Time Translation with ElevenLabs Co-Founder Mati Staniszewski",
+      "published": "2025-12-11",
+      "url": null
+    },
+    {
+      "title": "Scaling Legal AI and Building Next-Generation Law Firms with Harvey Co-Founder and President Gabe Pereyra",
+      "published": "2025-12-05",
+      "url": null
+    },
+    {
+      "title": "Sunday Robotics: Scaling the Home Robot Revolution with Co-Founders Tony Zhao and Cheng Chi",
+      "published": "2025-11-19",
+      "url": null
+    },
+    {
+      "title": "How AI Will Accelerate Breakthroughs in Biotechnology with Benchling CEO Sajith Wickramasekara",
+      "published": "2025-11-13",
+      "url": null
+    },
+    {
+      "title": "Meet Snowflake Intelligence: A Personalized Enterprise Intelligence Agent with Sridhar Ramaswamy",
+      "published": "2025-11-06",
+      "url": null
+    },
+    {
+      "title": "The Best of 2025 (So Far) with Sarah Guo and Elad Gil",
+      "published": "2025-10-31",
+      "url": null
+    },
+    {
+      "title": "Reinventing the Developer Terminal with Warp Co-Founder and CEO Zach Lloyd",
+      "published": "2025-10-23",
+      "url": null
+    },
+    {
+      "title": "Unlocking the Road to Energy Abundance with Base Power CEO and Co-Founder Zach Dell",
+      "published": "2025-10-15",
+      "url": null
+    },
+    {
+      "title": "Humans&: Bridging IQ and EQ in Machine Learning with Eric Zelikman",
+      "published": "2025-10-09",
+      "url": null
+    },
+    {
+      "title": "The Impact of AI, from Business Models to Cybersecurity, with Palo Alto Networks CEO Nikesh Arora",
+      "published": "2025-10-04",
+      "url": null
+    },
+    {
+      "title": "Reinventing K-12 Education Using AI with Alpha School Principal Joe Liemandt",
+      "published": "2025-09-25",
+      "url": null
+    },
+    {
+      "title": "AI Agents Talking to AI Agents: Reinventing Commerce with Decagon CEO Jesse Zhang",
+      "published": "2025-09-18",
+      "url": null
+    },
+    {
+      "title": "Jared Kushner: BrainCo, Affinity Partners, and the Geopolitics of AI",
+      "published": "2025-09-15",
+      "url": null
+    },
+    {
+      "title": "A New Operating System for Physicians with OpenEvidence Founder Daniel Nadler",
+      "published": "2025-09-05",
+      "url": null
+    },
+    {
+      "title": "Reshaping America’s Economy for the Superintelligence Century with Jacob Helberg",
+      "published": "2025-08-28",
+      "url": null
+    },
+    {
+      "title": "How Agentic AI is Transforming The Startup Landscape with Andrew Ng",
+      "published": "2025-08-21",
+      "url": null
+    },
+    {
+      "title": "Chips, Neoclouds, and the Quest for AI Dominance with SemiAnalysis Founder and CEO Dylan Patel",
+      "published": "2025-08-14",
+      "url": null
+    },
+    {
+      "title": "The Shifting Value of Content in the AI Age with Cloudflare CEO Matthew Prince",
+      "published": "2025-08-07",
+      "url": null
+    },
+    {
+      "title": "America’s Plan to Dominate the Full AI Stack with Sriram Krishnan",
+      "published": "2025-07-31",
+      "url": null
+    },
+    {
+      "title": "The Power of Quality Human Data with SurgeAI Founder and CEO Edwin Chen",
+      "published": "2025-07-24",
+      "url": null
+    },
+    {
+      "title": "Asimov: Building An Omniscient RL Oracle with ReflectionAI’s Misha Laskin",
+      "published": "2025-07-17",
+      "url": null
+    },
+    {
+      "title": "Why Platforms Win and Point Solutions Fail with Rippling CEO Parker Conrad",
+      "published": "2025-07-10",
+      "url": null
+    },
+    {
+      "title": "Chai-2: The AI Model Accelerating Drug Discovery with Chai Discovery Co-Founders Jack Dent and Joshua Meier",
+      "published": "2025-07-03",
+      "url": null
+    },
+    {
+      "title": "Meet AlphaEvolve: The Autonomous Agent That Discovers Algorithms Better Than Humans With Google DeepMind’s Pushmeet Kohli and Matej Balog",
+      "published": "2025-06-26",
+      "url": null
+    },
+    {
+      "title": "The Operating System for Self Driving Cars (and Tanks, and Trucks...) With Qasar Younis and Peter Ludwig of Applied Intuition",
+      "published": "2025-06-17",
+      "url": null
+    },
+    {
+      "title": "Will we have Superintelligence by 2028? With Anthropic’s Ben Mann",
+      "published": "2025-06-12",
+      "url": null
+    },
+    {
+      "title": "Teaching AI to Understand the Physical World, with Dr. Fei-Fei Li of World Labs",
+      "published": "2025-06-05",
+      "url": null
+    },
+    {
+      "title": "AI Consolidation, Biotech Opportunities, and World Models with Sarah and Elad",
+      "published": "2025-05-29",
+      "url": null
+    },
+    {
+      "title": "AI is Making Enterprise Search Relevant, with Arvind Jain of Glean",
+      "published": "2025-05-15",
+      "url": null
+    },
+    {
+      "title": "Gaming as the Future of Education with Duolingo CEO Luis von Ahn",
+      "published": "2025-05-08",
+      "url": null
+    },
+    {
+      "title": "O3 and the Next Leap in Reasoning with OpenAI’s Eric Mitchell and Brandon McKinzie",
+      "published": "2025-05-01",
+      "url": null
+    },
+    {
+      "title": "Inside Deep Research with Isa Fulford: Building the Future of AI Agents",
+      "published": "2025-04-24",
+      "url": null
+    },
+    {
+      "title": "Predicting the Earth with Josh Goldman: How KoBold Uses AI to Find Critical Minerals",
+      "published": "2025-04-17",
+      "url": null
+    },
+    {
+      "title": "From Job Displacement to AI Trainers, Brendan Foody on Work in the AI Age",
+      "published": "2025-04-10",
+      "url": null
+    },
+    {
+      "title": "Public Markets, Image Gen, and Specialized Models, with Sarah and Elad",
+      "published": "2025-04-03",
+      "url": null
+    },
+    {
+      "title": "Conversations Are the Source of Truth in Healthcare with Abridge CEO Shiv Rao",
+      "published": "2025-03-27",
+      "url": null
+    },
+    {
+      "title": "The Robotics Revolution, with Physical Intelligence’s Cofounder Chelsea Finn",
+      "published": "2025-03-20",
+      "url": null
+    },
+    {
+      "title": "Copilot, Agent Mode, and the New World of Dev Tools with GitHub’s CEO Thomas Dohmke",
+      "published": "2025-03-13",
+      "url": null
+    },
+    {
+      "title": "National Security Strategy and AI Evals on the Eve of Superintelligence with Dan Hendrycks",
+      "published": "2025-03-05",
+      "url": null
+    },
+    {
+      "title": "Building the Platform for Scientific Breakthrough, with Noubar Afeyan of Moderna and Flagship Pioneering",
+      "published": "2025-02-27",
+      "url": null
+    },
+    {
+      "title": "Virtual Cell Models, Tahoe-100 and Data for AI-in-Bio with Vevo Therapeutics and the Arc Institute",
+      "published": "2025-02-25",
+      "url": null
+    },
+    {
+      "title": "Building Hard Tech in Hard Markets: Kyle Vogt on Cruise, Twitch, and The Bot Company",
+      "published": "2025-02-20",
+      "url": null
+    },
+    {
+      "title": "How Harvey AI is Changing the Legal Industry with Winston Weinberg",
+      "published": "2025-02-14",
+      "url": null
+    },
+    {
+      "title": "DeepSeek, Deep Research, and 2025 Predictions with Sarah and Elad",
+      "published": "2025-02-07",
+      "url": null
+    },
+    {
+      "title": "Rick Caruso on LA’s Wildfires, Policy Failures, and the Path Forward",
+      "published": "2025-01-30",
+      "url": null
+    },
+    {
+      "title": "What Can We Do About Wildfires? With Convective Capital’s Bill Clerico",
+      "published": "2025-01-23",
+      "url": null
+    },
+    {
+      "title": "How AI Agents Are Transforming Customer Support, with Decagon’s Jesse Zhang",
+      "published": "2025-01-16",
+      "url": null
+    },
+    {
+      "title": "Erik Bernhardsson on Creating Tools That Make AI Feel Effortless",
+      "published": "2025-01-09",
+      "url": null
+    },
+    {
+      "title": "The Best of 2024 with Sarah Guo and Elad Gil",
+      "published": "2024-12-26",
+      "url": null
+    },
+    {
+      "title": "Revolutionizing Customer Success with Agency’s Elias Torres",
+      "published": "2024-12-19",
+      "url": null
+    },
+    {
+      "title": "How Diamond Cooling Could Power the Future of AI, with Akash Systems",
+      "published": "2024-12-12",
+      "url": null
+    },
+    {
+      "title": "Bolt’s Eric Simons on Enabling Everyone to Generate Websites with AI",
+      "published": "2024-12-05",
+      "url": null
+    },
+    {
+      "title": "Model Plateaus and Enterprise AI Adoption with Cohere's Aidan Gomez",
+      "published": "2024-11-21",
+      "url": null
+    },
+    {
+      "title": "AI and the Future of Math, with DeepMind’s AlphaProof Team",
+      "published": "2024-11-14",
+      "url": null
+    },
+    {
+      "title": "NVIDIA's Jensen Huang on AI Chip Design, Scaling Data Centers, and his 10-Year Bets",
+      "published": "2024-11-07",
+      "url": null
+    },
+    {
+      "title": "Forecasting the Future with Kalshi: America’s First Regulated Prediction Market",
+      "published": "2024-10-31",
+      "url": null
+    },
+    {
+      "title": "Waymo’s Journey to Full Autonomy: AI Breakthroughs, Safety, and Scaling",
+      "published": "2024-10-24",
+      "url": null
+    },
+    {
+      "title": "Gaming, Nobel Prizes and At-Risk Businesses in the AI Era",
+      "published": "2024-10-17",
+      "url": null
+    },
+    {
+      "title": "Launching AI products with Braintrust’s CEO Ankur Goyal",
+      "published": "2024-10-08",
+      "url": null
+    },
+    {
+      "title": "The Sheriff of Silicon Valley: Lina Khan’s FTC agenda for M&A, AI Acquisitions, and Non-Competes",
+      "published": "2024-10-03",
+      "url": null
+    },
+    {
+      "title": "Using AI to evaluate employee performance with Rippling’s COO Matt MacInnis",
+      "published": "2024-09-25",
+      "url": null
+    },
+    {
+      "title": "Transforming Customer Service through Company Agents, with Sierra’s Bret Taylor",
+      "published": "2024-09-19",
+      "url": null
+    },
+    {
+      "title": "Future of LLM Markets, Consolidation, and Small Models with Sarah and Elad",
+      "published": "2024-09-12",
+      "url": null
+    },
+    {
+      "title": "The Road to Autonomous Intelligence with Andrej Karpathy",
+      "published": "2024-09-05",
+      "url": null
+    },
+    {
+      "title": "Building toward a bright post-AGI future with Eric Steinberger from Magic.dev",
+      "published": "2024-08-30",
+      "url": null
+    },
+    {
+      "title": "Cloud Strategy in the AI Era with Matt Garman, CEO of AWS",
+      "published": "2024-08-29",
+      "url": null
+    },
+    {
+      "title": "The marketplace for AI compute with Jared Quincy Davis from Foundry",
+      "published": "2024-08-22",
+      "url": null
+    },
+    {
+      "title": "How AI can help build smarter systems for every team with Eric Glyman and Karim Atiyeh of Ramp",
+      "published": "2024-08-15",
+      "url": null
+    },
+    {
+      "title": "Innovating Spend Management through AI with Pedro Franceschi from Brex",
+      "published": "2024-08-08",
+      "url": null
+    },
+    {
+      "title": "Google DeepMind's Vision for AI, Search and Gemini with Oriol Vinyals from Google DeepMind",
+      "published": "2024-08-01",
+      "url": null
+    },
+    {
+      "title": "Low-Code in the Age of AI and Going Enterprise, with Howie Liu from Airtable",
+      "published": "2024-07-25",
+      "url": null
+    },
+    {
+      "title": "How AI is opening up new markets and impacting the startup status quo with Sarah Guo and Elad Gil",
+      "published": "2024-07-18",
+      "url": null
+    },
+    {
+      "title": "The Best of 2024 (so far) with Sarah Guo and Elad Gil",
+      "published": "2024-07-11",
+      "url": null
+    },
+    {
+      "title": "State Space Models and Real-time Intelligence with Karan Goel and Albert Gu from Cartesia",
+      "published": "2024-06-27",
+      "url": null
+    },
+    {
+      "title": "Can AI replace the camera? with Joshua Xu from HeyGen",
+      "published": "2024-06-20",
+      "url": null
+    },
+    {
+      "title": "How the ARC Prize is democratizing the race to AGI with Mike Knoop from Zapier",
+      "published": "2024-06-11",
+      "url": null
+    },
+    {
+      "title": "The evolution and promise of RAG architecture with Tengyu Ma from Voyage AI",
+      "published": "2024-06-06",
+      "url": null
+    },
+    {
+      "title": "How YC fosters AI Innovation with Garry Tan",
+      "published": "2024-05-23",
+      "url": null
+    },
+    {
+      "title": "The Data Foundry for AI with Alexandr Wang from Scale",
+      "published": "2024-05-22",
+      "url": null
+    },
+    {
+      "title": "Music consumers are becoming the creators with Suno CEO Mikey Shulman",
+      "published": "2024-05-16",
+      "url": null
+    },
+    {
+      "title": "Context windows, computer constraints, and energy consumption with Sarah and Elad",
+      "published": "2024-05-09",
+      "url": null
+    },
+    {
+      "title": "Cognition’s Scott Wu on how Devin, the AI software engineer, will work for you",
+      "published": "2024-05-02",
+      "url": null
+    },
+    {
+      "title": "OpenAI’s Sora team thinks we’ve only seen the \"GPT-1 of video models\"",
+      "published": "2024-04-25",
+      "url": null
+    },
+    {
+      "title": "The Future of AI Artistry with Suhail Doshi from Playground AI",
+      "published": "2024-04-18",
+      "url": null
+    },
+    {
+      "title": "Hyperscaler strategy in AI, the application landscape heats up, and what we know now about agents with Sarah and Elad",
+      "published": "2024-04-11",
+      "url": null
+    },
+    {
+      "title": "The argument for humanoid AI robots with Brett Adcock from Figure",
+      "published": "2024-04-04",
+      "url": null
+    },
+    {
+      "title": "Open sourcing AI app development with Harrison Chase from LangChain",
+      "published": "2024-03-28",
+      "url": null
+    },
+    {
+      "title": "Speed will win the AI computing battle with Tuhin Srivastava from Baseten",
+      "published": "2024-03-21",
+      "url": null
+    },
+    {
+      "title": "Designing the Future: Dylan Field on AI, Collaboration, and Independence",
+      "published": "2024-03-14",
+      "url": null
+    },
+    {
+      "title": "Big tech earnings and the current AI debates, with Sarah Guo and Elad Gil",
+      "published": "2024-03-07",
+      "url": null
+    },
+    {
+      "title": "Competition makes for better chip design with AMD CTO Mark Papermaster",
+      "published": "2024-02-29",
+      "url": null
+    },
+    {
+      "title": "Improving search with RAG architecture with Pinecone CEO Edo Liberty",
+      "published": "2024-02-22",
+      "url": null
+    },
+    {
+      "title": "RAG is the key for smarter productivity tools with Notion CEO Ivan Zhao",
+      "published": "2024-02-15",
+      "url": null
+    },
+    {
+      "title": "Build AI products at on-AI companies with Emily Glassberg Sands from Stripe",
+      "published": "2024-02-08",
+      "url": null
+    },
+    {
+      "title": "The Copilot for Ecommerce with Shopify VP of Core Product Glen Coates",
+      "published": "2024-01-31",
+      "url": null
+    },
+    {
+      "title": "Building the factories of the future with Covariant CEO Peter Chen",
+      "published": "2024-01-25",
+      "url": null
+    },
+    {
+      "title": "Coding in Collaboration with AI with Sourcegraph CTO Beyang Liu",
+      "published": "2024-01-18",
+      "url": null
+    },
+    {
+      "title": "A No Priors clip show: the best of 2023",
+      "published": "2024-01-11",
+      "url": null
+    },
+    {
+      "title": "The case for AI optimism",
+      "published": "2023-12-21",
+      "url": null
+    },
+    {
+      "title": "How AI can help small businesses",
+      "published": "2023-12-14",
+      "url": null
+    },
+    {
+      "title": "AI is the new enterprise UI with Clara Shih, CEO Salesforce AI",
+      "published": "2023-12-07",
+      "url": null
+    },
+    {
+      "title": "Open AI leadership shuffle, new diffusion models, and starting the cult of Q*",
+      "published": "2023-11-30",
+      "url": null
+    },
+    {
+      "title": "AI Agents That Reason and Code with Imbue Co-Founders Kanjun Qiu and Josh Albrecht",
+      "published": "2023-11-16",
+      "url": null
+    },
+    {
+      "title": "Mistral 7B and the Open Source Revolution With Arthur Mensch, CEO Mistral AI",
+      "published": "2023-11-09",
+      "url": null
+    },
+    {
+      "title": "What is Digital Life? with OpenAI Co-Founder & Chief Scientist Ilya Sutskever",
+      "published": "2023-11-02",
+      "url": null
+    },
+    {
+      "title": "AI Threats & Opportunities in Cyber Security With Material Security Co-Founder Ryan Noon",
+      "published": "2023-10-26",
+      "url": null
+    },
+    {
+      "title": "What Google Cloud Can Teach Enterprises Developing & Rolling Out AI Tools, With Kawal Gandhi",
+      "published": "2023-10-23",
+      "url": null
+    },
+    {
+      "title": "From App to Suite to Platform, with HubSpot's Co-Founder Brian Halligan",
+      "published": "2023-10-12",
+      "url": null
+    },
+    {
+      "title": "Model Quality, Fine Tuning & Meta Sponsoring Open Source Ecosystem",
+      "published": "2023-10-09",
+      "url": null
+    },
+    {
+      "title": "If DNA is Code, Can AI Help Write It? Scaling Cell Programming and Synthetic Biology, with Ginkgo Bioworks Co-founder and CEO Jason Kelly",
+      "published": "2023-09-28",
+      "url": null
+    },
+    {
+      "title": "How Replit’s AI Tools are Changing Software Development with Co-founder and CEO Amjad Masad",
+      "published": "2023-09-21",
+      "url": null
+    },
+    {
+      "title": "The Intersection of AI and Blockchain, with Transformers author and NEAR founder Illia Polosukhin",
+      "published": "2023-09-15",
+      "url": null
+    },
+    {
+      "title": "The World’s Largest AI Processor with Cerebras CEO Andrew Feldman",
+      "published": "2023-09-07",
+      "url": null
+    },
+    {
+      "title": "AI Superpowers for Frontend Developers, with Vercel Founder/CEO Guillermo Rauch",
+      "published": "2023-08-31",
+      "url": null
+    },
+    {
+      "title": "AI-Powered Biological Software with Jakob Uszkoreit, CEO of Inceptive",
+      "published": "2023-08-24",
+      "url": null
+    },
+    {
+      "title": "The AI Tutor For Every Child and the Next Frontier of Education, From Khan Academy’s Creator Sal Khan",
+      "published": "2023-08-17",
+      "url": null
+    },
+    {
+      "title": "Listener Q&A: 2024 Tech Market Predictions, Long Term Implications of Today’s GPU Crunch, and Will AI Agents Bring Us Happiness?",
+      "published": "2023-08-10",
+      "url": null
+    },
+    {
+      "title": "Eradicating Machine Learning Pain Points with Weights & Biases CEO Lukas Biewald",
+      "published": "2023-08-03",
+      "url": null
+    },
+    {
+      "title": "How Palantir’s AI Bet is Revolutionizing Defense and Beyond, with CTO Shyam Sankar",
+      "published": "2023-07-27",
+      "url": null
+    },
+    {
+      "title": "The Timeline for Realistic 4-D: Devi Parikh from Meta on Research Hurdles for Generative AI in Video and Multimodality",
+      "published": "2023-07-20",
+      "url": null
+    },
+    {
+      "title": "Bringing AI to the Data Cloud, with Snowflake's CEO Frank Slootman",
+      "published": "2023-06-29",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "What's for Dinner? AI-Driven Commerce with Instacart CEO Fidji Simo",
+      "published": "2023-06-22",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "What happens to Observability If Code is AI-Generated? The Potential for AI in DevOps, with Datadog Co-founder/CEO Olivier Pomel",
+      "published": "2023-06-15",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "Listener Q&A: AI Misconceptions, The Reality of Regulation, Infinite Context, Incumbent AI Execution and Startup Ideas",
+      "published": "2023-06-08",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "AI & Defense Technology with Anduril CEO Brian Schimpf",
+      "published": "2023-06-01",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "Going Full Send on AI, and the (Positive) Impact of AI on Jobs, with Kevin Scott, CTO of Microsoft",
+      "published": "2023-05-24",
+      "url": null
+    },
+    {
+      "title": "The AI Will See You Now: Exploring Biomedical AI and Google’s Med-PaLM2 With Karan Singhal",
+      "published": "2023-05-18",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "Will Everyone Have a Personal AI? With Mustafa Suleyman, Founder of DeepMind and Inflection",
+      "published": "2023-05-11",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "Personalizing AI Models with Kelvin Guu, Senior Staff Research Scientist, Google Brain",
+      "published": "2023-05-04",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "Listener Q&A: AI Investment Hype, Foundation Models, Regulation, Opportunity Areas, and More",
+      "published": "2023-04-27",
+      "url": null
+    },
+    {
+      "title": "The Computing Platform Underlying AI, with Jensen Huang, Founder & CEO of NVIDIA",
+      "published": "2023-04-20",
+      "url": null
+    },
+    {
+      "title": "Your AI Friends Have Awoken, With Noam Shazeer",
+      "published": "2023-04-13",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "The Future is Small Models, with Matei Zaharia, CTO of Databricks",
+      "published": "2023-04-06",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "What’s Beyond GitHub Copilot? With Copilot's Chief Architect and founder of Minion.AI Alex Graveley",
+      "published": "2023-03-30",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "How do we go from search engines to answer engines? With Perplexity AI’s Aravind Srinivas and Denis Yarats",
+      "published": "2023-03-23",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "What is the future of search? With Neeva’s Sridhar Ramaswamy",
+      "published": "2023-03-16",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "What is the role of academia in modern AI research? With Stanford Professor Dr. Percy Liang",
+      "published": "2023-03-09",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "How AI can make drug discovery fail less, with Daphne Koller from Insitro",
+      "published": "2023-03-02",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "Why the Future of Machine Learning is Open Source with Huggingface’s Clem Delangue",
+      "published": "2023-02-23",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "Founder Stories: What’s behind the largest commercial autonomous system on earth? With Zipline’s Keller Rinaudo Cliffton",
+      "published": "2023-02-20",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "How can we make sure that everyone has access to AI? Can small models outperform large models? With Stability AI’s Emad Mostaque",
+      "published": "2023-02-16",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "What does AI-powered content creation look like? with Runway ML’s Cristobal Valenzuela",
+      "published": "2023-02-09",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "The bot Cicero can collaborate, scheme and build trust with humans. What does this mean for the next frontier of AI? With Noam Brown, Research Scientist at Meta",
+      "published": "2023-02-02",
+      "url": "https://no-priors.com/"
+    },
+    {
+      "title": "This is “No Priors”",
+      "published": "2023-02-02",
+      "url": "https://no-priors.com/"
+    }
+  ]
+}
