@@ -31,6 +31,10 @@ printf '%s\n' "https://a.example/x" "https://b.example/y naval ravikant" | fav d
   trailing slashes trimmed, tracking params (`utm_*`, `fbclid`, ...) dropped,
   query sorted, fragment removed. Wayback snapshot URLs are unwrapped first,
   so an original URL matches a Wayback-flipped canonical (and vice versa).
+  Two platforms reduce to identity: YouTube URLs (`www`/`m.youtube.com`,
+  `youtu.be`, `/watch`, `/shorts`, `/embed`, `/live`; params like `t`, `list`,
+  `index` ignored) compare by video id, and Apple Podcasts URLs compare by
+  the (show `id`, episode `i`) pair, ignoring the decorative path slug.
 - A line may append title keywords after the URL (`URL title words...`) to
   also get fuzzy title candidates (`--min-score`, `--max-candidates`).
 - Status per input: `url-match` | `alternate-match` | `title-only` | `none`.

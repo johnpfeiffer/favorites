@@ -1,6 +1,9 @@
 package main
 
-import "testing"
+import (
+	"strings"
+	"testing"
+)
 
 func findCandidate(cs []dateCandidate, source string) *dateCandidate {
 	for i := range cs {
@@ -41,6 +44,34 @@ func TestDatesFromURL(t *testing.T) {
 	t.Run("invalid month rejected", func(t *testing.T) {
 		if cs := datesFromURL("https://example.com/2016/13/x"); len(cs) != 0 {
 			t.Errorf("got %+v", cs)
+		}
+	})
+}
+
+func TestDayConflictNote(t *testing.T) {
+	day := func(date, source string) dateCandidate {
+		return dateCandidate{Date: date, Precision: "day", Source: source}
+	}
+	t.Run("agreeing sources are not a conflict", func(t *testing.T) {
+		cs := []dateCandidate{day("2026-05-22", "meta:article:published_time"), day("2026-05-22", "time-datetime")}
+		if note := dayConflictNote(cs); note != "" {
+			t.Errorf("got %q, want empty", note)
+		}
+	})
+	t.Run("different dates conflict", func(t *testing.T) {
+		cs := []dateCandidate{day("2012-08-28", "wayback:json-ld:uploadDate"), day("2015-03-07", "wayback:json-ld:dateCreated")}
+		note := dayConflictNote(cs)
+		if !strings.Contains(note, "2012-08-28") || !strings.Contains(note, "2015-03-07") || !strings.Contains(note, "conflicting") {
+			t.Errorf("got %q", note)
+		}
+	})
+	t.Run("month precision ignored", func(t *testing.T) {
+		cs := []dateCandidate{
+			day("2024-01-15", "meta"),
+			{Date: "2023-06-01", Precision: "month", Source: "url-path"},
+		}
+		if note := dayConflictNote(cs); note != "" {
+			t.Errorf("got %q, want empty", note)
 		}
 	})
 }
