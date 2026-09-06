@@ -54,6 +54,59 @@ func TestNormalizeEquivalence(t *testing.T) {
 	}
 }
 
+func TestNormalizeYouTube(t *testing.T) {
+	bare := "youtube.com/watch?v=EDZBYbEwhm8"
+	cases := []struct {
+		name string
+		in   string
+		want string
+	}{
+		{"www watch", "https://www.youtube.com/watch?v=EDZBYbEwhm8", bare},
+		{"mobile host", "https://m.youtube.com/watch?v=EDZBYbEwhm8", bare},
+		{"short host with timestamp", "https://youtu.be/EDZBYbEwhm8?t=899", bare},
+		{"short host with si", "https://youtu.be/EDZBYbEwhm8?si=abc123", bare},
+		{"junk params dropped", "https://www.youtube.com/watch?v=EDZBYbEwhm8&ra=m", bare},
+		{"playlist params dropped", "https://www.youtube.com/watch?v=EDZBYbEwhm8&list=PLabc&index=10", bare},
+		{"shorts", "https://www.youtube.com/shorts/EDZBYbEwhm8", bare},
+		{"embed", "https://www.youtube-nocookie.com/embed/EDZBYbEwhm8", bare},
+		{"music host", "https://music.youtube.com/watch?v=EDZBYbEwhm8", bare},
+		// Non-video YouTube URLs keep generic normalization.
+		{"channel page untouched", "https://www.youtube.com/@Deeplearningai/playlists", "youtube.com/@Deeplearningai/playlists"},
+	}
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			if got := normalize(tc.in); got != tc.want {
+				t.Errorf("normalize(%q) = %q, want %q", tc.in, got, tc.want)
+			}
+		})
+	}
+}
+
+func TestNormalizeApplePodcasts(t *testing.T) {
+	episode := "podcasts.apple.com/id1482889491?i=1000574913111"
+	cases := []struct {
+		name string
+		in   string
+		want string
+	}{
+		{"show slug", "https://podcasts.apple.com/us/podcast/level-up-engineering/id1482889491?i=1000574913111", episode},
+		{"episode slug (same identity)", "https://podcasts.apple.com/us/podcast/guide-to-building-cross-functional-collaboration-in/id1482889491?i=1000574913111", episode},
+		{"extra params dropped", "https://podcasts.apple.com/us/podcast/acquired/id1050462261?i=1000710802439&uo=4", "podcasts.apple.com/id1050462261?i=1000710802439"},
+		{"show page has no i", "https://podcasts.apple.com/us/podcast/your-next-tech-startup/id1809567381", "podcasts.apple.com/id1809567381"},
+		// Show page and episode of the same show stay distinct.
+		{"episode differs from show", "https://podcasts.apple.com/us/podcast/your-next-tech-startup/id1809567381?i=1000746330337", "podcasts.apple.com/id1809567381?i=1000746330337"},
+		// Genre pages carry an /id too and reduce the same way.
+		{"genre page", "https://podcasts.apple.com/us/genre/podcasts-technology/id1318", "podcasts.apple.com/id1318"},
+	}
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			if got := normalize(tc.in); got != tc.want {
+				t.Errorf("normalize(%q) = %q, want %q", tc.in, got, tc.want)
+			}
+		})
+	}
+}
+
 func TestTokenContainment(t *testing.T) {
 	a := titleTokens("Scaling your API with rate limiters")
 	b := titleTokens("Stripe: Scaling your API with rate limiters")

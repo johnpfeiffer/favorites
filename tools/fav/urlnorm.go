@@ -51,7 +51,10 @@ func unwrapWayback(raw string) string {
 // (http == https), host lowercased with any leading "www." removed, trailing
 // slashes trimmed, tracking query params dropped, remaining query sorted, and
 // the fragment removed. Wayback snapshot URLs are unwrapped first, so an
-// original URL compares equal to a snapshot of itself.
+// original URL compares equal to a snapshot of itself. Two platforms get
+// identity-based reduction: YouTube URLs reduce to the bare video id (host
+// variants and decorative params ignored) and Apple Podcasts URLs reduce to
+// the (show id, episode i) pair (the path slug is decorative).
 func normalize(raw string) string {
 	return normalizeOpt(raw, true)
 }
@@ -81,21 +84,82 @@ func normalizeOpt(raw string, unwrap bool) string {
 	}
 	host := strings.TrimPrefix(strings.ToLower(u.Host), "www.")
 	path := strings.TrimRight(u.Path, "/")
-
-	var b strings.Builder
-	b.WriteString(host)
-	b.WriteString(path)
 	q := u.Query()
 	for key := range q {
 		if trackingParams[strings.ToLower(key)] {
 			delete(q, key)
 		}
 	}
+
+	if id := youtubeVideoID(host, path, q); id != "" {
+		return "youtube.com/watch?v=" + id
+	}
+	if key := applePodcastKey(host, path, q); key != "" {
+		return key
+	}
+
+	var b strings.Builder
+	b.WriteString(host)
+	b.WriteString(path)
 	if len(q) > 0 {
 		b.WriteString("?")
 		b.WriteString(q.Encode()) // Encode sorts keys
 	}
 	return b.String()
+}
+
+// youtubeVideoID extracts the video id from any YouTube URL form, so
+// www/m.youtube.com/watch?v=, youtu.be/<id>, /shorts/<id>, /embed/<id>, and
+// /live/<id> all compare equal regardless of decorative params (t, list,
+// index, ra). Returns "" for non-video YouTube URLs and non-YouTube hosts.
+func youtubeVideoID(host, path string, q url.Values) string {
+	switch host {
+	case "youtu.be":
+		id := strings.TrimPrefix(path, "/")
+		if id != "" && !strings.Contains(id, "/") {
+			return id
+		}
+	case "youtube.com", "m.youtube.com", "music.youtube.com", "youtube-nocookie.com":
+		if path == "/watch" {
+			return q.Get("v")
+		}
+		for _, pfx := range []string{"/shorts/", "/embed/", "/live/"} {
+			if strings.HasPrefix(path, pfx) {
+				if id := strings.TrimPrefix(path, pfx); id != "" && !strings.Contains(id, "/") {
+					return id
+				}
+			}
+		}
+	}
+	return ""
+}
+
+// applePodcastKey reduces an Apple Podcasts URL to its identity: the numeric
+// show id, plus the episode's i query param when present. The path slug is
+// decorative (the same episode is served under any slug, and shows get
+// renamed), so it is dropped; a show page and one of its episodes still
+// compare unequal. Returns "" for non-Apple URLs and Apple URLs with no id.
+func applePodcastKey(host, path string, q url.Values) string {
+	if host != "podcasts.apple.com" {
+		return ""
+	}
+	idx := strings.LastIndex(path, "/id")
+	if idx < 0 {
+		return ""
+	}
+	digits := path[idx+len("/id"):]
+	end := 0
+	for end < len(digits) && digits[end] >= '0' && digits[end] <= '9' {
+		end++
+	}
+	if end == 0 {
+		return ""
+	}
+	key := "podcasts.apple.com/id" + digits[:end]
+	if i := q.Get("i"); i != "" {
+		key += "?i=" + i
+	}
+	return key
 }
 
 // stopTokens are dropped before title matching, along with tokens shorter

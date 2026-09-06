@@ -257,22 +257,35 @@ func resolveDate(client *politeClient, indexes *podcastIndexes, rawurl string, o
 
 	sortCandidates(res.Candidates)
 	// Surface conflicting day-precision dates (the feed-vs-MP3-filename trap).
-	seen := map[string]string{}
-	var conflict []string
-	for _, c := range res.Candidates {
+	if note := dayConflictNote(res.Candidates); note != "" {
+		res.Notes = append(res.Notes, note)
+	}
+	return res
+}
+
+// dayConflictNote reports genuinely conflicting day-precision dates. A
+// conflict means two *different* dates claimed at day precision; several
+// sources agreeing on one date is corroboration, not conflict.
+func dayConflictNote(cs []dateCandidate) string {
+	firstSource := map[string]string{}
+	var dates []string
+	for _, c := range cs {
 		if c.Precision != "day" {
 			continue
 		}
-		if prev, ok := seen[c.Date]; !ok {
-			seen[c.Date] = c.Source
-		} else {
-			conflict = append(conflict, fmt.Sprintf("%s per %s vs %s per %s", c.Date, c.Source, seen[c.Date], prev))
+		if _, ok := firstSource[c.Date]; !ok {
+			firstSource[c.Date] = c.Source
+			dates = append(dates, c.Date)
 		}
 	}
-	if len(conflict) > 0 {
-		res.Notes = append(res.Notes, "conflicting day-precision dates: "+strings.Join(conflict, "; "))
+	if len(dates) < 2 {
+		return ""
 	}
-	return res
+	var parts []string
+	for _, d := range dates {
+		parts = append(parts, d+" per "+firstSource[d])
+	}
+	return "conflicting day-precision dates: " + strings.Join(parts, " vs ")
 }
 
 func sortCandidates(cs []dateCandidate) {
