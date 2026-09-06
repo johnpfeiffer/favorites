@@ -983,6 +983,18 @@
     {
       "id": "CD4D8E91-32C0-45B4-83BD-E80A5843555B",
       "name": "Sail Research"
+    },
+    {
+      "id": "56B3BE33-C482-4F95-972D-B35AEAD0DFB0",
+      "name": "Steve Ballmer"
+    },
+    {
+      "id": "62129B64-5B6F-4B2B-BFBB-2EF382164EF2",
+      "name": "Adam Tornhill"
+    },
+    {
+      "id": "070A848A-0965-4C4B-88E7-2A43CAFB49EA",
+      "name": "CodeScene"
     }
   ]
 }
