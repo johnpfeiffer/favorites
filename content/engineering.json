@@ -1969,6 +1969,34 @@
         "Kent Beck",
         "Blog"
       ]
+    },
+    {
+      "title": "SE Radio 696: Flavia Saldanha on Data Engineering for AI",
+      "url": "https://se-radio.net/2025/11/se-radio-696-flavia-saldanha-on-data-engineering-for-ai/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714?i=1000738430346",
+      "published": "2025-11-25",
+      "tags": [
+        "Engineering",
+        "Data Engineering",
+        "AI",
+        "Flavia Saldanha",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "ELC: Specs as the new source of truth, synthetic data as the next wave of defensibility, product vision & decision making frameworks w/ Ruslan Belkin #237",
+      "url": "https://sfelc.com/podcasts/specs-as-the-new-source-of-truth-synthetic-data-as-the-next-wave-of-defensibility-product-vision-and-decision-making-frameworks-ruslan-belkini-inflection-ai",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-engineering-leadership-podcast/id1481996448?i=1000737606935",
+      "published": "2025-11-20",
+      "tags": [
+        "Engineering",
+        "AI",
+        "LLM",
+        "Requirements",
+        "Product Management",
+        "Ruslan Belkin",
+        "Podcast"
+      ]
     }
   ]
 }
