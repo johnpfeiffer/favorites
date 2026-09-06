@@ -995,6 +995,18 @@
     {
       "id": "070A848A-0965-4C4B-88E7-2A43CAFB49EA",
       "name": "CodeScene"
+    },
+    {
+      "id": "CF294BD4-6250-46B2-9210-94ABCE1FC33B",
+      "name": "Steve McConnell"
+    },
+    {
+      "id": "64573825-BED0-4883-8503-6F1FFD94FC49",
+      "name": "Code Complete"
+    },
+    {
+      "id": "E25AE324-2407-444C-AA94-826FC8D0B89D",
+      "name": "Tomer Cohen"
     }
   ]
 }

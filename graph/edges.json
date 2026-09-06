@@ -909,6 +909,16 @@
       "source": "62129B64-5B6F-4B2B-BFBB-2EF382164EF2",
       "target": "070A848A-0965-4C4B-88E7-2A43CAFB49EA",
       "type": "Current_Employee_of"
+    },
+    {
+      "source": "CF294BD4-6250-46B2-9210-94ABCE1FC33B",
+      "target": "64573825-BED0-4883-8503-6F1FFD94FC49",
+      "type": "Author_of"
+    },
+    {
+      "source": "E25AE324-2407-444C-AA94-826FC8D0B89D",
+      "target": "10FA8D32-18C9-46C6-9B4A-773E2B853066",
+      "type": "Current_Employee_of"
     }
   ]
 }
