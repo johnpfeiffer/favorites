@@ -5,8 +5,23 @@
   "feedUrl": "https://api.substack.com/feed/podcast/10845.rss",
   "homeUrl": "https://www.lennysnewsletter.com",
   "canonicalPattern": "https://www.lennysnewsletter.com/p/<slug>",
-  "episodeCount": 357,
+  "episodeCount": 360,
   "episodes": [
+    {
+      "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
+      "published": "2026-09-06",
+      "url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series"
+    },
+    {
+      "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (Product Lead ChatGPT Work)",
+      "published": "2026-08-30",
+      "url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent"
+    },
+    {
+      "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
+      "published": "2026-08-23",
+      "url": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by"
+    },
     {
       "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
       "published": "2026-08-16",

@@ -5,8 +5,23 @@
   "feedUrl": "https://rss.buzzsprout.com/1422892.rss",
   "homeUrl": "https://linearb.io/dev-interrupted",
   "canonicalPattern": "https://linearb.io/dev-interrupted/podcast/<slug>",
-  "episodeCount": 323,
+  "episodeCount": 326,
   "episodes": [
+    {
+      "title": "NVIDIA acquires Hugging Face, OpenClaw 2.0 goes multiplayer, and the Linux kernel fights back against AI scrapers",
+      "published": "2026-09-04",
+      "url": null
+    },
+    {
+      "title": "Why software factories fail without humans | HumanLayer, Warp & LinearB",
+      "published": "2026-09-01",
+      "url": null
+    },
+    {
+      "title": "Build fences not sandboxes, earn the currency of trust, and share the cognitive burden of agents across engineers",
+      "published": "2026-08-28",
+      "url": null
+    },
     {
       "title": "Can agents keep a secret? We asked 1Password’s CTO Nancy Wang",
       "published": "2026-08-25",

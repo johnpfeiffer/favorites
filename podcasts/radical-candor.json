@@ -5,8 +5,13 @@
   "feedUrl": "https://feeds.megaphone.fm/radicalcandor",
   "homeUrl": "https://www.radicalcandor.com",
   "canonicalPattern": "https://www.radicalcandor.com/podcast/<season-episode>/<slug>",
-  "episodeCount": 227,
+  "episodeCount": 228,
   "episodes": [
+    {
+      "title": "Get Situated for Success (with Angela Duckworth)",
+      "published": "2026-09-01",
+      "url": null
+    },
     {
       "title": "Revolutionizing Meetings: From Sabotage to Strategy (with Rebecca Hinds)",
       "published": "2026-08-18",

@@ -5,10 +5,15 @@
   "feedUrl": "https://feeds.megaphone.fm/FSMI7575968096",
   "homeUrl": "https://fs.blog",
   "canonicalPattern": "https://fs.blog/knowledge-project-podcast/<slug>/",
-  "episodeCount": 286,
+  "episodeCount": 287,
   "episodes": [
     {
-      "title": "Roblox CEO: How to Make Better Decisions by Fixing Yourself First",
+      "title": "What 12 Years of Failure Taught Steve Jobs About Success",
+      "published": "2026-09-01",
+      "url": "https://fs.blog/knowledge-project-podcast/geoffrey-cain/"
+    },
+    {
+      "title": "Make Better Decisions by Fixing Yourself First",
       "published": "2026-08-18",
       "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/"
     },
@@ -23,7 +28,7 @@
       "url": "https://fs.blog/knowledge-project-podcast/outliers-john-d-rockefeller/"
     },
     {
-      "title": "Opendoor CEO: Excellence Is the Capacity to Take Pain",
+      "title": "Excellence Is the Capacity to Take Pain",
       "published": "2026-07-21",
       "url": "https://fs.blog/knowledge-project-podcast/kaz-nejatian/"
     },

@@ -44,6 +44,7 @@ At random intervals — about one item per 10-link batch — redo one tool answe
 - There is no `type` field. Media type is a capitalized tag, conventionally last in the array. The complete set in use: `Podcast`, `Blog`, `Article`, `Video`, `Book`, `Paper`.
 - First tag is the file's category (`AI`, `Business`, `Engineering`, `History`, `People`). Person/source tags exist (e.g. `Manager Tools`, `Charity Majors`, `Leslie Lamport`).
 - Titles often carry a source prefix (`Manager Tools: ...`, `Honeycomb: ...`) or are descriptive (`Leslie Lamport interviewed about ...`). Match nearby entries.
+- Sanitize stored titles; they are searchable metadata, not verbatim transcriptions. Drop double quotes rather than JSON-escaping them (store `Russ Laraway Shares Why The Big 3 Are ...`, never `\"The Big 3\"`), and write `and` for `&` (`Layoffs, Interviewing and Career Growth`, `CircleCI and MongoDB`). Apply after resolving the canonical title, and keep the source page's wording otherwise intact.
 - The UI auto-appends the entry's year from `published`, so don't add year parentheticals like `(1982 lecture)` to titles.
 - Hacker News threads use the prefix `HN Discussion: <headline>` and conventionally carry no media-type tag.
 - If the requester includes shorthand notes about a link, use them: they capture why the link matters. Enrich the title with that nuance when the canonical title doesn't convey it (paraphrase, don't copy verbatim), and let the notes steer tags and placement.

@@ -5,8 +5,18 @@
   "feedUrl": "https://files.manager-tools.com/public/feeds/manager-tools-podcasts.xml",
   "homeUrl": "https://www.manager-tools.com",
   "canonicalPattern": "https://www.manager-tools.com/YYYY/MM/<slug>",
-  "episodeCount": 984,
+  "episodeCount": 988,
   "episodes": [
+    {
+      "title": "How To Prewire a Meeting - Part 2 (Hall of Fame Guidance)",
+      "published": "2026-08-31",
+      "url": "https://www.manager-tools.com/2026/08/how-prewire-meeting-part-2-hall-fame-guidance"
+    },
+    {
+      "title": "How To Prewire a Meeting - Part 1 (Hall of Fame Guidance)",
+      "published": "2026-08-24",
+      "url": "https://www.manager-tools.com/2026/08/how-prewire-meeting-part-1-hall-fame-guidance"
+    },
     {
       "title": "Coaching a Direct On Relationship Development - Part 2",
       "published": "2026-08-17",
@@ -3056,6 +3066,16 @@
       "title": "First Meeting New Direct Series - Tell The Truth - Part 1",
       "published": "2015-07-12",
       "url": "http://www.manager-tools.com/2015/07/first-meeting-new-direct-series-tell-truth-part-1"
+    },
+    {
+      "title": "How To Prewire a Meeting - Part 2 (Hall of Fame Guidance) (2026)",
+      "published": "2015-07-05",
+      "url": "https://www.manager-tools.com/2026/08/how-prewire-meeting-part-2-hall-fame-guidance"
+    },
+    {
+      "title": "How To Prewire a Meeting - Part 1 (Hall of Fame Guidance) (2026)",
+      "published": "2015-07-05",
+      "url": "https://www.manager-tools.com/2026/08/how-prewire-meeting-part-1-hall-fame-guidance"
     },
     {
       "title": "How to Prewire a Meeting",
