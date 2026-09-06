@@ -1,11 +1,11 @@
 ---
 name: add-favorite
-description: Add a new link to the favorites JSON collection with verified metadata. Use when adding one or more URLs to content/*.json, including canonical podcast URLs via the committed podcasts/ episode indexes, archive.org alternates, and reusing existing tags. Published-date resolution is owned by the resolve-published-date skill.
+description: Add a new link to the favorites collection with verified metadata. Use when adding one or more URLs to content/*.jsonld (schema.org ItemList; legacy content/*.json twins until they are removed), including canonical podcast URLs via the committed podcasts/ episode indexes, archive.org alternates, and reusing existing tags. Published-date resolution is owned by the resolve-published-date skill.
 ---
 
 # Add a favorite
 
-Add links to `content/*.json` so they pass `./validate-json.sh`, dedupe cleanly against `./count-urls.sh`, and match existing conventions.
+Add links to `content/*.jsonld` (schema.org ItemList storage, with legacy `content/*.json` twins until they are removed) so they pass `./validate-json.sh`, dedupe cleanly against `./count-urls.sh`, verify clean against the schema.org converter, and match existing conventions.
 
 ## Batch order
 
@@ -26,22 +26,27 @@ At random intervals — about one item per 10-link batch — redo one tool answe
 
 ## Entry schema
 
+Storage is schema.org JSON-LD: each `content/<category>.jsonld` is an `ItemList` whose `itemListElement` array holds one object per entry, in the same order as the legacy file. The legacy `content/<category>.json` files are the side-by-side source **until they are removed** (imminent): the `fav` CLI, `validate-json.sh`, and `count-urls.sh` still read `.json`. During the transition, add entries to `.json` exactly as before, then regenerate the twins with `go run tools/migrate-to-schema-org/main.go convert` and confirm `go run tools/migrate-to-schema-org/main.go verify` exits 0. After the `.json` files are removed, author the `.jsonld` objects directly (same mapping, no converter step).
+
 ```json
 {
-  "title": "Source: Title or descriptive title",
+  "@type": "PodcastEpisode",
+  "name": "Source: Title or descriptive title",
   "url": "https://canonical-url",
-  "alternate-url": "https://web.archive.org/web/<ts>/<url> or podcast mirror",
-  "published": "YYYY-MM-DD or null",
-  "tags": ["<FileCategory>", "Tag", "Podcast|Blog|Article|Video|Book|Paper"]
+  "archivedAt": "https://web.archive.org/web/<ts>/<url> or podcast mirror",
+  "datePublished": "YYYY-MM-DD or null",
+  "keywords": ["<FileCategory>", "Tag", "Podcast"]
 }
 ```
+
+Field mapping (converter-enforced; the legacy field names are used below for brevity): `title` → `name`, `url` → `url`, `alternate-url` → `archivedAt` (all alternates, including mirrors), `published` → `datePublished` (a null is emitted as `"datePublished": null`, not omitted), `tags` → `keywords` (order preserved, category first and media-type last as before). `@type` derives from the media-type tag: `Podcast` → PodcastEpisode, `Blog` → BlogPosting, `Article` → Article, `Video` → VideoObject, `Book` → Book, `Paper` → ScholarlyArticle, `TechArticle` → TechArticle; no recognized media tag falls back to `Article`; competing Book/Blog/Article tags resolve `Book > BlogPosting > Article`; independent types combine into an array in tag order (e.g. `["Book", "PodcastEpisode"]`).
 
 - `alternate-url` is optional; omit it when none exists. `published` is ISO `YYYY-MM-DD` or `null`.
 - `published` records the initial distribution/event date, not the file or upload timestamp. For blogs and web articles the two are highly correlated, but for videos of live events (conference talks, panels, recorded meetups) there can be a lag between the event and the upload — use the event date when known (month-precision `YYYY-MM-01` when only the month is verifiable), and note the upload date in the PR body. Resolve dates with the `resolve-published-date` skill, which owns the full evidence ladder (URL path → podcast indexes → page metadata → Wayback → Crossref → HN) and the precision rules.
 - `alternate-url` usually holds an archive.org snapshot or podcast mirror, but can hold a canonical reference page (e.g. Wikipedia for a book) when the requester asks for it.
 - `alternate-url` must be a *working copy*, not an archaeological reference: whatever is stored there should still serve the content to a reader. A bare URL known to be broken is not an acceptable alternate — wrap dead originals in their Wayback capture instead. `https://web.archive.org/web/<ts>/<original-url>` is strictly better than the bare broken URL: it keeps the original address visible inside the snapshot URL *and* it loads. Verify the chosen capture actually serves the content with `fav check` — a Wayback capture of an error page (a snapshotted 402/404) is not a working copy.
 - When the original link is defunct (dead site, error page, or redirect to unrelated content), make the archive.org snapshot the canonical `url` and omit the bare broken original from `alternate-url` (the snapshot URL already embeds it); if a *different* working copy exists (podcast mirror, moved canonical), that goes in `alternate-url`. Flag the defunct link in the PR body.
-- There is no `type` field. Media type is a capitalized tag, conventionally last in the array. The complete set in use: `Podcast`, `Blog`, `Article`, `Video`, `Book`, `Paper`.
+- There is no `type` field in the legacy schema; media type is a capitalized tag, conventionally last in the array, and the JSON-LD `@type` derives from it (mapping above). The complete set in use: `Podcast`, `Blog`, `Article`, `Video`, `Book`, `Paper`.
 - First tag is the file's category (`AI`, `Business`, `Engineering`, `History`, `People`). Person/source tags exist (e.g. `Manager Tools`, `Charity Majors`, `Leslie Lamport`).
 - Titles often carry a source prefix (`Manager Tools: ...`, `Honeycomb: ...`) or are descriptive (`Leslie Lamport interviewed about ...`). Match nearby entries.
 - Sanitize stored titles; they are searchable metadata, not verbatim transcriptions. Drop double quotes rather than JSON-escaping them (store `Russ Laraway Shares Why The Big 3 Are ...`, never `\"The Big 3\"`), and write `and` for `&` (`Layoffs, Interviewing and Career Growth`, `CircleCI and MongoDB`). Apply after resolving the canonical title, and keep the source page's wording otherwise intact.
@@ -121,6 +126,7 @@ When the repo has `graph/` and the `maintain-favorites-graph` skill, extract evi
 tools/fav/fav lint   # structure + normalized duplicates + tag conventions (strict superset)
 ./validate-json.sh   # jq syntax check on every content/*.json
 ./count-urls.sh      # per-file counts, total vs unique URLs, duplicate list
+go run tools/migrate-to-schema-org/main.go verify   # content/*.jsonld matches the .json sources exactly (every value + array order)
 ```
 
 The new URL must not already exist (count-urls.sh and `fav lint` both list duplicates). Dedupe before adding with `tools/fav/fav dedupe <url> [title words...]` — it matches normalized `url` and `alternate-url` (unwrapping Wayback snapshots, dropping utm params, collapsing www/scheme variants, and reducing YouTube URLs to the video id and Apple Podcasts URLs to the (show id, episode i) pair — host and slug variants can no longer hide duplicates) and prints the full stored records, not just a verdict; fallback: grep `content/` for the URL and title keywords. List any skipped duplicates in the PR body. `fav lint` also surfaces pre-existing data debt as warnings — report warnings your own entries introduce, but don't treat repo-wide legacy warnings as blockers.
