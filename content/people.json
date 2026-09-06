@@ -3238,6 +3238,31 @@
         "Radical Candor",
         "Podcast"
       ]
+    },
+    {
+      "title": "Level Up Engineering: Guide to Building Cross-Functional Collaboration in Software Engineering",
+      "url": "https://www.apexlab.io/podcast/cross-functional-collaboration",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/level-up-engineering/id1482889491?i=1000574913111",
+      "published": "2022-08-03",
+      "tags": [
+        "People",
+        "Collaboration",
+        "Team",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Manager Tools: How To Handle A Sudden Demotion",
+      "url": "https://www.manager-tools.com/2024/02/how-handle-sudden-demotion",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/manager-tools/id74198801?i=1000645052644",
+      "published": "2024-02-12",
+      "tags": [
+        "People",
+        "Management",
+        "Manager Tools",
+        "Career",
+        "Podcast"
+      ]
     }
   ]
 }

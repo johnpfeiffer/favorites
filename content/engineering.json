@@ -1935,6 +1935,40 @@
         "Tanya Janca",
         "Podcast"
       ]
+    },
+    {
+      "title": "The Pragmatic Engineer: Code Complete with Steve McConnell",
+      "url": "https://newsletter.pragmaticengineer.com/p/code-complete-with-steve-mcconnell",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000725919628",
+      "published": "2025-09-10",
+      "tags": [
+        "Engineering",
+        "Quality",
+        "Steve McConnell",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "GOTO: When To Use Microservices (And When Not) - Sam Newman",
+      "url": "https://podcasts.apple.com/us/podcast/when-to-use-microservices-and-when-not-sam-newman/id1559093928?i=1000514252180",
+      "published": "2021-03-24",
+      "tags": [
+        "Engineering",
+        "Microservices",
+        "Sam Newman",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Kent Beck: Explore Then Expand Then Extract",
+      "url": "https://newsletter.kentbeck.com/p/explore-then-expand-then-extract",
+      "alternate-url": "https://tidyfirst.substack.com/p/explore-then-expand-then-extract",
+      "published": "2025-12-04",
+      "tags": [
+        "Engineering",
+        "Kent Beck",
+        "Blog"
+      ]
     }
   ]
 }
