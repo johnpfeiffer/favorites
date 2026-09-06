@@ -597,6 +597,21 @@
         "Steve Yegge",
         "Podcast"
       ]
+    },
+    {
+      "title": "AI Engineer: Building Closed-Loop Evals for a Multimodal Agent at Scale (Soumya Gupta & Jai Chopra, Uber)",
+      "url": "https://www.youtube.com/watch?v=31GUkCBD-Uc",
+      "alternate-url": "https://web.archive.org/web/20260807155947/https://www.youtube.com/watch?v=31GUkCBD-Uc",
+      "published": "2026-07-24",
+      "tags": [
+        "AI",
+        "Agents",
+        "Evals",
+        "Uber",
+        "Soumya Gupta",
+        "Jai Chopra",
+        "Video"
+      ]
     }
   ]
 }
