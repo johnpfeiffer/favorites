@@ -2035,6 +2035,21 @@
         "Anti-Patterns",
         "Blog"
       ]
+    },
+    {
+      "title": "Dev Interrupted: Why Are Teams Only Aligned During a Crisis? (CircleCI & MongoDB)",
+      "url": "https://linearb.io/dev-interrupted/podcast/why-are-teams-only-aligned-during-a-crisis",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/dev-interrupted/id1537003676?i=1000695657611",
+      "published": "2025-02-25",
+      "tags": [
+        "Engineering",
+        "Metrics",
+        "DevOps",
+        "LinearB",
+        "Rob Zuber",
+        "Tara Hernandez",
+        "Podcast"
+      ]
     }
   ]
 }
