@@ -2322,6 +2322,7 @@
     {
       "title": "The Knowledge Project: Shreyas Doshi - Better Teams, Better Products (#175)",
       "url": "https://fs.blog/knowledge-project-podcast/shreyas-doshi/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000626771622",
       "published": "2023-09-05",
       "tags": [
         "People",
@@ -3276,6 +3277,72 @@
         "Management",
         "Manager Tools",
         "Leadership",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Level Up Engineering: Engineering Productivity - How Two Sigma Keeps Developers Engaged (Camille Fournier)",
+      "url": "https://www.apexlab.io/podcast/engineering-productivity/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/level-up-engineering/id1482889491?i=1000463333165",
+      "published": "2020-01-22",
+      "tags": [
+        "People",
+        "Engineering Management",
+        "Productivity",
+        "Goals",
+        "Camille Fournier",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Front End Happy Hour: How Promotions Really Work in Tech (Episode 209)",
+      "url": "https://www.frontendhappyhour.com/episodes/how-promotions-really-work-in-tech",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/front-end-happy-hour/id1089047924?i=1000668963766",
+      "published": "2024-09-10",
+      "tags": [
+        "People",
+        "Career",
+        "Career Development",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Effective Engineering Manager: Driving Lasting Change in Engineering Organizations with Manju Abraham",
+      "url": "https://www.effectiveem.com/manju-abraham-drive-lasting-change-in-engineering-organizations/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/effective-engineering-manager/id1535585856?i=1000722250659",
+      "published": "2025-08-17",
+      "tags": [
+        "People",
+        "Engineering Management",
+        "Change Management",
+        "Manju Abraham",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Radical Candor: Why Your Meetings Suck (And How to Fix Them) with Dr. Steven Rogelberg (S6E37)",
+      "url": "https://www.radicalcandor.com/podcast/steve-rogelberg-meetings-6-37/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/why-your-meetings-suck-and-how-to-fix-them-insights/id1188489488?i=1000670622923",
+      "published": "2024-09-25",
+      "tags": [
+        "People",
+        "Radical Candor",
+        "Meetings",
+        "Communication",
+        "Steven Rogelberg",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Radical Candor: The Billion-Dollar Cost of Bad Meetings (S7E35)",
+      "url": "https://www.radicalcandor.com/podcast/cost-of-bad-meetings-7-35",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/the-billion-dollar-cost-of-bad-meetings-7-35/id1188489488?i=1000723685414",
+      "published": "2025-08-27",
+      "tags": [
+        "People",
+        "Radical Candor",
+        "Meetings",
+        "Communication",
         "Podcast"
       ]
     }

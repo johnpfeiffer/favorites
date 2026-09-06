@@ -1997,6 +1997,44 @@
         "Ruslan Belkin",
         "Podcast"
       ]
+    },
+    {
+      "title": "SE Radio 520: John Ousterhout on A Philosophy of Software Design",
+      "url": "https://se-radio.net/2022/07/episode-520-john-ousterhout-on-a-philosophy-of-software-design/",
+      "alternate-url": "https://web.archive.org/web/20260218235439/https://se-radio.net/2022/07/episode-520-john-ousterhout-on-a-philosophy-of-software-design/",
+      "published": "2022-07-12",
+      "tags": [
+        "Engineering",
+        "Software Design",
+        "Complexity",
+        "John Ousterhout",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "John Ousterhout: The Nature of Complexity - Stanford CS 190 Software Design Studio lecture notes, Winter 2018",
+      "url": "https://web.stanford.edu/~ouster/cgi-bin/cs190-winter18/lecture.php?topic=complexity",
+      "alternate-url": "https://web.archive.org/web/20260316022855/https://web.stanford.edu/~ouster/cgi-bin/cs190-winter18/lecture.php?topic=complexity",
+      "published": "2018-01-10",
+      "tags": [
+        "Engineering",
+        "Software Design",
+        "Complexity",
+        "John Ousterhout",
+        "Article"
+      ]
+    },
+    {
+      "title": "Swizec: Big Ball of Mud - the world's most popular software architecture",
+      "url": "https://swizec.com/blog/big-ball-of-mud-the-worlds-most-popular-software-architecture",
+      "alternate-url": "https://web.archive.org/web/20260614100514/https://swizec.com/blog/big-ball-of-mud-the-worlds-most-popular-software-architecture/",
+      "published": "2024-11-06",
+      "tags": [
+        "Engineering",
+        "Architecture",
+        "Anti-Patterns",
+        "Blog"
+      ]
     }
   ]
 }
