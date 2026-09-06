@@ -1091,6 +1091,38 @@
     {
       "id": "CC808C0E-90E3-4ABE-8E68-9B19F96A8F54",
       "name": "The Reboot Podcast"
+    },
+    {
+      "id": "F6056ACC-F287-428C-B7CD-4D4B5B8106F2",
+      "name": "Will Larson"
+    },
+    {
+      "id": "E78F1B0F-EA78-47A3-AFD9-4722AAF37E7C",
+      "name": "Staff Engineer: Leadership Beyond the Management Track"
+    },
+    {
+      "id": "45FAC783-D7A7-4F26-94A2-3A7D503D20D2",
+      "name": "Bob Moesta"
+    },
+    {
+      "id": "61AA7B2E-36CF-4C19-9417-90FF42FF486F",
+      "name": "Job Moves"
+    },
+    {
+      "id": "E6B4496A-1CEA-4AAD-BC66-677A25C7B608",
+      "name": "Rob Zuber"
+    },
+    {
+      "id": "881B10FB-635C-4F31-965F-916740E8DDF7",
+      "name": "CircleCI"
+    },
+    {
+      "id": "B69CC502-1735-4556-B6BE-A24D9CABF4AA",
+      "name": "Tara Hernandez"
+    },
+    {
+      "id": "B1B1879E-2B60-495D-90DD-770BDF77D8AB",
+      "name": "MongoDB"
     }
   ]
 }

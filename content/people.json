@@ -3345,6 +3345,70 @@
         "Communication",
         "Podcast"
       ]
+    },
+    {
+      "title": "Radical Candor: Temple Grandin On Why Clarity is the Key to Candor (S7E7)",
+      "url": "https://www.radicalcandor.com/podcast/temple-grandin-7-7",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/radical-candor-communication-at-work/id1188489488?i=1000691327320",
+      "published": "2025-02-12",
+      "tags": [
+        "People",
+        "Radical Candor",
+        "Communication",
+        "Temple Grandin",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Lenny's Podcast: Become a better communicator: Specific frameworks to improve your clarity, influence, and impact (Wes Kao)",
+      "url": "https://www.lennysnewsletter.com/p/become-a-better-communicator-specific",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-growth-career/id1627920305?i=1000702370844",
+      "published": "2025-04-06",
+      "tags": [
+        "People",
+        "Communication",
+        "Wes Kao",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Lenny's Podcast: How to find work you love (Bob Moesta)",
+      "url": "https://www.lennysnewsletter.com/p/how-to-find-work-you-love-bob-moesta",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-growth-career/id1627920305?i=1000695264887",
+      "published": "2025-02-23",
+      "tags": [
+        "People",
+        "Career Development",
+        "Jobs To Be Done",
+        "Bob Moesta",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Tech Lead Journal: The Staff+ Engineer's Journey: Unlocking the Secrets of Staff+ Impact (Thiago Ghisi, #190)",
+      "url": "https://techleadjournal.dev/episodes/190/",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/tech-lead-journal/id1523421550?i=1000668875294",
+      "published": "2024-09-09",
+      "tags": [
+        "People",
+        "Career Development",
+        "Staff Engineer",
+        "Thiago Ghisi",
+        "Podcast"
+      ]
+    },
+    {
+      "title": "Dev Interrupted: Defining the Role of Staff Engineer (Will Larson)",
+      "url": "https://linearb.io/dev-interrupted/podcast/defining-the-role-of-staff-engineer",
+      "alternate-url": "https://podcasts.apple.com/us/podcast/dev-interrupted/id1537003676?i=1000516047529",
+      "published": "2021-04-06",
+      "tags": [
+        "People",
+        "Career Development",
+        "Staff Engineer",
+        "Will Larson",
+        "Podcast"
+      ]
     }
   ]
 }
