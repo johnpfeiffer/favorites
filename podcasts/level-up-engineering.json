@@ -1,0 +1,506 @@
+{
+  "show": "Level-up Engineering",
+  "slug": "level-up-engineering",
+  "appleId": 1482889491,
+  "feedUrl": "https://feeds.captivate.fm/level-up-engineering/",
+  "homeUrl": "https://www.apexlab.io/podcast",
+  "canonicalPattern": "https://www.apexlab.io/podcast/<slug>",
+  "episodeCount": 99,
+  "episodes": [
+    {
+      "title": "Building a new engineering team by turning another one around - Tips from Tinder",
+      "published": "2024-10-16",
+      "url": "https://www.apexlab.io/podcast/engineering-teams"
+    },
+    {
+      "title": "Scaling Startups: Behind the Scenes of Fleetio’s Growth",
+      "published": "2024-09-18",
+      "url": "https://www.apexlab.io/podcast/scaling-startups"
+    },
+    {
+      "title": "Beyond the Bias: The Truth About Remote Work vs. Returning to the Office",
+      "published": "2024-05-15",
+      "url": "https://www.apexlab.io/podcast/remote-work-vs-office"
+    },
+    {
+      "title": "Core Engineering Principles for Customer-Centric Design",
+      "published": "2024-04-17",
+      "url": "https://www.apexlab.io/podcast/engineering-principles"
+    },
+    {
+      "title": "We’ve Adopted Modern Practices, Why isn’t Product Development Great yet? - Challenges in Product Development",
+      "published": "2024-03-13",
+      "url": "https://www.apexlab.io/podcast/challenges-in-product-development"
+    },
+    {
+      "title": "Behind the scenes of a successful mentoring program - Mentoring tips for tech leaders",
+      "published": "2024-02-07",
+      "url": "https://www.apexlab.io/podcast/mentoring-tips"
+    },
+    {
+      "title": "Leave Toxic Work Environments in 2023: Spotting and Fixing Unhealthy Work Cultures",
+      "published": "2024-01-24",
+      "url": "https://www.apexlab.io/podcast/toxic-work-environment"
+    },
+    {
+      "title": "Implementing Agile in Big Corporations - Proven Tips from Salesforce",
+      "published": "2024-01-10",
+      "url": "https://www.apexlab.io/podcast/implementing-agile"
+    },
+    {
+      "title": "Open Source Stories: How OSS Developers and Communities Shape the Future of Software Engineering",
+      "published": "2023-12-13",
+      "url": "https://www.apexlab.io/podcast/future-of-open-source"
+    },
+    {
+      "title": "How to be a Great Leader and Manager: Strategies to Improve your Team - and their Results",
+      "published": "2023-11-29",
+      "url": "https://www.apexlab.io/podcast/how-to-be-a-good-leader-and-manager"
+    },
+    {
+      "title": "From IC to CEO: Software Engineer Career Development",
+      "published": "2023-11-15",
+      "url": "https://www.apexlab.io/podcast/software-engineer-career-development"
+    },
+    {
+      "title": "AI Deployment 101: The Considerations of Safely Deploying AI in the Enterprise",
+      "published": "2023-11-01",
+      "url": "https://www.apexlab.io/podcast/ai-deployment"
+    },
+    {
+      "title": "Communicating Your Engineering Team’s Impact at Work - Tips for Leaders",
+      "published": "2023-10-18",
+      "url": "https://www.apexlab.io/podcast/engineering-team-impact"
+    },
+    {
+      "title": "Open source advocacy: The benefits of open source software",
+      "published": "2023-10-11",
+      "url": "https://www.apexlab.io/podcast/benefits-of-open-source-software/"
+    },
+    {
+      "title": "Books for software engineers: Nature-inspired ways to scale software delivery",
+      "published": "2023-09-27",
+      "url": "https://www.apexlab.io/podcast/books-for-software-engineers"
+    },
+    {
+      "title": "Managing Workplace Stress via Breathing Techniques",
+      "published": "2023-04-12",
+      "url": "https://www.apexlab.io/podcast"
+    },
+    {
+      "title": "Building and Running Teams That Prioritize Innovation",
+      "published": "2023-03-08",
+      "url": "https://www.apexlab.io/podcast"
+    },
+    {
+      "title": "The Ultimate Guide to Building Successful Analytics Engineering Teams",
+      "published": "2023-02-15",
+      "url": "https://codingsans.com/blog/analytics-engineering?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "How to Prevent Quiet Quitting - Setting Healthy Boundaries at Work",
+      "published": "2023-02-01",
+      "url": "https://codingsans.com/blog/how-to-prevent-quiet-quitting?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "How to Deal With Information Overload - A Leader’s Guide to Managing Communications",
+      "published": "2023-01-11",
+      "url": "https://codingsans.com/blog/how-to-deal-with-information-overload?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Process Management 101: The Secrets of Efficient and Engaging Processes",
+      "published": "2022-11-30",
+      "url": "https://codingsans.com/blog/process-management?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Manage Your Energy, Not Your Time - A Leader’s Guide to Energy Management",
+      "published": "2022-11-09",
+      "url": "https://codingsans.com/blog/manage-your-energy-not-your-time?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "How to Choose the Right Tech Stack - A Leader’s Guide to Digital Transformation",
+      "published": "2022-10-26",
+      "url": "https://codingsans.com/blog/how-to-choose-tech-stack?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "The Ultimate Guide to Building High-Performance Teams in Tech",
+      "published": "2022-10-12",
+      "url": "https://codingsans.com/blog/building-high-performance-teams?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "How to Start a DAO in the DeFi Space - Building 1inch Network",
+      "published": "2022-09-29",
+      "url": "https://codingsans.com/blog/how-to-start-a-dao?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Leadership Stories from Blockdaemon, the Top Blockchain Infrastructure Scaleup",
+      "published": "2022-09-14",
+      "url": "https://codingsans.com/blog/leadership-stories-blockdaemon-lloyd-moore?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "The Manager’s Role in Engineer Coaching and Career Development",
+      "published": "2022-08-31",
+      "url": "https://codingsans.com/blog/engineer-coaching?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "OKR Performance Management for Value-Driven Teams - Case Study from EA Games",
+      "published": "2022-08-17",
+      "url": "https://codingsans.com/blog/okr-performance-management?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Guide to Building Cross-Functional Collaboration In Software Engineering",
+      "published": "2022-08-03",
+      "url": "https://codingsans.com/blog/cross-functional-collaboration?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Screw SCRUM: Guide to Building a Truly Agile Organization",
+      "published": "2022-07-20",
+      "url": "https://codingsans.com/blog/agile-organization?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "The Secret to Productive IT Audits: Master the Process",
+      "published": "2022-07-06",
+      "url": "https://codingsans.com/blog/it-audit?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "How to Manage Culture Change in the Workplace as Your Team Grows",
+      "published": "2022-06-22",
+      "url": "https://codingsans.com/blog/culture-change-in-the-workplace?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Engineering Management Trends 2022",
+      "published": "2022-06-08",
+      "url": "https://codingsans.com/blog/engineering-management?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "How to Improve Employee Retention During the Great Resignation",
+      "published": "2022-05-25",
+      "url": "https://codingsans.com/blog/how-to-improve-employee-retention?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Behind the Scenes of Building a Star Wars FPS - Video Game Engineering Stories",
+      "published": "2022-05-11",
+      "url": "https://codingsans.com/blog/video-game-engineering?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Platform Engineering 101: Takeaways from Building Internal Tools at HubSpot",
+      "published": "2022-04-27",
+      "url": "https://codingsans.com/blog/platform-engineering?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Top Methods for Building Trust in Virtual Teams",
+      "published": "2022-04-13",
+      "url": "https://codingsans.com/blog/building-trust-in-virtual-teams?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Software Engineering Ethics Manifesto by Uncle Bob Martin",
+      "published": "2022-03-30",
+      "url": "https://codingsans.com/blog/software-engineering-ethics?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Guide to Improve Organizational Decision Making: Restructuring Foursquare",
+      "published": "2022-03-16",
+      "url": "https://codingsans.com/blog/organizational-decision-making?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Customer Obsession in Action - Case Study from Mailchimp",
+      "published": "2022-03-02",
+      "url": "https://codingsans.com/blog/customer-obsession?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "From Manager to Director: Guide to Managing Managers",
+      "published": "2022-02-16",
+      "url": "https://codingsans.com/blog/managing-managers?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "How to Lead with Empathy in a Remote Environment",
+      "published": "2022-02-02",
+      "url": "https://codingsans.com/blog/leading-with-empathy?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "The Ultimate Guide to Prepare Your Team to Scale",
+      "published": "2022-01-19",
+      "url": "https://codingsans.com/blog/scale-team?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Principles of Decision Making: User’s Manual to Leadership",
+      "published": "2022-01-05",
+      "url": "https://codingsans.com/blog/principles-of-decision-making?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Guide to Leadership and Work-Life Balance for You and Your Team",
+      "published": "2021-12-15",
+      "url": "https://codingsans.com/blog/leadership-and-work-life-balance?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "The Secrets of Productive Virtual Offsites - Tips from GitHub",
+      "published": "2021-12-01",
+      "url": "https://codingsans.com/blog/virtual-offsite?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Scaling Your Leadership with Your Company: Case Study from Prezi",
+      "published": "2021-11-17",
+      "url": "https://codingsans.com/blog/leadership-stories?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Managing Platform Teams: How to Build and Structure Platform Engineering?",
+      "published": "2021-11-03",
+      "url": "https://codingsans.com/blog/managing-platform-teams?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "The Importance of Writing in Software Engineering",
+      "published": "2021-10-20",
+      "url": "https://codingsans.com/blog/importance-of-writing?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Leadership and Systems Thinking: Clear Sight for Complex Decisions",
+      "published": "2021-10-06",
+      "url": "https://codingsans.com/blog/systems-thinking?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Scaling your Team and Product: Leadership Stories from Product Hunt",
+      "published": "2021-09-22",
+      "url": "https://codingsans.com/blog/leadership-stories?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Creating an Internship Program for Software Engineers - Case Study from Redbubble",
+      "published": "2021-09-08",
+      "url": "https://codingsans.com/blog/creating-an-internship-program?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Performance Review: Build Your Process and Master Feedback Delivery",
+      "published": "2021-08-25",
+      "url": "https://codingsans.com/blog/performance-review?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "How to Engage Remote Employees: Tips to Lead Distributed Teams",
+      "published": "2021-08-04",
+      "url": "https://codingsans.com/blog/how-to-engage-remote-employees?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Leadership Stories from Slack by Michael Lopp",
+      "published": "2021-07-14",
+      "url": "https://codingsans.com/blog/leadership-stories?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "How to Hire Entrepreneurial Engineers and Why You Need Them",
+      "published": "2021-06-30",
+      "url": "https://codingsans.com/blog/entrepreneurial-engineers?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "How to Keep Remote Meetings Productive and Your Schedule Under Control",
+      "published": "2021-06-16",
+      "url": "https://codingsans.com/blog/remote-meeting?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Building Self-Managed Teams: A Case Study from Riot Games",
+      "published": "2021-06-02",
+      "url": "https://codingsans.com/blog/self-managed-teams?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Software Development Trends 2021",
+      "published": "2021-05-19",
+      "url": "https://codingsans.com/blog/software-development-trends?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Managing Hybrid Teams: How to Keep Your Team Engaged and Productive",
+      "published": "2021-04-28",
+      "url": "https://codingsans.com/blog/hybrid-team?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Leadership in Hypergrowth: A Case Study from Shapr3D",
+      "published": "2021-03-31",
+      "url": "https://codingsans.com/blog/hypergrowth?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "From Engineer to CEO: How to Start a Tech Company",
+      "published": "2021-03-17",
+      "url": "https://codingsans.com/blog/how-to-start-a-tech-company?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Leadership Soft Skills: Master Your Own Mind to Lead Your Team to Success",
+      "published": "2021-02-17",
+      "url": "https://codingsans.com/blog/leadership-soft-skills?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Remote Onboarding: How to Save New Hires from Social Isolation",
+      "published": "2021-02-03",
+      "url": "https://codingsans.com/blog/remote-onboarding?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Improve Team Performance and Turn Around Underachieving Engineering Teams",
+      "published": "2021-01-20",
+      "url": "https://codingsans.com/blog/improve-team-performance?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Knowledge Sharing: A Sneak Peek into Facebook’s Engineering Teams",
+      "published": "2021-01-06",
+      "url": "https://codingsans.com/blog/knowledge-sharing?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "The Ultimate Skip Level Meeting Guide for Leaders",
+      "published": "2020-12-09",
+      "url": "https://codingsans.com/blog/skip-level-meeting?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Managing for Happiness: Tips to Run a Productive Engineering Team",
+      "published": "2020-11-25",
+      "url": "https://codingsans.com/blog/managing-for-happiness?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Software Engineer Resume: Tips to Get in the Door at Hot Tech Companies",
+      "published": "2020-11-11",
+      "url": "https://codingsans.com/blog/software-engineer-resume?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "How to Make the Spotify Model Work for You - Hint: Don’t Copy Blindly",
+      "published": "2020-10-28",
+      "url": "https://codingsans.com/blog/spotify-model?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Software Engineer Career Ladder: Don’t Copy-Paste, Make Your Own!",
+      "published": "2020-10-14",
+      "url": "https://codingsans.com/blog/software-engineer-career-ladder?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Diversity in Recruiting: Road to Inclusion in Tech",
+      "published": "2020-09-30",
+      "url": "https://codingsans.com/blog/diversity-in-recruiting?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "From Junior to Senior Developer and Beyond: Farhan Thawar (VP of Engineering, Shopify)",
+      "published": "2020-09-16",
+      "url": "https://codingsans.com/blog/from-junior-to-senior-developer?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "GitHub's Feedback Culture: Ryan Nystrom (Director of Engineering, GitHub)",
+      "published": "2020-09-02",
+      "url": "https://codingsans.com/blog/feedback-culture?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "One-on-One Meeting Guide: James Stanier (SVP of Engineering, Brandwatch)",
+      "published": "2020-08-19",
+      "url": "https://codingsans.com/blog/one-on-one-meeting?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "HubSpot's Secret for Onboarding Engineering Leaders: Nadia Alramli (Engineering Director, HubSpot)",
+      "published": "2020-08-05",
+      "url": "https://codingsans.com/blog/engineering-leader-onboarding?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Antifragile - Manage Your Team Under Pressure: Adam Wolff (VP of Engineering, Robinhood)",
+      "published": "2020-07-22",
+      "url": "https://codingsans.com/blog/antifragile-leadership-under-pressure?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Engineering Leadership 101: Michael Lopp aka \"Rands\"",
+      "published": "2020-07-08",
+      "url": "https://codingsans.com/blog/engineering-leadership?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Build Your Employer Brand In Engineering: Sarah Wells (Technical Director, Financial Times)",
+      "published": "2020-06-24",
+      "url": "https://codingsans.com/blog/engineering-brand?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Time Management Masterclass for Engineering Managers: Matt Martin (CEO, Clockwise)",
+      "published": "2020-06-10",
+      "url": "https://codingsans.com/blog/time-management-for-managers?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "How to Create a Culture Document: Rob Volk (CEO, Foxbox Digital)",
+      "published": "2020-05-27",
+      "url": "https://codingsans.com/blog/culture-document?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "3 Leadership Styles for a Productive Engineering Team: Shawn Fair (Leadership Coach, CEO, Fair Consulting Group)",
+      "published": "2020-05-20",
+      "url": "https://codingsans.com/blog/leadership-styles?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Social Engineering: Olivia Liddell (Technical Curriculum Developer at Amazon Web Services)",
+      "published": "2020-05-13",
+      "url": "https://codingsans.com/blog/social-engineering-building-effective-teams?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Leading vs Managing: András Fincza (VP of Engineering at Emarsys)",
+      "published": "2020-04-29",
+      "url": "https://codingsans.com/blog/leading-vs-managing?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Clean Code for Managers: Robert C. Martin, a.k.a. Uncle Bob",
+      "published": "2020-04-22",
+      "url": "https://codingsans.com/blog/clean-code?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Transition from Engineer to Manager: Jeff Perry, Engineering Leadership Coach",
+      "published": "2020-04-15",
+      "url": "https://codingsans.com/blog/transition-engineer-manager?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Software Development Trends 2020: Camille Fournier and Juan Pablo Buriticá",
+      "published": "2020-04-01",
+      "url": "https://codingsans.com/blog/software-development-trends-2020?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "First 100 Days as an Engineering Leader: Steven McCord (SVP of Technology at WhyHotel)",
+      "published": "2020-03-18",
+      "url": "https://codingsans.com/blog/first-100-days-as-a-tech-leader?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Engineering Culture: Sally Lait (Senior Engineering Manager at Monzo)",
+      "published": "2020-03-04",
+      "url": "https://codingsans.com/blog/engineering-culture-monzo?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Recruiting Engineers: Greg Sabo (Engineering Manager at Asana)",
+      "published": "2020-02-19",
+      "url": "https://codingsans.com/blog/recruiting-engineers?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Handling Conflicts, Giving Feedback: Tom Bartel (Engineering Manager at Trivago)",
+      "published": "2020-02-05",
+      "url": "https://codingsans.com/blog/handling-conflicts-giving-feedback?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Engineering Productivity: Camille Fournier (Managing Director at Two Sigma)",
+      "published": "2020-01-22",
+      "url": "https://codingsans.com/blog/engineering-productivity?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Scaling Distributed Engineering Team: Juan Pablo Buriticá (ex-VP of Engineering at Splice)",
+      "published": "2020-01-07",
+      "url": "https://codingsans.com/blog/scaling-distributed-engineering-team?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Managing Distributed Developer Teams: Tim Olshansky (VP of Engineering at Zenput)",
+      "published": "2019-12-17",
+      "url": "https://codingsans.com/blog/distributed-developer-teams?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Training Engineering Managers: Matt Greenberg (CTO at Reforge, ex-VPE at Credit Karma)",
+      "published": "2019-12-04",
+      "url": "https://codingsans.com/blog/training-engineering-managers?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Creating Psychological Safety: Dan Rummel (Senior Director of Engineering at One Medical)",
+      "published": "2019-10-29",
+      "url": "https://codingsans.com/blog/psychological-safety?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Managing Remote Teams: Katie Womersley (VP of Engineering at Buffer)",
+      "published": "2019-10-03",
+      "url": "https://codingsans.com/blog/managing-remote-developer-teams?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Scaling Developer Teams: Rich Archbold (Senior Director of Engineering at Intercom)",
+      "published": "2019-09-30",
+      "url": "https://codingsans.com/blog/scaling-developer-teams?utm_source=Podcast&utm_medium=platforms"
+    },
+    {
+      "title": "Mentoring Developers: Gergely Orosz (Engineering Manager at Uber)",
+      "published": "2019-09-30",
+      "url": "https://codingsans.com/blog/mentoring-developers?utm_source=Podcast&utm_medium=platforms"
+    }
+  ]
+}

@@ -198,6 +198,15 @@
       "homeUrl": "https://www.acquired.fm",
       "canonicalPattern": "https://www.acquired.fm/episodes/<slug>",
       "notes": "Transistor feed; item links point at acquired.fm episode pages. Recurs heavily in history.json (company histories). Feed pubDates are Pacific-time while acquired.fm renders UTC, so index dates can read one day earlier than the acquired.fm date, which is the stored canonical."
+    },
+    {
+      "slug": "level-up-engineering",
+      "name": "Level-up Engineering",
+      "appleId": 1482889491,
+      "feedUrl": "https://feeds.captivate.fm/level-up-engineering/",
+      "homeUrl": "https://www.apexlab.io/podcast",
+      "canonicalPattern": "https://www.apexlab.io/podcast/<slug>",
+      "notes": "Captivate feed, 99 episodes. Link host split from the 2024 rebrand (show was Coding Sans before Apex Lab): the newest ~17 items link to apexlab.io/podcast/<slug>, the older ~82 to codingsans.com/blog/<slug> — codingsans.com now returns HTTP 402, so use the apexlab.io episode page as canonical (stored entries do) even though the index records the feed's codingsans link for old episodes. Episode-page titles can differ from Apple trackNames, and the pages' rel=canonical misconfiguredly points at the apexlab.io root — ignore it. The podcast archive paginates at apexlab.io/podcast/<n>/."
     }
   ]
 }
