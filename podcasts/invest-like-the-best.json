@@ -5,8 +5,18 @@
   "feedUrl": "https://feeds.megaphone.fm/CLS2859450455",
   "homeUrl": "https://joincolossus.com",
   "canonicalPattern": "https://joincolossus.com/episodes/<numeric-id>/<slug>",
-  "episodeCount": 593,
+  "episodeCount": 595,
   "episodes": [
+    {
+      "title": "Sarah Guo - Funding the Frontier - [Invest Like the Best, EP.489]",
+      "published": "2026-09-01",
+      "url": "https://colossus.com/episode/no-priors-just-conviction/"
+    },
+    {
+      "title": "Neil Movva - Making AI 10x Cheaper - [Invest Like the Best, EP.488]",
+      "published": "2026-08-25",
+      "url": "https://colossus.com/episode/from-transistor-to-token/"
+    },
     {
       "title": "Ben Thompson on Big Tech, China, and the AI Boom Running Out of Money - [Invest Like the Best, EP.487]",
       "published": "2026-08-18",

@@ -5,8 +5,28 @@
   "feedUrl": "https://anchor.fm/s/8c1524bc/podcast/rss",
   "homeUrl": "https://www.ycombinator.com/library",
   "canonicalPattern": "https://www.ycombinator.com/library/<id>-<slug>",
-  "episodeCount": 334,
+  "episodeCount": 338,
   "episodes": [
+    {
+      "title": "Paul Graham On Startups, Ambition, and Great Founders",
+      "published": "2026-09-05",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Paul-Graham-On-Startups--Ambition--and-Great-Founders-e3obvrh"
+    },
+    {
+      "title": "The World’s Largest Electric Aircraft Just Flew",
+      "published": "2026-09-04",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/The-Worlds-Largest-Electric-Aircraft-Just-Flew-e3obnda"
+    },
+    {
+      "title": "Max Junestrand: You Need The Willingness To Learn Faster Than Anyone Else",
+      "published": "2026-08-29",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Max-Junestrand-You-Need-The-Willingness-To-Learn-Faster-Than-Anyone-Else-e3o19d4"
+    },
+    {
+      "title": "Susan Kare: Designing Icons & Graphics For the Original Mac",
+      "published": "2026-08-28",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Susan-Kare-Designing-Icons--Graphics-For-the-Original-Mac-e3ndt32"
+    },
     {
       "title": "Chelsea Finn: This is the State of the Art in Robotics",
       "published": "2026-08-13",

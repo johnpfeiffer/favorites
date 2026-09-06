@@ -5,8 +5,18 @@
   "feedUrl": "https://feeds.transistor.fm/fallthrough",
   "homeUrl": "https://fallthrough.fm",
   "canonicalPattern": "https://fallthrough.transistor.fm/<episode-number>",
-  "episodeCount": 89,
+  "episodeCount": 91,
   "episodes": [
+    {
+      "title": "A Record of One's Own",
+      "published": "2026-09-05",
+      "url": "https://fallthrough.fm/87"
+    },
+    {
+      "title": "Be Kind, Rewind",
+      "published": "2026-08-29",
+      "url": "https://fallthrough.fm/86"
+    },
     {
       "title": "A Modest Proposal Proposal",
       "published": "2026-08-22",

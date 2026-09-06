@@ -5,8 +5,13 @@
   "feedUrl": "https://podcast.darknetdiaries.com",
   "homeUrl": "https://darknetdiaries.com",
   "canonicalPattern": "https://darknetdiaries.com/episode/<n>/",
-  "episodeCount": 179,
+  "episodeCount": 180,
   "episodes": [
+    {
+      "title": "179: The Courthouse - Revisited",
+      "published": "2026-09-01",
+      "url": "https://darknetdiaries.com/episode/179/"
+    },
     {
       "title": "LOW - Trailer",
       "published": "2026-08-06",

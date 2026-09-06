@@ -5,8 +5,18 @@
   "feedUrl": "https://anchor.fm/s/106346b90/podcast/rss",
   "homeUrl": "https://www.developing.dev",
   "canonicalPattern": "https://www.developing.dev/p/<slug>",
-  "episodeCount": 63,
+  "episodeCount": 65,
   "episodes": [
+    {
+      "title": "Creator of Scala: Comparing Languages And How AI Will Impact Them | Martin Odersky",
+      "published": "2026-08-31",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Creator-of-Scala-Comparing-Languages-And-How-AI-Will-Impact-Them--Martin-Odersky-e3njal1"
+    },
+    {
+      "title": "Sergey Levine: Current State of Humanoid Robotics, China & Future Predictions",
+      "published": "2026-08-24",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Sergey-Levine-Current-State-of-Humanoid-Robotics--China--Future-Predictions-e3nlto1"
+    },
     {
       "title": "Creator of TypeScript: 10x Faster Typescript, Why AI Won't Replace SWEs | Anders Hejlsberg",
       "published": "2026-08-17",

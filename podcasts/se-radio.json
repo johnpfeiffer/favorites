@@ -5,8 +5,18 @@
   "feedUrl": "https://rss.libsyn.com/shows/21070/destinations/23379.xml",
   "homeUrl": "https://se-radio.net",
   "canonicalPattern": "https://se-radio.net/YYYY/MM/episode-<n>-<slug>",
-  "episodeCount": 739,
+  "episodeCount": 741,
   "episodes": [
+    {
+      "title": "SE Radio 736: Sahil Walia on Apache Iceberg",
+      "published": "2026-09-03",
+      "url": "https://se-radio.net/2026/09/se-radio-736-sahil-walia-on-apache-iceberg/"
+    },
+    {
+      "title": "SE Radio 735: Vivek Yadav on Regression Testing Microservices",
+      "published": "2026-08-26",
+      "url": "https://se-radio.net/2026/08/se-radio-735-vivek-yadav-on-regression-testing-microservices/"
+    },
     {
       "title": "SE Radio 734: Sathiesh Veera on Engineering Data-Protection Guardrails with LLMs",
       "published": "2026-08-19",

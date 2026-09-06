@@ -5,8 +5,13 @@
   "feedUrl": "https://api.substack.com/feed/podcast/458709.rss",
   "homeUrl": "https://newsletter.pragmaticengineer.com/podcast",
   "canonicalPattern": "https://newsletter.pragmaticengineer.com/p/<slug>",
-  "episodeCount": 72,
+  "episodeCount": 73,
   "episodes": [
+    {
+      "title": "Why performant code matters (but gets widely ignored), with Casey Muratori",
+      "published": "2026-08-26",
+      "url": "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets"
+    },
     {
       "title": "From Chrome DevTools to AI Engineering, with Addy Osmani",
       "published": "2026-08-19",

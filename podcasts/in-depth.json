@@ -5,8 +5,13 @@
   "feedUrl": "https://feeds.megaphone.fm/FRCH6787238462",
   "homeUrl": "https://review.firstround.com/podcast/",
   "canonicalPattern": "https://review.firstround.com/podcast/<title-guest-role-slug>/",
-  "episodeCount": 184,
+  "episodeCount": 185,
   "episodes": [
+    {
+      "title": "The fastest way to learn is to run two competing bets | Jay Parikh (EVP CoreAI, Microsoft)",
+      "published": "2026-08-27",
+      "url": null
+    },
     {
       "title": "What startups get wrong about enterprise | Lindsey Scrase (COO, Checkr)",
       "published": "2026-07-30",

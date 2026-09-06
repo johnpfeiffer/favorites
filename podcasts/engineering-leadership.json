@@ -5,8 +5,18 @@
   "feedUrl": "https://feeds.simplecast.com/Z8Dl_qAv",
   "homeUrl": "https://sfelc.com",
   "canonicalPattern": "https://sfelc.com/podcasts/<slug>",
-  "episodeCount": 275,
+  "episodeCount": 277,
   "episodes": [
+    {
+      "title": "Hiring top-tier talent, leveraging open source models, and staying competitive in the age of AI w/ Benny Chen #267",
+      "published": "2026-09-02",
+      "url": "https://sfelc.com/podcasts"
+    },
+    {
+      "title": "Applying Agentic AI to the Supply Chain, Building Systems to Withstand Chaos, and Leveraging your Curiosity w/ Pooja Brown #266",
+      "published": "2026-08-25",
+      "url": "https://sfelc.com/podcasts"
+    },
     {
       "title": "Hiring top-tier talent, the importance of adopting an evolutionary mindset, and taking critical feedback to solve technical problems w/ Sergiy Nesterenko #265",
       "published": "2026-08-04",

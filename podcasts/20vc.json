@@ -5,8 +5,38 @@
   "feedUrl": "https://rss.libsyn.com/shows/61840/destinations/240976.xml",
   "homeUrl": "https://www.thetwentyminutevc.com",
   "canonicalPattern": "https://www.thetwentyminutevc.com/<guest-slug>",
-  "episodeCount": 1499,
+  "episodeCount": 1505,
   "episodes": [
+    {
+      "title": "20VC: How to Build Your Own Data Center & Why Every Startup Should Do It | How ElevenLabs Leapfrogged Us: What I Learned | The AI Talent War: How Your Hiring Process Needs to Change with Cliff Weitzman, Speechify",
+      "published": "2026-09-05",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-how-to-build-your-own-data-center-why-every-startup-should-do-it-how-elevenlabs-leapfrogged-us-what-i-learned-the-ai-talent-war-how-your-hiring-process-needs-to-change-with-cliff-weitzman-speechify"
+    },
+    {
+      "title": "20VC: NVIDIA Crushes Quarter and Buys Hugging Face | OpenAI Cuts Off Cursor | Instinct Hits $2.5BN Valuation and The Race for AI Assistants | Cognition Raises at $46BN, Linear $2.5BN and Clay $7BN",
+      "published": "2026-09-03",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-nvidia-crushes-quarter-and-buys-hugging-face-openai-cuts-off-cursor-instinct-hits-25bn-valuation-and-the-race-for-ai-assistants-cognition-raises-at-46bn-linear-25bn-and-clay-7bn"
+    },
+    {
+      "title": "20VC: The AI Bubble Is Wrong | AI Margins Need to Improve | Revenue Concentration Should be a Concern | Why People Over-Estimate Open Models But Enterprises Still Fear Frontier Models with Aaron Katz, ClickHouse",
+      "published": "2026-08-31",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-the-ai-bubble-is-wrong-ai-margins-need-to-improve-revenue-concentration-should-be-a-concern-why-people-over-estimate-open-models-but-enterprises-still-fear-frontier-models-with-aaron-katz-clickhouse"
+    },
+    {
+      "title": "20VC: Is Anthropic's Coding Business Worth $2 Trillion? | Should American Enterprises Work With Open-Source Chinese Models? | Why 80–90% of Neo-Labs Die in the Next 18 Months? with Eno Reyes, Co-Founder @ Factory",
+      "published": "2026-08-29",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-is-anthropics-coding-business-worth-2-trillion-should-american-enterprises-work-with-open-source-chinese-models-why-8090-of-neo-labs-die-in-the-next-18-months-with-eno-reyes-co-founder-factory"
+    },
+    {
+      "title": "20VC: NVIDIA Bonanza: Buys Poolside & Invests in Mercor and Perplexity | Anthropic's $30TRN Revenue Assumption & OpenAI Confirms IPO | Why Customer Service, Defence and Robotics are Overinflated",
+      "published": "2026-08-27",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-nvidia-bonanza-buys-poolside-invests-in-mercor-and-perplexity-anthropics-30trn-revenue-assumption-openai-confirms-ipo-why-customer-service-defence-and-robotics-are-overinflated"
+    },
+    {
+      "title": "20VC: Inside Sequoia's Investment Committee: Lessons from Don Valentine, Doug Leone and Alfred Lin | How the SpaceX and Citadel Deals Went Down | What Sequoia Specifically Looks for in Founders with Julien Bek",
+      "published": "2026-08-24",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-inside-sequoias-investment-committee-lessons-from-don-valentine-doug-leone-and-alfred-lin-how-the-spacex-and-citadel-deals-went-down-what-sequoia-specifically-looks-for-in-founders-with-julien-bek"
+    },
     {
       "title": "20VC: The AI Bubble Will Burst: Half the Neoclouds Will Die | China: Should We Ban Chip Exports & Be Fearful of Chinese Open-Source | Mag7: Who Dies and Who Thrives: Why Meta is Meh and Microsoft is Mega",
       "published": "2026-08-22",
