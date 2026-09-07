@@ -37,7 +37,7 @@ var knownCategories = map[string]bool{
 }
 
 var (
-	publishedRe     = regexp.MustCompile(`^(\d{4})-(\d{2})-(\d{2})$`)
+	datePublishedRe = regexp.MustCompile(`^(\d{4})-(\d{2})-(\d{2})$`)
 	yearParenRe     = regexp.MustCompile(`\((?:19|20)\d{2}[^)]*\)`)
 	hnDiscussionPre = "HN Discussion:"
 )
@@ -140,7 +140,7 @@ func lintContent(dir string) ([]lintFinding, lintStats, error) {
 		index int
 	}
 	urlSeen := map[string]loc{}                  // normalized url -> first location
-	altSeen := map[string]loc{}                  // normalized alternate-url -> first location
+	altSeen := map[string]loc{}                  // normalized archivedAt -> first location
 	tagSpellings := map[string]map[string]bool{} // folded tag -> actual spellings
 
 	for _, f := range files {
@@ -170,28 +170,28 @@ func lintContent(dir string) ([]lintFinding, lintStats, error) {
 		for idx := range list.Items {
 			e := list.Items[idx].toEntry(base, idx)
 			stats.entries++
-			at := fmt.Sprintf("%q", truncate(e.Title, 60))
+			at := fmt.Sprintf("%q", truncate(e.Name, 60))
 
 			// Schema.
-			if strings.TrimSpace(e.Title) == "" {
-				findings = append(findings, lintFinding{"error", base, idx, "title-empty", "name is empty"})
+			if strings.TrimSpace(e.Name) == "" {
+				findings = append(findings, lintFinding{"error", base, idx, "name-empty", "name is empty"})
 			}
 			u, err := url.Parse(e.URL)
 			if err != nil || u.Host == "" || (u.Scheme != "http" && u.Scheme != "https") {
 				findings = append(findings, lintFinding{"error", base, idx, "url-invalid", "url is not absolute http(s): " + at})
 			}
-			if e.Published != nil {
-				m := publishedRe.FindStringSubmatch(*e.Published)
+			if e.DatePublished != nil {
+				m := datePublishedRe.FindStringSubmatch(*e.DatePublished)
 				if m == nil {
-					findings = append(findings, lintFinding{"error", base, idx, "published-format",
-						"datePublished is not YYYY-MM-DD: " + *e.Published})
-				} else if _, err := time.Parse("2006-01-02", *e.Published); err != nil {
-					findings = append(findings, lintFinding{"error", base, idx, "published-format",
-						"datePublished is not a valid date: " + *e.Published})
+					findings = append(findings, lintFinding{"error", base, idx, "date-published-format",
+						"datePublished is not YYYY-MM-DD: " + *e.DatePublished})
+				} else if _, err := time.Parse("2006-01-02", *e.DatePublished); err != nil {
+					findings = append(findings, lintFinding{"error", base, idx, "date-published-format",
+						"datePublished is not a valid date: " + *e.DatePublished})
 				}
 			}
-			if len(e.Tags) == 0 {
-				findings = append(findings, lintFinding{"error", base, idx, "tags-empty", at})
+			if len(e.Keywords) == 0 {
+				findings = append(findings, lintFinding{"error", base, idx, "keywords-empty", at})
 			}
 
 			// Duplicate detection on normalized URLs (absorbs count-urls.sh,
@@ -205,38 +205,38 @@ func lintContent(dir string) ([]lintFinding, lintStats, error) {
 			} else {
 				urlSeen[norm] = loc{base, idx}
 			}
-			if e.AlternateURL != "" {
-				anorm := normalize(e.AlternateURL)
+			if e.ArchivedAt != "" {
+				anorm := normalize(e.ArchivedAt)
 				// A Wayback snapshot of the url itself is the standard backup
-				// pattern, so only flag when the alternate is the same *address*
+				// pattern, so only flag when the archivedAt is the same *address*
 				// (copy-paste errors), not merely a snapshot of the same page.
-				if normalizeKeepWayback(e.AlternateURL) == normalizeKeepWayback(e.URL) {
-					findings = append(findings, lintFinding{"warning", base, idx, "alternate-equals-url",
+				if normalizeKeepWayback(e.ArchivedAt) == normalizeKeepWayback(e.URL) {
+					findings = append(findings, lintFinding{"warning", base, idx, "archivedat-equals-url",
 						"archivedAt is the same address as url (a Wayback backup should differ): " + at})
 				}
 				if prev, ok := altSeen[anorm]; ok {
-					findings = append(findings, lintFinding{"error", base, idx, "duplicate-alternate",
-						fmt.Sprintf("archivedAt same as %s[%d]: %s", prev.file, prev.index, e.AlternateURL)})
+					findings = append(findings, lintFinding{"error", base, idx, "duplicate-archived-at",
+						fmt.Sprintf("archivedAt same as %s[%d]: %s", prev.file, prev.index, e.ArchivedAt)})
 				} else {
 					altSeen[anorm] = loc{base, idx}
 				}
 				if prev, ok := urlSeen[anorm]; ok && !(prev.file == base && prev.index == idx) {
-					findings = append(findings, lintFinding{"warning", base, idx, "alternate-matches-other-url",
+					findings = append(findings, lintFinding{"warning", base, idx, "archivedat-matches-other-url",
 						fmt.Sprintf("archivedAt equals the canonical url of %s[%d]", prev.file, prev.index)})
 				}
 			}
 
 			// Tag conventions.
-			if len(e.Tags) > 0 && e.Tags[0] != category {
+			if len(e.Keywords) > 0 && e.Keywords[0] != category {
 				findings = append(findings, lintFinding{"warning", base, idx, "category-first",
-					fmt.Sprintf("first tag is %q, want file category %q: %s", e.Tags[0], category, at)})
+					fmt.Sprintf("first tag is %q, want file category %q: %s", e.Keywords[0], category, at)})
 			}
 			mediaCount := 0
 			lastIsMedia := false
-			for i, tag := range e.Tags {
+			for i, tag := range e.Keywords {
 				if mediaTypeTags[tag] {
 					mediaCount++
-					lastIsMedia = i == len(e.Tags)-1
+					lastIsMedia = i == len(e.Keywords)-1
 				}
 				folded := foldTag(tag)
 				if tagSpellings[folded] == nil {
@@ -244,7 +244,7 @@ func lintContent(dir string) ([]lintFinding, lintStats, error) {
 				}
 				tagSpellings[folded][tag] = true
 			}
-			isHN := strings.HasPrefix(e.Title, hnDiscussionPre)
+			isHN := strings.HasPrefix(e.Name, hnDiscussionPre)
 			if mediaCount == 0 && !isHN {
 				findings = append(findings, lintFinding{"warning", base, idx, "media-type-missing",
 					"no media-type tag (Podcast/Blog/Article/Video/Book/Paper): " + at})
@@ -257,13 +257,13 @@ func lintContent(dir string) ([]lintFinding, lintStats, error) {
 				findings = append(findings, lintFinding{"warning", base, idx, "media-type-multiple", at})
 			}
 
-			// Title conventions.
-			if yearParenRe.MatchString(e.Title) {
-				findings = append(findings, lintFinding{"warning", base, idx, "title-year-parenthetical",
-					"year parenthetical in title (the UI appends the year): " + at})
+			// Name conventions.
+			if yearParenRe.MatchString(e.Name) {
+				findings = append(findings, lintFinding{"warning", base, idx, "name-year-parenthetical",
+					"year parenthetical in name (the UI appends the year): " + at})
 			}
 			if strings.Contains(strings.ToLower(u.Host), "news.ycombinator.com") && !isHN {
-				findings = append(findings, lintFinding{"warning", base, idx, "hn-title-convention",
+				findings = append(findings, lintFinding{"warning", base, idx, "hn-name-convention",
 					"HN thread without the 'HN Discussion:' prefix: " + at})
 			}
 		}

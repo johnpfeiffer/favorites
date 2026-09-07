@@ -35,9 +35,9 @@ printf '%s\n' "https://a.example/x" "https://b.example/y naval ravikant" | fav d
   `youtu.be`, `/watch`, `/shorts`, `/embed`, `/live`; params like `t`, `list`,
   `index` ignored) compare by video id, and Apple Podcasts URLs compare by
   the (show `id`, episode `i`) pair, ignoring the decorative path slug.
-- A line may append title keywords after the URL (`URL title words...`) to
-  also get fuzzy title candidates (`--min-score`, `--max-candidates`).
-- Status per input: `url-match` | `alternate-match` | `title-only` | `none`.
+- A line may append name keywords after the URL (`URL name words...`) to
+  also get fuzzy name candidates (`--min-score`, `--max-candidates`).
+- Status per input: `url-match` | `archivedAt-match` | `name-only` | `none`.
   Matches print the complete stored record (name, url, archivedAt,
   datePublished, keywords) plus its `file[index]` locator.
 
@@ -196,7 +196,7 @@ fav lint --content dir
   missing media-type tag (HN Discussions exempt), media-type tag not last,
   multiple media-type tags, `archivedAt` same address as `url` (a Wayback
   backup of the url itself is fine and not flagged), `archivedAt` matching
-  another entry's `url`, year-parenthetical in title, HN URL without the
+  another entry's `url`, year-parenthetical in name, HN URL without the
   `HN Discussion:` prefix, tag case-collisions (`Golang` vs `golang`).
 
 ## fav graph add-edge

@@ -10,19 +10,19 @@ import (
 	"strings"
 )
 
-// dedupeMatch is a stored entry whose url or alternate-url equals the input
+// dedupeMatch is a stored entry whose url or archivedAt equals the input
 // after normalization (scheme/www/trailing-slash/tracking-params/Wayback
 // wrapping all ignored).
 type dedupeMatch struct {
-	Field string `json:"field"` // "url" or "alternate-url"
+	Field string `json:"field"` // "url" or "archivedAt"
 	File  string `json:"file"`
 	Index int    `json:"index"`
 	Entry entry  `json:"entry"`
 }
 
-// titleCandidate is a stored entry whose title lexically overlaps the
-// optional title keywords given with the input.
-type titleCandidate struct {
+// nameCandidate is a stored entry whose name lexically overlaps the
+// optional name keywords given with the input.
+type nameCandidate struct {
 	Score float64 `json:"score"`
 	File  string  `json:"file"`
 	Index int     `json:"index"`
@@ -30,19 +30,19 @@ type titleCandidate struct {
 }
 
 type dedupeResult struct {
-	Input           string           `json:"input"`
-	Title           string           `json:"title,omitempty"`
-	Status          string           `json:"status"` // url-match | alternate-match | title-only | none
-	Matches         []dedupeMatch    `json:"matches,omitempty"`
-	TitleCandidates []titleCandidate `json:"titleCandidates,omitempty"`
+	Input          string          `json:"input"`
+	Name           string          `json:"name,omitempty"`
+	Status         string          `json:"status"` // url-match | archivedAt-match | name-only | none
+	Matches        []dedupeMatch   `json:"matches,omitempty"`
+	NameCandidates []nameCandidate `json:"nameCandidates,omitempty"`
 }
 
 func cmdDedupe(args []string) error {
 	fs := flag.NewFlagSet("dedupe", flag.ContinueOnError)
 	contentDir := fs.String("content", "content", "path to the content directory")
 	asJSON := fs.Bool("json", false, "emit a JSON array instead of text")
-	minScore := fs.Float64("min-score", 0.6, "minimum title token containment for title candidates (0-1)")
-	maxCandidates := fs.Int("max-candidates", 5, "maximum title candidates per input")
+	minScore := fs.Float64("min-score", 0.6, "minimum name token containment for name candidates (0-1)")
+	maxCandidates := fs.Int("max-candidates", 5, "maximum name candidates per input")
 	if err := fs.Parse(args); err != nil {
 		return err
 	}
@@ -80,44 +80,44 @@ func cmdDedupe(args []string) error {
 
 func printDedupeResult(w io.Writer, res dedupeResult) {
 	fmt.Fprintf(w, "INPUT  %s\n", res.Input)
-	if res.Title != "" {
-		fmt.Fprintf(w, "TITLE  %s\n", res.Title)
+	if res.Name != "" {
+		fmt.Fprintf(w, "NAME   %s\n", res.Name)
 	}
 	fmt.Fprintf(w, "STATUS %s\n", res.Status)
 	for _, m := range res.Matches {
 		fmt.Fprintf(w, "MATCH  field=%s %s[%d]\n", m.Field, m.File, m.Index)
 		printEntryJSON(w, m.Entry, "  ")
 	}
-	for _, c := range res.TitleCandidates {
-		fmt.Fprintf(w, "TITLE? score=%.2f %s[%d]\n", c.Score, c.File, c.Index)
+	for _, c := range res.NameCandidates {
+		fmt.Fprintf(w, "NAME?  score=%.2f %s[%d]\n", c.Score, c.File, c.Index)
 		printEntryJSON(w, c.Entry, "  ")
 	}
 }
 
-// normalizeStore pre-computes normalized [url, alternate-url] per entry.
+// normalizeStore pre-computes normalized [url, archivedAt] per entry.
 func normalizeStore(store *contentStore) [][2]string {
 	storedNorm := make([][2]string, len(store.entries))
 	for i, e := range store.entries {
 		storedNorm[i][0] = normalize(e.URL)
-		if e.AlternateURL != "" {
-			storedNorm[i][1] = normalize(e.AlternateURL)
+		if e.ArchivedAt != "" {
+			storedNorm[i][1] = normalize(e.ArchivedAt)
 		}
 	}
 	return storedNorm
 }
 
 // dedupeOne matches one input against the store: normalized URL equality
-// against both stored URL fields, then (when title keywords were given) fuzzy
-// title candidates ranked by token containment.
+// against both stored URL fields, then (when name keywords were given) fuzzy
+// name candidates ranked by token containment.
 func dedupeOne(store *contentStore, storedNorm [][2]string, in inputLine, minScore float64, maxCandidates int) dedupeResult {
-	res := dedupeResult{Input: in.Target, Title: in.Rest, Status: "none"}
+	res := dedupeResult{Input: in.Target, Name: in.Rest, Status: "none"}
 	norm := normalize(in.Target)
 	if norm != "" {
 		for i, e := range store.entries {
 			if storedNorm[i][0] != "" && storedNorm[i][0] == norm {
 				res.Matches = append(res.Matches, dedupeMatch{"url", e.File, e.Index, e})
 			} else if storedNorm[i][1] != "" && storedNorm[i][1] == norm {
-				res.Matches = append(res.Matches, dedupeMatch{"alternate-url", e.File, e.Index, e})
+				res.Matches = append(res.Matches, dedupeMatch{"archivedAt", e.File, e.Index, e})
 			}
 		}
 	}
@@ -125,37 +125,37 @@ func dedupeOne(store *contentStore, storedNorm [][2]string, in inputLine, minSco
 		if res.Matches[0].Field == "url" {
 			res.Status = "url-match"
 		} else {
-			res.Status = "alternate-match"
+			res.Status = "archivedAt-match"
 		}
 	}
 	if in.Rest != "" {
-		want := titleTokens(in.Rest)
-		var cands []titleCandidate
+		want := nameTokens(in.Rest)
+		var cands []nameCandidate
 		for _, e := range store.entries {
-			score := tokenContainment(want, titleTokens(e.Title))
+			score := tokenContainment(want, nameTokens(e.Name))
 			if score >= minScore {
-				cands = append(cands, titleCandidate{score, e.File, e.Index, e})
+				cands = append(cands, nameCandidate{score, e.File, e.Index, e})
 			}
 		}
 		sort.Slice(cands, func(i, j int) bool {
 			if cands[i].Score != cands[j].Score {
 				return cands[i].Score > cands[j].Score
 			}
-			return cands[i].Entry.Title < cands[j].Entry.Title
+			return cands[i].Entry.Name < cands[j].Entry.Name
 		})
 		if len(cands) > maxCandidates {
 			cands = cands[:maxCandidates]
 		}
-		res.TitleCandidates = cands
+		res.NameCandidates = cands
 		if res.Status == "none" && len(cands) > 0 {
-			res.Status = "title-only"
+			res.Status = "name-only"
 		}
 	}
 	return res
 }
 
 // printEntryJSON prints the full stored record, indented, so a match report
-// carries every value (title, url, alternate-url, published, tags) rather
+// carries every value (name, url, archivedAt, datePublished, keywords) rather
 // than a bare "duplicate" verdict.
 func printEntryJSON(w io.Writer, e entry, indent string) {
 	raw, err := json.MarshalIndent(e, "", "  ")

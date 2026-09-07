@@ -162,7 +162,7 @@ func applePodcastKey(host, path string, q url.Values) string {
 	return key
 }
 
-// stopTokens are dropped before title matching, along with tokens shorter
+// stopTokens are dropped before name matching, along with tokens shorter
 // than three characters.
 var stopTokens = map[string]bool{
 	"the": true, "and": true, "for": true, "are": true, "with": true,
@@ -170,8 +170,8 @@ var stopTokens = map[string]bool{
 	"that": true, "this": true, "from": true, "into": true, "our": true,
 }
 
-// titleTokens splits a title into a lowercase word set for fuzzy matching.
-func titleTokens(s string) map[string]bool {
+// nameTokens splits an entry name into a lowercase word set for fuzzy matching.
+func nameTokens(s string) map[string]bool {
 	out := map[string]bool{}
 	var cur strings.Builder
 	flush := func() {

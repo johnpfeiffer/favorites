@@ -63,9 +63,9 @@ func TestLintRules(t *testing.T) {
 		t.Fatal(err)
 	}
 	for _, rule := range []string{
-		"published-format", "duplicate-url", "category-first",
-		"media-type-last", "title-year-parenthetical", "media-type-missing",
-		"alternate-equals-url",
+		"date-published-format", "duplicate-url", "category-first",
+		"media-type-last", "name-year-parenthetical", "media-type-missing",
+		"archivedat-equals-url",
 	} {
 		if !hasRule(findings, rule) {
 			t.Errorf("rule %s did not fire; findings: %+v", rule, findings)
@@ -83,7 +83,7 @@ func TestLintHNExemption(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	if hasRule(findings, "media-type-missing") || hasRule(findings, "hn-title-convention") {
+	if hasRule(findings, "media-type-missing") || hasRule(findings, "hn-name-convention") {
 		t.Errorf("HN convention entry flagged: %+v", findings)
 	}
 }

@@ -108,12 +108,12 @@ func TestNormalizeApplePodcasts(t *testing.T) {
 }
 
 func TestTokenContainment(t *testing.T) {
-	a := titleTokens("Scaling your API with rate limiters")
-	b := titleTokens("Stripe: Scaling your API with rate limiters")
+	a := nameTokens("Scaling your API with rate limiters")
+	b := nameTokens("Stripe: Scaling your API with rate limiters")
 	if got := tokenContainment(a, b); got != 1.0 {
 		t.Errorf("containment = %v, want 1.0 (subset)", got)
 	}
-	c := titleTokens("Death to the Minotaur")
+	c := nameTokens("Death to the Minotaur")
 	if got := tokenContainment(a, c); got != 0 {
 		t.Errorf("containment = %v, want 0 (disjoint)", got)
 	}
