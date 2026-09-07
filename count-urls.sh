@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Count total and unique URLs across every .json file in content/.
+# Count total and unique URLs across every .jsonld file in content/.
 set -uo pipefail
 
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/content"
@@ -10,11 +10,11 @@ if ! command -v jq >/dev/null 2>&1; then
 fi
 
 echo "Entries per file:"
-for f in "$DIR"/*.json; do
-  printf '  %-20s %s\n' "$(basename "$f")" "$(jq 'to_entries[0].value | length' "$f")"
+for f in "$DIR"/*.jsonld; do
+  printf '  %-20s %s\n' "$(basename "$f")" "$(jq ' .itemListElement | length' "$f")"
 done
 
-urls=$(jq -r 'to_entries[0].value[].url' "$DIR"/*.json)
+urls=$(jq -r '.itemListElement[].url' "$DIR"/*.jsonld)
 
 total=$(printf '%s\n' "$urls" | wc -l)
 unique=$(printf '%s\n' "$urls" | sort -u | wc -l)

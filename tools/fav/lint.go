@@ -124,13 +124,13 @@ func lintContent(dir string) ([]lintFinding, lintStats, error) {
 	var findings []lintFinding
 	var stats lintStats
 
-	files, err := filepath.Glob(filepath.Join(dir, "*.json"))
+	files, err := filepath.Glob(filepath.Join(dir, "*.jsonld"))
 	if err != nil {
 		return nil, stats, err
 	}
 	sort.Strings(files)
 	if len(files) == 0 {
-		return nil, stats, fmt.Errorf("no .json files found in %s", dir)
+		return nil, stats, fmt.Errorf("no .jsonld files found in %s", dir)
 	}
 	stats.files = len(files)
 
@@ -149,31 +149,32 @@ func lintContent(dir string) ([]lintFinding, lintStats, error) {
 		if err != nil {
 			return nil, stats, err
 		}
-		var byCategory map[string][]entry
-		if err := json.Unmarshal(raw, &byCategory); err != nil {
+		var list itemList
+		if err := json.Unmarshal(raw, &list); err != nil {
 			findings = append(findings, lintFinding{"error", base, -1, "json", err.Error()})
 			continue
 		}
-		if len(byCategory) != 1 {
-			findings = append(findings, lintFinding{"error", base, -1, "top-level-keys",
-				fmt.Sprintf("expected exactly one top-level category key, found %d", len(byCategory))})
+		if list.Type != "ItemList" {
+			findings = append(findings, lintFinding{"error", base, -1, "list-type",
+				fmt.Sprintf("expected @type ItemList, found %q", list.Type)})
 		}
-		var category string
-		for k := range byCategory {
-			category = k
-		}
-		if category != "" && !knownCategories[category] {
+		category := list.Name
+		if category == "" {
+			findings = append(findings, lintFinding{"error", base, -1, "list-name",
+				"ItemList name (the category) is empty"})
+		} else if !knownCategories[category] {
 			findings = append(findings, lintFinding{"warning", base, -1, "unknown-category",
-				"top-level key " + category + " is not one of AI/Business/Engineering/History/People"})
+				"ItemList name " + category + " is not one of AI/Business/Engineering/History/People"})
 		}
 
-		for idx, e := range byCategory[category] {
+		for idx := range list.Items {
+			e := list.Items[idx].toEntry(base, idx)
 			stats.entries++
 			at := fmt.Sprintf("%q", truncate(e.Title, 60))
 
 			// Schema.
 			if strings.TrimSpace(e.Title) == "" {
-				findings = append(findings, lintFinding{"error", base, idx, "title-empty", "title is empty"})
+				findings = append(findings, lintFinding{"error", base, idx, "title-empty", "name is empty"})
 			}
 			u, err := url.Parse(e.URL)
 			if err != nil || u.Host == "" || (u.Scheme != "http" && u.Scheme != "https") {
@@ -183,10 +184,10 @@ func lintContent(dir string) ([]lintFinding, lintStats, error) {
 				m := publishedRe.FindStringSubmatch(*e.Published)
 				if m == nil {
 					findings = append(findings, lintFinding{"error", base, idx, "published-format",
-						"published is not YYYY-MM-DD: " + *e.Published})
+						"datePublished is not YYYY-MM-DD: " + *e.Published})
 				} else if _, err := time.Parse("2006-01-02", *e.Published); err != nil {
 					findings = append(findings, lintFinding{"error", base, idx, "published-format",
-						"published is not a valid date: " + *e.Published})
+						"datePublished is not a valid date: " + *e.Published})
 				}
 			}
 			if len(e.Tags) == 0 {
@@ -211,17 +212,17 @@ func lintContent(dir string) ([]lintFinding, lintStats, error) {
 				// (copy-paste errors), not merely a snapshot of the same page.
 				if normalizeKeepWayback(e.AlternateURL) == normalizeKeepWayback(e.URL) {
 					findings = append(findings, lintFinding{"warning", base, idx, "alternate-equals-url",
-						"alternate-url is the same address as url (a Wayback backup should differ): " + at})
+						"archivedAt is the same address as url (a Wayback backup should differ): " + at})
 				}
 				if prev, ok := altSeen[anorm]; ok {
 					findings = append(findings, lintFinding{"error", base, idx, "duplicate-alternate",
-						fmt.Sprintf("alternate-url same as %s[%d]: %s", prev.file, prev.index, e.AlternateURL)})
+						fmt.Sprintf("archivedAt same as %s[%d]: %s", prev.file, prev.index, e.AlternateURL)})
 				} else {
 					altSeen[anorm] = loc{base, idx}
 				}
 				if prev, ok := urlSeen[anorm]; ok && !(prev.file == base && prev.index == idx) {
 					findings = append(findings, lintFinding{"warning", base, idx, "alternate-matches-other-url",
-						fmt.Sprintf("alternate-url equals the canonical url of %s[%d]", prev.file, prev.index)})
+						fmt.Sprintf("archivedAt equals the canonical url of %s[%d]", prev.file, prev.index)})
 				}
 			}
 

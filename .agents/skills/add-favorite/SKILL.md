@@ -1,11 +1,11 @@
 ---
 name: add-favorite
-description: Add a new link to the favorites collection with verified metadata. Use when adding one or more URLs to content/*.jsonld (schema.org ItemList; legacy content/*.json twins until they are removed), including canonical podcast URLs via the committed podcasts/ episode indexes, archive.org alternates, and reusing existing tags. Published-date resolution is owned by the resolve-published-date skill.
+description: Add a new link to the favorites collection with verified metadata. Use when adding one or more URLs to content/*.jsonld (schema.org ItemList), including canonical podcast URLs via the committed podcasts/ episode indexes, archive.org alternates, and reusing existing tags. Published-date resolution is owned by the resolve-published-date skill.
 ---
 
 # Add a favorite
 
-Add links to `content/*.jsonld` (schema.org ItemList storage, with legacy `content/*.json` twins until they are removed) so they pass `./validate-json.sh`, dedupe cleanly against `./count-urls.sh`, verify clean against the schema.org converter, and match existing conventions.
+Add links to `content/*.jsonld` (schema.org ItemList storage) so they pass `./validate-json.sh`, dedupe cleanly against `./count-urls.sh` and `fav lint`, and match existing conventions.
 
 ## Batch order
 
@@ -26,7 +26,7 @@ At random intervals — about one item per 10-link batch — redo one tool answe
 
 ## Entry schema
 
-Storage is schema.org JSON-LD: each `content/<category>.jsonld` is an `ItemList` whose `itemListElement` array holds one object per entry, in the same order as the legacy file. The legacy `content/<category>.json` files are the side-by-side source **until they are removed** (imminent): the `fav` CLI, `validate-json.sh`, and `count-urls.sh` still read `.json`. During the transition, add entries to `.json` exactly as before, then regenerate the twins with `go run tools/migrate-to-schema-org/main.go convert` and confirm `go run tools/migrate-to-schema-org/main.go verify` exits 0. After the `.json` files are removed, author the `.jsonld` objects directly (same mapping, no converter step).
+Storage is schema.org JSON-LD: each `content/<category>.jsonld` is an `ItemList` whose `itemListElement` array holds one object per entry (append new entries at the end). Author entries directly in the `.jsonld` files. The legacy `content/*.json` schema (`title`/`alternate-url`/`published`/`tags`) was retired; the per-field rules below still use those names for brevity, and the mapping under the example translates them.
 
 ```json
 {
@@ -39,7 +39,7 @@ Storage is schema.org JSON-LD: each `content/<category>.jsonld` is an `ItemList`
 }
 ```
 
-Field mapping (converter-enforced; the legacy field names are used below for brevity): `title` → `name`, `url` → `url`, `alternate-url` → `archivedAt` (all alternates, including mirrors), `published` → `datePublished` (a null is emitted as `"datePublished": null`, not omitted), `tags` → `keywords` (order preserved, category first and media-type last as before). `@type` derives from the media-type tag: `Podcast` → PodcastEpisode, `Blog` → BlogPosting, `Article` → Article, `Video` → VideoObject, `Book` → Book, `Paper` → ScholarlyArticle, `TechArticle` → TechArticle; no recognized media tag falls back to `Article`; competing Book/Blog/Article tags resolve `Book > BlogPosting > Article`; independent types combine into an array in tag order (e.g. `["Book", "PodcastEpisode"]`).
+Field mapping from the retired legacy schema (its names are used below for brevity): `title` → `name`, `url` → `url`, `alternate-url` → `archivedAt` (all alternates, including mirrors), `published` → `datePublished` (a null is emitted as `"datePublished": null`, not omitted), `tags` → `keywords` (order preserved, category first and media-type last as before). `@type` follows the trailing media-type tag: `Podcast` → PodcastEpisode, `Blog` → BlogPosting, `Article` → Article, `Video` → VideoObject, `Book` → Book, `Paper` → ScholarlyArticle, `TechArticle` → TechArticle; no recognized media tag means `@type` "Article"; competing Book/Blog/Article tags resolve `Book > BlogPosting > Article`; independent types combine into an array in tag order (e.g. `["Book", "PodcastEpisode"]`).
 
 - `alternate-url` is optional; omit it when none exists. `published` is ISO `YYYY-MM-DD` or `null`.
 - `published` records the initial distribution/event date, not the file or upload timestamp. For blogs and web articles the two are highly correlated, but for videos of live events (conference talks, panels, recorded meetups) there can be a lag between the event and the upload — use the event date when known (month-precision `YYYY-MM-01` when only the month is verifiable), and note the upload date in the PR body. Resolve dates with the `resolve-published-date` skill, which owns the full evidence ladder (URL path → podcast indexes → page metadata → Wayback → Crossref → HN) and the precision rules.
@@ -57,7 +57,7 @@ Field mapping (converter-enforced; the legacy field names are used below for bre
 
 ## Placement
 
-Five files: `ai.json`, `business.json`, `engineering.json`, `history.json`, `people.json`. Filenames are loose; tags carry the meaning. To place a link, grep for similar existing content (e.g. all hiring/interviewing content is in `people.json`, all Acquired episodes in `history.json`) and follow the precedent.
+Five files: `ai.jsonld`, `business.jsonld`, `engineering.jsonld`, `history.jsonld`, `people.jsonld`. Filenames are loose; tags carry the meaning. To place a link, grep for similar existing content (e.g. all hiring/interviewing content is in `people.jsonld`, all Acquired episodes in `history.jsonld`) and follow the precedent.
 
 ## Metadata sleuthing
 
@@ -105,7 +105,7 @@ curl -s --get --data-urlencode "url=<url-without-scheme>" \
 Reuse the existing vocabulary. Survey before inventing:
 
 ```bash
-grep -oh '"<Candidate Tag>"' content/*.json | wc -l
+grep -oh '"<Candidate Tag>"' content/*.jsonld | wc -l
 ```
 
 Only create a tag when no existing one fits and the pattern is established (e.g. person tags for notable people).
@@ -124,9 +124,8 @@ When the repo has `graph/` and the `maintain-favorites-graph` skill, extract evi
 
 ```bash
 tools/fav/fav lint   # structure + normalized duplicates + tag conventions (strict superset)
-./validate-json.sh   # jq syntax check on every content/*.json
+./validate-json.sh   # jq syntax check on every content/*.jsonld
 ./count-urls.sh      # per-file counts, total vs unique URLs, duplicate list
-go run tools/migrate-to-schema-org/main.go verify   # content/*.jsonld matches the .json sources exactly (every value + array order)
 ```
 
 The new URL must not already exist (count-urls.sh and `fav lint` both list duplicates). Dedupe before adding with `tools/fav/fav dedupe <url> [title words...]` — it matches normalized `url` and `alternate-url` (unwrapping Wayback snapshots, dropping utm params, collapsing www/scheme variants, and reducing YouTube URLs to the video id and Apple Podcasts URLs to the (show id, episode i) pair — host and slug variants can no longer hide duplicates) and prints the full stored records, not just a verdict; fallback: grep `content/` for the URL and title keywords. List any skipped duplicates in the PR body. `fav lint` also surfaces pre-existing data debt as warnings — report warnings your own entries introduce, but don't treat repo-wide legacy warnings as blockers.
