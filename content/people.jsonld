@@ -3775,6 +3775,51 @@
         "Leadership",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Radical Candor: What Founders Need to Know About Feedback and Culture (S7E33)",
+      "url": "https://www.radicalcandor.com/podcast/founders-feedback-culture-7-33",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/radical-candor-communication-at-work/id1188489488?i=1000721771963",
+      "datePublished": "2025-08-13",
+      "keywords": [
+        "People",
+        "Radical Candor",
+        "Feedback",
+        "Culture",
+        "Startups",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The CTO Playbook 40: Mastering the Art of Influence: How to Get Executive Buy-In for Your Big Ideas",
+      "url": "https://the-cto-playbook.cohostpodcasting.com/episodes/40-mastering-the-art-of-influence-how-to-get-executive-buy-in-for-your-big-ideas",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-cto-playbook/id1756793398?i=1000704371620",
+      "datePublished": "2025-04-21",
+      "keywords": [
+        "People",
+        "CTO Playbook",
+        "Influence",
+        "Managing Up",
+        "Leadership",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The CTO Playbook 64: What Got You Here Won't Get You There — CTO Leadership with Catherine Stagg-Macey",
+      "url": "https://the-cto-playbook.cohostpodcasting.com/episodes/64-what-got-you-here-won-t-get-you-there-cto-leadership-with-catherine-stagg-macey",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-cto-playbook/id1756793398?i=1000730491502",
+      "datePublished": "2025-10-06",
+      "keywords": [
+        "People",
+        "CTO Playbook",
+        "CTO",
+        "Coaching",
+        "Catherine Stagg-Macey",
+        "Podcast"
+      ]
     }
   ]
 }

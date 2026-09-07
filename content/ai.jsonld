@@ -697,6 +697,34 @@
         "Winston Weinberg",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lenny's Podcast: Why AI evals are the hottest new skill for product builders (Hamel Husain and Shreya Shankar)",
+      "url": "https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-growth-career/id1627920305?i=1000728386314",
+      "datePublished": "2025-09-25",
+      "keywords": [
+        "AI",
+        "Evals",
+        "Hamel Husain",
+        "Shreya Shankar",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Anthropic: How we built our multi-agent research system",
+      "url": "https://www.anthropic.com/engineering/built-multi-agent-research-system",
+      "archivedAt": "https://web.archive.org/web/20250802092327/https://www.anthropic.com/engineering/built-multi-agent-research-system",
+      "datePublished": "2025-06-13",
+      "keywords": [
+        "AI",
+        "Agents",
+        "Context Engineering",
+        "Anthropic",
+        "Blog"
+      ]
     }
   ]
 }
