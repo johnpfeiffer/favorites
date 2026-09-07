@@ -3820,6 +3820,89 @@
         "Catherine Stagg-Macey",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Manager Tools: Career Insurance For Your Directs - Part 1",
+      "url": "https://www.manager-tools.com/2025/09/career-insurance-your-directs-part-1",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/manager-tools/id74198801?i=1000726927216",
+      "datePublished": "2025-09-15",
+      "keywords": [
+        "People",
+        "Manager Tools",
+        "Career Development",
+        "Layoffs",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lenny's Podcast: From managing people to managing AI: How the same leadership skills apply in the age of AI (Julie Zhuo)",
+      "url": "https://www.lennysnewsletter.com/p/from-managing-people-to-managing-ai-julie-zhuo",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-growth-career/id1627920305?i=1000727721509",
+      "datePublished": "2025-09-21",
+      "keywords": [
+        "People",
+        "Management",
+        "Leadership",
+        "AI",
+        "Julie Zhuo",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Effective Engineering Manager: Micromanagement: The Silent Threat to Engineering Teams",
+      "url": "https://www.effectiveem.com/micromanagement/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/effective-engineering-manager/id1535585856?i=1000725041331",
+      "datePublished": "2025-09-04",
+      "keywords": [
+        "People",
+        "Engineering Management",
+        "Micromanagement",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Radical Candor: Are Flat Organizations More Efficient? Kim and Jason Weigh In (S7E37)",
+      "url": "https://www.radicalcandor.com/podcast/flat-organizations-7-37",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/radical-candor-communication-at-work/id1188489488?i=1000727156444",
+      "datePublished": "2025-09-17",
+      "keywords": [
+        "People",
+        "Radical Candor",
+        "Organization",
+        "Management",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Manager Tools: Google's Project Oxygen",
+      "url": "https://www.manager-tools.com/2025/09/googles-project-oxygen",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/manager-tools/id74198801?i=1000725561570",
+      "datePublished": "2025-09-08",
+      "keywords": [
+        "People",
+        "Manager Tools",
+        "Management",
+        "Google",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Developing Leadership: The Episode You Should Send to Your CEO",
+      "url": "https://podcast.developingleadership.co/e/episode-10-the-episode-you-should-send-to-your-ceo/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/developing-leadership/id1575893623?i=1000542095262",
+      "datePublished": "2021-11-16",
+      "keywords": [
+        "People",
+        "Engineering Leadership",
+        "CTO",
+        "Podcast"
+      ]
     }
   ]
 }

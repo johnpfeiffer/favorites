@@ -725,6 +725,32 @@
         "Anthropic",
         "Blog"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lenny's Podcast: Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google, and Amazon (Aishwarya Naresh Reganti and Kiriti Badam)",
+      "url": "https://www.lennysnewsletter.com/p/what-openai-and-google-engineers-learned",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-growth-career/id1627920305?i=1000744678894",
+      "datePublished": "2026-01-11",
+      "keywords": [
+        "AI",
+        "Evals",
+        "Aishwarya Naresh Reganti",
+        "Kiriti Badam",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Wikipedia: Signs of AI writing",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing",
+      "archivedAt": "https://web.archive.org/web/20260906082125/https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing",
+      "datePublished": null,
+      "keywords": [
+        "AI",
+        "LLM",
+        "Article"
+      ]
     }
   ]
 }
