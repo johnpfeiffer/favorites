@@ -11,5 +11,5 @@ git log --oneline -5
 echo "============================="
 
 mkdir -p "$DEST"
-cp -a content/*.json "$DEST"
+cp -a content/*.jsonld "$DEST"
 

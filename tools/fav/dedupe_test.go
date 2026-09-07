@@ -11,7 +11,7 @@ func testStore() *contentStore {
 			URL:       "https://stripe.com/blog/rate-limiters",
 			Published: strptr("2017-03-30"),
 			Tags:      []string{"Engineering", "Scalability", "Article"},
-			File:      "engineering.json",
+			File:      "engineering.jsonld",
 		},
 		{
 			Title:        "Bright Journey: Why Would OkCupid Write Their Own Web Server?",
@@ -19,14 +19,14 @@ func testStore() *contentStore {
 			AlternateURL: "https://www.brightjourney.com/q/okcupid-write-web-server",
 			Published:    strptr("2011-03-10"),
 			Tags:         []string{"Engineering", "Article"},
-			File:         "engineering.json",
+			File:         "engineering.jsonld",
 		},
 		{
 			Title:     "Kalzumeus: Salary Negotiation - Make More Money, Be More Valued (Patrick McKenzie)",
 			URL:       "https://www.kalzumeus.com/2012/01/23/salary-negotiation/",
 			Published: strptr("2012-01-23"),
 			Tags:      []string{"People", "Career Development", "Blog"},
-			File:      "people.json",
+			File:      "people.jsonld",
 		},
 		{
 			Title:        "Lenny's Podcast: The future of AI in software development with Inbal Shani",
@@ -34,7 +34,7 @@ func testStore() *contentStore {
 			AlternateURL: "https://podcasts.apple.com/us/podcast/show/id1?i=1000637179313",
 			Published:    strptr("2023-12-01"),
 			Tags:         []string{"AI", "Podcast"},
-			File:         "business.json",
+			File:         "business.jsonld",
 		},
 	}}
 }
@@ -76,7 +76,7 @@ func TestDedupeOne(t *testing.T) {
 		if res.Status != "alternate-match" || res.Matches[0].Field != "alternate-url" {
 			t.Errorf("status=%s field=%v", res.Status, res.Matches)
 		}
-		if res.Matches[0].Entry.File != "business.json" {
+		if res.Matches[0].Entry.File != "business.jsonld" {
 			t.Errorf("wrong entry: %+v", res.Matches[0].Entry)
 		}
 	})
@@ -86,7 +86,7 @@ func TestDedupeOne(t *testing.T) {
 		if res.Status != "title-only" {
 			t.Errorf("status=%s, want title-only", res.Status)
 		}
-		if len(res.TitleCandidates) == 0 || res.TitleCandidates[0].Entry.File != "people.json" {
+		if len(res.TitleCandidates) == 0 || res.TitleCandidates[0].Entry.File != "people.jsonld" {
 			t.Errorf("candidates=%+v", res.TitleCandidates)
 		}
 	})

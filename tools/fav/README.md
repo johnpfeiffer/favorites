@@ -26,7 +26,7 @@ fav dedupe https://stripe.com/blog/rate-limiters
 printf '%s\n' "https://a.example/x" "https://b.example/y naval ravikant" | fav dedupe
 ```
 
-- Matches against both `url` and `alternate-url` of every entry after
+- Matches against both `url` and `archivedAt` of every entry after
   normalization: scheme-insensitive (http == https), leading `www.` removed,
   trailing slashes trimmed, tracking params (`utm_*`, `fbclid`, ...) dropped,
   query sorted, fragment removed. Wayback snapshot URLs are unwrapped first,
@@ -38,13 +38,13 @@ printf '%s\n' "https://a.example/x" "https://b.example/y naval ravikant" | fav d
 - A line may append title keywords after the URL (`URL title words...`) to
   also get fuzzy title candidates (`--min-score`, `--max-candidates`).
 - Status per input: `url-match` | `alternate-match` | `title-only` | `none`.
-  Matches print the complete stored record (title, url, alternate-url,
-  published, tags) plus its `file[index]` locator.
+  Matches print the complete stored record (name, url, archivedAt,
+  datePublished, keywords) plus its `file[index]` locator.
 
 ## fav wayback
 
 Find the latest (or earliest) 200-status Wayback capture for each URL —
-the `alternate-url` backfill step.
+the `archivedAt` backfill step.
 
 ```bash
 fav wayback --mode latest https://example.com/article
@@ -188,13 +188,14 @@ fav lint                  # content/ in the repo root
 fav lint --content dir
 ```
 
-- Errors (exit 1): JSON syntax, single top-level category key, empty
-  title/tags, non-absolute URL, malformed/invalid `published`, duplicate
-  normalized `url`, duplicate normalized `alternate-url`.
+- Errors (exit 1): JSON syntax, `@type` not `ItemList` or empty ItemList
+  `name` (the category), empty name/keywords, non-absolute URL,
+  malformed/invalid `datePublished`, duplicate normalized `url`, duplicate
+  normalized `archivedAt`.
 - Warnings (exit 0): unknown category, first tag not the file category,
   missing media-type tag (HN Discussions exempt), media-type tag not last,
-  multiple media-type tags, `alternate-url` same address as `url` (a Wayback
-  backup of the url itself is fine and not flagged), `alternate-url` matching
+  multiple media-type tags, `archivedAt` same address as `url` (a Wayback
+  backup of the url itself is fine and not flagged), `archivedAt` matching
   another entry's `url`, year-parenthetical in title, HN URL without the
   `HN Discussion:` prefix, tag case-collisions (`Golang` vs `golang`).
 

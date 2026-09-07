@@ -8,16 +8,18 @@ import (
 	"sort"
 )
 
-// entry mirrors the content/*.json record schema exactly.
+// entry is one favorites record. The on-disk form is content/*.jsonld
+// (schema.org ItemList); the JSON tags here follow the JSON-LD properties so
+// printed records read like the stored ones.
 type entry struct {
-	Title        string   `json:"title"`
+	Title        string   `json:"name"`
 	URL          string   `json:"url"`
-	AlternateURL string   `json:"alternate-url,omitempty"`
-	Published    *string  `json:"published"`
-	Tags         []string `json:"tags"`
+	AlternateURL string   `json:"archivedAt,omitempty"`
+	Published    *string  `json:"datePublished"`
+	Tags         []string `json:"keywords"`
 
-	File  string `json:"-"` // source file basename, e.g. content/engineering.json
-	Index int    `json:"-"` // position within the file's array
+	File  string `json:"-"` // source file basename, e.g. content/engineering.jsonld
+	Index int    `json:"-"` // position within the file's itemListElement array
 }
 
 // contentStore is every entry in the collection, in stable file+index order.
@@ -25,14 +27,45 @@ type contentStore struct {
 	entries []entry
 }
 
+// itemList mirrors the content/*.jsonld envelope: a schema.org ItemList whose
+// itemListElement array holds one object per entry, in order.
+type itemList struct {
+	Type  string          `json:"@type"`
+	Name  string          `json:"name"`
+	Items []jsonldElement `json:"itemListElement"`
+}
+
+// jsonldElement mirrors one stored entry. The entry's @type (PodcastEpisode,
+// BlogPosting, ...) is structural metadata the CLI does not inspect — the
+// media-type keyword carries that meaning for lint and tagging.
+type jsonldElement struct {
+	Name          string   `json:"name"`
+	URL           string   `json:"url"`
+	ArchivedAt    string   `json:"archivedAt"`
+	DatePublished *string  `json:"datePublished"`
+	Keywords      []string `json:"keywords"`
+}
+
+func (e jsonldElement) toEntry(file string, index int) entry {
+	return entry{
+		Title:        e.Name,
+		URL:          e.URL,
+		AlternateURL: e.ArchivedAt,
+		Published:    e.DatePublished,
+		Tags:         e.Keywords,
+		File:         file,
+		Index:        index,
+	}
+}
+
 func loadContent(dir string) (*contentStore, error) {
-	files, err := filepath.Glob(filepath.Join(dir, "*.json"))
+	files, err := filepath.Glob(filepath.Join(dir, "*.jsonld"))
 	if err != nil {
 		return nil, err
 	}
 	sort.Strings(files)
 	if len(files) == 0 {
-		return nil, fmt.Errorf("no .json files found in %s", dir)
+		return nil, fmt.Errorf("no .jsonld files found in %s", dir)
 	}
 	s := &contentStore{}
 	for _, f := range files {
@@ -40,17 +73,13 @@ func loadContent(dir string) (*contentStore, error) {
 		if err != nil {
 			return nil, err
 		}
-		// Each content file is {"Category": [entries...]}.
-		var byCategory map[string][]entry
-		if err := json.Unmarshal(raw, &byCategory); err != nil {
+		var list itemList
+		if err := json.Unmarshal(raw, &list); err != nil {
 			return nil, fmt.Errorf("%s: %w", f, err)
 		}
-		for _, entries := range byCategory {
-			for i := range entries {
-				entries[i].File = filepath.Base(f)
-				entries[i].Index = i
-				s.entries = append(s.entries, entries[i])
-			}
+		base := filepath.Base(f)
+		for i := range list.Items {
+			s.entries = append(s.entries, list.Items[i].toEntry(base, i))
 		}
 	}
 	return s, nil

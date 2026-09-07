@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Verify that every .json file in content/ is valid JSON.
+# Verify that every .jsonld file in content/ is valid JSON.
 set -uo pipefail
 
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/content"
@@ -11,7 +11,7 @@ fi
 
 fail=0
 found=0
-for f in "$DIR"/*.json; do
+for f in "$DIR"/*.jsonld; do
   [ -e "$f" ] || continue
   found=1
   if jq empty "$f" >/dev/null 2>&1; then
