@@ -5,7 +5,9 @@ description: Resolve the published date of a web link with evidence. Use when a 
 
 # Resolve a published date
 
-Fill `published` with the **initial distribution/event date** of the linked content, at the best precision the evidence supports.
+Fill `published` (`datePublished` in the JSON-LD storage) with the **initial distribution/event date** of the linked content, at the best precision the evidence supports.
+
+Storage note: entries live in `content/*.jsonld` (schema.org `ItemList`) with legacy `content/*.json` twins until those are removed; the `fav` CLI and repo validators still read the `.json` files. See add-favorite's Entry schema for the field mapping and converter workflow.
 
 ## Semantics and precision
 
@@ -79,4 +81,4 @@ For repo-wide `published: null` sweeps, one PR per content file:
 1. Inventory nulls by index (`python3` over `content/*.json`), and partition up front: URL-path dates, committed-index episodes, living references (stay null), needs-fetch. `tools/fav/fav date --offline` does most of this partition mechanically (rungs 1–2 only, no network).
 2. Resolve in the order above (batch `tools/fav/fav date` for the needs-fetch set); keep a per-entry evidence note for the PR body table.
 3. Apply with an index-keyed Python script that asserts `published is None` before writing and asserts the expected living-null set afterward; then verify the diff touches only `published` lines (plus any intentional, separately-committed anomaly fixes).
-4. `./validate-json.sh` and `./count-urls.sh` before committing; dates and anomaly fixes go in separate commits.
+4. Regenerate the JSON-LD twins (`go run tools/migrate-to-schema-org/main.go convert`), then `./validate-json.sh`, `./count-urls.sh`, and `go run tools/migrate-to-schema-org/main.go verify` before committing; dates and anomaly fixes go in separate commits.
