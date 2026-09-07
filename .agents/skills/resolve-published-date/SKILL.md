@@ -1,13 +1,13 @@
 ---
 name: resolve-published-date
-description: Resolve the published date of a web link with evidence. Use when a favorites entry (or any web resource) needs its `published` date found or verified — covers URL-path and byline dates, podcast episode indexes and Apple/iTunes lookups, page metadata (og/JSON-LD), Medium, ACM Queue via Crossref, classic papers and books, Wayback snapshot forensics, bot-block workarounds, precision fallbacks (YYYY-MM-01), and living-reference nulls.
+description: Resolve the published date of a web link with evidence. Use when a favorites entry (or any web resource) needs its `datePublished` found or verified — covers URL-path and byline dates, podcast episode indexes and Apple/iTunes lookups, page metadata (og/JSON-LD), Medium, ACM Queue via Crossref, classic papers and books, Wayback snapshot forensics, bot-block workarounds, precision fallbacks (YYYY-MM-01), and living-reference nulls.
 ---
 
 # Resolve a published date
 
-Fill `published` (`datePublished` in the JSON-LD storage) with the **initial distribution/event date** of the linked content, at the best precision the evidence supports.
+Fill `datePublished` with the **initial distribution/event date** of the linked content, at the best precision the evidence supports.
 
-Storage note: entries live in `content/*.jsonld` (schema.org `ItemList`); the date field there is `datePublished`. The `fav` CLI and repo validators read the `.jsonld` files. See add-favorite's Entry schema for the full field mapping.
+Storage note: entries live in `content/*.jsonld` (schema.org `ItemList`). The `fav` CLI and repo validators read the `.jsonld` files. See add-favorite's Entry schema for the full field set.
 
 ## Semantics and precision
 
@@ -80,5 +80,5 @@ For repo-wide `published: null` sweeps, one PR per content file:
 
 1. Inventory nulls by index (`python3` over `content/*.jsonld`), and partition up front: URL-path dates, committed-index episodes, living references (stay null), needs-fetch. `tools/fav/fav date --offline` does most of this partition mechanically (rungs 1–2 only, no network).
 2. Resolve in the order above (batch `tools/fav/fav date` for the needs-fetch set); keep a per-entry evidence note for the PR body table.
-3. Apply with an index-keyed Python script that asserts `published is None` before writing and asserts the expected living-null set afterward; then verify the diff touches only `published` lines (plus any intentional, separately-committed anomaly fixes).
+3. Apply with an index-keyed Python script that asserts `datePublished is None` before writing and asserts the expected living-null set afterward; then verify the diff touches only `datePublished` lines (plus any intentional, separately-committed anomaly fixes).
 4. `./validate-json.sh`, `./count-urls.sh`, and `tools/fav/fav lint` before committing; dates and anomaly fixes go in separate commits.
