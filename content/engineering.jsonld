@@ -2246,6 +2246,18 @@
         "Prioritization",
         "Blog"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Developing Leadership: A Changing Engineering Landscape (history of tech stacks: DVCS and SaaS)",
+      "url": "https://podcast.developingleadership.co/e/episode-1-a-changing-engineering-landscape/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/developing-leadership/id1575893623?i=1000528348208",
+      "datePublished": "2021-07-06",
+      "keywords": [
+        "Engineering",
+        "History",
+        "Podcast"
+      ]
     }
   ]
 }

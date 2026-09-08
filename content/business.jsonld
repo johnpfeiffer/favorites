@@ -484,6 +484,49 @@
         "Howard Marks",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Invest Like the Best: Gokul Rajaram - Lessons from Investing in 700 Companies",
+      "url": "https://colossus.com/episode/lessons-from-investing-in-700-companies/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909?i=1000747153244",
+      "datePublished": "2026-01-29",
+      "keywords": [
+        "Business",
+        "Product Management",
+        "Investing",
+        "Gokul Rajaram",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Invest Like the Best: Jeff Horing - Building Insight Partners",
+      "url": "https://colossus.com/episode/building-insight-partners/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909?i=1000727018650",
+      "datePublished": "2025-09-16",
+      "keywords": [
+        "Business",
+        "Investing",
+        "VC",
+        "Jeff Horing",
+        "Insight Partners",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Invest Like the Best: Sam Hinkie - Find Your People",
+      "url": "https://colossus.com/episode/hinkie-find-your-people/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909?i=1000725674101",
+      "datePublished": "2020-12-15",
+      "keywords": [
+        "Business",
+        "Investing",
+        "Decision Making",
+        "Sam Hinkie",
+        "Podcast"
+      ]
     }
   ]
 }

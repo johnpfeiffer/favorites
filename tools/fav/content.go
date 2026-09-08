@@ -9,14 +9,14 @@ import (
 )
 
 // entry is one favorites record. The on-disk form is content/*.jsonld
-// (schema.org ItemList); the JSON tags here follow the JSON-LD properties so
-// printed records read like the stored ones.
+// (schema.org ItemList); the field names and JSON tags here follow the
+// JSON-LD properties so printed records read like the stored ones.
 type entry struct {
-	Title        string   `json:"name"`
-	URL          string   `json:"url"`
-	AlternateURL string   `json:"archivedAt,omitempty"`
-	Published    *string  `json:"datePublished"`
-	Tags         []string `json:"keywords"`
+	Name          string   `json:"name"`
+	URL           string   `json:"url"`
+	ArchivedAt    string   `json:"archivedAt,omitempty"`
+	DatePublished *string  `json:"datePublished"`
+	Keywords      []string `json:"keywords"`
 
 	File  string `json:"-"` // source file basename, e.g. content/engineering.jsonld
 	Index int    `json:"-"` // position within the file's itemListElement array
@@ -48,13 +48,13 @@ type jsonldElement struct {
 
 func (e jsonldElement) toEntry(file string, index int) entry {
 	return entry{
-		Title:        e.Name,
-		URL:          e.URL,
-		AlternateURL: e.ArchivedAt,
-		Published:    e.DatePublished,
-		Tags:         e.Keywords,
-		File:         file,
-		Index:        index,
+		Name:          e.Name,
+		URL:           e.URL,
+		ArchivedAt:    e.ArchivedAt,
+		DatePublished: e.DatePublished,
+		Keywords:      e.Keywords,
+		File:          file,
+		Index:         index,
 	}
 }
 

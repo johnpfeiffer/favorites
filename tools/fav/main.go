@@ -53,7 +53,7 @@ func usage() {
 	fmt.Fprintf(os.Stderr, `fav - favorites repo workflow helper (deterministic evidence gatherers)
 
 Usage:
-  fav dedupe  [--content dir] [--json] <url> [title words...] ...
+  fav dedupe  [--content dir] [--json] <url> [name words...] ...
   fav wayback [--mode latest|earliest|both] [--delay 8s] [--json] <url> ...
   fav check   [--delay 2s] [--json] <url> ...
   fav date    [--offline] [--force] [--delay 2s] [--json] <url> ...
@@ -65,15 +65,15 @@ Usage:
   fav podcast delisted [--repo dir] [--show slug-or-name] [--delay 2s] [--json]
 
 Batch input: pass items as arguments, or pipe one per line on stdin ("-" also
-reads stdin). For dedupe, a line may be "URL optional title keywords"; the URL
-is matched against stored url/alternate-url values and the keywords run a
-fuzzy title search. Output preserves input order. Blank lines and lines
+reads stdin). For dedupe, a line may be "URL optional name keywords"; the URL
+is matched against stored url/archivedAt values and the keywords run a
+fuzzy name search. Output preserves input order. Blank lines and lines
 starting with '#' are ignored.
 `)
 }
 
 // inputLine is one batch item: a target (usually a URL) plus optional trailing
-// free text (e.g. title keywords for fuzzy matching).
+// free text (e.g. name keywords for fuzzy matching).
 type inputLine struct {
 	Target string
 	Rest   string
