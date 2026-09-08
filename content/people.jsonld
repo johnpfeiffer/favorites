@@ -3903,6 +3903,33 @@
         "CTO",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Manager Tools: The Black Widow Mistake - Part 1 (Hall of Fame Guidance)",
+      "url": "https://www.manager-tools.com/2025/08/black-widow-mistake-part-1",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/manager-tools/id74198801?i=1000723493381",
+      "datePublished": "2025-08-25",
+      "keywords": [
+        "People",
+        "Manager Tools",
+        "Career Development",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lenny's Podcast: The one question that saves product careers (Matt LeMay)",
+      "url": "https://www.lennysnewsletter.com/p/the-one-question-that-saves-product-careers-matt-lemay",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-growth-career/id1627920305?i=1000721941361",
+      "datePublished": "2025-08-14",
+      "keywords": [
+        "People",
+        "Product Management",
+        "Layoffs",
+        "Matt LeMay",
+        "Podcast"
+      ]
     }
   ]
 }
