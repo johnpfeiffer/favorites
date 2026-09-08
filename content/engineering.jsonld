@@ -1188,6 +1188,7 @@
       "@type": "PodcastEpisode",
       "name": "Why You're Wrong About REST from Fallthrough",
       "url": "https://fallthrough.transistor.fm/28",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/fallthrough/id1783181295?i=1000717085601",
       "datePublished": "2025-07-14",
       "keywords": [
         "Engineering",
@@ -1200,6 +1201,7 @@
       "@type": "PodcastEpisode",
       "name": "How HTTP works with Julia Evans",
       "url": "https://www.softwaresessions.com/episodes/how-http-works-with-julia-evans/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/software-sessions/id1479514262?i=1000449951332",
       "datePublished": "2019-09-16",
       "keywords": [
         "Engineering",
