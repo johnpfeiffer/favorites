@@ -780,6 +780,21 @@
         "Eoghan McCabe",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Dev Interrupted: You can't have AI without DevOps - GitHub's Martin Woodward",
+      "url": "https://linearb.io/dev-interrupted/podcast/you-can-t-have-ai-without-dev-ops",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/dev-interrupted/id1537003676?i=1000722639760",
+      "datePublished": "2025-08-19",
+      "keywords": [
+        "AI",
+        "Agents",
+        "DevOps",
+        "GitHub",
+        "Martin Woodward",
+        "Podcast"
+      ]
     }
   ]
 }
