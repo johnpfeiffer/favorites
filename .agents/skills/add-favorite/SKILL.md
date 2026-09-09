@@ -11,12 +11,12 @@ Add links to `content/*.jsonld` (schema.org ItemList storage) so they pass `./va
 
 For multi-link batches, run the cheapest, most-eliminating steps first — local before network, and never spend network calls on links that turn out to be duplicates:
 
-1. `tools/fav/fav dedupe <url> [name words...] ...` on every submitted link (local, seconds; feed URLs exactly as submitted). A batch can end right here — one batch of six was 6/6 duplicates already stored as `archivedAt`.
+1. `tools/fav/fav dedupe <url> [name words...] ...` on every submitted link (local, seconds; feed URLs exactly as submitted). A batch can end right here — one batch of six was 6/6 duplicates already stored as `archivedAt`. For podcasts and videos, always add a few distinctive name words to the call: the same episode lives at several URLs (Apple, show site, YouTube), and a stored entry whose canonical is a *different* mirror with no `archivedAt` is invisible to URL matching alone (one batch caught two such episodes only via name words).
 2. `tools/fav/fav date --offline` and `tools/fav/fav podcast lookup` (local): partition survivors into "resolved for free" (URL-path dates, committed indexes) vs "needs network".
 3. `tools/fav/fav date` (network) to identify and date the survivors.
 4. `tools/fav/fav check` on the canonical candidates.
 5. `tools/fav/fav wayback` last — it is the slowest and flakiest step (8s delays), and only survivors need alternates.
-6. Tags and placement → write entries → `fav lint` + validators → graph → finalize the PR.
+6. Tags and placement → write entries → round-trip `fav dedupe` on the new canonicals and any submitted alternate forms (each new entry must come back `url-match`; a hit on an *older* index means you just wrote a duplicate — count-urls.sh catches the same class, but dedupe shows the colliding record and proves the new entries load) → `fav lint` + validators → graph → finalize the PR.
 
 Batch N URLs per tool invocation (one process, one content-file load). The early draft PR (see PR section) captures intent before any of this work.
 
