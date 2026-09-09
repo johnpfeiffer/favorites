@@ -1069,6 +1069,11 @@
       "source": "95FA409B-7F1D-40B3-87D7-47ABB1E76831",
       "target": "369D36E8-C239-4B38-A51F-28544C26A51C",
       "type": "Current_Employee_of"
+    },
+    {
+      "source": "CE474C83-0179-4497-B1E3-E0FB8E7A9F29",
+      "target": "BE9D548C-924C-473A-87AB-50B6682F6421",
+      "type": "Current_Employee_of"
     }
   ]
 }
