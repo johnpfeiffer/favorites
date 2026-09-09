@@ -136,6 +136,7 @@
       "@type": "PodcastEpisode",
       "name": "Could AI Datacenter Spending Blow Up The Economy? With Paul Kedrosky",
       "url": "https://www.youtube.com/watch?v=t_ey5z30gf0",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/tech-brew-ride-home/id1355212895?i=1000721311400",
       "datePublished": "2025-08-06",
       "keywords": [
         "AI",
@@ -750,6 +751,34 @@
         "AI",
         "LLM",
         "Article"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "GOTO Book Club: Prompt Engineering for Generative AI (Mike Taylor and James Phoenix)",
+      "url": "https://gotopia.tech/episodes/360/prompt-engineering-for-generative-ai",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/goto-the-brightest-minds-in-tech/id1559093928?i=1000720215088",
+      "datePublished": "2025-02-01",
+      "keywords": [
+        "AI",
+        "Prompt Engineering",
+        "Mike Taylor",
+        "James Phoenix",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lenny's Podcast: How Intercom rose from the ashes by betting everything on AI (Eoghan McCabe)",
+      "url": "https://www.lennysnewsletter.com/p/how-intercom-rose-from-the-ashes-eoghan-mccabe",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-growth-career/id1627920305?i=1000722941720",
+      "datePublished": "2025-08-21",
+      "keywords": [
+        "AI",
+        "Business",
+        "Intercom",
+        "Eoghan McCabe",
+        "Podcast"
       ]
     }
   ]

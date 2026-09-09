@@ -1195,6 +1195,30 @@
     {
       "id": "D47B03FA-2C4C-4D0B-AD9B-ACBD49A78658",
       "name": "The Making of a Manager"
+    },
+    {
+      "id": "B067AD6F-207C-4345-ABF4-B8731B3E8A19",
+      "name": "Matt LeMay"
+    },
+    {
+      "id": "95FA409B-7F1D-40B3-87D7-47ABB1E76831",
+      "name": "Eoghan McCabe"
+    },
+    {
+      "id": "0B52B37B-B4AD-41C8-AD55-9B0888F7CAB1",
+      "name": "Mike Taylor"
+    },
+    {
+      "id": "5BEF383B-8483-42D2-A352-29774FA9572B",
+      "name": "James Phoenix"
+    },
+    {
+      "id": "C85B6D38-79CD-4DC9-A687-A513C6128AFC",
+      "name": "Impact-First Product Teams"
+    },
+    {
+      "id": "FADBF8F3-1F59-4FEE-9278-99E74267D705",
+      "name": "Prompt Engineering for Generative AI"
     }
   ]
 }
