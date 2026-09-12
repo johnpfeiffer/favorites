@@ -173,6 +173,7 @@
       "@type": "BlogPosting",
       "name": "A clever approach to using agents by combining models (sort of MoE at agent runtime)",
       "url": "https://xbow.com/blog/alloy-agents/",
+      "archivedAt": "https://web.archive.org/web/20260819000435/https://xbow.com/blog/alloy-agents",
       "datePublished": "2025-07-17",
       "keywords": [
         "AI",
@@ -185,6 +186,7 @@
       "@type": "BlogPosting",
       "name": "Pragmatic coders are getting utility from LLMs by Thomas Ptacek",
       "url": "https://fly.io/blog/youre-all-nuts/",
+      "archivedAt": "https://web.archive.org/web/20260902071741/https://fly.io/blog/youre-all-nuts/",
       "datePublished": "2025-06-02",
       "keywords": [
         "AI",
@@ -209,6 +211,7 @@
       "@type": "Article",
       "name": "A16z on AI Application Architecture (aka LLM App Stack) patterns",
       "url": "https://a16z.com/emerging-architectures-for-llm-applications/",
+      "archivedAt": "https://web.archive.org/web/20260830030317/https://a16z.com/emerging-architectures-for-llm-applications/",
       "datePublished": "2023-06-20",
       "keywords": [
         "AI",
@@ -221,6 +224,7 @@
       "@type": "Article",
       "name": "GitHub on the LLM App: AI Application Architecture patterns",
       "url": "https://github.blog/ai-and-ml/llms/the-architecture-of-todays-llm-applications/",
+      "archivedAt": "https://web.archive.org/web/20260831204802/https://github.blog/ai-and-ml/llms/the-architecture-of-todays-llm-applications/",
       "datePublished": "2023-10-30",
       "keywords": [
         "AI",
