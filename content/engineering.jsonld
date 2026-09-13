@@ -2262,6 +2262,73 @@
         "History",
         "Podcast"
       ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Stack Overflow: The problem with the tech debt mindset (Jon Bevan)",
+      "url": "https://stackoverflow.blog/2024/07/23/the-problem-with-the-tech-debt-mindset/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-stack-overflow-podcast/id1483510527?i=1000663051400",
+      "datePublished": "2024-07-23",
+      "keywords": [
+        "Engineering",
+        "Technical Debt",
+        "Jon Bevan",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: Shipping projects at Big Tech with Sean Goedecke",
+      "url": "https://newsletter.pragmaticengineer.com/p/shipping-projects-at-big-tech-with",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000680854640",
+      "datePublished": "2024-12-18",
+      "keywords": [
+        "Engineering",
+        "Project Management",
+        "Sean Goedecke",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Dev Interrupted: The Real Measure of Success in Platform Engineering - MassDriver CEO Cory O'Daniel",
+      "url": "https://linearb.io/dev-interrupted/podcast/the-real-measure-of-success-in-platform-engineering-1",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/dev-interrupted/id1537003676?i=1000673962898",
+      "datePublished": "2024-10-22",
+      "keywords": [
+        "Engineering",
+        "Platform Engineering",
+        "DevOps",
+        "Cory O'Daniel",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio 637: Steve Smith on Software Quality",
+      "url": "https://se-radio.net/2024/10/se-radio-637-steve-smith-on-software-quality/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714?i=1000672628737",
+      "datePublished": "2024-10-10",
+      "keywords": [
+        "Engineering",
+        "Quality",
+        "Steve Smith",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio 638: Nick Tune and Jean-Georges Perrin on Architecture Modernization",
+      "url": "https://se-radio.net/2024/10/se-radio-638-nick-tune-and-jean-georges-perrin-on-architecture-modernization/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714?i=1000673494609",
+      "datePublished": "2024-10-17",
+      "keywords": [
+        "Engineering",
+        "Architecture",
+        "Nick Tune",
+        "Jean-Georges Perrin",
+        "Podcast"
+      ]
     }
   ]
 }
