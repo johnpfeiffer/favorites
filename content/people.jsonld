@@ -3930,6 +3930,48 @@
         "Matt LeMay",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Managing Up: CTO vs. VP Engineering - What's the Difference?",
+      "url": "https://podcasts.apple.com/us/podcast/managing-up/id1412411569?i=1000421871894",
+      "archivedAt": "https://open.spotify.com/episode/0kDUxXtCZgVCmYXKsbPhgy",
+      "datePublished": "2018-10-15",
+      "keywords": [
+        "People",
+        "Engineering Leadership",
+        "CTO",
+        "Managing Up",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "ELC: How engineering leaders can better drive business outcomes and increase alignment between product and engineering (Gokul Rajaram)",
+      "url": "https://sfelc.com/podcasts/how-engineering-leaders-can-better-drive-business-outcomes-increase-alignment-between-product-and-engineering-w-gokul-rajaram",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-engineering-leadership-podcast/id1481996448?i=1000678261747",
+      "datePublished": "2024-11-26",
+      "keywords": [
+        "People",
+        "Engineering Leadership",
+        "Business",
+        "Gokul Rajaram",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: Promotions and tooling at Google (Irina Stanescu)",
+      "url": "https://newsletter.pragmaticengineer.com/p/promotions-and-tooling-at-google",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000675937554",
+      "datePublished": "2024-11-06",
+      "keywords": [
+        "People",
+        "Career Development",
+        "Google",
+        "Irina Stanescu",
+        "Podcast"
+      ]
     }
   ]
 }

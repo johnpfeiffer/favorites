@@ -527,6 +527,32 @@
         "Sam Hinkie",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Invest Like the Best: Tobi Lütke - Building Islands of Innovation",
+      "url": "https://colossus.com/episode/building-islands-of-innovation/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909?i=1000673967784",
+      "datePublished": "2024-10-22",
+      "keywords": [
+        "Business",
+        "Entrepreneurship",
+        "Shopify",
+        "Tobi Lütke",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Techmeme Ride Home: How To Know When To Kill Your Startup (lessons from a startup shutdown)",
+      "url": "https://web.archive.org/web/20241119021851/https://www.ridehome.info/show/techmeme-ride-home/bns-how-to-know-when-to-kill-your-startup/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/techmeme-ride-home/id1355212895?i=1000677181602",
+      "datePublished": "2024-11-16",
+      "keywords": [
+        "Business",
+        "Startups",
+        "Podcast"
+      ]
     }
   ]
 }
