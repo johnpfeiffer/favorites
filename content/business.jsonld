@@ -553,6 +553,20 @@
         "Startups",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lenny's Podcast: Unorthodox frameworks for growing your product, career, and impact (Bangaly Kaba)",
+      "url": "https://www.lennysnewsletter.com/p/frameworks-for-growing-your-career-bangaly-kaba",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-growth-career/id1627920305?i=1000656791571",
+      "datePublished": "2024-05-26",
+      "keywords": [
+        "Business",
+        "Product Management",
+        "Career Development",
+        "Bangaly Kaba",
+        "Podcast"
+      ]
     }
   ]
 }
