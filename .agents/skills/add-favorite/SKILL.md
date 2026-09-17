@@ -69,6 +69,12 @@ Distinguish bot-blocking from defunct. A 403 or a Cloudflare "Attention Required
 
 The Wayback APIs occasionally return 503s for long stretches. Retry once or twice, then omit the unverified alternates rather than guessing, note the outage in the PR body, and backfill later. When the API does cooperate, add the latest 200 capture as `archivedAt` even for healthy live links — sites rot eventually. Confirm the capture loads and shows the content (a snapshotted error page is archaeology, not a working copy).
 
+JS-rendering SPA sites (Simplecast podcast sites like managingup.show, etc.) mislead non-JS clients in both directions, so never declare their content defunct — or alive — from a shell fetch alone:
+
+- **False "gone":** an episode-listing page server-renders only the newest page of episodes behind a dynamic "Load More Episodes" button; the old ones are not gone, just one click (or one API call) away. Page through with the browser, or read the network log and query the site's public API directly — Simplecast exposes `api.simplecast.com/podcasts/<podcast_id>/episodes?status=published` (no auth), returning every episode's slug, title, and date in one shot. A fetch tool that gets the SPA shell with a generic site title (or a bare 404 on a JS-routed path) has not proved anything; confirm with a real browser render before flipping fields to Wayback.
+- **False "alive":** SPA routers soft-200 on non-existent slugs — `fav check` reports `ok` with the generic show title or no TITLE line at all. For SPA canonicals, a matching episode title in a rendered page (browser snapshot h1) is the only trustworthy "alive" verdict.
+- **Renamed slugs:** platform migrations rewrite slugs, so locate episodes by title + date in the API or feed, never by a remembered or guessed slug. Two real forms on one show: `personality-conflicts-and-the-us-vs-them-mindset` → `overcoming-the-us-vs-them-mindset` (renamed), and pre-migration episodes keeping hash slugs like `895bb722` (legitimate canonical, not an error).
+
 Canonical URL for an Apple Podcasts link:
 1. **Check the episode index first.** `podcasts/<slug>.json` holds `{title, published, url}` for every episode of each show the collection uses repeatedly (SE Radio, Manager Tools, Lenny's, ELC, Go Time, ILTB, Knowledge Project, YC, Managing Up, Darknet Diaries, Radical Candor, Developing Leadership, Engineering Unblocked). Search it with the fav CLI:
    ```bash
