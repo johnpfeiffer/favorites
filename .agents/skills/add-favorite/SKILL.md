@@ -124,7 +124,7 @@ When the requester pastes records from an older export (`{"url", "title", "type"
 
 ## Graph
 
-When the repo has `graph/` and the `maintain-favorites-graph` skill, extract evidence-backed entities and edges from the new entries with `tools/fav/fav graph add-edge` in a separate commit on the same branch: `Founder_of`, `Author_of`, `Host_of`, and employment edges only when the linked source explicitly supports them. Interviewees and talk speakers are not authors of the interview article. List plausible entities you omitted for lack of evidence in the PR body, and run `python3 .agents/skills/maintain-favorites-graph/scripts/validate_graph.py .` before committing.
+When the repo has `graph/` and the `maintain-favorites-graph` skill, extract evidence-backed entities and edges from the new entries with `tools/fav/fav graph add-edge` in a separate commit on the same branch: `Founder_of`, `Author_of`, `Host_of`, and employment edges only when the linked source explicitly supports them. `Author_of` admits only durable standalone works — books, papers, recorded lectures with a genuine canonical title; articles, blog posts, and news bylines never qualify (a journalist's article byline is not `Author_of`), and interviewees and talk speakers are not authors of the interview article. List plausible entities you omitted for lack of evidence in the PR body, and run `python3 .agents/skills/maintain-favorites-graph/scripts/validate_graph.py .` before committing.
 
 ## Checks before committing
 
