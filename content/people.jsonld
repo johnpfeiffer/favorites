@@ -3985,6 +3985,49 @@
         "Gretchen Rubin",
         "Podcast"
       ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "RTR Dress Code: Sharing Our Engineering Ladder",
+      "url": "https://dresscode.renttherunway.com/blog/ladder",
+      "archivedAt": "https://web.archive.org/web/20260804191212/https://dresscode.renttherunway.com/blog/ladder",
+      "datePublished": "2015-03-26",
+      "keywords": [
+        "People",
+        "Career Development",
+        "Career Ladder",
+        "Rent the Runway",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Lara Hogan: Engineering Ladders at Meetup (Makers, Managers and Leveling Up)",
+      "url": "https://medium.com/making-meetup/engineering-ladders-at-meetup-caacbea4916e",
+      "archivedAt": "https://web.archive.org/web/20260110102250/https://medium.com/making-meetup/engineering-ladders-at-meetup-caacbea4916e",
+      "datePublished": "2018-07-16",
+      "keywords": [
+        "People",
+        "Career Development",
+        "Career Ladder",
+        "Meetup",
+        "Lara Hogan",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Eric Brooke: Software Engineering Leadership",
+      "url": "https://ericbrooke.blog/2018/09/16/software-engineering-leadership/",
+      "archivedAt": "https://web.archive.org/web/20230604035214/https://ericbrooke.blog/2018/09/16/software-engineering-leadership/",
+      "datePublished": "2018-09-16",
+      "keywords": [
+        "People",
+        "Leadership",
+        "Engineering Management",
+        "Career Development",
+        "Blog"
+      ]
     }
   ]
 }
