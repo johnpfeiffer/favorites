@@ -2356,6 +2356,48 @@
         "Sarah Wells",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Tech Lead Journal: The Art of Awesome Code Reviews (Michaela Greiler, #189)",
+      "url": "https://techleadjournal.dev/episodes/189/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/tech-lead-journal/id1523421550?i=1000668050414",
+      "datePublished": "2024-09-02",
+      "keywords": [
+        "Engineering",
+        "Code Review",
+        "Michaela Greiler",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Super Data Science 927: Automating Code Review with AI (CodeRabbit's David Loker)",
+      "url": "https://www.superdatascience.com/podcast/sds-927-automating-code-review-with-ai-feat-coderabbits-david-loker",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/super-data-science-ml-ai-podcast-with-jon-krohn/id1163599059?i=1000729314053",
+      "datePublished": "2025-09-30",
+      "keywords": [
+        "Engineering",
+        "Code Review",
+        "AI",
+        "CodeRabbit",
+        "David Loker",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Code for Thought: ByteSized - Code Reviews with GitHub (Thibault Lestang)",
+      "url": "https://codeforthought.buzzsprout.com/1326658/episodes/11690488-bytesized-code-reviews-with-github",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/code-for-thought/id1548426989?i=1000586501412",
+      "datePublished": "2022-11-17",
+      "keywords": [
+        "Engineering",
+        "Code Review",
+        "GitHub",
+        "Thibault Lestang",
+        "Podcast"
+      ]
     }
   ]
 }

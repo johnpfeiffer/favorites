@@ -4028,6 +4028,74 @@
         "Career Development",
         "Blog"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: Kubernetes and retiring at the top with Kelsey Hightower",
+      "url": "https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000771013379",
+      "datePublished": "2026-06-03",
+      "keywords": [
+        "People",
+        "Career Development",
+        "Kubernetes",
+        "Kelsey Hightower",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Geeks Who Lead: The Multiple Levels of Engineering Management (Ron Lichty)",
+      "url": "https://podcast.geekswholead.com/1788616/episodes/11555521-short-byte-ron-lichty-the-multiple-levels-of-engineering-management",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/geeks-who-lead-podcast/id1104346760?i=1000584091469",
+      "datePublished": "2022-10-27",
+      "keywords": [
+        "People",
+        "Engineering Management",
+        "Leadership",
+        "Ron Lichty",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Career Tools: Director Level Interview Questions",
+      "url": "https://www.manager-tools.com/2021/10/director-level-interview-questions",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/career-tools/id299826841?i=1000537870957",
+      "datePublished": "2021-10-07",
+      "keywords": [
+        "People",
+        "Interviewing",
+        "Career Development",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Skip: Battling job search anxiety",
+      "url": "https://theskip.substack.com/p/battling-job-search-anxiety-39e",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-skip-podcast/id1663529202?i=1000659626447",
+      "datePublished": "2024-06-20",
+      "keywords": [
+        "People",
+        "Career Development",
+        "Mental Health",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Peterman Pod: Frontline Manager at Meta to Senior Director at Snapchat in 3 years (Rong Yan)",
+      "url": "https://www.developing.dev/p/frontline-manager-at-meta-to-senior",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835?i=1000742328456",
+      "datePublished": "2025-12-22",
+      "keywords": [
+        "People",
+        "Career Development",
+        "Meta",
+        "Rong Yan",
+        "Podcast"
+      ]
     }
   ]
 }

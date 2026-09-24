@@ -701,6 +701,31 @@
         "Steve Ballmer",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Peterman Pod: Creator of C++ - Bell Labs, Negative Overhead Abstraction, Mistakes (Bjarne Stroustrup)",
+      "url": "https://www.developing.dev/p/creator-of-c-bell-labs-negative-overhead",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835?i=1000768377530",
+      "datePublished": "2026-05-18",
+      "keywords": [
+        "History",
+        "Programming Languages",
+        "Bjarne Stroustrup",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Hard Drugs: Should everyone be taking statins? (history and efficacy)",
+      "url": "https://harddrugs.worksinprogress.co/episodes/should-everyone-be-taking-statins",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/hard-drugs/id1819489230?i=1000751897974",
+      "datePublished": "2026-02-27",
+      "keywords": [
+        "History",
+        "Medicine",
+        "Podcast"
+      ]
     }
   ]
 }
