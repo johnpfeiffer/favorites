@@ -1343,6 +1343,70 @@
     {
       "id": "04D56D12-1C6E-4777-B8BC-93A0E9FE3124",
       "name": "Stealing Reasoning Traces from Proprietary LLM APIs"
+    },
+    {
+      "id": "4DB332DF-ABA9-4600-B9C7-813D6376C94C",
+      "name": "Birgitta Boeckeler"
+    },
+    {
+      "id": "997E572F-1D22-4837-94B5-541B0051F9F7",
+      "name": "Kelsey Hightower"
+    },
+    {
+      "id": "092CD937-E1AB-4FCD-B8A1-B160950D1ACD",
+      "name": "Ron Lichty"
+    },
+    {
+      "id": "9EFAC915-AC5F-4B7F-B634-5246517592C0",
+      "name": "Michaela Greiler"
+    },
+    {
+      "id": "C6386C19-89D9-4EDD-8E33-2F48A2FC5133",
+      "name": "Thibault Lestang"
+    },
+    {
+      "id": "581335B7-3FDB-4050-8FEB-92EC6D5CE96E",
+      "name": "Bjarne Stroustrup"
+    },
+    {
+      "id": "4FEB6DC6-863E-4632-ABE2-3D3C04F51F0F",
+      "name": "Rong Yan"
+    },
+    {
+      "id": "8FCA4B0C-F24D-463A-8D78-EF11DE760F08",
+      "name": "David Loker"
+    },
+    {
+      "id": "4AD494B3-FD9B-4AB9-9824-91317C66D7C7",
+      "name": "Jon Krohn"
+    },
+    {
+      "id": "FCC8C309-BF7B-41CB-8E3E-5ED776370C30",
+      "name": "Peter Schmidt"
+    },
+    {
+      "id": "17E1BAAB-DE37-41BD-B3A9-199B1D808214",
+      "name": "Nikhyl Singhal"
+    },
+    {
+      "id": "DE12411A-8296-49B9-BA46-56BD372447D6",
+      "name": "Super Data Science: ML and AI Podcast with Jon Krohn"
+    },
+    {
+      "id": "F5EBF71D-1F61-4481-8D91-7B72BBD5ADA3",
+      "name": "Code for Thought"
+    },
+    {
+      "id": "2500A7E3-6B29-41F0-B6B0-3C670E8F1841",
+      "name": "The Skip Podcast"
+    },
+    {
+      "id": "95FE619B-9451-432C-86D1-24664F92CDFA",
+      "name": "Snapchat"
+    },
+    {
+      "id": "4B8196AD-F8F6-4DDE-B4F2-80EBFD79552C",
+      "name": "CodeRabbit"
     }
   ]
 }
