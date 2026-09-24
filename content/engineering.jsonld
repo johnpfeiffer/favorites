@@ -2329,6 +2329,33 @@
         "Jean-Georges Perrin",
         "Podcast"
       ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "Substrate: How Piracy Sites Disguise Video as Fonts to Abuse Cloudflare Caching",
+      "url": "https://saimanish.com/blog/cloudflare-woff2-cache-abuse/",
+      "archivedAt": "https://web.archive.org/web/20260909184627/https://saimanish.com/blog/cloudflare-woff2-cache-abuse/",
+      "datePublished": "2026-09-07",
+      "keywords": [
+        "Engineering",
+        "Security",
+        "Cloudflare",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "CaSE: Technology Governance with Sarah Wells",
+      "url": "https://www.case-podcast.org/63-technology-governance-with-sarah-wells",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/case-conversations-about-software-engineering/id1213708671?i=1000772772108",
+      "datePublished": "2026-06-15",
+      "keywords": [
+        "Engineering",
+        "Governance",
+        "Platform Engineering",
+        "Sarah Wells",
+        "Podcast"
+      ]
     }
   ]
 }

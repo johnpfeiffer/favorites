@@ -810,6 +810,19 @@
         "Relationships",
         "Article"
       ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Stolen Thoughts: Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "archivedAt": "https://arxiv.org/html/2608.09867v1",
+      "datePublished": "2026-08-10",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Security",
+        "Paper"
+      ]
     }
   ]
 }

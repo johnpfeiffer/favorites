@@ -1275,6 +1275,74 @@
     {
       "id": "0CEFA1DC-4EA9-4372-9A99-6CD812CC9B37",
       "name": "Bangaly Kaba"
+    },
+    {
+      "id": "E4FFC9F9-7178-4A8F-BE5D-57516A53408D",
+      "name": "Sarah Wells"
+    },
+    {
+      "id": "2716D869-30BE-4990-9A04-413857EF769A",
+      "name": "Lara Hogan"
+    },
+    {
+      "id": "B82A6905-466A-4216-961E-5A76FCFA8798",
+      "name": "Alexander Heusingfeld"
+    },
+    {
+      "id": "91C189B7-F372-418B-A8FE-D40467427817",
+      "name": "Heinrich Hartmann"
+    },
+    {
+      "id": "4FAEC4A1-2455-4C41-9EA5-FF58278B9E83",
+      "name": "Sven Johann"
+    },
+    {
+      "id": "85377D66-051B-4435-A58E-E0750CF30429",
+      "name": "Alexander Panfilov"
+    },
+    {
+      "id": "861C2044-F80C-447B-90E5-BD62ECF02FF4",
+      "name": "David Schmotz"
+    },
+    {
+      "id": "B862176C-5058-4456-BFDF-88473493A979",
+      "name": "Ilia Shumailov"
+    },
+    {
+      "id": "477EAB7C-BFF6-4418-9C72-50A794B0FF28",
+      "name": "Luca Beurer-Kellner"
+    },
+    {
+      "id": "BA61DBAB-CBD8-46AE-8BC8-423DD43D8A93",
+      "name": "Joachim Schaeffer"
+    },
+    {
+      "id": "EFF8455F-1BCC-4C75-BD3D-83A879CE6E28",
+      "name": "Ameya Prabhu"
+    },
+    {
+      "id": "A3693707-B583-409C-83CE-261021A79D41",
+      "name": "Jonas Geiping"
+    },
+    {
+      "id": "0B4715C1-0B82-42B2-9702-639CC8C0185E",
+      "name": "Maksym Andriushchenko"
+    },
+    {
+      "id": "5EB2F056-092F-4816-AF80-F77A1D3CA321",
+      "name": "Financial Times"
+    },
+    {
+      "id": "4438F095-EDC4-47F9-B01E-86412C0E5A98",
+      "name": "Meetup"
+    },
+    {
+      "id": "B78059C9-54F4-41B4-8FDE-9D2F97F11F00",
+      "name": "CaSE: Conversations about Software Engineering"
+    },
+    {
+      "id": "04D56D12-1C6E-4777-B8BC-93A0E9FE3124",
+      "name": "Stealing Reasoning Traces from Proprietary LLM APIs"
     }
   ]
 }
