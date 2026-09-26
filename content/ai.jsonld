@@ -823,6 +823,45 @@
         "Security",
         "Paper"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio 730: Birgitta Boeckeler on Harness Engineering for AI Agents",
+      "url": "https://se-radio.net/2026/07/se-radio-730-birgitta-boeckeler-on-harness-engineering-for-ai-agents/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714?i=1000777939119",
+      "datePublished": "2026-07-22",
+      "keywords": [
+        "AI",
+        "Agents",
+        "Birgitta Boeckeler",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: Context engineering with Dex Horthy",
+      "url": "https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000776932678",
+      "datePublished": "2026-07-15",
+      "keywords": [
+        "AI",
+        "Context Engineering",
+        "LLM",
+        "Dex Horthy",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Lightcone Podcast (Y Combinator): Vibe Coding Is The Future",
+      "url": "https://www.youtube.com/watch?v=IACHfKmZMr8",
+      "archivedAt": "https://www.ycombinator.com/library/ME-vibe-coding-is-the-future",
+      "datePublished": "2025-03-05",
+      "keywords": [
+        "AI",
+        "Vibe Coding",
+        "Video"
+      ]
     }
   ]
 }

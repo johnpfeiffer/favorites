@@ -567,6 +567,20 @@
         "Bangaly Kaba",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Super Data Science 1008: The AI-Native Startup Playbook (Anthropic founder playbook)",
+      "url": "https://www.superdatascience.com/podcast/sds-1008-the-ai-native-startup-playbook",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/super-data-science-ml-ai-podcast-with-jon-krohn/id1163599059?i=1000776249036",
+      "datePublished": "2026-07-10",
+      "keywords": [
+        "Business",
+        "Startups",
+        "AI",
+        "Anthropic",
+        "Podcast"
+      ]
     }
   ]
 }
