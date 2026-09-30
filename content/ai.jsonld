@@ -18,7 +18,8 @@
     {
       "@type": "PodcastEpisode",
       "name": "Invest Like the Best: The Reality of AI LLM Chat Support - Intercom co-founder Des Traynor",
-      "url": "https://www.joincolossus.com/episodes/54663623/traynor-the-reality-of-ai",
+      "url": "https://colossus.com/episode/traynor-the-reality-of-ai/",
+      "archivedAt": "https://web.archive.org/web/20260829051807/https://colossus.com/episode/traynor-the-reality-of-ai/",
       "datePublished": "2023-08-08",
       "keywords": [
         "AI",
@@ -87,7 +88,7 @@
     {
       "@type": "PodcastEpisode",
       "name": "Invest Like the Best: 2024-03 Aravind Srinivas (founder of Perplexity) on Building an Answer Engine",
-      "url": "https://joincolossus.com/episode/srinivas-building-an-answer-engine/",
+      "url": "https://colossus.com/episode/srinivas-building-an-answer-engine/",
       "archivedAt": "https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909?i=1000648050144",
       "datePublished": "2024-03-05",
       "keywords": [
@@ -99,7 +100,7 @@
     {
       "@type": "PodcastEpisode",
       "name": "Invest Like the Best: Bill Gurley and Michael Mauboussin on Putting Theory into Practice - VCs on AI",
-      "url": "https://joincolossus.com/episode/mauboussin-a-meeting-of-the-minds/",
+      "url": "https://colossus.com/episode/mauboussin-a-meeting-of-the-minds/",
       "archivedAt": "https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909?i=1000653305035",
       "datePublished": "2024-04-23",
       "keywords": [
@@ -382,7 +383,6 @@
       "@type": "Article",
       "name": "TensorOps: Emerging Architectures of LLM Applications - stop the JS to see the article (2025 Update)",
       "url": "https://web.archive.org/web/20250708071532/https://www.tensorops.ai/post/emerging-architectures-of-llm-applications-2025-update",
-      "archivedAt": "https://www.tensorops.ai/post/emerging-architectures-of-llm-applications-2025-update",
       "datePublished": "2024-12-08",
       "keywords": [
         "AI",
