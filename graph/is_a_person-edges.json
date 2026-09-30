@@ -974,6 +974,11 @@
       "source": "17E1BAAB-DE37-41BD-B3A9-199B1D808214",
       "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
       "type": "Is_a_Person"
+    },
+    {
+      "source": "AE5EE35C-E52B-4312-AF10-82A25BD49018",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
     }
   ]
 }
