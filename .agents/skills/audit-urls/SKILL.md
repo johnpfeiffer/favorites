@@ -50,6 +50,15 @@ A full run is ~10 minutes, dominated by the serial lanes. For a cheap domains-on
 
 Never mark defunct from audit data alone. Browser-verify (FetchUrl or agent-browser) first: any 404 on SPA podcast hosts (podcasters.spotify.com, art19.com, Simplecast sites — routers soft-404 and soft-200), any 403/202/402, and any redirect whose destination merely *looks* unrelated. A stored `archivedAt` pointing at a known-dead original (e.g. a pre-flip engineering.linkedin.com URL kept for provenance) will show as a 404 in every audit — that is expected archaeology, not a regression; keep the exclusions list in the findings report.
 
+## Capture lookups during archive.org outages
+
+Fetching captures for flipped/refreshed canonicals hits two independent archive.org backends, and they fail independently: during the 2026-09-30 fix run the CDX API served "Temporarily Offline" pages for a stretch while the availability API kept answering (intermittently rate-limited), and earlier the same day web.archive.org itself connection-refused under parallel load. When one API fails, switch to the other instead of skipping captures:
+
+- **Availability API** (`https://archive.org/wayback/available?url=<url-no-scheme>`) → `archived_snapshots.closest`; normalize the URL to https. Closest-snapshot only, but usually enough.
+- **CDX API** (`https://web.archive.org/cdx/search/cdx` with `limit=-1&filter=statuscode:200`) → latest 200 capture; full history when you need earliest for dating.
+
+`fav wayback` already tries availability-then-CDX, but it buffers all output until the run ends and its 25s backoff loops are invisible mid-run — for a bulk capture batch during a flaky window, a hand-rolled paced loop (one request per 4s+, 30-60s backoff on 429/503/offline pages, retry the www/no-www variant on a miss, progress line per URL) is easier to watch and just as polite. Treat every NONE from an outage window as *unverifiable*, not absent — kalzumeus and medium.com both "returned" NONEs while throttled. If neither API cooperates after retries, omit the unverified captures, list them as backfill candidates in the PR body, and never guess snapshot URLs.
+
 ## Fix handoff and cadence
 
 Confirmed defunct links follow add-favorite: search the title for a moved canonical on the same publisher, else latest 200-status Wayback capture becomes `url` (verify the capture serves the content), omit the bare broken original from `archivedAt`, flag it in the PR body. Batch fixes into their own PRs, separate from new-link batches. A monthly cadence keeps rot bounded; each run should end with the findings summarized to the requester (counts by class, confirmed dead, moved canonicals, false-positive explanations).
