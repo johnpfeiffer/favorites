@@ -46,7 +46,7 @@
     {
       "@type": "BlogPosting",
       "name": "Commoditize Your Complement",
-      "url": "https://www.gwern.net/Complement",
+      "url": "https://gwern.net/complement",
       "datePublished": null,
       "keywords": [
         "Business",
@@ -59,7 +59,7 @@
       "@type": "PodcastEpisode",
       "name": "Think Like an Economist: Gains from Trade and Specialization",
       "url": "https://omny.fm/shows/platypus-economics/gains-from-trade-why-ringo-played-the-drums",
-      "archivedAt": "https://art19.com/shows/think-like-an-economist/episodes/abb4af12-01fa-4d8e-b7d5-a387ae9d989a",
+      "archivedAt": "https://betseystevenson.com/podcast/",
       "datePublished": "2020-10-20",
       "keywords": [
         "Business",
@@ -137,8 +137,9 @@
     {
       "@type": "PodcastEpisode",
       "name": "This Week In Startups e1062 with guests Acquired's Ben and David",
-      "url": "https://thisweekinstartups.com/episodes/2aUpnuDXkr8",
-      "datePublished": "2021-05-26",
+      "url": "https://podcasts.apple.com/us/podcast/e1062-news-roundtable-acquired-fm-co-hosts-ben-gilbert/id315114957?i=1000475216938",
+      "archivedAt": "https://www.youtube.com/watch?v=LDhsBistb3M",
+      "datePublished": "2020-05-20",
       "keywords": [
         "Business",
         "Analysis",
@@ -182,7 +183,8 @@
     {
       "@type": "PodcastEpisode",
       "name": "Invest Like the Best: A Conversation with Charlie Munger & John Collison (EP.355)",
-      "url": "https://joincolossus.com/episodes/76168278/munger-a-conversation-with-charlie-munger-john-collison",
+      "url": "https://colossus.com/episode/munger-a-conversation-with-charlie-munger-john-collison/",
+      "archivedAt": "https://web.archive.org/web/20240720064950/https://joincolossus.com/episodes/76168278/munger-a-conversation-with-charlie-munger-john-collison",
       "datePublished": "2023-12-05",
       "keywords": [
         "Business",
@@ -195,7 +197,8 @@
     {
       "@type": "PodcastEpisode",
       "name": "Invest Like the Best: Founder vs Investor with Elizabeth Zalman & Jerry Neumann (EP.351)",
-      "url": "https://joincolossus.com/episodes/90886887/zalman-founder-vs-investor",
+      "url": "https://colossus.com/episode/zalman-founder-vs-investor/",
+      "archivedAt": "https://web.archive.org/web/20240813142612/https://joincolossus.com/episodes/90886887/zalman-founder-vs-investor",
       "datePublished": "2023-11-07",
       "keywords": [
         "Business",

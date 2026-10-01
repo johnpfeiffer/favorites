@@ -665,7 +665,8 @@
     {
       "@type": "Article",
       "name": "Microsoft: Introduction to Domain Driven Design",
-      "url": "https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design",
+      "url": "https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design",
+      "archivedAt": "https://web.archive.org/web/20220824105801/https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design",
       "datePublished": "2009-02-01",
       "keywords": [
         "Engineering",
@@ -1055,7 +1056,8 @@
     {
       "@type": "Article",
       "name": "Rob Pike: Concurrency is Not Parallelism",
-      "url": "https://blog.golang.org/waza-talk",
+      "url": "https://go.dev/blog/waza-talk",
+      "archivedAt": "https://web.archive.org/web/20210808062905/https://blog.golang.org/waza-talk",
       "datePublished": "2013-01-16",
       "keywords": [
         "Engineering",
@@ -1107,7 +1109,8 @@
     {
       "@type": "ScholarlyArticle",
       "name": "Leslie Lamport: The Part-Time Parliament (Paxos)",
-      "url": "https://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf",
+      "url": "https://www.microsoft.com/en-us/research/publication/part-time-parliament/",
+      "archivedAt": "https://web.archive.org/web/20260724080759/https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/The-Part-Time-Parliament.pdf",
       "datePublished": "1998-05-01",
       "keywords": [
         "Engineering",
@@ -1120,7 +1123,8 @@
     {
       "@type": "ScholarlyArticle",
       "name": "Leslie Lamport: Paxos Made Simple",
-      "url": "https://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf",
+      "url": "https://www.microsoft.com/en-us/research/publication/paxos-made-simple/",
+      "archivedAt": "https://web.archive.org/web/20260702193614/https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/paxos-simple-Copy.pdf",
       "datePublished": "2001-12-01",
       "keywords": [
         "Engineering",
@@ -1167,7 +1171,8 @@
     {
       "@type": "Article",
       "name": "Segment: A Brief History of the UUID",
-      "url": "https://segment.com/blog/a-brief-history-of-the-uuid/",
+      "url": "https://www.twilio.com/en-us/blog/developers/a-brief-history-of-the-uuid",
+      "archivedAt": "https://web.archive.org/web/20170607205117/https://segment.com/blog/a-brief-history-of-the-uuid/",
       "datePublished": "2017-06-07",
       "keywords": [
         "Engineering",
@@ -1178,11 +1183,14 @@
     {
       "@type": "Article",
       "name": "Urchin: Pre-history of Google Analytics",
-      "url": "https://urchin.biz",
+      "url": "https://medium.com/urchin-software-corp/urchin-software-corp-89a1f5292999",
+      "archivedAt": "https://archive.is/0rO7m",
       "datePublished": "2016-09-02",
       "keywords": [
         "Engineering",
-        "Google Analytics",
+        "Startup",
+        "Google",
+        "Analytics",
         "History"
       ]
     },
@@ -1378,7 +1386,7 @@
     {
       "@type": "ScholarlyArticle",
       "name": "Claude Shannon: A Mathematical Theory of Communication",
-      "url": "https://www.essrl.wustl.edu/~jao/itrg/shannon.pdf",
+      "url": "https://web.archive.org/web/20260816224842/https://www.essrl.wustl.edu/~jao/itrg/shannon.pdf",
       "datePublished": "1948-07-01",
       "keywords": [
         "Engineering",
@@ -1390,7 +1398,8 @@
     {
       "@type": "ScholarlyArticle",
       "name": "Leslie Lamport: Time, Clocks, and the Ordering of Events in a Distributed System",
-      "url": "https://research.microsoft.com/en-us/um/people/lamport/pubs/time-clocks.pdf",
+      "url": "https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/",
+      "archivedAt": "https://web.archive.org/web/20260924221616/https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf",
       "datePublished": "1978-07-01",
       "keywords": [
         "Engineering",

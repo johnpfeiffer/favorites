@@ -151,7 +151,8 @@
     {
       "@type": "PodcastEpisode",
       "name": "Camille Fournier on Managing Technical Teams",
-      "url": "https://blog.ycombinator.com/camille-fournier-on-managing-technical-teams/",
+      "url": "https://www.ycombinator.com/blog/camille-fournier-on-managing-technical-teams/",
+      "archivedAt": "https://web.archive.org/web/20191210004028/https://blog.ycombinator.com/camille-fournier-on-managing-technical-teams/",
       "datePublished": "2019-07-17",
       "keywords": [
         "People",
@@ -409,7 +410,8 @@
     {
       "@type": "BlogPosting",
       "name": "What I Hear When You Tell Me Your Company Doesn't Do Meetings",
-      "url": "https://mfbt.ca/what-i-hear-when-you-tell-me-your-company-doesnt-do-meetings-dfbb57a038d6?gi=9c2f0ad8ab87",
+      "url": "https://www.rawsignal.ca/newsletter-archive/what-i-hear-when-you-tell-me-your-company-doesnt-do-meetings/",
+      "archivedAt": "https://web.archive.org/web/20260517054940/https://www.rawsignal.ca/newsletter-archive/what-i-hear-when-you-tell-me-your-company-doesnt-do-meetings/",
       "datePublished": "2017-07-31",
       "keywords": [
         "People",
@@ -474,7 +476,8 @@
     {
       "@type": "BlogPosting",
       "name": "Square Defangs Difficult Decisions with This System",
-      "url": "https://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/",
+      "url": "https://review.firstround.com/square-defangs-difficult-decisions-with-this-system-heres-how/",
+      "archivedAt": "https://web.archive.org/web/20210209204211/https://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/",
       "datePublished": "2016-01-14",
       "keywords": [
         "People",
@@ -966,7 +969,8 @@
     {
       "@type": "PodcastEpisode",
       "name": "Hidden Brain: Why Conversations Go Wrong",
-      "url": "https://hiddenbrain.org/podcast/why-conversations-go-wrong/",
+      "url": "https://www.hiddenbrain.org/podcast/why-conversations-go-wrong/",
+      "archivedAt": "https://web.archive.org/web/20260921153857/https://www.hiddenbrain.org/podcast/why-conversations-go-wrong/",
       "datePublished": "2022-03-01",
       "keywords": [
         "People",
@@ -1086,7 +1090,8 @@
     {
       "@type": "BlogPosting",
       "name": "First Round: The Anatomy of the Perfect Technical Interview",
-      "url": "https://firstround.com/review/The-anatomy-of-the-perfect-technical-interview-from-a-former-Amazon-VP/",
+      "url": "https://review.firstround.com/the-anatomy-of-the-perfect-technical-interview-from-a-former-amazon-vp/",
+      "archivedAt": "https://web.archive.org/web/20210211090045/https://firstround.com/review/The-anatomy-of-the-perfect-technical-interview-from-a-former-Amazon-VP/",
       "datePublished": "2015-02-05",
       "keywords": [
         "People",
@@ -1099,7 +1104,8 @@
     {
       "@type": "BlogPosting",
       "name": "First Round: What You Want in a VP Eng",
-      "url": "https://firstround.com/review/What-You-Want-in-a-VP-Eng-from-the-Recruiters-Behind-Twitter-and-LinkedIn/",
+      "url": "https://review.firstround.com/what-you-want-in-a-vp-eng-from-the-recruiters-behind-twitter-and-linkedin/",
+      "archivedAt": "https://web.archive.org/web/20210127205748/https://firstround.com/review/What-You-Want-in-a-VP-Eng-from-the-Recruiters-Behind-Twitter-and-LinkedIn/",
       "datePublished": "2015-02-05",
       "keywords": [
         "People",
@@ -1125,8 +1131,9 @@
     },
     {
       "@type": "BlogPosting",
-      "name": "Happy 10th Birthday to HTHAPM",
-      "url": "https://www.kennorton.com/essays/happy-10th-birthday-to-hthapm.html",
+      "name": "Ken Norton: Looking Back - 20 Years of How to Hire a PM (HTHAPM retrospective)",
+      "url": "https://www.bringthedonuts.com/essays/how-to-hire-a-pm-retrospective/",
+      "archivedAt": "https://web.archive.org/web/20210108063208/https://www.kennorton.com/essays/happy-10th-birthday-to-hthapm.html",
       "datePublished": "2015-06-01",
       "keywords": [
         "People",
@@ -1421,7 +1428,8 @@
     {
       "@type": "BlogPosting",
       "name": "First Round: 13 Exercises for Work's Toughest Situations",
-      "url": "https://firstround.com/review/these-13-exercises-will-prepare-you-for-works-toughest-situations/",
+      "url": "https://review.firstround.com/these-13-exercises-will-prepare-you-for-works-toughest-situations/",
+      "archivedAt": "https://web.archive.org/web/20210109052259/https://firstround.com/review/these-13-exercises-will-prepare-you-for-works-toughest-situations/",
       "datePublished": "2017-10-17",
       "keywords": [
         "People",
@@ -1446,7 +1454,8 @@
     {
       "@type": "BlogPosting",
       "name": "First Round: 6 Must Reads for Scaling Yourself as a Leader",
-      "url": "https://firstround.com/review/our-6-must-reads-for-scaling-yourself-as-a-leader/",
+      "url": "https://review.firstround.com/our-6-must-reads-for-scaling-yourself-as-a-leader/",
+      "archivedAt": "https://web.archive.org/web/20210127203719/https://firstround.com/review/our-6-must-reads-for-scaling-yourself-as-a-leader/",
       "datePublished": "2017-07-20",
       "keywords": [
         "People",
@@ -1655,7 +1664,8 @@
     {
       "@type": "BlogPosting",
       "name": "Don't Call Yourself a Programmer",
-      "url": "https://kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/",
+      "url": "https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/",
+      "archivedAt": "https://web.archive.org/web/20260825070827/https://kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/",
       "datePublished": "2011-10-28",
       "keywords": [
         "People",
@@ -2421,8 +2431,8 @@
     {
       "@type": "VideoObject",
       "name": "Y Combinator: Office Hours - Group Partners Share Their Top Productivity Advice",
-      "url": "https://www.ycombinator.com/library/K5-yc-s-group-partners-share-productivity-tips",
-      "archivedAt": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/Office-Hours-Group-Partners-Share-Their-Top-Productivity-Advice-e2bbv2r",
+      "url": "https://www.ycombinator.com/library/K5-yc-s-group-partners-share-productivity-tips-and-advice-on-actually-getting-things-done",
+      "archivedAt": "https://web.archive.org/web/20260607201150/https://www.ycombinator.com/library/K5-yc-s-group-partners-share-productivity-tips-and-advice-on-actually-getting-things-done",
       "datePublished": "2023-05-18",
       "keywords": [
         "People",
@@ -2664,7 +2674,7 @@
     {
       "@type": "BlogPosting",
       "name": "Cultivated Management: How to Work With People Who Hold Strong Opinions",
-      "url": "https://www.cultivatedmanagement.com/dealing-with-strong-opinions/",
+      "url": "https://www.cultivatednotes.com/dealing-with-strong-opinions/",
       "archivedAt": "https://web.archive.org/web/20260420031308/https://www.cultivatedmanagement.com/dealing-with-strong-opinions/",
       "datePublished": "2025-02-03",
       "keywords": [
@@ -2770,7 +2780,6 @@
       "@type": "Article",
       "name": "Plato: Handling Layoffs for the First Time (Adi Khurana)",
       "url": "https://web.archive.org/web/20240524124946/https://www.platohq.com/articles/handling-layoffs-for-the-first-time-926003353",
-      "archivedAt": "https://www.platohq.com/articles/handling-layoffs-for-the-first-time-926003353",
       "datePublished": "2021-07-02",
       "keywords": [
         "People",
