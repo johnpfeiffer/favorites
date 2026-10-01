@@ -666,7 +666,7 @@
       "@type": "Article",
       "name": "Microsoft: Introduction to Domain Driven Design",
       "url": "https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design",
-      "archivedAt": "https://web.archive.org/web/20260905114912/https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design",
+      "archivedAt": "https://web.archive.org/web/20220824105801/https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design",
       "datePublished": "2009-02-01",
       "keywords": [
         "Engineering",
@@ -1057,7 +1057,7 @@
       "@type": "Article",
       "name": "Rob Pike: Concurrency is Not Parallelism",
       "url": "https://go.dev/blog/waza-talk",
-      "archivedAt": "https://web.archive.org/web/20260926071801/https://go.dev/blog/waza-talk",
+      "archivedAt": "https://web.archive.org/web/20210808062905/https://blog.golang.org/waza-talk",
       "datePublished": "2013-01-16",
       "keywords": [
         "Engineering",

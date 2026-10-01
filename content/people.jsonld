@@ -152,7 +152,7 @@
       "@type": "PodcastEpisode",
       "name": "Camille Fournier on Managing Technical Teams",
       "url": "https://www.ycombinator.com/blog/camille-fournier-on-managing-technical-teams/",
-      "archivedAt": "https://web.archive.org/web/20250519211546/https://www.ycombinator.com/blog/camille-fournier-on-managing-technical-teams/",
+      "archivedAt": "https://web.archive.org/web/20191210004028/https://blog.ycombinator.com/camille-fournier-on-managing-technical-teams/",
       "datePublished": "2019-07-17",
       "keywords": [
         "People",
@@ -477,7 +477,7 @@
       "@type": "BlogPosting",
       "name": "Square Defangs Difficult Decisions with This System",
       "url": "https://review.firstround.com/square-defangs-difficult-decisions-with-this-system-heres-how/",
-      "archivedAt": "https://web.archive.org/web/20260610082924/https://review.firstround.com/square-defangs-difficult-decisions-with-this-system-heres-how/",
+      "archivedAt": "https://web.archive.org/web/20210209204211/https://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/",
       "datePublished": "2016-01-14",
       "keywords": [
         "People",
@@ -1091,7 +1091,7 @@
       "@type": "BlogPosting",
       "name": "First Round: The Anatomy of the Perfect Technical Interview",
       "url": "https://review.firstround.com/the-anatomy-of-the-perfect-technical-interview-from-a-former-amazon-vp/",
-      "archivedAt": "https://web.archive.org/web/20260526010822/https://review.firstround.com/the-anatomy-of-the-perfect-technical-interview-from-a-former-amazon-vp/",
+      "archivedAt": "https://web.archive.org/web/20210211090045/https://firstround.com/review/The-anatomy-of-the-perfect-technical-interview-from-a-former-Amazon-VP/",
       "datePublished": "2015-02-05",
       "keywords": [
         "People",
@@ -1105,7 +1105,7 @@
       "@type": "BlogPosting",
       "name": "First Round: What You Want in a VP Eng",
       "url": "https://review.firstround.com/what-you-want-in-a-vp-eng-from-the-recruiters-behind-twitter-and-linkedin/",
-      "archivedAt": "https://web.archive.org/web/20260510085521/https://review.firstround.com/what-you-want-in-a-vp-eng-from-the-recruiters-behind-twitter-and-linkedin/",
+      "archivedAt": "https://web.archive.org/web/20210127205748/https://firstround.com/review/What-You-Want-in-a-VP-Eng-from-the-Recruiters-Behind-Twitter-and-LinkedIn/",
       "datePublished": "2015-02-05",
       "keywords": [
         "People",
@@ -1133,7 +1133,7 @@
       "@type": "BlogPosting",
       "name": "Ken Norton: Looking Back - 20 Years of How to Hire a PM (HTHAPM retrospective)",
       "url": "https://www.bringthedonuts.com/essays/how-to-hire-a-pm-retrospective/",
-      "archivedAt": "https://web.archive.org/web/20260606023655/https://www.bringthedonuts.com/essays/how-to-hire-a-pm-retrospective/",
+      "archivedAt": "https://web.archive.org/web/20210108063208/https://www.kennorton.com/essays/happy-10th-birthday-to-hthapm.html",
       "datePublished": "2015-06-01",
       "keywords": [
         "People",
@@ -1429,7 +1429,7 @@
       "@type": "BlogPosting",
       "name": "First Round: 13 Exercises for Work's Toughest Situations",
       "url": "https://review.firstround.com/these-13-exercises-will-prepare-you-for-works-toughest-situations/",
-      "archivedAt": "https://web.archive.org/web/20260421135232/https://review.firstround.com/these-13-exercises-will-prepare-you-for-works-toughest-situations/",
+      "archivedAt": "https://web.archive.org/web/20210109052259/https://firstround.com/review/these-13-exercises-will-prepare-you-for-works-toughest-situations/",
       "datePublished": "2017-10-17",
       "keywords": [
         "People",
@@ -1455,7 +1455,7 @@
       "@type": "BlogPosting",
       "name": "First Round: 6 Must Reads for Scaling Yourself as a Leader",
       "url": "https://review.firstround.com/our-6-must-reads-for-scaling-yourself-as-a-leader/",
-      "archivedAt": "https://web.archive.org/web/20260218204623/https://review.firstround.com/our-6-must-reads-for-scaling-yourself-as-a-leader/",
+      "archivedAt": "https://web.archive.org/web/20210127203719/https://firstround.com/review/our-6-must-reads-for-scaling-yourself-as-a-leader/",
       "datePublished": "2017-07-20",
       "keywords": [
         "People",
@@ -1665,6 +1665,7 @@
       "@type": "BlogPosting",
       "name": "Don't Call Yourself a Programmer",
       "url": "https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/",
+      "archivedAt": "https://web.archive.org/web/20260825070827/https://kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/",
       "datePublished": "2011-10-28",
       "keywords": [
         "People",
