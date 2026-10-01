@@ -2600,6 +2600,7 @@
       "@type": "PodcastEpisode",
       "name": "Lenny's Podcast: Brian Chesky's New Playbook (Chesky takes over again)",
       "url": "https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305?i=1000634526343",
       "datePublished": "2023-11-12",
       "keywords": [
         "People",
@@ -2613,6 +2614,7 @@
       "@type": "VideoObject",
       "name": "Y Combinator: How to Build an MVP with Michael Seibel (Startup School)",
       "url": "https://www.ycombinator.com/library/Io-how-to-build-an-mvp",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/y-combinator/id1236907421?i=1000609019856",
       "datePublished": "2023-04-14",
       "keywords": [
         "People",
