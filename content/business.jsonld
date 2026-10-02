@@ -584,6 +584,19 @@
         "Anthropic",
         "Podcast"
       ]
+    },
+    {
+      "@type": "Article",
+      "name": "Bloomberg: Crypto Mystery - Where's the $69 Billion Backing the Stablecoin Tether?",
+      "url": "https://www.bloomberg.com/news/features/2021-10-07/crypto-mystery-where-s-the-69-billion-backing-the-stablecoin-tether",
+      "archivedAt": "https://web.archive.org/web/20260723164146/https://www.bloomberg.com/news/features/2021-10-07/crypto-mystery-where-s-the-69-billion-backing-the-stablecoin-tether",
+      "datePublished": "2021-10-07",
+      "keywords": [
+        "Business",
+        "Crypto",
+        "Investing",
+        "Article"
+      ]
     }
   ]
 }
