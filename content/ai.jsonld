@@ -862,6 +862,21 @@
         "Vibe Coding",
         "Video"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Latent Space: OpenRouter - from Seed to Stripe (Alex Atallah and Anjney Midha)",
+      "url": "https://www.latent.space/p/openrouter",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/latent-space-the-ai-engineer-podcast/id1674008350?i=1000791689725",
+      "datePublished": "2026-09-25",
+      "keywords": [
+        "AI",
+        "OpenRouter",
+        "Open Source",
+        "Alex Atallah",
+        "Anjney Midha",
+        "Podcast"
+      ]
     }
   ]
 }

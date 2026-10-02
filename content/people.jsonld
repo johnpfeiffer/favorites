@@ -4123,6 +4123,48 @@
         "Jill Wetzler",
         "Blog"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Peterman Pod: Dropbox's Former Most Senior Eng on Building Great Systems and Advice for the AI Era (James Cowling)",
+      "url": "https://www.developing.dev/p/dropboxs-former-most-senior-eng-building",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835?i=1000769469969",
+      "datePublished": "2026-05-25",
+      "keywords": [
+        "People",
+        "Systems Design",
+        "Career Development",
+        "Dropbox",
+        "James Cowling",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Peterman Pod: Surprises in Computer History and Where Bad Code Comes From (Casey Muratori)",
+      "url": "https://www.developing.dev/p/casey-muratori-surprises-in-computer",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835?i=1000789540404",
+      "datePublished": "2026-09-14",
+      "keywords": [
+        "People",
+        "History",
+        "Quality",
+        "Casey Muratori",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "A Life Engineered: Negotiation Expert - How to 3X Your Tech Salary",
+      "url": "https://share.transistor.fm/s/ddabfa1d",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/a-life-engineered/id1835557540?i=1000783865848",
+      "datePublished": "2026-08-17",
+      "keywords": [
+        "People",
+        "Career Development",
+        "Negotiation",
+        "Podcast"
+      ]
     }
   ]
 }
