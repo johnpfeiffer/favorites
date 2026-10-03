@@ -597,6 +597,33 @@
         "Investing",
         "Article"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Invest Like the Best: Sarah Guo - Funding the Frontier (EP.489)",
+      "url": "https://colossus.com/episode/no-priors-just-conviction/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909?i=1000787138184",
+      "datePublished": "2026-09-01",
+      "keywords": [
+        "Business",
+        "Investing",
+        "AI",
+        "Sarah Guo",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Super Data Science 993: How to Build AI-First Organizations (Jacob Miller and Jeremy Mumford)",
+      "url": "https://www.superdatascience.com/podcast/sds-993-how-to-build-ai-first-organizations-with-jacob-miller-and-jeremy-mumford",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/super-data-science-ml-ai-podcast-with-jon-krohn/id1163599059?i=1000768550121",
+      "datePublished": "2026-05-19",
+      "keywords": [
+        "Business",
+        "AI",
+        "Organization",
+        "Podcast"
+      ]
     }
   ]
 }

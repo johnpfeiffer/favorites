@@ -2408,6 +2408,19 @@
         "Thibault Lestang",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio 732: Jason Gorman on The Effective Use of AI For Software Development",
+      "url": "https://se-radio.net/2026/08/se-radio-732-jason-gorman-on-the-effective-use-of-ai-for-software-development/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/software-engineering-radio-the-podcast-for/id120906714?i=1000780115101",
+      "datePublished": "2026-08-05",
+      "keywords": [
+        "Engineering",
+        "AI",
+        "Jason Gorman",
+        "Podcast"
+      ]
     }
   ]
 }
