@@ -4165,6 +4165,95 @@
         "Negotiation",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Your Next Tech Startup: JUST HIRED: How to Tell Your Story",
+      "url": "https://podcasts.apple.com/us/podcast/just-hired-how-to-tell-your-story/id1809567381?i=1000724093051",
+      "datePublished": "2025-08-29",
+      "keywords": [
+        "People",
+        "Interviewing",
+        "Career Development",
+        "Communication",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Your Next Tech Startup: Avoid this Rejection Reason by Asking Questions in Interviews with SVP of Engineering Maher Hanafi",
+      "url": "https://podcasts.apple.com/us/podcast/avoid-this-rejection-reason-by-asking-questions-in/id1809567381?i=1000719038163",
+      "datePublished": "2025-07-25",
+      "keywords": [
+        "People",
+        "Interviewing",
+        "Hiring",
+        "Career Development",
+        "Maher Hanafi",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "ELC: Pivotal Leadership Moments and Career Decision-Making with Thuan Pham and Li Fan #170",
+      "url": "https://sfelc.com/podcasts/pivotal-leadership-moments-and-career-decision-making-thuan-pham-uber-coupang-li-fan-circle",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-engineering-leadership-podcast/id1481996448?i=1000648875483",
+      "datePublished": "2024-03-12",
+      "keywords": [
+        "People",
+        "Leadership",
+        "Career Development",
+        "CTO",
+        "Uber",
+        "Thuan Pham",
+        "Li Fan",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Career Tools: Results and Relationships - Part 1 (Hall of Fame Guidance)",
+      "url": "https://www.manager-tools.com/2026/05/results-and-relationships-part-1",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/career-tools/id299826841?i=1000770057098",
+      "datePublished": "2026-05-28",
+      "keywords": [
+        "People",
+        "Career Development",
+        "Results",
+        "Relationships",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "ELC: Building an Empowered Career with Jean Hsu and Cate Huston #261",
+      "url": "https://sfelc.com/podcasts/building-an-empowered-career-jean-hsu-and-cate-huston-twill-range",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-engineering-leadership-podcast/id1481996448?i=1000772113781",
+      "datePublished": "2026-06-10",
+      "keywords": [
+        "People",
+        "Career Development",
+        "Leadership",
+        "Jean Hsu",
+        "Cate Huston",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "HEARTset Leadership: Building Trust and Psychological Safety in Teams with Workplace Therapist Brandon Smith",
+      "url": "https://www.heartsetstudio.com/heartset-leadership-podcast-s1-ep-12",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/heartset-leadership-podcast/id1890384393?i=1000772736045",
+      "datePublished": "2026-06-15",
+      "keywords": [
+        "People",
+        "Leadership",
+        "Psychological Safety",
+        "Trust",
+        "Coaching",
+        "Brandon Smith",
+        "Podcast"
+      ]
     }
   ]
 }

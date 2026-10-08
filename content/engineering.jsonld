@@ -2421,6 +2421,37 @@
         "Jason Gorman",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "CaSE: Agent Harness, State of Play, Risk and AI Company Culture",
+      "url": "https://www.case-podcast.org/62-utah-retreat-insights-and-state-of-play-ai-assisted-development",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/case-conversations-about-software-engineering/id1213708671?i=1000752473004",
+      "datePublished": "2026-03-17",
+      "keywords": [
+        "Engineering",
+        "AI",
+        "Agents",
+        "LLM",
+        "Birgitta Böckeler",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Scaling Robotics: Field Ops is Criminally Underrated with Matthew Lee (Scythe Robotics and Aurora)",
+      "url": "https://mirurobotics.substack.com/p/field-ops-is-criminally-underrated",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/scaling-robotics/id1857724488?i=1000765946771",
+      "datePublished": "2026-05-03",
+      "keywords": [
+        "Engineering",
+        "Robotics",
+        "Field Operations",
+        "Operations",
+        "Scaling",
+        "Matthew Lee",
+        "Podcast"
+      ]
     }
   ]
 }
