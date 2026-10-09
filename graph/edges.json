@@ -1224,6 +1224,21 @@
       "source": "BF7CC51F-C7D6-46B7-A126-0CE7CEBD18E0",
       "target": "3D39FF6E-BEDE-439C-9CE5-9529A32064F7",
       "type": "Author_of"
+    },
+    {
+      "source": "52533F8A-9757-4993-99C0-681BC0FA9E93",
+      "target": "FFD10BC8-7EF6-497A-A8AC-4ED310F6BF49",
+      "type": "Founder_of"
+    },
+    {
+      "source": "07C82011-5B54-4A6B-BB55-69122FC863ED",
+      "target": "906D84E9-0696-44DA-B3AA-3AD9C297209B",
+      "type": "Founder_of"
+    },
+    {
+      "source": "2CD0717B-93BE-4B36-854A-0DCE86D6AB28",
+      "target": "61A9B1FA-1793-4CB4-847C-9239F19AF0A4",
+      "type": "Host_of"
     }
   ]
 }

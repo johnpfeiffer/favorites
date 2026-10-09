@@ -72,6 +72,9 @@ func TestNormalizeYouTube(t *testing.T) {
 		{"music host", "https://music.youtube.com/watch?v=EDZBYbEwhm8", bare},
 		// Non-video YouTube URLs keep generic normalization.
 		{"channel page untouched", "https://www.youtube.com/@Deeplearningai/playlists", "youtube.com/@Deeplearningai/playlists"},
+		// Wayback captures unwrap without losing the inner query string.
+		{"wayback watch with extra params", "https://web.archive.org/web/20250920062021/https://www.youtube.com/watch?v=EDZBYbEwhm8&feature=youtu.be", bare},
+		{"wayback short host", "https://web.archive.org/web/20250920062021/https://youtu.be/EDZBYbEwhm8", bare},
 	}
 	for _, tc := range cases {
 		t.Run(tc.name, func(t *testing.T) {
@@ -79,6 +82,19 @@ func TestNormalizeYouTube(t *testing.T) {
 				t.Errorf("normalize(%q) = %q, want %q", tc.in, got, tc.want)
 			}
 		})
+	}
+}
+
+func TestUnwrapWaybackKeepsInnerQuery(t *testing.T) {
+	if got := unwrapWayback("https://web.archive.org/web/20250101000000/https://example.com/page?a=1&b=2"); got != "https://example.com/page?a=1&b=2" {
+		t.Errorf("unwrapWayback dropped inner query: %q", got)
+	}
+	// Two Wayback captures of *different* YouTube videos must not collapse
+	// to the same key (regression: the inner ?v= used to be dropped).
+	a := normalize("https://web.archive.org/web/20250920062021/https://www.youtube.com/watch?v=PmvHxj8FJhE&feature=youtu.be")
+	b := normalize("https://web.archive.org/web/20260807155947/https://www.youtube.com/watch?v=31GUkCBD-Uc")
+	if a == b {
+		t.Errorf("distinct captured videos normalize equal: %q", a)
 	}
 }
 
