@@ -877,6 +877,22 @@
         "Anjney Midha",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Caveman Prompting Challenge with James Barney (MetLife)",
+      "url": "https://home.mlops.community/public/videos/the-caveman-prompting-challenge",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/agentic-conversations-formally-mlops-community/id1505372978?i=1000792584019",
+      "datePublished": "2026-10-01",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Agents",
+        "FinOps",
+        "James Barney",
+        "MetLife",
+        "Podcast"
+      ]
     }
   ]
 }
