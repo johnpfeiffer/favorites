@@ -5,10 +5,80 @@
   "feedUrl": "https://rss.libsyn.com/shows/61840/destinations/240976.xml",
   "homeUrl": "https://www.thetwentyminutevc.com",
   "canonicalPattern": "https://www.thetwentyminutevc.com/<guest-slug>",
-  "episodeCount": 1505,
+  "episodeCount": 1519,
   "episodes": [
     {
-      "title": "20VC: How to Build Your Own Data Center & Why Every Startup Should Do It | How ElevenLabs Leapfrogged Us: What I Learned | The AI Talent War: How Your Hiring Process Needs to Change with Cliff Weitzman, Speechify",
+      "title": "20VC: Cognition vs Factory: Vinod Khosla Creates a Storm | OpenAI Nears $70B Run Rate: Anthropic Under Threat | ElevenLabs Doubles Its Valuation to $22B &amp; Salesforce Buys Listen Labs for $2B",
+      "published": "2026-10-08",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-cognition-vs-factory-vinod-khosla-creates-a-storm-openai-nears-70b-run-rate-anthropic-under-threat-elevenlabs-doubles-its-valuation-to-22b-salesforce-buys-listen-labs-for-2b"
+    },
+    {
+      "title": "20VC: Is Seed Investing Dead Without a $1BN Fund? | Does Ownership and Price Matter When Companies Can Be $1TRN Exits | Are AI Revenue Numbers Real and What to Watch Out For with Venky Ganesan, Menlo Ventures",
+      "published": "2026-10-05",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-is-seed-investing-dead-without-a-1bn-fund-does-ownership-and-price-matter-when-companies-can-be-1trn-exits-are-ai-revenue-numbers-real-and-what-to-watch-out-for-with-venky-ganesan-menlo-ventures"
+    },
+    {
+      "title": "20VC: The Future of Datacentres: What You Need to Know | Why Everyone Gets GPU Depreciation and AI's Energy Costs Wrong | Who Really Makes Money From AI &amp; Why Most Moats Don't Exist with Chase Lochmiller",
+      "published": "2026-10-03",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-the-future-of-datacentres-what-you-need-to-know-why-everyone-gets-gpu-depreciation-and-ais-energy-costs-wrong-who-really-makes-money-from-ai-why-most-moats-dont-exist-with-chase-lochmiller"
+    },
+    {
+      "title": "20VC: Instinct Raises $1B at $10B Valuation | AMD Buys Fei-Fei Li's World Labs for $8.2B | Meta Poaches MongoDB's CEO | Bessemer Raises $5.75B | Oura Pulls IPO &amp; Nubank Eyes $8–12B Monzo Takeover",
+      "published": "2026-10-01",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-instinct-raises-1b-at-10b-valuation-amd-buys-fei-fei-lis-world-labs-for-82b-meta-poaches-mongodbs-ceo-bessemer-raises-575b-oura-pulls-ipo-nubank-eyes-812b-monzo-takeover"
+    },
+    {
+      "title": "20VC: $1BN ARR in 18 Months; The Untold Story of Higgsfield | Spending $4M Per Month on Models | Why Moats in AI are BS | Scaling a Content Team to 150 People with Alex Mashrabov",
+      "published": "2026-09-28",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-1bn-arr-in-18-months-the-untold-story-of-higgsfield-spending-4m-per-month-on-models-why-moats-in-ai-are-bs-scaling-a-content-team-to-150-people-with-alex-mashrabov"
+    },
+    {
+      "title": "20VC: Five Predictions for a World of Agents | The Ads Business Model Will Die | Biggest Lessons from Working with Elon Musk at Twitter with Parag Agrawal, Parallel",
+      "published": "2026-09-26",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-five-predictions-for-a-world-of-agents-the-ads-business-model-will-die-biggest-lessons-from-working-with-elon-musk-at-twitter-with-parag-agrawal-parallel"
+    },
+    {
+      "title": "20VC: Meta's Muse Hits No. 1. ChatGPT Finally Has a Rival | Menlo Sounds the AI Bubble Alarm | Factory Triples Its Valuation to $5 Billion | Keith Rabois vs Airwallex: Who is Right? | Crusoe's $3.9 Billion Round. Is the Data Centre Trade Overheating?",
+      "published": "2026-09-24",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-metas-muse-hits-no-1-chatgpt-finally-has-a-rival-menlo-sounds-the-ai-bubble-alarm-factory-triples-its-valuation-to-5-billion-keith-rabois-vs-airwallex-who-is-right-crusoes-39-billion-round-is-the-data-centre-trade-overheating"
+    },
+    {
+      "title": "20VC: Why AI Cannot Replace Humans in Enterprise | Why Work Processes Not Models Will Be The Most Valuable Asset in AI | Why Europe Has Lost and Building in the US vs EU with Daniel Dines, UiPath",
+      "published": "2026-09-21",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-why-ai-cannot-replace-humans-in-enterprise-why-work-processes-not-models-will-be-the-most-valuable-asset-in-ai-why-europe-has-lost-and-building-in-the-us-vs-eu-with-daniel-dines-uipath"
+    },
+    {
+      "title": "20VC: \"Anti-Data Centres is a Chinese Psyop\" | How Many Planned Data Centers Will Actually Get Built? | Is Energy AI's Biggest Bottleneck? With Thomas Sohmers, Co-Founder @ Positron",
+      "published": "2026-09-19",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-anti-data-centres-is-a-chinese-psyop-how-many-planned-data-centers-will-actually-get-built-is-energy-ais-biggest-bottleneck-with-thomas-sohmers-co-founder-positron"
+    },
+    {
+      "title": "20VC: Why \"Pacing the Frontier\" is BS | Instinct Raising $1BN at $10BN &amp; Meta Launches Muse | Miro Sells for $1.35BN After a $17.5BN Valuation | Mistral Raises €3BN &amp; Could Sam Bankman-Fried Win His Freedom?",
+      "published": "2026-09-17",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-why-pacing-the-frontier-is-bs-instinct-raising-1bn-at-10bn-meta-launches-muse-miro-sells-for-135bn-after-a-175bn-valuation-mistral-raises-3bn-could-sam-bankman-fried-win-his-freedom"
+    },
+    {
+      "title": "20VC: How LPs Allocate to Venture in 2026: What They Want, What They Do Not Want | Why Fund Multiple Does Not Matter Without a Timeline | Why Velocity of Cashback is the Most Important Thing with David Morehead, CIO @ Baylor",
+      "published": "2026-09-14",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-how-lps-allocate-to-venture-in-2026-what-they-want-what-they-do-not-want-why-fund-multiple-does-not-matter-without-a-timeline-why-velocity-of-cashback-is-the-most-important-thing-with-david-morehead-cio-baylor"
+    },
+    {
+      "title": "20VC: 7 Predictions for How AI Changes the World: Labour, Engineering, Social Media, GrokBots Buying Cybercabs and more with Matteo Franceschetti, Co-Founder @ Eight Sleep",
+      "published": "2026-09-12",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-7-predictions-for-how-ai-changes-the-world-labour-engineering-social-media-grokbots-buying-cybercabs-and-more-with-matteo-franceschetti-co-founder-eight-sleep"
+    },
+    {
+      "title": "20VC: Jensen Huang Declares AGI Has Arrived | GPT Astra and Fable 5.1 Accelerate the Model Race | Tesla Launches Cybercabs | Index Pulls Out of Town &amp; Anthropic Pulls From Descartes Acquisition",
+      "published": "2026-09-10",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-declares-agi-has-arrived-gpt-astra-and-fable-51-accelerate-the-model-race-tesla-launches-cybercabs-index-pulls-out-of-town-anthropic-pulls-from-descartes-acquisition"
+    },
+    {
+      "title": "20VC: The $100 Billion AI Assistant Race: Town vs Instinct vs GrokBot | We Spend $75K Per Engineer on AI Tools | Why the AI Assistant Market Is Not a Bubble &amp; AI Assistants Will Replace Every App on Your Phone with JD, Founder of Town",
+      "published": "2026-09-07",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-the-100-billion-ai-assistant-race-town-vs-instinct-vs-grokbot-we-spend-75k-per-engineer-on-ai-tools-why-the-ai-assistant-market-is-not-a-bubble-ai-assistants-will-replace-every-app-on-your-phone-with-jd-founder-of-town"
+    },
+    {
+      "title": "20VC: How to Build Your Own Data Center &amp; Why Every Startup Should Do It | How ElevenLabs Leapfrogged Us: What I Learned | The AI Talent War: How Your Hiring Process Needs to Change with Cliff Weitzman, Speechify",
       "published": "2026-09-05",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-how-to-build-your-own-data-center-why-every-startup-should-do-it-how-elevenlabs-leapfrogged-us-what-i-learned-the-ai-talent-war-how-your-hiring-process-needs-to-change-with-cliff-weitzman-speechify"
     },
@@ -28,7 +98,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-is-anthropics-coding-business-worth-2-trillion-should-american-enterprises-work-with-open-source-chinese-models-why-8090-of-neo-labs-die-in-the-next-18-months-with-eno-reyes-co-founder-factory"
     },
     {
-      "title": "20VC: NVIDIA Bonanza: Buys Poolside & Invests in Mercor and Perplexity | Anthropic's $30TRN Revenue Assumption & OpenAI Confirms IPO | Why Customer Service, Defence and Robotics are Overinflated",
+      "title": "20VC: NVIDIA Bonanza: Buys Poolside &amp; Invests in Mercor and Perplexity | Anthropic's $30TRN Revenue Assumption &amp; OpenAI Confirms IPO | Why Customer Service, Defence and Robotics are Overinflated",
       "published": "2026-08-27",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-nvidia-bonanza-buys-poolside-invests-in-mercor-and-perplexity-anthropics-30trn-revenue-assumption-openai-confirms-ipo-why-customer-service-defence-and-robotics-are-overinflated"
     },
@@ -38,12 +108,12 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-inside-sequoias-investment-committee-lessons-from-don-valentine-doug-leone-and-alfred-lin-how-the-spacex-and-citadel-deals-went-down-what-sequoia-specifically-looks-for-in-founders-with-julien-bek"
     },
     {
-      "title": "20VC: The AI Bubble Will Burst: Half the Neoclouds Will Die | China: Should We Ban Chip Exports & Be Fearful of Chinese Open-Source | Mag7: Who Dies and Who Thrives: Why Meta is Meh and Microsoft is Mega",
+      "title": "20VC: The AI Bubble Will Burst: Half the Neoclouds Will Die | China: Should We Ban Chip Exports &amp; Be Fearful of Chinese Open-Source | Mag7: Who Dies and Who Thrives: Why Meta is Meh and Microsoft is Mega",
       "published": "2026-08-22",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-the-ai-bubble-will-burst-half-the-neoclouds-will-die-china-should-we-ban-chip-exports-be-fearful-of-chinese-open-source-mag7-who-dies-and-who-thrives-why-meta-is-meh-and-microsoft-is-mega"
     },
     {
-      "title": "20VC: SpaceX Buys Cursor for $60BN | Stripe's $8BN OpenRouter Bet | Anthropic's First Profit & The Math Behind Reaching $600BN in Revenue? | Lovable and Higgsfield Raise Mega Rounds",
+      "title": "20VC: SpaceX Buys Cursor for $60BN | Stripe's $8BN OpenRouter Bet | Anthropic's First Profit &amp; The Math Behind Reaching $600BN in Revenue? | Lovable and Higgsfield Raise Mega Rounds",
       "published": "2026-08-20",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-spacex-buys-cursor-for-60bn-stripes-8bn-openrouter-bet-anthropics-first-profit-the-math-behind-reaching-600bn-in-revenue-lovable-and-higgsfield-raise-mega-rounds"
     },
@@ -68,7 +138,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-will-openrouter-sell-for-10bn-to-stripe-why-chinese-open-models-are-beating-americaand-what-happens-next-why-enterprises-are-more-fearful-of-anthropic-and-openai-than-china-is-the-routing-layer-becoming-a-commodity-with-alex-atallah"
     },
     {
-      "title": "20VC: The AI Boom Will Create Enormous Roadkill: Who Wins & Loses | Why Founders Should Never Take Multi-Stage Money at Seed | Why Triple, Triple, Double, Double is Good Enough",
+      "title": "20VC: The AI Boom Will Create Enormous Roadkill: Who Wins &amp; Loses | Why Founders Should Never Take Multi-Stage Money at Seed | Why Triple, Triple, Double, Double is Good Enough",
       "published": "2026-08-08",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-the-ai-boom-will-create-enormous-roadkill-who-wins-loses-why-founders-should-never-take-multi-stage-money-at-seed-why-triple-triple-double-double-is-good-enough"
     },
@@ -103,7 +173,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-mercor-cpo-on-revenue-concentration-from-frontier-labs-why-large-enterprise-is-scared-to-partner-with-frontier-labs-why-small-specialised-models-is-the-future-with-osvald-nitski"
     },
     {
-      "title": "20VC: OpenAI and Anthropic Threatened by Kimi? | Should the US Ban Chinese Open-Source Models | Should Openrouter Sell & Value in the Routing Layer? | Stripe Buying Paypal: What You Need to Know",
+      "title": "20VC: OpenAI and Anthropic Threatened by Kimi? | Should the US Ban Chinese Open-Source Models | Should Openrouter Sell &amp; Value in the Routing Layer? | Stripe Buying Paypal: What You Need to Know",
       "published": "2026-07-23",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-openai-and-anthropic-threatened-by-kimi-should-the-us-ban-chinese-open-source-models-should-openrouter-sell-value-in-the-routing-layer-stripe-buying-paypal-what-you-need-to-know"
     },
@@ -133,12 +203,12 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-openai-and-anthropic-wont-win-the-app-layer-why-teams-will-get-bigger-not-smaller-in-a-world-of-ai-why-ai-removes-incumbents-advantage-of-bundling-china-vs-america-who-wins-the-ai-war-with-arvind-jain-co-founder-glean"
     },
     {
-      "title": "20VC: Sam Altman Offers Trump 5% of OpenAI: Fool or Genius? | Alex Karp Sounds the Alarm: Enterprises Fear Frontier Models & Questionable ROI of AI | The Rise of Chinese Open Source: Deepseek Building Own Chips",
+      "title": "20VC: Sam Altman Offers Trump 5% of OpenAI: Fool or Genius? | Alex Karp Sounds the Alarm: Enterprises Fear Frontier Models &amp; Questionable ROI of AI | The Rise of Chinese Open Source: Deepseek Building Own Chips",
       "published": "2026-07-09",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-sam-altman-offers-trump-5-of-openai-fool-or-genius-alex-karp-sounds-the-alarm-enterprises-fear-frontier-models-questionable-roi-of-ai-the-rise-of-chinese-open-source-deepseek-building-own-chips"
     },
     {
-      "title": "20VC: Why Now is the Time for the Application Layer | Why OpenAI & Anthropic Won't Win the App Layer | Why Startups Should be TokenMaxxing | Why VCs Should Reduce Weighting on Price & Ownership in an Age of AI with Mike Mignano, USV",
+      "title": "20VC: Why Now is the Time for the Application Layer | Why OpenAI &amp; Anthropic Won't Win the App Layer | Why Startups Should be TokenMaxxing | Why VCs Should Reduce Weighting on Price &amp; Ownership in an Age of AI with Mike Mignano, USV",
       "published": "2026-07-06",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-now-is-the-time-for-the-application-layer-why-openai-anthropic-wont-win-the-app-layer-why-startups-should-be-tokenmaxxing-why-vcs-should-reduce-weighting-on-price-ownership-in-an-age-of-ai-with-mike-mignano-usv"
     },
@@ -163,12 +233,12 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-how-we-got-fred-wilson-benchmark-and-index-to-invest-94m-why-robinhoods-strategy-is-wrong-why-1-1s-are-bs-and-what-every-founder-gets-wrong-about-equity-why-taste-beats-ai-but-how-ai-kills-org-charts-with-paul-erlanger-ceo-fomo"
     },
     {
-      "title": "20VC: Deepseek Raises $50BN | Wall St's $725BN AI Question | The Rise of Open Source & How it Threatens OpenAI & Anthropic | OpenAI Builds it's Own Chip: Jalapeno | The Death of Moats & The New AI Software Winners",
+      "title": "20VC: Deepseek Raises $50BN | Wall St's $725BN AI Question | The Rise of Open Source &amp; How it Threatens OpenAI &amp; Anthropic | OpenAI Builds it's Own Chip: Jalapeno | The Death of Moats &amp; The New AI Software Winners",
       "published": "2026-06-25",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-deepseek-raises-50bn-wall-sts-725bn-ai-question-the-rise-of-open-source-how-it-threatens-openai-anthropic-openai-builds-its-own-chip-jalapeno-the-death-of-moats-the-new-ai-software-winners"
     },
     {
-      "title": "20VC: Nikesh Arora on the Frontier Model Problem: Breadth vs Depth | The Future of Token Costs | Memory Becoming the Moat | Where Value Accrues: Infra, Models, or Apps? | Why Enterprise AI is Not Ready & Systems of Record vs Systems of Intelligence",
+      "title": "20VC: Nikesh Arora on the Frontier Model Problem: Breadth vs Depth | The Future of Token Costs | Memory Becoming the Moat | Where Value Accrues: Infra, Models, or Apps? | Why Enterprise AI is Not Ready &amp; Systems of Record vs Systems of Intelligence",
       "published": "2026-06-22",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-nikesh-arora-on-the-frontier-model-problem-breadth-vs-depth-the-future-of-token-costs-memory-becoming-the-moat-where-value-accrues-infra-models-or-apps-why-enterprise-ai-is-not-ready-systems-of-record-vs-systems-of-intelligence"
     },
@@ -188,7 +258,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-micron-will-be-more-valuable-than-meta-how-export-controls-helped-not-hurt-china-power-is-the-bottleneck-to-ai-why-dario-has-done-a-disservice-to-ai-with-his-labour-replacement-messaging-with-aravind-srinivas-founder-perplexity"
     },
     {
-      "title": "20VC: Who Wins the Model War: OpenAI, Anthropic or Open-Source | Token Maxing, AI Hangovers & The Coming ROI Reckoning | Labour Displacement Fears are BS & Overblown | From Physicist to Sequoia Founder with Matan Grinberg, Founder @ Factory",
+      "title": "20VC: Who Wins the Model War: OpenAI, Anthropic or Open-Source | Token Maxing, AI Hangovers &amp; The Coming ROI Reckoning | Labour Displacement Fears are BS &amp; Overblown | From Physicist to Sequoia Founder with Matan Grinberg, Founder @ Factory",
       "published": "2026-06-13",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-model-war-openai-anthropic-or-open-source-token-maxing-ai-hangovers-the-coming-roi-reckoning-labour-displacement-fears-are-bs-overblown-from-physicist-to-sequoia-founder-with-matan-grinberg-founder-factory"
     },
@@ -198,7 +268,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-spacex-launches-largest-ever-ipo-openai-files-to-go-public-uber-cuts-23-of-hr-lovable-hits-500m-arr-founders-revolt-against-vcs-the-fundraising-horror-stories-going-viral"
     },
     {
-      "title": "20VC: Nebius Co-Founder on AI Infrastructure Bubbles | The Real Impact of Open Source on OpenAI & Anthropic | How Price Elastic is Demand for Compute | Could Nebius Sell 10x More Compute If They Had It & more with Roman Chernin",
+      "title": "20VC: Nebius Co-Founder on AI Infrastructure Bubbles | The Real Impact of Open Source on OpenAI &amp; Anthropic | How Price Elastic is Demand for Compute | Could Nebius Sell 10x More Compute If They Had It &amp; more with Roman Chernin",
       "published": "2026-06-08",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-nebius-co-founder-on-ai-infrastructure-bubbles-the-real-impact-of-open-source-on-openai-anthropic-how-price-elastic-is-demand-for-compute-could-nebius-sell-10x-more-compute-if-they-had-it-more-with-roman-chernin"
     },
@@ -223,12 +293,12 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-corgi-insurance-the-most-intense-workplace-culture-in-america-7-days-per-week-founder-sleeps-in-office-corgi-cafe-open-24-hours-a-day-60-of-first-30-employees-have-corgi-tattoos-the-journey-from-0-to-26bn-valuation-in-just-2-years"
     },
     {
-      "title": "20VC: OpenAI & SpaceX S1 Drops | NVIDIA's $81BN Revenue Quarter | Cloudflare and ClickUp Do Controversial Layoffs | Exa, OpenRouter and Polsia Raise Mega Rounds | Uber and Microsoft Declare AI ROI for Developers is Questionable",
+      "title": "20VC: OpenAI &amp; SpaceX S1 Drops | NVIDIA's $81BN Revenue Quarter | Cloudflare and ClickUp Do Controversial Layoffs | Exa, OpenRouter and Polsia Raise Mega Rounds | Uber and Microsoft Declare AI ROI for Developers is Questionable",
       "published": "2026-05-28",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-openai-spacex-s1-drops-nvidias-81bn-revenue-quarter-cloudlfare-and-clickup-do-controversial-layoffs-exa-openrouter-and-polsia-raise-mega-rounds-uber-and-microsoft-declare-ai-roi-for-developers-is-questionable"
     },
     {
-      "title": "20VC: Cerebras CEO on the Future of Data Centres, Token Costs and Memory | We are Not in an Infra Bubble & Dario Got a Bad Deal with Elon for Compute | Should US Companies Sell to China & Why Most Layoffs are AI Washed with Andrew Feldman",
+      "title": "20VC: Cerebras CEO on the Future of Data Centres, Token Costs and Memory | We are Not in an Infra Bubble &amp; Dario Got a Bad Deal with Elon for Compute | Should US Companies Sell to China &amp; Why Most Layoffs are AI Washed with Andrew Feldman",
       "published": "2026-05-26",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-cerebras-ceo-on-the-future-of-data-centres-token-costs-and-memory-we-are-not-in-an-infra-bubble-dario-got-a-bad-deal-with-elon-for-compute-should-us-companies-sell-to-china-why-most-layoffs-are-ai-washed-with-andrew-feldman"
     },
@@ -238,7 +308,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20sales-the-100m-cro-bubble-why-anthropic-are-causing-a-comp-crisis-why-you-should-never-hire-from-salesforce-or-service-now-how-to-hire-train-and-forecase-in-a-world-of-ai-with-chad-peets-and-chris-degnan"
     },
     {
-      "title": "20VC: Andrej Karpathy Joins Anthropic & Anthropic Raises $30BN at $900BN Price | SpaceX Files S1: How Does it Trade | Cerebras Smashes Day 1: What it Means for IPOs | Why Mass Layoffs Are More Worrying Than Anyone Sees",
+      "title": "20VC: Andrej Karpathy Joins Anthropic &amp; Anthropic Raises $30BN at $900BN Price | SpaceX Files S1: How Does it Trade | Cerebras Smashes Day 1: What it Means for IPOs | Why Mass Layoffs Are More Worrying Than Anyone Sees",
       "published": "2026-05-21",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-andrej-karpathy-joins-anthropic-anthropic-raises-30bn-at-900bn-price-spacex-files-s1-how-does-it-trade-cerebras-smashes-day-1-what-it-means-for-ipos-why-mass-layoffs-are-more-worrying-than-anyone-sees"
     },
@@ -248,12 +318,12 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-turning-peter-thiels-100k-into-10m-angel-portfolio-the-one-man-accelerator-at-the-four-seasons-why-vcs-can-be-sharks-and-what-founders-need-to-know-why-stocks-and-cash-are-bs-and-you-should-invest-in-land-with-josh-browder"
     },
     {
-      "title": "20VC: Lessons from Jensen Huang on \"Founder Mode\" | How to Know if OpenAI or Anthropic Will Kill your Company | How USV Liking Music Made Them $1BN on an Investment | The Five Year Desert to Product Market Fit & a $5.3BN Valuation with Shiv Rao @ Abridge",
+      "title": "20VC: Lessons from Jensen Huang on \"Founder Mode\" | How to Know if OpenAI or Anthropic Will Kill your Company | How USV Liking Music Made Them $1BN on an Investment | The Five Year Desert to Product Market Fit &amp; a $5.3BN Valuation with Shiv Rao @ Abridge",
       "published": "2026-05-16",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-lessons-from-jensen-huang-on-founder-mode-how-to-know-if-openai-or-anthropic-will-kill-your-company-how-usv-liking-music-made-them-1bn-on-an-investment-the-five-year-desert-to-product-market-fit-a-53bn-valuation-with-shiv-rao-abridge"
     },
     {
-      "title": "20VC: Anthropic Buys Compute From Elon & Commits $200BN to Google | Cerebras IPO: The Breakdown | Ramp's $40BN Latest Valuation | Hubspot Tanks, Monday Rockets: WTF is Happening in Public Markets",
+      "title": "20VC: Anthropic Buys Compute From Elon &amp; Commits $200BN to Google | Cerebras IPO: The Breakdown | Ramp's $40BN Latest Valuation | Hubspot Tanks, Monday Rockets: WTF is Happening in Public Markets",
       "published": "2026-05-14",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-anthropic-buys-compute-from-elon-commits-200bn-to-google-cerebras-ipo-the-breakdown-ramps-40bn-latest-valuation-hubspot-tanks-monday-rockets-wtf-is-happening-in-public-markets"
     },
@@ -268,17 +338,17 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-what-i-learned-from-100-of-the-best-ceos-in-the-world-what-i-learned-from-staying-with-mr-beast-for-3-weeks-how-we-will-spend-more-on-tokens-than-salaries-with-cliff-weitzman-speechify"
     },
     {
-      "title": "20VC: Mag7 Earnings: Google & Amazon Win - Meta and Microsoft Falter | Anthropic's $50BN Raise & What it Means for a Potential IPO | Atlassian, Twilio and Five9 Beat: The SaaS Apocalypse Over? | Sierra's $15B Valuation: Peak or Potential",
+      "title": "20VC: Mag7 Earnings: Google &amp; Amazon Win - Meta and Microsoft Falter | Anthropic's $50BN Raise &amp; What it Means for a Potential IPO | Atlassian, Twilio and Five9 Beat: The SaaS Apocalypse Over? | Sierra's $15B Valuation: Peak or Potential",
       "published": "2026-05-07",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-mag7-earnings-google-amazon-win-meta-and-microsoft-falter-anthropics-50bn-raise-what-it-means-for-a-potential-ipo-atlassian-twilio-and-five9-beat-the-saas-apocalypse-over-sierras-15b-valuation-peak-or-potential"
     },
     {
-      "title": "20VC: Shopify's Tobi Lütke on How AI is a Scapegoat for Mass Layoffs & What Will Labour Markets Be in the Future | Why We Need More Scrutiny on Charitable Giving, Governments are Bad at What They Do and Trump Derangement Syndrome in Canada",
+      "title": "20VC: Shopify's Tobi Lütke on How AI is a Scapegoat for Mass Layoffs &amp; What Will Labour Markets Be in the Future | Why We Need More Scrutiny on Charitable Giving, Governments are Bad at What They Do and Trump Derangement Syndrome in Canada",
       "published": "2026-05-04",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-shopifys-tobi-ltke-on-how-ai-is-a-scapegoat-for-mass-layoffs-what-will-labour-markets-be-in-the-future-why-we-need-more-scrutiny-on-charitable-giving-governments-are-bad-at-what-they-do-and-trump-derangement-syndrome-in-canada"
     },
     {
-      "title": "20VC: Inside Clay's Sales Playbook Scaling to $100M ARR | How to Set Sales Comp Plans | How to Read Sales Talent Linkedin Profiles | What Profiles to Hire & Fire | How to Increase Performance and Speed in Sales Teams with Becca Lindquist",
+      "title": "20VC: Inside Clay's Sales Playbook Scaling to $100M ARR | How to Set Sales Comp Plans | How to Read Sales Talent Linkedin Profiles | What Profiles to Hire &amp; Fire | How to Increase Performance and Speed in Sales Teams with Becca Lindquist",
       "published": "2026-05-02",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-inside-clays-sales-playbook-scaling-to-100m-arr-how-to-set-sales-comp-plans-how-to-read-sales-talent-linkedin-profiles-what-profiles-to-hire-fire-how-to-increase-performance-and-speed-in-sales-teams-with-becca-lindquist"
     },
@@ -303,7 +373,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-cursor-acquired-for-60bn-by-xai-anthropic-hits-1trn-in-secondary-markets-did-anthropic-just-kill-figma-adobe-and-canva-rippling-hits-1bn-in-arr-salesforce-goes-headless-smart-or-stupid-cerebras-ipo-20"
     },
     {
-      "title": "20VC: Everyone is Wrong; We Will Have More Developers in Five Years | Why Frontier Labs Will Be Way More Valuable Than They Are Today | Are SaaS Companies Cooked: Which Thrive & Which Die with Aaron Levie, Founder at Box",
+      "title": "20VC: Everyone is Wrong; We Will Have More Developers in Five Years | Why Frontier Labs Will Be Way More Valuable Than They Are Today | Are SaaS Companies Cooked: Which Thrive &amp; Which Die with Aaron Levie, Founder at Box",
       "published": "2026-04-20",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-everyone-is-wrong-we-will-have-more-developers-in-five-years-why-frontier-labs-will-be-way-more-valuable-than-they-are-today-are-saas-companies-cooked-which-thrive-which-die-with-aaron-levie-founder-at-box"
     },
@@ -313,37 +383,37 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-jake-paul-on-why-traditional-vc-is-toast-and-attention-is-more-valuable-than-cash-politics-willjake-paul-actually-run-for-president-inside-the-payday-of-fighting-anthony-joshua-and-mike-tyson-with-geoffrey-wu-co-founder-at-anti-fund"
     },
     {
-      "title": "20VC: Anthropic Unveils Mythos | SpaceX's Financials Leaked: Is it Worth $2TRN | Meta Debuts Muse Spark: Are They Back in the AI Race | Jason's Critique of Dario Amodei & How OpenAI Could Win the Enterprise Game",
+      "title": "20VC: Anthropic Unveils Mythos | SpaceX's Financials Leaked: Is it Worth $2TRN | Meta Debuts Muse Spark: Are They Back in the AI Race | Jason's Critique of Dario Amodei &amp; How OpenAI Could Win the Enterprise Game",
       "published": "2026-04-16",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-anthropic-unveils-mythos-spacexs-financials-leaked-is-it-worth-2trn-meta-debuts-muse-spark-are-they-back-in-the-ai-race-jasons-critique-of-dario-amodei-how-openai-could-win-the-enterprise-game"
     },
     {
-      "title": "20VC: Anj Midha on Investing $300M into Anthropic | The Early Days of Anthropic & How 21 of 22 VCs Turned it Down | The Four Bottlenecks to Compute | What the China Has Smashed and Why We Should Be Worried",
+      "title": "20VC: Anj Midha on Investing $300M into Anthropic | The Early Days of Anthropic &amp; How 21 of 22 VCs Turned it Down | The Four Bottlenecks to Compute | What the China Has Smashed and Why We Should Be Worried",
       "published": "2026-04-14",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-anj-midha-on-investing-300m-into-anthropic-the-early-days-of-anthropic-how-21-of-22-vcs-turned-it-down-the-four-bottlenecks-to-compute-what-the-china-has-smashed-and-why-we-should-be-worried"
     },
     {
-      "title": "20Sales: ElevenLabs: Why We Set a 20x Sales Quota | How to Structure Sales Compensation Plans | Customer Success: 'Total BS' or Growth Engine? | Building an AI Sales Machine: What Tools & Tactics Must CROs Adopt Today with Carles Reina",
+      "title": "20Sales: ElevenLabs: Why We Set a 20x Sales Quota | How to Structure Sales Compensation Plans | Customer Success: 'Total BS' or Growth Engine? | Building an AI Sales Machine: What Tools &amp; Tactics Must CROs Adopt Today with Carles Reina",
       "published": "2026-04-11",
       "url": "https://thetwentyminutevc.libsyn.com/20sales-elevenlabs-why-we-set-a-20x-sales-quota-how-to-structure-sales-compensation-plans-customer-success-total-bs-or-growth-engine-building-an-ai-sales-machine-what-tools-tactics-must-cros-adopt-today-with-carles-reina"
     },
     {
-      "title": "20VC: Anthropic Surpasses OpenAI Revenue | OpenAI Acquisition of TBPN: Analysed | OpenAI Management Team Reboot | YC Kicks Delve Out | Mercor Hack and Why Now is the Time for Cyber | Supabase Raising at $10BN & Doug Leone Returns to Sequoia",
+      "title": "20VC: Anthropic Surpasses OpenAI Revenue | OpenAI Acquisition of TBPN: Analysed | OpenAI Management Team Reboot | YC Kicks Delve Out | Mercor Hack and Why Now is the Time for Cyber | Supabase Raising at $10BN &amp; Doug Leone Returns to Sequoia",
       "published": "2026-04-09",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-anthropic-surpasses-openai-revenue-openai-acquisition-of-tbpn-analysed-openai-management-team-reboot-yc-kicks-delve-out-mercor-hack-and-why-now-is-the-time-for-cyber-supabase-raising-at-10bn-doug-leone-returns-to-sequoia"
     },
     {
-      "title": "20VC: DeepMind's Demis Hassabis on Why AGI is Bigger than the Industrial Revolution | Why LLMs Will Not Commoditise & We Have Not Hit Scaling Laws | Bottlenecks in AI & The Energy Crisis Caused By AI | Whether AI Will Do More to Harm or Help Inequality",
+      "title": "20VC: DeepMind's Demis Hassabis on Why AGI is Bigger than the Industrial Revolution | Why LLMs Will Not Commoditise &amp; We Have Not Hit Scaling Laws | Bottlenecks in AI &amp; The Energy Crisis Caused By AI | Whether AI Will Do More to Harm or Help Inequality",
       "published": "2026-04-07",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-deepminds-demis-hassabis-on-why-agi-is-bigger-than-the-industrial-revolution-why-llms-will-not-commoditise-we-have-not-hit-scaling-laws-bottlenecks-in-ai-the-energy-crisis-caused-by-ai-whether-ai-will-do-more-to-harm-or-help-inequality"
     },
     {
-      "title": "20VC: Hims & Hers: $4.3BN Market Cap on $2.3BN of Revenue: The Comeback | Why Being Public is 10x Better | The Death of the \"Strategy\" Hire | Why Performance Marketing is Worse than Brand Marketing with Andrew Dudum",
+      "title": "20VC: Hims &amp; Hers: $4.3BN Market Cap on $2.3BN of Revenue: The Comeback | Why Being Public is 10x Better | The Death of the \"Strategy\" Hire | Why Performance Marketing is Worse than Brand Marketing with Andrew Dudum",
       "published": "2026-04-04",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-hims-hers-43bn-market-cap-on-23bn-of-revenue-the-comeback-why-being-public-is-10x-better-the-death-of-the-strategy-hire-why-performance-marketing-is-worse-than-brand-marketing-with-andrew-dudum"
     },
     {
-      "title": "20VC: Anthropic's $6BN Revenue Month | OpenAI Kills Sora & Hits $100M ARR on Ads | Oura Going Public & Whoop Raises at $10BN | Manus Founders Trapped in China & The Billionaire Tax: Anyone Left in California?",
+      "title": "20VC: Anthropic's $6BN Revenue Month | OpenAI Kills Sora &amp; Hits $100M ARR on Ads | Oura Going Public &amp; Whoop Raises at $10BN | Manus Founders Trapped in China &amp; The Billionaire Tax: Anyone Left in California?",
       "published": "2026-04-02",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-anthropics-6bn-revenue-month-openai-kills-sora-hits-100m-arr-on-ads-oura-going-public-whoop-raises-at-10bn-manus-founders-trapped-in-china-the-billionaire-tax-anyone-left-in-california"
     },
@@ -363,7 +433,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-you-need-1bn-to-do-series-a-today-openai-vs-anthropic-who-wins-enterprise-spacex-at-2trn-and-data-centers-in-space-the-20bn-groq-deal-broken-down-jeff-bezos-100bn-new-fund"
     },
     {
-      "title": "20VC: Inside Anduril's $20BN Army Contract & Why Anduril Must Go Public | Why 99% of Drone Companies Will Die | Why There is Never an Ethical Question of How Anduril Products are Used with Matthew Steckman, President @ Anduril",
+      "title": "20VC: Inside Anduril's $20BN Army Contract &amp; Why Anduril Must Go Public | Why 99% of Drone Companies Will Die | Why There is Never an Ethical Question of How Anduril Products are Used with Matthew Steckman, President @ Anduril",
       "published": "2026-03-23",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-inside-andurils-20bn-army-contract-why-anduril-must-go-public-why-99-of-drone-companies-will-die-why-there-is-never-an-ethical-question-of-how-anduril-products-are-used-with-matthew-steckman-president-anduril"
     },
@@ -378,7 +448,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-the-return-of-travis-kalanick-uber-would-be-1trn-today-with-him-nvidia-predicts-1trn-in-revenue-everything-you-need-to-know-from-gtc-anduril-lands-20bn-army-contract-adobe-ceo-shock-exit-the-dominos-falling"
     },
     {
-      "title": "20VC: The 8 Moats of Enduring Software Companies: How to Analyse for Durability and Defensibility in a World of AI | Why Dropouts are \"AI Maxing\" the World & Remote Early-Stage Companies are Dying with Gokul Rajaram",
+      "title": "20VC: The 8 Moats of Enduring Software Companies: How to Analyse for Durability and Defensibility in a World of AI | Why Dropouts are \"AI Maxing\" the World &amp; Remote Early-Stage Companies are Dying with Gokul Rajaram",
       "published": "2026-03-16",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-the-8-moats-of-enduring-software-companies-how-to-analyse-for-durability-and-defensibility-in-a-world-of-ai-why-dropouts-are-ai-maxing-the-world-remote-early-stage-companies-are-dying-with-gokul-rajaram"
     },
@@ -413,12 +483,12 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-mondaycom-ceo-on-is-saas-dead-will-everything-be-vibe-coded-will-systems-of-record-become-valueless-databases-in-an-agentic-world-will-llms-own-the-value-in-the-application-layer-with-eran-zinman"
     },
     {
-      "title": "20VC: Why Cursor is Dead | An AI Tsunami is Coming & You Need to Prepare | Systems of Record Become Valueless Databases with Agents | Is This The End of Tech Private Equity with Jerry Murdock, Co-Founder of Insight Partners",
+      "title": "20VC: Why Cursor is Dead | An AI Tsunami is Coming &amp; You Need to Prepare | Systems of Record Become Valueless Databases with Agents | Is This The End of Tech Private Equity with Jerry Murdock, Co-Founder of Insight Partners",
       "published": "2026-02-28",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-cursor-is-dead-an-ai-tsunami-is-coming-you-need-to-prepare-systems-of-record-become-valueless-databases-with-agents-is-this-the-end-of-tech-private-equity-with-jerry-murdock-co-founder-of-insight-partners"
     },
     {
-      "title": "20VC: Anthropic Wipes Billions Off Markets | Citrini Research: The Ultimate Breakdown: Agents, \"Ghost GDP\", Consumer Spend etc. | Figma Earnings Beat & Four Public Stocks to Buy | Jack Altman Joins Benchmark",
+      "title": "20VC: Anthropic Wipes Billions Off Markets | Citrini Research: The Ultimate Breakdown: Agents, \"Ghost GDP\", Consumer Spend etc. | Figma Earnings Beat &amp; Four Public Stocks to Buy | Jack Altman Joins Benchmark",
       "published": "2026-02-26",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-anthropic-wipes-billions-off-markets-citrini-research-the-ultimate-breakdown-agents-ghost-gdp-consumer-spend-etc-figma-earnings-beat-four-public-stocks-to-buy-jack-altman-joins-benchmark"
     },
@@ -528,7 +598,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20sales-why-the-best-sales-people-are-f-in-the-head-why-remote-work-is-bs-why-europe-is-a-nightmare-for-recruiting-sales-teams-how-to-build-a-sales-machine-what-everyone-gets-wrong-today-in-sales-with-chad-peets"
     },
     {
-      "title": "20VC: Groq's $20BN NVIDIA Acquisition | Manus Acquired by Meta for $2BN | Why Sam Altman Does Not Care About Dilution | Navan Trading at 4x ARR & Why Going Public Does Not Make Sense Anymore | The Rise of Invisible Unemployment and Labour Markets in 2026",
+      "title": "20VC: Groq's $20BN NVIDIA Acquisition | Manus Acquired by Meta for $2BN | Why Sam Altman Does Not Care About Dilution | Navan Trading at 4x ARR &amp; Why Going Public Does Not Make Sense Anymore | The Rise of Invisible Unemployment and Labour Markets in 2026",
       "published": "2026-01-08",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-groqs-20bn-nvidia-acquisition-manus-acquired-by-meta-for-2bn-why-sam-altman-does-not-care-about-dilution-navan-trading-at-4x-arr-why-going-public-does-not-make-sense-anymore-the-rise-of-invisible-unemployment-and-labour-markets-in-2026"
     },
@@ -548,27 +618,27 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vcs-big-fat-quiz-of-the-year-founder-fund-and-breakout-company-of-2025-predictions-for-2026-the-company-to-buy-the-biggest-short-why-salesforce-could-win-2026-and-the-tailwinds-nvidia-will-face"
     },
     {
-      "title": "20Product: On Running's CPO on How to Create Emotion Through Product | Why 99% of Products Fail and How to Create Cults Around Products | The Biggest Product Mistakes On Have Made & Lessons Learned with Gérald Marolf",
+      "title": "20Product: On Running's CPO on How to Create Emotion Through Product | Why 99% of Products Fail and How to Create Cults Around Products | The Biggest Product Mistakes On Have Made &amp; Lessons Learned with Gérald Marolf",
       "published": "2025-12-19",
       "url": "https://thetwentyminutevc.libsyn.com/20product-on-runnings-cpo-on-how-to-create-emotion-through-product-why-99-of-products-fail-and-how-to-create-cults-around-products-the-biggest-product-mistakes-on-have-made-lessons-learned-with-grald-marolf"
     },
     {
-      "title": "20VC: Will SpaceX IPO at $1.5TRN | Will Cursor Kill Figma | Lightspeed Raises $9BN | OpenAI: $1BN from Disney, New CRO & #1 App in App Store | Oracle and Broadcom Hit: Now the Time to Buy?",
+      "title": "20VC: Will SpaceX IPO at $1.5TRN | Will Cursor Kill Figma | Lightspeed Raises $9BN | OpenAI: $1BN from Disney, New CRO &amp; #1 App in App Store | Oracle and Broadcom Hit: Now the Time to Buy?",
       "published": "2025-12-18",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-will-spacex-ipo-at-15trn-will-cursor-kill-figma-lightspeed-raises-9bn-openai-1bn-from-disney-new-cro-1-app-in-app-store-oracle-and-broadcom-hit-now-the-time-to-buy"
     },
     {
-      "title": "20VC: a16z's David George on How $BN Funds Can 5×, Do Margins & Revenue Matter in AI & the Most Controversial Bet at a16z",
+      "title": "20VC: a16z's David George on How $BN Funds Can 5×, Do Margins &amp; Revenue Matter in AI &amp; the Most Controversial Bet at a16z",
       "published": "2025-12-15",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-a16zs-david-george-on-how-bn-funds-can-5-do-margins-revenue-matter-in-ai-the-most-controversial-bet-at-a16z"
     },
     {
-      "title": "20Growth: How Wiz Built a $30BN Brand in Enterprise | What Worked vs What Was a Mega Failure: Lessons Learned | Why Marketers Make the Worst CMOs & What To Look for in Growth with Raaz Herzberg",
+      "title": "20Growth: How Wiz Built a $30BN Brand in Enterprise | What Worked vs What Was a Mega Failure: Lessons Learned | Why Marketers Make the Worst CMOs &amp; What To Look for in Growth with Raaz Herzberg",
       "published": "2025-12-12",
       "url": "https://thetwentyminutevc.libsyn.com/20growth-how-wiz-built-a-30bn-brand-in-enterprise-what-worked-vs-what-was-a-mega-failure-lessons-learned-why-marketers-make-the-worst-cmos-what-to-look-for-in-growth-with-raaz-herzberg"
     },
     {
-      "title": "20VC OGs: SpaceX Valued at $800BN & Harvey Raises $160M at an $8BN Price | Airwallex Raises $330M and The Battle with Keith Rabois | Netflix Acquires Warner Brothers | IPO Market Predictions for 2026: Anthropic, Stripe, Databricks and SpaceX",
+      "title": "20VC OGs: SpaceX Valued at $800BN &amp; Harvey Raises $160M at an $8BN Price | Airwallex Raises $330M and The Battle with Keith Rabois | Netflix Acquires Warner Brothers | IPO Market Predictions for 2026: Anthropic, Stripe, Databricks and SpaceX",
       "published": "2025-12-11",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-ogs-spacex-valued-at-800bn-harvey-raises-160m-at-an-8bn-price-airwallex-raises-330m-and-the-battle-with-keith-rabois-netflix-acquires-warner-brothers-ipo-market-predictions-for-2026-anthropic-stripe-databricks-and-spacex"
     },
@@ -583,22 +653,22 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-inside-bending-spoons-acquisition-machine-evernote-eventbrite-vimeo-how-evernote-evaluates-acquisitions-and-new-product-ideas-how-evernote-mastered-product-launches-user-retention-and-monetisation-with-federico-simionato"
     },
     {
-      "title": "20VC: Thrive & OpenAI Partnership | Eventbrite Acquired for $500M | Databricks Raising $5BN at $134BN Valuation: Cheap or Not? | Why SaaS is Like Japan and The TAM Trap in Software",
+      "title": "20VC: Thrive &amp; OpenAI Partnership | Eventbrite Acquired for $500M | Databricks Raising $5BN at $134BN Valuation: Cheap or Not? | Why SaaS is Like Japan and The TAM Trap in Software",
       "published": "2025-12-04",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-thrive-openai-partnership-eventbrite-acquired-for-500m-databricks-raising-5bn-at-134bn-valuation-cheap-or-not-why-saas-is-like-japan-and-the-tam-trap-in-software"
     },
     {
-      "title": "20VC: Scale, Surge, Turing, Mercor: Who Wins & Who Loses in Data Labelling | Is Revenue in Data Labelling Real or GMV? | Why 99% of Knowledge Work Will Go and What Happens Then? | Why SaaS is Dead in a World of AI with Jonathan Siddharth @ Turing",
+      "title": "20VC: Scale, Surge, Turing, Mercor: Who Wins &amp; Who Loses in Data Labelling | Is Revenue in Data Labelling Real or GMV? | Why 99% of Knowledge Work Will Go and What Happens Then? | Why SaaS is Dead in a World of AI with Jonathan Siddharth @ Turing",
       "published": "2025-12-01",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-scale-surge-turing-mercor-who-wins-who-loses-in-data-labelling-is-revenue-in-data-labelling-real-or-gmv-why-99-of-knowledge-work-will-go-and-what-happens-then-why-saas-is-dead-in-a-world-of-ai-with-jonathan-siddharth-turing"
     },
     {
-      "title": "20Sales: John McMahon on How to Hire, Train & Retain the Best Sales Reps | How Sales Changes in a World of AI | Sales Lessons from Snowflake and MongoDB | How to Create and Drive a Sales Process with Urgency",
+      "title": "20Sales: John McMahon on How to Hire, Train &amp; Retain the Best Sales Reps | How Sales Changes in a World of AI | Sales Lessons from Snowflake and MongoDB | How to Create and Drive a Sales Process with Urgency",
       "published": "2025-11-28",
       "url": "https://thetwentyminutevc.libsyn.com/20sales-john-mcmahon-on-how-to-hire-train-retain-the-best-sales-reps-how-sales-changes-in-a-world-of-ai-sales-lessons-from-snowflake-and-mongodb-how-to-create-and-drive-a-sales-process-with-urgency"
     },
     {
-      "title": "20VC: Anthropic Raises $30BN from Microsoft and NVIDIA | NVIDIA Core Business Threatened by TPU | Sam Altman's \"War Mode\" Analysed | Sierra Hits $100M ARR: Justifies $10BN Price? | Lovable Hits $200M ARR & Rumoured $6BN Round",
+      "title": "20VC: Anthropic Raises $30BN from Microsoft and NVIDIA | NVIDIA Core Business Threatened by TPU | Sam Altman's \"War Mode\" Analysed | Sierra Hits $100M ARR: Justifies $10BN Price? | Lovable Hits $200M ARR &amp; Rumoured $6BN Round",
       "published": "2025-11-27",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-anthropic-raises-30bn-from-microsoft-and-nvidia-nvidia-core-business-threatened-by-tpu-sam-altmans-war-mode-analysed-sierra-hits-100m-arr-justifies-10bn-price-lovable-hits-200m-arr-rumoured-6bn-round"
     },
@@ -648,7 +718,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-navan-ipo-winners-losers-and-is-a-45bn-exit-enough-in-vc-today-harvey-raises-150m-at-8bn-price-why-google-is-a-buy-and-amazon-is-a-sell-meta-down-10-is-zuck-struggling"
     },
     {
-      "title": "20VC: Cohere's Chief AI Officer on Why Scaling Laws Will Continue | Whether You Can Buy Success in AI with Talent Acquisitions | The Future of Synthetic Data & What It Means for Models | Why AI Coding is Akin to Image Generation in 2015 with Joelle Pineau",
+      "title": "20VC: Cohere's Chief Scientist on Why Scaling Laws Will Continue | Whether You Can Buy Success in AI with Talent Acquisitions | The Future of Synthetic Data &amp; What It Means for Models | Why AI Coding is Akin to Image Generation in 2015 with Joelle Pineau",
       "published": "2025-11-03",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-coheres-chief-scientist-on-why-scaling-laws-will-continue-whether-you-can-buy-success-in-ai-with-talent-acquisitions-the-future-of-synthetic-data-what-it-means-for-models-why-ai-coding-is-akin-to-image-generation-in-2015-with-joelle-pineau"
     },
@@ -668,7 +738,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-sequoias-david-cahn-on-the-winners-and-losers-in-ai-the-0-100m-revenue-club-is-triple-triple-double-double-dead-the-future-of-defence-who-wins-and-who-loses-how-to-analyse-margins-and-growth-rates-in-a-world-of-ai"
     },
     {
-      "title": "20Growth: How to Build a Paid Marketing Machine: ROAS (Return on Ad Spend) 101 | The Rise of User Generated Content and How to Use It | TikTok Ads: Expectations vs. Reality | Hiring for Growth: When and Who with Sandy Diao",
+      "title": "20Growth: How to Build a Paid Marketing Machine: ROAS (Return on Ad Spend) 101 | The Rise of User Generared Content and How to Use It | TikTok Ads: Expectations vs. Reality | Hiring for Growth: When and Who with Sandy Diao",
       "published": "2025-10-24",
       "url": "https://thetwentyminutevc.libsyn.com/20growth-how-to-build-a-paid-marketing-machine-roas-return-on-ad-spend-101-the-rise-of-user-generared-content-and-how-to-use-it-tiktok-ads-expectations-vs-reality-hiring-for-growth-when-and-who-with-sandy-diao"
     },
@@ -678,7 +748,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-vc-today-is-worse-than-2021-why-vertical-saas-is-a-bad-investment-today-why-we-are-deluding-ourselves-on-growth-expectations-revolut-raises-3bn-at-a-75bn-valuation-benchmark-adds-their-newest-general-partner"
     },
     {
-      "title": "20VC: Deel CEO Alex Bouaziz on Raising $300M+ at a $17BN Valuation | Deel vs Rippling: WTF is Going On | Management Lessons from Ben Horowitz and Nik Storonsky | Deel's M&A Playbook: Lessons from 13 Acquisitions: What Works & What Doesn't",
+      "title": "20VC: Deel CEO Alex Bouaziz on Raising $300M+ at a $17BN Valuation | Deel vs Rippling: WTF is Going On | Management Lessons from Ben Horowitz and Nik Storonsky | Deel's M&amp;A Playbook: Lessons from 13 Acquisitions: What Works &amp; What Doesn't",
       "published": "2025-10-22",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-deel-ceo-alex-bouaziz-on-raising-300m-at-a-17bn-valuation-deel-vs-rippling-wtf-is-going-on-management-lessons-from-ben-horowitz-and-nik-storonsky-deels-ma-playbook-lessons-from-13-acquisitions-what-works-what-doesnt"
     },
@@ -693,7 +763,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-35bn-the-price-zuck-paid-for-thinking-machines-co-founder-goldman-sachs-acquires-industry-ventures-for-665m-softbank-borrows-5bn-against-arm-holding-to-invest-more-into-openai"
     },
     {
-      "title": "20VC: Atlassian CEO on Why Everything is Overvalued & Are We in an AI Bubble | Do Margins Matter & Does Defensibility Exist in an AI World | Is Per Seat Pricing Dead & The Future of Vibe Coding with Mike Cannon-Brookes",
+      "title": "20VC: Atlassian CEO on Why Everything is Overvalued &amp; Are We in an AI Bubble | Do Margins Matter &amp; Does Defensibility Exist in an AI World | Is Per Seat Pricing Dead &amp; The Future of Vibe Coding with Mike Cannon-Brookes",
       "published": "2025-10-13",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-atlassian-ceo-on-why-everything-is-overvalued-are-we-in-an-ai-bubble-do-margins-matter-does-defensibility-exist-in-an-ai-world-is-per-seat-pricing-dead-the-future-of-vibe-coding-with-mike-cannon-brookes"
     },
@@ -733,7 +803,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20product-revolut-business-1bn-revenue-five-of-the-biggest-product-lessons-how-revolut-structures-product-and-design-teams-how-revolut-experiments-and-invests-in-new-product-bets-how-revolut-ships-product-so-fast-with-james-gibson"
     },
     {
-      "title": "20VC: NVIDIA Invests $100BN Into OpenAI | Is Triple, Triple, Double, Double Dead | Navan Files to go Public & Notion Hits $500M ARR | The Impact of H1B Visas on Startups in the US",
+      "title": "20VC: NVIDIA Invests $100BN Into OpenAI | Is Triple, Triple, Double, Double Dead | Navan Files to go Public &amp; Notion Hits $500M ARR | The Impact of H1B Visas on Startups in the US",
       "published": "2025-09-25",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-nvidia-invests-100bn-into-openai-is-triple-triple-double-double-dead-navan-files-to-go-public-notion-hits-500m-arr-the-impact-of-h1b-visas-on-startups-in-the-us"
     },
@@ -743,12 +813,12 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-general-catalyst-ceo-hemant-taneja-on-the-future-of-venture-capital-chanel-vs-walmart-lessons-scaling-gc-to-40bn-in-aum-investing-5bn-into-stripe-over-14-rounds-investing-hundreds-of-millions-into-anthropic-at-60bn-valuation"
     },
     {
-      "title": "20VC: Why 90% of Founders Build Startups Wrong | Why AI Growth Rates are Sustainable & Remote Work is BS and the AI Talent War | Competing with Brett Taylor and Sierra: Who Wins the Customer Service War with Jesse Zhang, Decagon",
+      "title": "20VC: Why 90% of Founders Build Startups Wrong | Why AI Growth Rates are Sustainable &amp; Remote Work is BS and the AI Talent War | Competing with Brett Taylor and Sierra: Who Wins the Customer Service War with Jesse Zhang, Decagon",
       "published": "2025-09-19",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-90-of-founders-build-startups-wrong-why-ai-growth-rates-are-sustainable-remote-work-is-bs-and-the-ai-talent-war-competing-with-brett-taylor-and-sierra-who-wins-the-customer-service-war-with-jesse-zhang-decagon"
     },
     {
-      "title": "20VC: Opendoor's CEO on The Greatest Turnaround in Tech | OpenAI and Oracle: How Can Either Afford to Do This | How Anthropic Could Lose 50% of Their Revenue Overnight | Replit Raises at $3BN | Figure, Gemini & VIA IPOs Broken Down",
+      "title": "20VC: Opendoor's CEO on The Greatest Turnaround in Tech | OpenAI and Oracle: How Can Either Afford to Do This | How Anthropic Could Lose 50% of Their Revenue Overnight | Replit Raises at $3BN | Figure, Gemini &amp; VIA IPOs Broken Down",
       "published": "2025-09-18",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-opendoors-ceo-on-the-greatest-turnaround-in-tech-openai-and-oracle-how-can-either-afford-to-do-this-how-anthropic-could-lose-50-of-their-revenue-overnight-replit-raises-at-3bn-figure-gemini-via-ipos-broken-down"
     },
@@ -783,7 +853,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-anthropic-raises-13bn-why-canva-will-not-direct-list-openai-buys-statsig-for-11bn-all-stock-lovable-raising-at-4bn-vercel-at-9bn-justified-or-not-quarterly-results-from-snow-mongo-zoom-and-more"
     },
     {
-      "title": "20VC: Cohere Founder on How Cohere Compete with OpenAI and Anthropic $BNs | Why Counties Should Fund Their Own Models & the Need for Model Sovereignty | How Sam Altman Has Done a Disservice to AI with Nick Frosst",
+      "title": "20VC: Cohere Founder on How Cohere Compete with OpenAI and Anthropic $BNs | Why Counties Should Fund Their Own Models &amp; the Need for Model Sovereignty | How Sam Altman Has Done a Disservice to AI with Nick Frosst",
       "published": "2025-09-01",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-cohere-founder-on-how-cohere-compete-with-openai-and-anthropic-bns-why-counties-should-fund-their-own-models-the-need-for-model-sovereignty-how-sam-altman-has-done-a-disservice-to-ai-with-nick-frosst"
     },
@@ -803,7 +873,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-do-margins-matter-in-ai-is-defensibility-gone-for-good-is-vertical-saas-dead-in-a-world-of-ai-what-saas-rules-are-bs-and-no-longer-apply-in-a-world-of-ai-the-future-of-venture-why-chanel-vs-walmart-is-bs-with-byron-deeter"
     },
     {
-      "title": "20VC: Databricks at $100BN | Chamath's SPAC Revival: Peak Mania? | OpenAI Staff Cash Out Billions & Sam Altman Will Spend Trillions | CoreWeave's $11B Debt Bet & Nubank's $2.5B Profit Shocker",
+      "title": "20VC: Databricks at $100BN | Chamath's SPAC Revival: Peak Mania? | OpenAI Staff Cash Out Billions &amp; Sam Altman Will Spend Trillions | CoreWeave's $11B Debt Bet &amp; Nubank's $2.5B Profit Shocker",
       "published": "2025-08-21",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-databricks-at-100bn-chamaths-spac-revival-peak-mania-openai-staff-cash-out-billions-sam-altman-will-spend-trillions-coreweaves-11b-debt-bet-nubanks-25b-profit-shocker"
     },
@@ -818,7 +888,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-15-term-sheets-in-7-days-and-choosing-benchmark-harvey-vs-legora-who-wins-legal-and-how-to-play-when-you-have-600m-less-funding-are-ai-models-plateauing-today-building-a-9-9-6-culture-from-stockholm-with-max-junestrand"
     },
     {
-      "title": "20VC: GPT5: Sam Altman's Masterplan or a Gift To Anthropic | Palantir & Shopify Crush Earnings | Monday & Datadog Perform But Hit Hard by Wall St | Should Perplexity Buy Chrome for $34.5BN |",
+      "title": "20VC: GPT5: Sam Altman's Masterplan or a Gift To Anthropic | Palantir &amp; Shopify Crush Earnings | Monday &amp; Datadog Perform But Hit Hard by Wall St | Should Perplexity Buy Chrome for $34.5BN |",
       "published": "2025-08-14",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-gpt5-sam-altmans-masterplan-or-a-gift-to-anthropic-palantir-shopify-crush-earnings-monday-datadog-perform-but-hit-hard-by-wall-st-should-perplexity-buy-chrome-for-345bn"
     },
@@ -828,7 +898,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-figma-scale-wiz-inside-indexs-decacorn-factory-decision-making-investment-process-biggest-lessons-biggest-misses-why-gross-margin-is-a-fallacy-at-seed-never-turn-down-a-deal-on-price-with-martin-mignot-partner-index-ventures"
     },
     {
-      "title": "20VC: The $BN Greenoaks Backed Protein Bar | Hitting $100M Revenues in David's First Year: Lessons & Mistakes | $0 to $600M: The Untold RXBAR Story | Product-Market-Fit, Pricing, Branding: What Every Founder Gets Wrong Today with Peter Rahal",
+      "title": "20VC: The $BN Greenoaks Backed Protein Bar | Hitting $100M Revenues in David's First Year: Lessons &amp; Mistakes | $0 to $600M: The Untold RXBAR Story | Product-Market-Fit, Pricing, Branding: What Every Founder Gets Wrong Today with Peter Rahal",
       "published": "2025-08-08",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-the-bn-greenoaks-backed-protein-bar-hitting-100m-revenues-in-davids-first-year-lessons-mistakes-0-to-600m-the-untold-rxbar-story-product-market-fit-pricing-branding-what-every-founder-gets-wrong-today-with-peter-rahal"
     },
@@ -848,7 +918,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-inside-carnegie-mellons-4bn-endowment-why-90-of-lps-shouldnt-invest-in-vc-the-140bn-problem-with-multi-stage-funds-the-hidden-math-behind-dpi-tvpi-and-illiquidity-with-miles-dieffenbach"
     },
     {
-      "title": "20VC: Benchmark Loses Another Partner | Elad Gil Raises a Monster $1.5BN Solo GP Fund | Why Apple Need a Management Overhaul | Why Google is the Best Performing Hyperscaler | Will Cursor Hit $4BN ARR & Lovable $400M ARR by EOY 2026?",
+      "title": "20VC: Benchmark Loses Another Partner | Elad Gil Raises a Monster $1.5BN Solo GP Fund | Why Apple Need a Management Overhaul | Why Google is the Best Performing Hyperscaler | Will Cursor Hit $4BN ARR &amp; Lovable $400M ARR by EOY 2026?",
       "published": "2025-07-31",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-benchmark-loses-another-partner-elad-gil-raises-a-monster-15bn-solo-gp-fund-why-apple-need-a-management-overhaul-why-google-is-the-best-performing-hyperscaler-will-cursor-hit-4bn-arr-lovable-400m-arr-by-eoy-2026"
     },
@@ -863,7 +933,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20product-should-we-kill-the-pm-role-entirely-how-does-product-design-change-most-in-a-world-of-ai-how-do-monzo-build-product-today-what-works-what-does-not-why-most-product-sucks-and-what-makes-truly-great-product"
     },
     {
-      "title": "20VC: Lovable Raises at $2BN & Hits $100M ARR | Is Cursor Worth $28BN at $1BN in ARR | How Do All Providers Deal with Anthropic Dependency Risk | Are Seed Funds F******: Have Mega Funds Won | Figma IPO Breakdown: Where Does it Price?",
+      "title": "20VC: Lovable Raises at $2BN &amp; Hits $100M ARR | Is Cursor Worth $28BN at $1BN in ARR | How Do All Providers Deal with Anthropic Dependency Risk | Are Seed Funds F******: Have Mega Funds Won | Figma IPO Breakdown: Where Does it Price?",
       "published": "2025-07-24",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-lovable-raises-at-2bn-hits-100m-arr-is-cursor-worth-28bn-at-1bn-in-arr-how-do-all-providers-deal-with-anthropic-dependency-risk-are-seed-funds-f-have-mega-funds-won-figma-ipo-breakdown-where-does-it-price"
     },
@@ -878,12 +948,12 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-cognition-ceo-scott-wu-on-acquiring-windsurf-the-process-the-deal-the-rationale-did-google-overlook-a-goldmine-in-the-core-asset-and-did-founders-leave-a-sinking-ship-how-cursor-and-cognition-deal-with-ever-increasing-reliance-on-anthropic"
     },
     {
-      "title": "20VC: Windsurf x Google x Cognition: Full Breakdown: Who Made Money, Who Did Not | Lovable vs Replit: Will These Be $100BN Businesses | Why Elon Could Beat Sam Altman with the New Grok | Why Every S&P 500 Company Will Buy Bitcoin?",
+      "title": "20VC: Windsurf x Google x Cognition: Full Breakdown: Who Made Money, Who Did Not | Lovable vs Replit: Will These Be $100BN Businesses | Why Elon Could Beat Sam Altman with the New Grok | Why Every S&amp;P 500 Company Will Buy Bitcoin?",
       "published": "2025-07-17",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-windsurf-x-google-x-cognition-full-breakdown-who-made-money-who-did-not-lovable-vs-replit-will-these-be-100bn-businesses-why-elon-could-beat-sam-altman-with-the-new-grok-why-every-sp-500-company-will-buy-bitcoin"
     },
     {
-      "title": "20VC: Vlad Tenev on Robinhood's $85BN Resurgence | Tokenizing SpaceX & OpenAI | Building Nine Revenue Lines Over $100M | Why Crypto Will Be Robinhood's Biggest Revenue Line | Why Stablecoins Will Replace Banking Rails",
+      "title": "20VC: Vlad Tenev on Robinhood's $85BN Resurgence | Tokenizing SpaceX &amp; OpenAI | Building Nine Revenue Lines Over $100M | Why Crypto Will Be Robinhood's Biggest Revenue Line | Why Stablecoins Will Replace Banking Rails",
       "published": "2025-07-14",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-vlad-tenev-on-robinhoods-85bn-resurgence-tokenizing-spacex-openai-building-nine-revenue-lines-over-100m-why-crypto-will-be-robinhoods-biggest-revenue-line-why-stablecoins-will-replace-banking-rails"
     },
@@ -898,7 +968,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-daniel-gross-and-nat-friedman-acquired-by-meta-openais-sbc-bombshell-more-stock-comp-than-revenue-privat-equity-is-back-olo-bought-for-2bn-microsoft-lays-off-9000-people-is-this-just-the-start-will-sequoia-part-with-shaun-maguire"
     },
     {
-      "title": "20VC: Scott Galloway on Are Billionaires Happy & The Impact of Money on Psychology and Self-Worth | Becoming a Better Father & Husband | Why We Should Drink More and Not Work From Home | The Tinder Effect & How it Makes Young Men Radical",
+      "title": "20VC: Scott Galloway on Are Billionaires Happy &amp; The Impact of Money on Psychology and Self-Worth | Becoming a Better Father &amp; Husband | Why We Should Drink More and Not Work From Home | The Tinder Effect &amp; How it Makes Young Men Radical",
       "published": "2025-07-07",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-scott-galloway-on-are-billionaires-happy-the-impact-of-money-on-psychology-and-self-worth-becoming-a-better-father-husband-why-we-should-drink-more-and-not-work-from-home-the-tinder-effect-how-it-makes-young-men-radical"
     },
@@ -908,7 +978,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-figmas-ipo-the-full-breakdown-index-returns-35bn-on-two-deals-why-melios-25bn-acquisition-is-discouraging-asanas-new-ceo-and-the-great-founder-exodus-oracles-30bn-ai-deal-and-what-it-means-for-incumbents"
     },
     {
-      "title": "20VC: Inside KKR's Monster $8BN European Fund | The $500M Turkey Gamble That Went Wrong | Do Andreessen & General Catalyst Scare KKR? | Will AI Kill the PE Model? | Can The PE Model Survive without IPOs and Where is the Liquidity with Philip Freise",
+      "title": "20VC: Inside KKR's Monster $8BN European Fund | The $500M Turkey Gamble That Went Wrong | Do Andreessen &amp; General Catalyst Scare KKR? | Will AI Kill the PE Model? | Can The PE Model Survive without IPOs and Where is the Liquidity with Philip Freise",
       "published": "2025-06-30",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-inside-kkrs-monster-8bn-european-fund-the-500m-turkey-gamble-that-went-wrong-do-andreessen-general-catalyst-scare-kkr-will-ai-kill-the-pe-model-can-the-pe-model-survive-without-ipos-and-where-is-the-liquidity-with-philip-freise"
     },
@@ -943,7 +1013,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-how-we-made-800m-on-coursera-we-lost-money-on-uber-and-made-money-on-lyft-we-did-3x-on-postmates-in-18-months-dpi-is-king-moic-is-bs-we-dodged-theranos-and-i-still-lost-millions-with-larry-aschebrook-g-squared"
     },
     {
-      "title": "20VC: SpaceX, Tesla, Neuralink: Elon's Empire After the Firestorm | Are Circle and Coreweave Meme Stocks: IPO Analysis | Anduril Raises $2.6BN & Becomes Founders Fund's 1st and 2nd Largest Check Ever | Cursor Now 20% of SaaS Spend and the SaaS Slowdown",
+      "title": "20VC: SpaceX, Tesla, Neuralink: Elon's Empire After the Firestorm | Are Circle and Coreweave Meme Stocks: IPO Analysis | Anduril Raises $2.6BN &amp; Becomes Founders Fund's 1st and 2nd Largest Check Ever | Cursor Now 20% of SaaS Spend and the SaaS Slowdown",
       "published": "2025-06-12",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-spacex-tesla-neuralink-elons-empire-after-the-firestorm-are-circle-and-coreweave-meme-stocks-ipo-analysis-anduril-raises-26bn-becomes-founders-funds-1st-and-2nd-largest-check-ever-cursor-now-20-of-saas-spend-and-the-saas-slowdown"
     },
@@ -958,12 +1028,12 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-the-science-of-storytelling-three-steps-to-master-the-perfect-story-from-near-death-experience-to-unicorn-startup-the-untold-story-of-omaze-with-matt-pohlson"
     },
     {
-      "title": "20VC: Is Chamath Right: Is DPI The Only Thing That Matters | Does OpenAI Even Matter | Mary Meekers AI Report: The Analysis| IPO Breakdown: Chime, Circle & Thoma Bravo's New Fund",
+      "title": "20VC: Is Chamath Right: Is DPI The Only Thing That Matters | Does OpenAI Even Matter | Mary Meekers AI Report: The Analysis| IPO Breakdown: Chime, Circle &amp; Thoma Bravo's New Fund",
       "published": "2025-06-05",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-is-chamath-right-is-dpi-the-only-thing-that-matters-does-openai-even-matter-mary-meekers-ai-report-the-analysis-ipo-breakdown-chime-circle-thoma-bravos-new-fund"
     },
     {
-      "title": "20VC: Windsurf Founder on Will Model Companies Own the App Layer | Why Moats Do Not Exist in a World of AI | Why the Notion of Single Person $BN Companies is BS | Lovable vs Bolt & Cursor vs Windsurf: How Does it All End with Varun Mohan",
+      "title": "20VC: Windsurf Founder on Will Model Companies Own the App Layer | Why Moats Do Not Exist in a World of AI | Why the Notion of Single Person $BN Companies is BS | Lovable vs Bolt &amp; Cursor vs Windsurf: How Does it All End with Varun Mohan",
       "published": "2025-06-02",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-windsurf-founder-on-will-model-companies-own-the-app-layer-why-moats-do-not-exist-in-a-world-of-ai-why-the-notion-of-single-person-bn-companies-is-bs-lovable-vs-bolt-cursor-vs-windsurf-how-does-it-all-end-with-varun-mohan"
     },
@@ -973,22 +1043,22 @@
       "url": "https://thetwentyminutevc.libsyn.com/20sales-from-2m-arr-to-40m-arr-the-playbook-how-to-use-ai-to-supercharge-your-sales-team-why-pipeline-reviews-are-bs-the-sales-call-script-that-closes-99-of-prospects-and-how-to-hire-the-best-sales-reps-with-kyle-norton-cro-owner"
     },
     {
-      "title": "20VC: OpenAI's $6BN Jony Ive Deal | YC Is Both Chanel and Walmart—and Has Officially Won | Builder.ai Implodes and Hinge IPOs: Who Wins & Who Loses | Seed Is Easy. Series A Is Brutal & The Dirty Truth About Late-Stage Venture",
+      "title": "20VC: OpenAI's $6BN Jony Ive Deal | YC Is Both Chanel and Walmart—and Has Officially Won | Builder.ai Implodes and Hinge IPOs: Who Wins &amp; Who Loses | Seed Is Easy. Series A Is Brutal &amp; The Dirty Truth About Late-Stage Venture",
       "published": "2025-05-29",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-openais-6bn-jony-ive-deal-yc-is-both-chanel-and-walmartand-has-officially-won-builderai-implodes-and-hinge-ipos-who-wins-who-loses-seed-is-easy-series-a-is-brutal-the-dirty-truth-about-late-stage-venture"
     },
     {
-      "title": "20VC: The Most Insane Story in Startups: Airwallex: The Angel That Turned $1M into $1BN | The Fund That Pulled a Term Sheet & Lost $1BN | Rejecting Stripe's $1.2BN Offer | Scaling to $1BN in Revenue & 100% YoY Growth for 8 Years with Jack Zhang",
+      "title": "20VC: The Most Insane Story in Startups: Airwallex: The Angel That Turned $1M into $1BN | The Fund That Pulled a Term Sheet &amp; Lost $1BN | Rejecting Stripe's $1.2BN Offer | Scaling to $1BN in Revenue &amp; 100% YoY Growth for 8 Years with Jack Zhang",
       "published": "2025-05-27",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-the-most-insane-story-in-startups-airwallex-the-angel-that-turned-1m-into-1bn-the-fund-that-pulled-a-term-sheet-lost-1bn-rejecting-stripes-12bn-offer-scaling-to-1bn-in-revenue-100-yoy-growth-for-8-years-with-jack-zhang"
     },
     {
-      "title": "20VC: ElevenLabs Head of Growth on Why You Do Not Need PMs | The 7-Part Launch Playbook That Gets 700K+ Views Per Product | The Truth About CAC, Payback & Performance Marketing in AI with Luke Harries",
+      "title": "20VC: ElevenLabs Head of Growth on Why You Do Not Need PMs | The 7-Part Launch Playbook That Gets 700K+ Views Per Product | The Truth About CAC, Payback &amp; Performance Marketing in AI with Luke Harries",
       "published": "2025-05-23",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-elevenlabs-head-of-growth-on-why-you-do-not-need-pms-the-7-part-launch-playbook-that-gets-700k-views-per-product-the-truth-about-cac-payback-performance-marketing-in-ai-with-luke-harries"
     },
     {
-      "title": "20VC: Chime IPO: The Breakdown | Why Fund Returners Are Not Enough & Seed is for Suckers | Are IPOs Dead & The Future of the Late Stage Private Market | Rippling vs. Deel Lawsuit: WTF Happens Now?",
+      "title": "20VC: Chime IPO: The Breakdown | Why Fund Returners Are Not Enough &amp; Seed is for Suckers | Are IPOs Dead &amp; The Future of the Late Stage Private Market | Rippling vs. Deel Lawsuit: WTF Happens Now?",
       "published": "2025-05-22",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-chime-ipo-the-breakdown-why-fund-returners-are-not-enough-seed-is-for-suckers-are-ipos-dead-the-future-of-the-late-stage-private-market-rippling-vs-deel-lawsuit-wtf-happens-now"
     },
@@ -1028,7 +1098,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-mega-platforms-will-win-in-vc-why-you-cannot-do-vc-if-you-do-not-do-pre-seed-why-market-sizing-is-bs-where-will-foundation-models-buildbuy-apps-vs-where-will-they-not-with-bucky-moore"
     },
     {
-      "title": "20Sales: Sierra: Inside Silicon Valley's Fastest Growing Sales Machine & How to Prospect, Outbound and Close Enterprise Deals in AI",
+      "title": "20Sales: Sierra: Inside Silicon Valley's Fastest Growing Sales Machine &amp; How to Prospect, Outbound and Close Enterprise Deals in AI",
       "published": "2025-05-02",
       "url": "https://thetwentyminutevc.libsyn.com/20sales-sierra-inside-silicon-valleys-fastest-growing-sales-machine-how-to-prospect-outbound-and-close-enterprise-deals-in-ai"
     },
@@ -1048,7 +1118,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20growth-inside-krakens-15bn-growth-playbook-what-works-what-doesnt-and-what-no-founders-understand-about-growth-that-will-change-their-company-with-mayur-gupta"
     },
     {
-      "title": "20VC: OpenAI's $3BN Acquisition of Windsurf: The Breakdown | Are Endowment Funds F******* & How LP Deployment to Venture Will Change in 2025 | Why Revenue Multiples are BS, The Rise of AI Rollups and Multi-Stage Funds Destroying Seed Investing",
+      "title": "20VC: OpenAI's $3BN Acquisition of Windsurf: The Breakdown | Are Endowment Funds F******* &amp; How LP Deployment to Venture Will Change in 2025 | Why Revenue Multiples are BS, The Rise of AI Rollups and Multi-Stage Funds Destroying Seed Investing",
       "published": "2025-04-24",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-openais-3bn-acquisition-of-windsurf-the-breakdown-are-endowment-funds-f-how-lp-deployment-to-venture-will-change-in-2025-why-revenue-multiples-are-bs-the-rise-of-ai-rollups-and-multi-stage-funds-destroying-seed-investing"
     },
@@ -1058,17 +1128,17 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-do-rich-founders-make-better-founders-the-best-performing-fund-would-only-back-yc-founders-on-their-second-time-why-spacs-will-come-back-why-short-sellers-should-be-banned-is-trump-better-for-business-than-biden-with-jason-wilk-dave"
     },
     {
-      "title": "20VC: Foundation Models: Who Wins & Who Loses | How Economies and Labour Markets Need to Change in a World of AI | China vs the US in an AI Race: What You Need to Know | Rich Socher, Founder @ You.com",
+      "title": "20VC: Foundation Models: Who Wins &amp; Who Loses | How Economies and Labour Markets Need to Change in a World of AI | China vs the US in an AI Race: What You Need to Know | Rich Socher, Founder @ You.com",
       "published": "2025-04-18",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-foundation-models-who-wins-who-loses-how-economies-and-labour-markets-need-to-change-in-a-world-of-ai-china-vs-the-us-in-an-ai-race-what-you-need-to-know-rich-socher-founder-youcom"
     },
     {
-      "title": "20VC: Why Seed is for Suckers | a16z's $20BN Fund & Founders Fund's $4.6BN: What Makes Them So Good | Why Josh Kushner Is the Master of Venture Capital Strategy | Why Extended Private Markets Screw US Citizens with Jason Lemkin and Rory O'Driscoll",
+      "title": "20VC: Why Seed is for Suckers | a16z's $20BN Fund &amp; Founders Fund's $4.6BN: What Makes Them So Good | Why Josh Kushner Is the Master of Venture Capital Strategy | Why Extended Private Markets Screw US Citizens with Jason Lemkin and Rory O'Driscoll",
       "published": "2025-04-17",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-seed-is-for-suckers-a16zs-20bn-fund-founders-funds-46bn-what-makes-them-so-good-why-josh-kushner-is-the-master-of-venture-capital-strategy-why-extended-private-markets-screw-us-citizens-with-jason-lemkin-and-rory-odriscoll"
     },
     {
-      "title": "20VC: Benchmark's Victor Lazarte on Why Portfolio Construction is BS| Why SaaS Spreadsheet Investing is Dead | Why China is a Stabilising Force for the US | Three Traits All the Best Founders Have & The Lie All Big Tech Companies Have Been Telling",
+      "title": "20VC: Benchmark's Victor Lazarte on Why Portfolio Construction | Why SaaS Spreadsheet Investing is Dead | Why China is a Stabailising Force for the US | Three Traits All the Best Founders Have &amp; The Lie All Big Tech Companies Have Been Telling",
       "published": "2025-04-14",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-benchmarks-victor-lazarte-on-why-portfolio-construction-why-saas-spreadsheet-investing-is-dead-why-china-is-a-stabailising-force-for-the-us-three-traits-all-the-best-founders-have-the-lie-all-big-tech-companies-have-been-telling"
     },
@@ -1078,7 +1148,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20product-how-scale-ai-and-harvey-build-product-why-pms-are-wrong-they-are-not-the-ceos-of-the-product-how-to-do-pre-and-post-mortems-effectively-and-how-to-nail-prds-the-future-of-product-management-in-a-world-of-ai-with-aatish-nayak"
     },
     {
-      "title": "20VC: How to Fix the UK Tech Ecosystem | Why We Need to Flood the UK with Venture Capital | What the UK Can Learn From Sequoia, Stripe and Norway | Why Now is the Time to be Bullish on China & Lessons from Jensen Huang with Tom Hulme & Stan Boland",
+      "title": "20VC: How to Fix the UK Tech Ecosystem | Why We Need to Flood the UK with Venture Capital | What the UK Can Learn From Sequoia, Stripe and Norway | Why Now is the Time to be Bullish on China &amp; Lessons from Jensen Huang with Tom Hulme &amp; Stan Boland",
       "published": "2025-04-10",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-how-to-fix-the-uk-tech-ecosystem-why-we-need-to-flood-the-uk-with-venture-capital-what-the-uk-can-learn-from-sequoia-stripe-and-norway-why-now-is-the-time-to-be-bullish-on-china-lessons-from-jensen-huang-with-tom-hulme-stan-boland"
     },
@@ -1088,7 +1158,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-carvana-ceo-on-buiding-a-50b-company-losing-99-and-coming-back-ernest-garcia-inside-the-mind-of-the-most-misunderstood-ceo-in-america"
     },
     {
-      "title": "20VC: Why To Win in AI, Investors Need to Change Their Approach | Why VC is Run by Principals and Associates and is a Broken System | The Bull Case for Anthropic & Whether Deepseek Changes Their Strategy with Nabeel Hyatt @ Spark Capital",
+      "title": "20VC: Why To Win in AI, Investors Need to Change Their Approach | Why VC is Run by Principals and Associates and is a Broken System | The Bull Case for Anthropic &amp; Whether Deepseek Changes Their Strategy with Nabeel Hyatt @ Spark Capital",
       "published": "2025-04-04",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-to-win-in-ai-investors-need-to-change-their-approach-why-vc-is-run-by-principals-and-associates-and-is-a-broken-system-the-bull-case-for-anthropic-whether-deepseek-changes-their-strategy-with-nabeel-hyatt-spark-capital"
     },
@@ -1113,7 +1183,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-will-revolut-and-monzo-list-in-the-uk-how-does-london-compete-against-the-us-to-win-the-best-uk-ipos-are-uk-public-companies-punished-on-price-for-listing-in-london-the-myths-and-the-reality-of-the-london-stock-exchange-with-ceo-julia-hoggett"
     },
     {
-      "title": "20VC: Why Traditional VC is Broken: How VCs Learned Nothing from 2021 | Why LPs are More Important than Founders & Advice to Emerging Managers | Bull Case for Bytedance & Why TikTok's Ban Doesn't Matter with Mitchell Green, Lead Edge Capital",
+      "title": "20VC: Why Traditional VC is Broken: How VCs Learned Nothing from 2021 | Why LPs are More Important than Founders &amp; Advice to Emerging Managers | Bull Case for Bytedance &amp; Why TikTok's Ban Doesn't Matter with Mitchell Green, Lead Edge Capital",
       "published": "2025-03-28",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-traditional-vc-is-broken-how-vcs-learned-nothing-from-2021-why-lps-are-more-important-than-founders-advice-to-emerging-managers-bull-case-for-bytedance-why-tiktoks-ban-doesnt-matter-with-mitchell-green-lead-edge-capital"
     },
@@ -1128,7 +1198,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-ai-chip-wars-how-cerebras-plans-to-topple-nvidias-dominance-why-we-have-not-reached-scaling-laws-in-ai-what-happens-to-the-cost-of-inference-how-we-underestimate-china-and-shouldnt-sell-to-them-with-andrew-feldman"
     },
     {
-      "title": "20VC: Selling Drift for $1.2BN is the Biggest Failure: What No One Tells You About Selling Your Company | Why Incumbents Are Slower & Worse Than Ever | Why the Most Valuable Companies in a World of AI Will Not Have More Than 100 People with Elias Torres",
+      "title": "20VC: Selling Drift for $1.2BN is the Biggest Failure: What No One Tells You About Selling Your Company | Why Incumbents Are Slower &amp; Worse Than Ever | Why the Most Valuable Companies in a World of AI Will Not Have More Than 100 People with Elias Torres",
       "published": "2025-03-21",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-selling-drift-for-12bn-is-the-biggest-failure-what-no-one-tells-you-about-selling-your-company-why-incumbents-are-slower-worse-than-ever-why-the-most-valuable-companies-in-a-world-of-ai-will-not-have-more-than-100-people-with-elias-torres"
     },
@@ -1168,7 +1238,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-anthropic-cpo-mike-krieger-where-will-value-be-created-in-a-world-of-ai-have-foundation-models-commoditized-when-do-model-providers-become-application-providers-what-anthropic-learned-from-deepseek"
     },
     {
-      "title": "20Growth: Inside Ramp's Growth Engine: How Ramp Became the Fastest Growing SaaS Company Ever | What Worked & What Did Not Work | How to Hire for Growth | How to Find Alpha in Channels Where No One Else Can with George Bonaci",
+      "title": "20Growth: Inside Ramp's Growth Engine: How Ramp Became the Fastest Growing SaaS Company Ever | What Worked &amp; What Did Not Work | How to Hire for Growth | How to Find Alpha in Channels Where No One Else Can with George Bonaci",
       "published": "2025-02-28",
       "url": "https://thetwentyminutevc.libsyn.com/20growth-inside-ramps-growth-engine-how-ramp-became-the-fastest-growing-saas-company-ever-what-worked-what-did-not-work-how-to-hire-for-growth-how-to-find-alpha-in-channels-where-no-one-else-can-with-george-bonaci"
     },
@@ -1178,7 +1248,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-the-insane-story-of-glovo-selling-30-of-the-company-for-100k-the-mcdonalds-deal-that-saved-them-running-out-of-money-three-times-burning-1m-per-day-being-acquired-for-22bn-with-oscar-pierre-founder-glovo"
     },
     {
-      "title": "20VC: Why Google Will Win the AI Arms Race & OpenAI Will Not | NVIDIA vs AMD: Who Wins and Why | The Future of Inference vs Training | The Economics of Compute & Why To Win You Must Have Product, Data & Compute with Steeve Morin @ ZML",
+      "title": "20VC: Why Google Will Win the AI Arms Race &amp; OpenAI Will Not | NVIDIA vs AMD: Who Wins and Why | The Future of Inference vs Training | The Economics of Compute &amp; Why To Win You Must Have Product, Data &amp; Compute with Steeve Morin @ ZML",
       "published": "2025-02-24",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-google-will-win-the-ai-arms-race-openai-will-not-nvidia-vs-amd-who-wins-and-why-the-future-of-inference-vs-training-the-economics-of-compute-why-to-win-you-must-have-product-data-compute-with-steeve-morin-zml"
     },
@@ -1188,12 +1258,12 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-exclusive-mercor-raises-100m-at-a-2bn-valuation-scaling-to-70m-in-arr-in-24-months-9-9-6-9am-9pm-6-days-per-week-the-most-intense-culture-in-silicon-valley-the-future-of-programming-models-and-data-with-adarsh-hiremath"
     },
     {
-      "title": "20VC: NVIDIA vs Groq: The Future of Training vs Inference | Meta, Google, and Microsoft's Data Center Investments: Who Wins | Data, Compute, Models: The Core Bottlenecks in AI & Where Value Will Distribute with Jonathan Ross, Founder @ Groq",
+      "title": "20VC: NVIDIA vs Groq: The Future of Training vs Inference | Meta, Google, and Microsoft's Data Center Investments: Who Wins | Data, Compute, Models: The Core Bottlenecks in AI &amp; Where Value Will Distribute with Jonathan Ross, Founder @ Groq",
       "published": "2025-02-17",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-nvidia-vs-groq-the-future-of-training-vs-inference-meta-google-and-microsofts-data-center-investments-who-wins-data-compute-models-the-core-bottlenecks-in-ai-where-value-will-distribute-with-jonathan-ross-founder-groq"
     },
     {
-      "title": "20VC: From Penniless Printing Shop Offices to Public Company and One of the Largest Entertainment Companies: The Story of LADbible | The Future of Content & Social Media | US vs Europe: Is Europe F****** with Solly Solomou",
+      "title": "20VC: From Penniless Printing Shop Offices to Public Company and One of the Largest Entertainment Companies: The Story of LADbible | The Future of Content &amp; Social Media | US vs Europe: Is Europe F****** with Solly Solomou",
       "published": "2025-02-14",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-from-penniless-printing-shop-offices-to-public-company-and-one-of-the-largest-entertainment-companies-the-story-of-ladbible-the-future-of-content-social-media-us-vs-europe-is-europe-f-with-solly-solomou"
     },
@@ -1203,22 +1273,22 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-monzo-the-greatest-turnaround-in-tech-from-40m-revenues-layoffs-downrounds-and-low-employee-nps-to-1bn-in-revenue-profitable-and-10m-customers-with-ts-anil-ceo-monzo"
     },
     {
-      "title": "20VC: The $5BN Company Built from the Belgian Countryside | The Story of Odoo: The Company with No Plans to Sell, IPO & Their Billionaire Founder Who Does Not Care About Money with Fabien Pinckaers, Founder & CEO @ Odoo",
+      "title": "20VC: The $5BN Company Built from the Belgian Countryside | The Story of Odoo: The Company with No Plans to Sell, IPO &amp; Their Billionaire Founder Who Does Not Care About Money with Fabien Pinckaers, Founder &amp; CEO @ Odoo",
       "published": "2025-02-12",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-the-5bn-company-built-from-the-belgian-countryside-the-story-of-odoo-the-company-with-no-plans-to-sell-ipo-their-billionaire-founder-who-does-not-care-about-money-with-fabien-pinckaers-founder-ceo-odoo"
     },
     {
-      "title": "20VC: Why Model Providers Will Kill Many Startups Moving into the Application Layer | Why Deepseek is not a Threat to OpenAI & Why OpenAI Beats Anthropic | Apps vs Models vs Infrastructure: Where is Value in AI with Sridhar Ramaswamy, Snowflake CEO",
+      "title": "20VC: Why Model Providers Will Kill Many Startups Moving into the Application Layer | Why Deepseek is not a Threat to OpenAI &amp; Why OpenAI Beats Anthropic | Apps vs Models vs Infrastructure: Where is Value in AI with Sridhar Ramaswamy, Snowflake CEO",
       "published": "2025-02-10",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-model-providers-will-kill-many-startups-moving-into-the-application-layer-why-deepseek-is-not-a-threat-to-openai-why-openai-beats-anthropic-apps-vs-models-vs-infrastructure-where-is-value-in-ai-with-sridhar-ramaswamy-snowflake-ceo"
     },
     {
-      "title": "20Product: Product Secrets Behind Uber and Opendoor | How AI Changes the Role of the PM & The Product Development Process | How to Hire the Best Product Teams & What No One Does That Everyone Should Do with Brian Tolkin",
+      "title": "20Product: Product Secrets Behind Uber and Opendoor | How AI Changes the Role of the PM &amp; The Product Development Process | How to Hire the Best Product Teams &amp; What No One Does That Everyone Should Do with Brian Tolkin",
       "published": "2025-02-07",
       "url": "https://thetwentyminutevc.libsyn.com/20product-product-secrets-behind-uber-and-opendoor-how-ai-changes-the-role-of-the-pm-the-product-development-process-how-to-hire-the-best-product-teams-what-no-one-does-that-everyone-should-do-with-brian-tolkin"
     },
     {
-      "title": "20VC: Affirm Max Levchin on Why Grading Talent by Letter (A or B) is Total BS | How to Create a Culture of Post Mortems and Writing | Why You Should Only Study Failure Not Success & The Biggest Surprises Scaling to $18.7BN Market Cap",
+      "title": "20VC: Affirm Max Levchin on Why Grading Talent by Letter (A or B) is Total BS | How to Create a Culture of Post Mortems and Writing | Why You Should Only Study Failure Not Success &amp; The Biggest Surprises Scaling to $18.7BN Market Cap",
       "published": "2025-02-05",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-affirm-max-levchin-on-why-grading-talent-by-letter-a-or-b-is-total-bs-how-to-create-a-culture-of-post-mortems-and-writing-why-you-should-only-study-failure-not-success-the-biggest-surprises-scaling-to-187bn-market-cap"
     },
@@ -1233,7 +1303,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-deepseek-special-is-deepseek-a-weapon-of-the-ccp-how-should-openai-and-the-us-government-respond-why-500bn-for-stargate-is-not-enough-the-future-of-inference-nvidia-and-foundation-models-with-jonathan-ross-groq"
     },
     {
-      "title": "20Sales: Why Every Sales Rep Should Do Pipeline Generation & How to Teach Them | Verticalised Sales Playbooks: When and How | How the Best Sales Reps and Leaders Structure Their Time with Carlos Delatorre, CRO @ Harness",
+      "title": "20Sales: Why Every Sales Rep Should Do Pipeline Generation &amp; How to Teach Them | Verticalised Sales Playbooks: When and How | How the Best Sales Reps and Leaders Structure Their Time with Carlos Delatorre, CRO @ Harness",
       "published": "2025-01-24",
       "url": "https://thetwentyminutevc.libsyn.com/20sales-why-every-sales-rep-should-do-pipeline-generation-how-to-teach-them-verticalised-sales-playbooks-when-and-how-how-the-best-sales-reps-and-leaders-structure-their-time-with-carlos-delatorre-cro-harness"
     },
@@ -1263,7 +1333,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-shervin-pishevar-on-the-epic-uber-war-and-what-really-happened-in-the-firing-of-travis-kalanick-raising-15bn-to-win-china-why-the-traditional-venture-capital-model-is-dead-the-future-of-quantum-and-how-we-will-cure-all-diseases-in-10-years"
     },
     {
-      "title": "20VC: The Future of Foundation Models | The Future of AI Consumer Apps and Why OpenAI Did a Disservice to Them | The Future of Music: Spotify vs YouTube & Spotify vs TikTok: What Happens with Mikey Shulman @ Suno",
+      "title": "20VC: The Future of Foundation Models | The Future of AI Consumer Apps and Why OpenAI Did a Disservice to Them | The Future of Music: Spotify vs YouTube &amp; Spotify vs TikTok: What Happens with Mikey Shulman @ Suno",
       "published": "2025-01-10",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-the-future-of-foundation-models-the-future-of-ai-consumer-apps-and-why-openai-did-a-disservice-to-them-the-future-of-music-spotify-vs-youtube-spotify-vs-tiktok-what-happens-with-mikey-shulman-suno"
     },
@@ -1273,7 +1343,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-carvana-the-most-wild-story-in-public-markets-from-60bn-to-400m-and-back-to-40bn-the-biggest-opportunities-mistakes-and-challenges-ahead-for-one-of-the-public-markets-only-100x-investments"
     },
     {
-      "title": "20VC: How To Do a 10x Seed Fund in 2025 | Three Frameworks to Evaluate Startups an Founders | Lessons from Losing Billions Missing Airbnb and Pinterest & Investing Lessons from Charlie Munger with Mike Maples @ Floodgate",
+      "title": "20VC: How To Do a 10x Seed Fund in 2025 | Three Frameworks to Evaluate Startups an Founders | Lessons from Losing Billions Missing Airbnb and Pinterest &amp; Investing Lessons from Charlie Munger with Mike Maples @ Floodgate",
       "published": "2025-01-06",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-how-to-do-a-10x-seed-fund-in-2025-three-frameworks-to-evaluate-startups-an-founders-lessons-from-losing-billions-missing-airbnb-and-pinterest-investing-lessons-from-charlie-munger-with-mike-maples-floodgate"
     },
@@ -1298,7 +1368,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20growth-how-to-scale-to-30m-arr-bootstrapped-through-content-and-brand-the-ultimate-equation-to-success-in-sales-and-why-most-founders-suck-at-sales-why-you-should-overpay-people-and-what-that-means-with-guillaume-moubeche-lempire"
     },
     {
-      "title": "20VC: The Future of War: Are We Ready & What Needs to Be Done | China, Russia and Trump: What Happens Now | Raising $828M to Build the Defence Champion of Europe | Torsten Reil, Co-Founder @ Helsing",
+      "title": "20VC: The Future of War: Are We Ready &amp; What Needs to Be Done | China, Russia and Trump: What Happens Now | Raising $828M to Build the Defence Champion of Europe | Torsten Reil, Co-Founder @ Helsing",
       "published": "2024-12-11",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-the-future-of-war-are-we-ready-what-needs-to-be-done-china-russia-and-trump-what-happens-now-raising-828m-to-build-the-defence-champion-of-europe-torsten-reil-co-founder-helsing"
     },
@@ -1313,7 +1383,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-from-unsexy-startup-to-18bn-acquisition-with-150m-in-arr-why-vcs-and-founders-are-fundamentally-misaligned-why-valuations-and-fundraising-are-bs-lessons-from-josh-kushner-and-marc-andreesen-zac-bookman-opengov"
     },
     {
-      "title": "20VC: Revolut Founder Nik Storonsky on When and Where Revolut Will IPO & What Revolut Need to Do to Hit $100BN Valuation",
+      "title": "20VC: Revolut Founder Nik Storonsky on When and Where Revolut Will IPO &amp; What Revolut Need to Do to Hit $100BN Valuation",
       "published": "2024-12-04",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-revolut-founder-nik-storonsky-on-when-and-where-revolut-will-ipo-what-revolut-need-to-do-to-hit-100bn-valuation"
     },
@@ -1323,7 +1393,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-grindr-the-most-insane-story-in-startups-how-the-chinese-bought-and-lost-grindr-the-successful-ipo-with-300m-revenues-and-40-ebitda-margins-how-grindr-built-a-free-cash-flow-machine"
     },
     {
-      "title": "20Product: Is an AI Winter Approaching | The Future of AI Software Development: What is Real & What is BS | OpenAI: WTF is Going on & How Far Into Application Layer Do They Go | The Future Role of Software Engineers with Guy Podjarny",
+      "title": "20Product: Is an AI Winter Approaching | The Future of AI Software Development: What is Real &amp; What is BS | OpenAI: WTF is Going on &amp; How Far Into Application Layer Do They Go | The Future Role of Software Engineers with Guy Podjarny",
       "published": "2024-11-29",
       "url": "https://thetwentyminutevc.libsyn.com/20product-is-an-ai-winter-approaching-the-future-of-ai-software-development-what-is-real-what-is-bs-openai-wtf-is-going-on-how-far-into-application-layer-do-they-go-the-future-role-of-software-engineers-with-guy-podjarny"
     },
@@ -1333,7 +1403,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-price-sensitivity-is-bs-why-portfolios-are-merely-a-construct-to-make-lps-happy-why-the-best-investment-never-happen-in-fundraising-rounds-what-europe-needs-to-do-to-become-a-superpower-again-klaus-hommels-lakestar"
     },
     {
-      "title": "20VC: Discord's Jason Citron on Why Everything We are Taught About Hiring & Management is BS | Do Richer Founders & Gamer Founders Make Better Founders? | Never Before Told Moments Behind Scaling to 200M Users",
+      "title": "20VC: Discord's Jason Citron on Why Everything We are Taught About Hiring &amp; Management is BS | Do Richer Founders &amp; Gamer Founders Make Better Founders? | Never Before Told Moments Behind Scaling to 200M Users",
       "published": "2024-11-25",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-discords-jason-citron-on-why-everything-we-are-taught-about-hiring-management-is-bs-do-richer-founders-gamer-founders-make-better-founders-never-before-told-moments-behind-scaling-to-145bn"
     },
@@ -1348,7 +1418,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-turning-165m-into-21bn-lessons-from-the-greatest-venture-investment-in-european-history-uipath-why-vc-is-not-being-commoditised-why-price-does-not-matter-lessons-on-loss-ratio-selling-and-signalling-with-cem-sertoglu"
     },
     {
-      "title": "20VC Alain De Botton on Why Companies Are Not Families | Why Status is Making You Miserable | Why Parents Want Their Kids to Fail | Why We Are Richer Yet More Anxious Than Ever & Why You Should Not Always \"Be Yourself\"",
+      "title": "20VC Alain De Botton on Why Companies Are Not Families | Why Status is Making You Miserable | Why Parents Want Their Kids to Fail | Why We Are Richer Yet More Anxious Than Ever &amp; Why You Should Not Always \"Be Yourself\"",
       "published": "2024-11-18",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-alain-de-botton-on-why-companies-are-not-families-why-status-is-making-you-miserable-why-parents-want-their-kids-to-fail-why-we-are-richer-yet-more-anxious-than-ever-why-you-should-not-always-be-yourself"
     },
@@ -1358,12 +1428,12 @@
       "url": "https://thetwentyminutevc.libsyn.com/20growth-inside-perplexitys-growth-machine-what-worked-what-did-not-work-why-paid-acquisition-is-a-drug-and-brand-marketing-is-bs-the-good-bad-and-ugly-of-ab-tests-and-why-micro-optimisations-are-under-rated-with-raman-malik"
     },
     {
-      "title": "20VC: Bolt; The Most Insane Story in Startups | Turning a $5K Loan into an $8BN Company | Why Every VC Turned Down One of Europe's Biggest Winners | Competing with Uber & The Future of Micromobility and Self-Driving",
+      "title": "20VC: Bolt; The Most Insane Story in Startups | Turning a $5K Loan into an $8BN Company | Why Every VC Turned Down One of Europe's Biggest Winners | Competing with Uber &amp; The Future of Micromobility and Self-Driving",
       "published": "2024-11-13",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-bolt-the-most-insane-story-in-startups-turning-a-5k-loan-into-an-8bn-company-why-every-vc-turned-down-one-of-europes-biggest-winners-competing-with-uber-the-future-of-micromobility-and-self-driving"
     },
     {
-      "title": "20VC: Anduril Co-Founder on How a Trump Administration Changes the Defence Industry | What Happens Between China vs Taiwan, Israel vs Palestine, Russia vs Ukraine | How Software Changes War & Why TikTok Should Be Banned with Matt Grimm",
+      "title": "20VC: Anduril Co-Founder on How a Trump Administration Changes the Defence Industry | What Happens Between China vs Taiwan, Israel vs Palestine, Russia vs Ukraine | How Software Changes War &amp; Why TikTok Should Be Banned with Matt Grimm",
       "published": "2024-11-11",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-anduril-co-founder-on-how-a-trump-administration-changes-the-defence-industry-what-happens-between-china-vs-taiwan-israel-vs-palestine-russia-vs-ukraine-how-software-changes-war-why-tiktok-should-be-banned-with-matt-grimm"
     },
@@ -1378,7 +1448,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-robinhoods-vlad-tenev-on-founder-mode-building-8x-100m-revenue-lines-lessons-from-raising-5bn-and-the-gamestop-saga-the-future-of-artificial-intelligence-wealth-management-and-home-ownership"
     },
     {
-      "title": "20VC: Linear's Karri Saarinen How to be Grow Capital Efficiently in a World of BS Growth | How to Fundraise with Leverage | How to Select Investors and How to Give Them Homework in the Raise Process & Growth Lessons from Airbnb and Coinbase",
+      "title": "20VC: Linear's Karri Saarinen How to be Grow Capital Efficiently in a World of BS Growth | How to Fundraise with Leverage | How to Select Investors and How to Give Them Homework in the Raise Process &amp; Growth Lessons from Airbnb and Coinbase",
       "published": "2024-10-30",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-linears-karri-saarinen-how-to-be-grow-capital-efficiently-in-a-world-of-bs-growth-how-to-fundraise-with-leverage-how-to-select-investors-and-how-to-give-them-homework-in-the-raise-process-growth-lessons-from-airbnb-and-coinbase"
     },
@@ -1388,7 +1458,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-saas-is-dead-why-ai-first-companies-will-win-we-are-in-the-middle-of-a-cold-war-for-ai-talent-why-europe-is-f-and-we-need-to-stop-whining-with-daniel-khachab-co-founder-choco"
     },
     {
-      "title": "20VC: The Truth About Multi-Stage Firms; Why Portfolio Services are for VCs not Founders | Why Politics is Rife & Decision-Making is Broken in Large VCs | Why Reserves are Bad for Founders & How Boutique Firms Will Win with Mark Goldberg @ Chemistry",
+      "title": "20VC: The Truth About Multi-Stage Firms; Why Portfolio Services are for VCs not Founders | Why Politics is Rife &amp; Decision-Making is Broken in Large VCs | Why Reserves are Bad for Founders &amp; How Boutique Firms Will Win with Mark Goldberg @ Chemistry",
       "published": "2024-10-25",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-the-truth-about-multi-stage-firms-why-portfolio-services-are-for-vcs-not-founders-why-politics-is-rife-decision-making-is-broken-in-large-vcs-why-reserves-are-bad-for-founders-how-boutique-firms-will-win-with-mark-goldberg-chemistry"
     },
@@ -1398,32 +1468,32 @@
       "url": "https://thetwentyminutevc.libsyn.com/20sales-biggest-lessons-scaling-slack-from-6m-to-1bn-in-arr-how-to-build-a-customer-success-machine-and-where-most-go-wrong-the-framework-to-hire-all-sales-reps-take-home-assignments-hiring-panels-and-more-with-aj-tennant-glean"
     },
     {
-      "title": "20VC: Kleiner Perkins' Mamoon Hamid on Investing Lessons from Leading Rounds in Figma, Slack and Rippling | Lessons Building a Generational Defining Firm with Kleiner Perkins | AI: Where Value Accrues, Startups vs Incumbents & Scaling Laws",
+      "title": "20VC: Kleiner Perkins' Mamoon Hamid on Investing Lessons from Leading Rounds in Figma, Slack and Rippling | Lessons Building a Generational Defining Firm with Kleiner Perkins | AI: Where Value Accrues, Startups vs Incumbents &amp; Scaling Laws",
       "published": "2024-10-21",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-kleiner-perkins-mamoon-hamid-on-investing-lessons-from-leading-rounds-in-figma-slack-and-rippling-lessons-building-a-generational-defining-firm-with-kleiner-perkins-ai-where-value-accrues-startups-vs-incumbents-scaling-laws"
     },
     {
-      "title": "20Growth: Revolut's Chief Growth Officer on The Growth Playbook Revolut Used to Scale to $2.2BN in Revenue | How Revolut Launch and Grow Products | Why the Best PMs Don't Need A/B Tests & Why CAC is a BS Metric with Antoine Le Nel",
+      "title": "20Growth: Revolut's Chief Growth Officer on The Growth Playbook Revolut Used to Scale to $2.2BN in Revenue | How Revolut Launch and Grow Products | Why the Best PMs Don't Need A/B Tests &amp; Why CAC is a BS Metric with Antoine Le Nel",
       "published": "2024-10-18",
       "url": "https://thetwentyminutevc.libsyn.com/20growth-revoluts-chief-growth-officer-on-the-growth-playbook-revolut-used-to-scale-to-22bn-in-revenue-how-revolut-launch-and-grow-products-why-the-best-pms-dont-need-ab-tests-why-cac-is-a-bs-metric-with-antoine-le-nel"
     },
     {
-      "title": "20VC: Why Founder Mode is Dangerous & Could Encourage Bad Behaviour | Why Fundraising is a Waste of Time & OKRs are BS | Why Angel Investing is Bad for Founders to Do and the VC Model is on it's Last Legs with Zach Perret @ Plaid",
+      "title": "20VC: Why Founder Mode is Dangerous &amp; Could Encourage Bad Behaviour | Why Fundraising is a Waste of Time &amp; OKRs are BS | Why Angel Investing is Bad for Founders to Do and the VC Model is on it's Last Legs with Zach Perret @ Plaid",
       "published": "2024-10-16",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-founder-mode-is-dangerous-could-encourage-bad-behaviour-why-fundraising-is-a-waste-of-time-okrs-are-bs-why-angel-investing-is-bad-for-founders-to-do-and-the-vc-model-is-on-its-last-legs-with-zach-perret-plaid"
     },
     {
-      "title": "20VC: Investing Lessons from FC Seeding Uber, Airtable and Coupang | Why Pro Rata is the Original Sin in VC | Why Liquidity Has Died in 2024 | Why LPs are Pissed with VCs | The Hard Truth About Seed Fund Economics with David Frankel @ Founder Collective",
+      "title": "20VC: Investing Lessons from Seeding Uber, Airtable and Coupang | Why Pro Rata is the Original Sin in VC | Why Liquidity Has Died in 2024 | Why LPs are Pissed with VCs | The Hard Truth About Seed Fund Economics with David Frankel @ Founder Collective",
       "published": "2024-10-14",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-investing-lessons-from-seeding-uber-airtable-and-coupang-why-pro-rata-is-the-original-sin-in-vc-why-liquidity-has-died-in-2024-why-lps-are-pissed-with-vcs-the-hard-truth-about-seed-fund-economics-with-david-frankel-founder-collective"
     },
     {
-      "title": "20VC: Why Most AI Investments Will Do Worse than the S&P 500 | Why Early Stage VC is F******* | The Danger of Kamala Harris and Why Trump and Vance are Best | Freedom of Speech, Censorship and Government Control with Eoghan McCabe @ Intercom",
+      "title": "20VC: Why Most AI Investments Will Do Worse than the S&amp;P 500 | Why Early Stage VC is F******* | The Danger of Kamala Harris and Why Trump and Vance are Best | Freedom of Speech, Censorship and Government Control with Eoghan McCabe @ Intercom",
       "published": "2024-10-11",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-most-ai-investments-will-do-worse-than-the-sp-500-why-early-stage-vc-is-f-the-danger-of-kamala-harris-and-why-trump-and-vance-are-best-freedom-of-speech-censorship-and-government-control-with-eoghan-mccabe-intercom"
     },
     {
-      "title": "20VC: Sequoia Capital's $9BN Global Equities Fund on The Future for NVIDIA, Google & Meta | How to Play AI in the Public Markets | China & Europe: Is the Future Bleak | The Opportunity for Crossover Funds with Jeff Wang, Managing Partner @ SCGE",
+      "title": "20VC: Sequoia Capital's $9BN Global Equities Fund on The Future for NVIDIA, Google &amp; Meta | How to Play AI in the Public Markets | China &amp; Europe: Is the Future Bleak | The Opportunity for Crossover Funds with Jeff Wang, Managing Partner @ SCGE",
       "published": "2024-10-09",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-sequoia-capitals-9bn-global-equities-fund-on-the-future-for-nvidia-google-meta-how-to-play-ai-in-the-public-markets-china-europe-is-the-future-bleak-the-opportunity-for-crossover-funds-with-jeff-wang-managing-partner-scge"
     },
@@ -1458,7 +1528,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-benchmarks-eric-vishria-on-where-is-the-value-in-ai-chips-models-or-apps-why-nvidia-will-not-be-the-only-game-in-town-the-commoditisation-of-foundation-models-which-ai-apps-have-sustaining-value-vs-hype-and-short-term-revenue"
     },
     {
-      "title": "20VC: From Potato Farm to $200M in Revenue: The Never-Before-Told Story of Flo Health: Scaling to $1BN Valuation, 75M Users & Getting 100s of No's From Investors Along the Way with Dmitry Gurski",
+      "title": "20VC: From Potato Farm to $200M in Revenue: The Never-Before-Told Story of Flo Health: Scaling to $1BN Valuation, 75M Users &amp; Getting 100s of No's From Investors Along the Way with Dmitry Gurski",
       "published": "2024-09-23",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-from-potato-farm-to-200m-in-revenue-the-never-before-told-story-of-flo-health-scaling-to-1bn-valuation-75m-users-getting-100s-of-nos-from-investors-along-the-way-with-dmitry-gurski"
     },
@@ -1468,12 +1538,12 @@
       "url": "https://thetwentyminutevc.libsyn.com/20growth-the-7-core-levers-to-win-at-consumer-subscription-growth-loops-cac-ltv-benchmarks-pricing-packaging-notifications-discounts-paywalls-the-breakdown-with-phil-carter"
     },
     {
-      "title": "20VC: Notion's Founder on \"Founder Mode\": When it Works & When it Doesn't | Why The Way Startups Fundraise & Construct Boards is Broken | Raising at a $10BN Valuation in Peak Bubble Times and How Notion Has More Money Than Ever Before with Akshay Kothari",
+      "title": "20VC: Notion's Founder on \"Founder Mode\": When it Works &amp; When it Doesn't | Why The Way Startups Fundraise &amp; Construct Boards is Broken | Raising at a $10BN Valuation in Peak Bubble Times and How Notion Has More Money Than Ever Before with Akshay Kothari",
       "published": "2024-09-18",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-notions-founder-on-founder-mode-when-it-works-when-it-doesnt-why-the-way-startups-fundraise-construct-boards-is-broken-raising-at-a-10bn-valuation-in-peak-bubble-times-and-how-notion-has-more-money-than-ever-before-with-akshay-kothari"
     },
     {
-      "title": "20VC: Index's Shardul Shah on Why Market Size is a Trap | Biggest Lessons on Pricing from Leading Rounds in Wiz & Datadog | Why Benchmarks & Averages in VC are BS | How Index Makes Decisions and Why Growth & Early are the Same Investing Style",
+      "title": "20VC: Index's Shardul Shah on Why Market Size is a Trap | Biggest Lessons on Pricing from Leading Rounds in Wiz &amp; Datadog | Why Benchmarks &amp; Averages in VC are BS | How Index Makes Decisions and Why Growth &amp; Early are the Same Investing Style",
       "published": "2024-09-16",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-indexs-shardul-shah-on-why-market-size-is-a-trap-biggest-lessons-on-pricing-from-leading-rounds-in-wiz-datadog-why-benchmarks-averages-in-vc-are-bs-how-index-makes-decisions-and-why-growth-early-are-the-same-investing-style"
     },
@@ -1493,7 +1563,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-tinder-founder-sean-rad-on-lessons-scaling-tinder-to-the-fastest-growing-consumer-social-app-in-history-leadership-lessons-scaling-tinder-the-future-of-love-dating-and-social-media-the-secret-to-your-relationship-with-money-and-marriage"
     },
     {
-      "title": "20VC: Why VC is a Ponzi Scheme Today | Why Most VCs are Bankers | Why Big VCs Ruin Startups | Why Incentives in VC are Broken | Why American Dynamism is a Tool for VCs to Raise Money with Nick Chirls, Asylum Ventures",
+      "title": "20VC: Why VC is a Ponzi Scheme Today | Why Most VCs are Bankers | Why Big VCs Ruin Startups | Why Incentives in VC are Broken | Why American Dyamism is a Tool for VCs to Raise Money with Nick Chirls, Asylum Ventures",
       "published": "2024-09-06",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-vc-is-a-ponzi-scheme-today-why-most-vcs-are-bankers-why-big-vcs-ruin-startups-why-incentives-in-vc-are-broken-why-american-dyamism-is-a-tool-for-vcs-to-raise-money-with-nick-chirls-asylum-ventures"
     },
@@ -1513,7 +1583,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-ai-scaling-myths-more-compute-is-not-the-answer-the-core-bottlenecks-in-ai-today-data-algorithms-and-compute-the-future-of-models-open-vs-closed-small-vs-large-with-arvind-narayanan-professor-of-computer-science-princeton"
     },
     {
-      "title": "20VC: Why the IPO Market is not Closed | Why Revenue Multiples are BS and Founders Need to Change | Advice From Jack Ma, Jamie Dimon and Evan Spiegel | Lessons from Taking Snap & Alibaba Public with Imran Khan",
+      "title": "20VC: Why the IPO Market is not Closed | Why Revenue Multiples are BS and Founders Need to Change | Advice From Jack Ma, Jamie Dimon and Evan Spiegel | Lessons from Taking Snap &amp; Alibaba Public with Imran Khan",
       "published": "2024-08-26",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-the-ipo-market-is-not-closed-why-revenue-multiples-are-bs-and-founders-need-to-change-advice-from-jack-ma-jamie-dimon-and-evan-spiegel-lessons-from-taking-snap-alibaba-public-with-imran-khan"
     },
@@ -1528,7 +1598,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-five-lessons-scaling-toast-to-14bn-market-cap-the-biggest-mistakes-founders-make-in-fundraising-hiring-and-selling-with-aman-narang-ceo-toast"
     },
     {
-      "title": "20VC: Chips, Models or Applications; Where is the Value in AI | Is Compute the Answer to All Model Performance Questions | Why Open AI Shelved AGI & Is There Any Value in Models with OpenAI Price Dumping with Aidan, Gomez, Co-Founder @ Cohere",
+      "title": "20VC: Chips, Models or Applications; Where is the Value in AI | Is Compute the Answer to All Model Performance Questions | Why Open AI Shelved AGI &amp; Is There Any Value in Models with OpenAI Price Dumping with Aidan, Gomez, Co-Founder @ Cohere",
       "published": "2024-08-19",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-chips-models-or-applications-where-is-the-value-in-ai-is-compute-the-answer-to-all-model-performance-questions-why-open-ai-shelved-agi-is-there-any-value-in-models-with-openai-price-dumping-with-aidan-gomez-co-founder-cohere"
     },
@@ -1538,17 +1608,17 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-capital-gs-laela-sturdy-on-what-stripe-uipath-and-duolingo-taught-me-about-company-building-and-investing-how-to-analyse-valuation-market-timing-sizing-and-exiting-life-inside-alphabets-7bn-growth-fund"
     },
     {
-      "title": "20VC: Lessons from Mark Zuckerberg, Keith Rabois & Tobi Lütke | Why Remote is a Bad Idea for 90% of Companies | The Framework for How Shopify Builds Product Today | What Humans Get Wrong About Marriage and Kids with Kaz Nejatian, COO @ Shopify",
+      "title": "20VC: Lessons from Mark Zuckerberg, Keith Rabois &amp; Tobi Lütke | Why Remote is a Bad Idea for 90% of Companies | The Framework for How Shopify Builds Product Today | What Humans Get Wrong About Marriage and Kids with Kaz Nejatian, COO @ Shopify",
       "published": "2024-08-14",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-lessons-from-mark-zuckerberg-keith-rabois-tobi-ltke-why-remote-is-a-bad-idea-for-90-of-companies-the-framework-for-how-shopify-builds-product-today-what-humans-get-wrong-about-marriage-and-kids-with-kaz-nejatian-coo-shopify"
     },
     {
-      "title": "20VC: Sequoia's Shaun Maguire: Will We See WW3 Shortly | Why DEI is a Cancer for Society | Why Iran is the World's Greatest Evil | Why Trump is the Only Hope for Peace in the Middle East | Trump vs Harris: Who Wins & What Happens",
+      "title": "20VC: Sequoia's Shaun Maguire: Will We See WW3 Shortly | Why DEI is a Cancer for Society | Why Iran is the World's Greatest Evil | Why Trump is the Only Hope for Peace in the Middle East | Trump vs Harris: Who Wins &amp; What Happens",
       "published": "2024-08-12",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-sequoias-shaun-maguire-will-we-see-ww3-shortly-why-dei-is-a-cancer-for-society-why-iran-is-the-worlds-greatest-evil-why-trump-is-the-only-hope-for-peace-in-the-middle-east-trump-vs-harris-who-wins-what-happens"
     },
     {
-      "title": "20VC: Why VC is Distorting a Generation of SaaS Companies & With $900M in ARR and a Market Cap of $2.6BN is Lightspeed the Most Misunderstood Public Company with Dax Dasilva, Founder & CEO @ Lightspeed",
+      "title": "20VC: Why VC is Distorting a Generation of SaaS Companies &amp; With $900M in ARR and a Market Cap of $2.6BN is Lightspeed the Most Misunderstood Public Company with Dax Dasilva, Founder &amp; CEO @ Lightspeed",
       "published": "2024-08-09",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-vc-is-distorting-a-generation-of-saas-companies-with-900m-in-arr-and-a-market-cap-of-26bn-is-lightspeed-the-most-misunderstood-public-company-with-dax-dasilva-founder-ceo-lightspeed"
     },
@@ -1568,7 +1638,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20sales-12-week-step-by-step-framework-to-crush-every-sales-quarter-moving-from-smb-to-enterprise-how-and-when-verticalised-sales-teams-why-they-are-a-gamechanger-and-how-to-build-them-with-ben-fiechtner-cro-clari"
     },
     {
-      "title": "20VC: Is More Compute the Answer to Model Performance | Why OpenAI Abandons Products, The Biggest Opportunities They Have Not Taken & Analysing Their Race for AGI | What Companies, AI Labs and Startups Get Wrong About AI with Ethan Mollick",
+      "title": "20VC: Is More Compute the Answer to Model Performance | Why OpenAI Abandons Products, The Biggest Opportunities They Have Not Taken &amp; Analysing Their Race for AGI | What Companies, AI Labs and Startups Get Wrong About AI with Ethan Mollick",
       "published": "2024-07-31",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-is-more-compute-the-answer-to-model-performance-why-openai-abandons-products-the-biggest-opportunities-they-have-not-taken-analysing-their-race-for-agi-what-companies-ai-labs-and-startups-get-wrong-about-ai-with-ethan-mollick"
     },
@@ -1583,12 +1653,12 @@
       "url": "https://thetwentyminutevc.libsyn.com/20growth-how-transferwise-acquired-their-first-5m-customers-the-two-types-of-content-all-companies-must-create-how-to-crush-competition-with-performance-marketing-what-growth-hacks-worked-and-did-not-with-nilan-peiris-cpo-wise"
     },
     {
-      "title": "This Week in SaaS: Should Wiz Have Accepted Google's $23BN Acquisition Offer, Crowdstrike: WTF Happens From Here: The Bull and the Bear Case & $1BN into Legal Tech in a Day with Clio and Harvey with Jason Lemkin",
+      "title": "This Week in SaaS: Should Wiz Have Accepted Google's $23BN Acquisition Offer, Crowdstrike: WTF Happens From Here: The Bull and the Bear Case &amp; $1BN into Legal Tech in a Day with Clio and Harvey with Jason Lemkin",
       "published": "2024-07-24",
       "url": "https://thetwentyminutevc.libsyn.com/this-week-in-saas-should-wiz-have-accepted-googles-23bn-acquisition-offer-crowdstrike-wtf-happens-from-here-the-bull-and-the-bear-case-1bn-into-legal-tech-in-a-day-with-clio-and-harvey-with-jason-lemkin"
     },
     {
-      "title": "20VC: How I Lost Airbnb at Seed Because of an Exploding Term Sheet | Investing Lessons from Roelof Botha & Peter Thiel | Why VC is Less Collaborative Than Ever and Great Companies Are Being Destroyed by Too Much Cash with Kevin Hartz @ A*",
+      "title": "20VC: How I Lost Airbnb at Seed Because of an Exploding Term Sheet | Investing Lessons from Roelof Botha &amp; Peter Thiel | Why VC is Less Collaborative Than Ever and Great Companies Are Being Destroyed by Too Much Cash with Kevin Hartz @ A*",
       "published": "2024-07-22",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-how-i-lost-airbnb-at-seed-because-of-an-exploding-term-sheet-investing-lessons-from-roelof-botha-peter-thiel-why-vc-is-less-collaborative-than-ever-and-great-companies-are-being-destroyed-by-too-much-cash-with-kevin-hartz-a"
     },
@@ -1603,7 +1673,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-brex-ceo-pedro-franceschi-on-what-brex-needs-to-do-to-be-a-public-company-brex-vs-ramp-who-wins-and-how-does-it-play-out-battling-founder-mental-health-and-the-importance-of-secondaries-for-founders"
     },
     {
-      "title": "20VC: Why We Are in a Bubble & Now is Frothier Than 2021 | Why $1M ARR is a BS Milestone for Series A | Why Seed Pricing is Rational & Large Seed Rounds Have Less Risk | Why Many AI Apps Have BS Revenue & Are Not Sustainable with Saam Motamedi @ Greylock",
+      "title": "20VC: Why We Are in a Bubble &amp; Now is Frothier Than 2021 | Why $1M ARR is a BS Milestone for Series A | Why Seed Pricing is Rational &amp; Large Seed Rounds Have Less Risk | Why Many AI Apps Have BS Revenue &amp; Are Not Sustainable with Saam Motamedi @ Greylock",
       "published": "2024-07-15",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-we-are-in-a-bubble-now-is-frothier-than-2021-why-1m-arr-is-a-bs-milestone-for-series-a-why-seed-pricing-is-rational-large-seed-rounds-have-less-risk-why-many-ai-apps-have-bs-revenue-are-not-sustainable-with-saam-motamedi-greylock"
     },
@@ -1613,12 +1683,12 @@
       "url": "https://thetwentyminutevc.libsyn.com/20sales-biggest-lessons-scaling-hubspot-from-0-100m-in-arr-the-framework-for-how-startups-should-scale-into-the-enterprise-how-to-do-channel-partnerships-right-and-how-to-construct-sales-comp-plans-early-on-with-mark-roberge"
     },
     {
-      "title": "20VC: ServiceTitan Would Not Be the Success if We Raised VC Earlier: How to Build a Dominant Vertical SaaS Business, How to Master Going Into Enterprise, When & How to Launch Second Products with Ara Mahdessian, Co-Founder @ServiceTitan",
+      "title": "20VC: ServiceTitan Would Not Be the Success if We Raised VC Earlier: How to Build a Dominant Vertical SaaS Business, How to Master Going Into Enterprise, When &amp; How to Launch Second Products with Ara Mahdessian, Co-Founder @ServiceTitan",
       "published": "2024-07-10",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-servicetitan-the-7bn-company-that-did-not-want-to-raise-vc-funding-how-to-build-a-7bn-vertical-saas-business-how-to-master-going-into-enterprise-when-how-to-launch-second-products-with-ara-mahdessian-co-founder-servicetitan"
     },
     {
-      "title": "20VC: The Sequoia Investment Process | Investing Lessons from Doug Leone, Roelof Botha & Alfred Lin | Sequoia's Framework for Analysing Founders | The True Benefit of Having Sequoia on a Cap Table & Sequoia's Biggest Threat with Pat Grady",
+      "title": "20VC: The Sequoia Investment Process | Investing Lessons from Doug Leone, Roelof Botha &amp; Alfred Lin | Sequoia's Framework for Analysing Founders | The True Benefit of Having Sequoia on a Cap Table &amp; Sequoia's Biggest Threat with Pat Grady",
       "published": "2024-07-08",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-the-sequoia-investment-process-investing-lessons-from-doug-leone-roelof-botha-and-alfred-lin-sequoias-framework-for-analysing-founders-the-true-benefit-of-having-sequoia-on-a-cap-table-sequoias-biggest-threat-with-pat-grady"
     },
@@ -1628,7 +1698,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-turning-a-15m-investment-in-monday-into-15bn-in-cash-the-strategy-behind-a-37x-dpi-45m-fund-the-three-step-process-to-selling-positions-that-has-netted-top-percentile-returns-with-avi-eyal-co-founder-entre-capital"
     },
     {
-      "title": "20VC: LLMs Are Reaching a Stage of Diminishing Returns: What is the Next S Curve | The Bull & Bear Case for China's Ability to Challenge the US' AI Capabilities | How AI Changes the Future of War & How Agents Will Reshape Society with Matt Clifford @ EF",
+      "title": "20VC: LLMs Are Reaching a Stage of Diminishing Returns: What is the Next S Curve | The Bull &amp; Bear Case for China's Ability to Challenge the US' AI Capabilities | How AI Changes the Future of War &amp; How Agents Will Reshape Society with Matt Clifford @ EF",
       "published": "2024-07-01",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-llms-are-reaching-a-stage-of-diminishing-returns-what-is-the-next-s-curve-the-bull-bear-case-for-chinas-ability-to-challenge-the-us-ai-capabilities-how-ai-changes-the-future-of-war-how-agents-will-reshape-society-with-matt-clifford-ef"
     },
@@ -1638,27 +1708,27 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-raising-126m-across-3-rounds-in-just-6-months-being-the-youngest-founder-of-a-unicorn-company-but-everything-was-not-as-it-seemed-the-real-story-of-vise-the-regrets-mistakes-and-mis-hires-with-vises-samir-vasavada"
     },
     {
-      "title": "20VC: Klaviyo's Andrew Bialecki on Going Public in an IPO Winter, Is Klaviyo Under-Priced in Public Markets and Why, Why Every VC Turned Klaviyo Down in the Early Days & How Shopify's Partnership Changed the Game",
+      "title": "20VC: Klaviyo's Andrew Bialecki on Going Public in an IPO Winter, Is Klaviyo Under-Priced in Public Markets and Why, Why Every VC Turned Klaviyo Down in the Early Days &amp; How Shopify's Partnership Changed the Game",
       "published": "2024-06-26",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-klaviyos-andrew-bialecki-on-going-public-in-an-ipo-winter-is-klaviyo-under-priced-in-public-markets-and-why-why-every-vc-turned-klaviyo-down-in-the-early-days-how-shopifys-partnership-changed-the-game"
     },
     {
-      "title": "20VC: Why Foundation Model Performance is Not Diminishing But Models Are Commoditising, Why Nvidia Will Enter the Model Space and Models Will Enter the Chip Space & The Right Business Model for AI Software with David Luan, Co-Founder @ Adept",
+      "title": "20VC: Why Foundation Model Performance is Not Diminishing But Models Are Commoditising, Why Nvidia Will Enter the Model Space and Models Will Enter the Chip Space &amp; The Right Business Model for AI Software with David Luan, Co-Founder @ Adept",
       "published": "2024-06-24",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-why-foundation-model-performance-is-not-diminishing-but-models-are-commoditising-why-nvidia-will-enter-the-model-space-and-models-will-enter-the-chip-space-the-right-business-model-for-ai-software-with-david-luan-co-founder-adept"
     },
     {
-      "title": "20Growth: How Revolut Acquired Their First 10M Users: Tips, Tactics and Strategies From the Revolut Product & Growth Playbook with Val Scholz, Former Head of Growth @ Revolut",
+      "title": "20Growth: How Revolut Acquired Their First 10M Users: Tips, Tactics and Strategies From the Revolut Product &amp; Growth Playbook with Val Scholz, Former Head of Growth @ Revolut",
       "published": "2024-06-21",
       "url": "https://thetwentyminutevc.libsyn.com/20growth-how-revolut-acquired-their-first-10m-users-tips-tactics-and-strategies-from-the-revolut-product-growth-playbook-with-val-scholz-former-head-of-growth-revolut"
     },
     {
-      "title": "20VC: Foundation Models are the Fastest Depreciating Asset in History, Lina Kahn is a Threat to American Capitalism, PE is Not Coming to Save the M&A Market & How China Could Overtake the US in the AI Race with Michael Eisenberg",
+      "title": "20VC: Foundation Models are the Fastest Depreciating Asset in History, Lina Kahn is a Threat to American Capitalism, PE is Not Coming to Save the M&amp;A Market &amp; How China Could Overtake the US in the AI Race with Michael Eisenberg",
       "published": "2024-06-19",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-foundation-models-are-the-fastest-depreciating-asset-in-history-lina-kahn-is-a-threat-to-american-capitalism-pe-is-not-coming-to-save-the-ma-market-how-china-could-overtake-the-us-in-the-ai-race-with-michael-eisenberg"
     },
     {
-      "title": "20VC: Index's Danny Rimer on Investing Lessons from Hits like Figma, Discord and Etsy to Missing Snapchat, Airbnb, Facebook & Spotify | Why Valuation is a Trap and Market Sizing, Signalling and Sector/Geo-Specific Funds are all Noise",
+      "title": "20VC: Index's Danny Rimer on Investing Lessons from Hits like Figma, Discord and Etsy to Missing Snapchat, Airbnb, Facebook &amp; Spotify | Why Valuation is a Trap and Market Sizing, Signalling and Sector/Geo-Specific Funds are all Noise",
       "published": "2024-06-17",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-indexs-danny-rimer-on-investing-lessons-from-hits-like-figma-discord-and-etsy-to-missing-snapchat-airbnb-facebook-spotify-why-valuation-is-a-trap-and-market-sizing-signalling-and-sectorgeo-specific-funds-are-all-noise"
     },
@@ -1673,17 +1743,17 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-scales-alex-wang-on-why-data-not-compute-is-the-bottleneck-to-foundation-model-performance-why-ai-is-the-greatest-military-asset-ever-is-china-really-two-years-behind-the-us-in-ai-and-why-the-ccps-industrial-approach-is-better-than-anyone-elses"
     },
     {
-      "title": "20VC: Reid Hoffman on Foundation Models: Who Wins & How Do Incumbents Respond | The Inflection AI Deal: How it Went Down | Why Trump is a Threat to Democracy | The Future of TikTok | Lessons from Sam Altman, Brian Chesky and the OpenAI Board",
+      "title": "20VC: Reid Hoffman on Foundation Models: Who Wins &amp; How Do Incumbents Respond | The Inflection AI Deal: How it Went Down | Why Trump is a Threat to Democracy | The Future of TikTok | Lessons from Sam Altman, Brian Chesky and the OpenAI Board",
       "published": "2024-06-10",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-reid-hoffman-on-foundation-models-who-wins-how-do-incumbents-respond-the-inflection-ai-deal-how-it-went-down-why-trump-is-a-threat-to-democracy-the-future-of-tiktok-lessons-from-sam-altman-brian-chesky-and-the-openai-board"
     },
     {
-      "title": "20Sales: How Rippling Built Their Sales Machine: How to Hire, Train and Manage the Best SDRs, What is the Right Comp Package for Sales Teams & The Playbook to Start and Scale Your SDR Team",
+      "title": "20Sales: How Rippling Built Their Sales Machine: How to Hire, Train and Manage the Best SDRs, What is the Right Comp Package for Sales Teams &amp; The Playbook to Start and Scale Your SDR Team",
       "published": "2024-06-07",
       "url": "https://thetwentyminutevc.libsyn.com/20sales-how-rippling-built-their-sales-machine-how-to-hire-train-and-manage-the-best-sdrs-what-is-the-right-comp-package-for-sales-teams-the-playbook-to-start-and-scale-your-sdr-team"
     },
     {
-      "title": "20VC: Perplexity's Aravind Srinivas on Will Foundation Models Commoditise, Diminishing Returns in Model Performance, OpenAI vs Anthropic: Who Wins & Why the Next Breakthrough in Model Performance will be in Reasoning",
+      "title": "20VC: Perplexity's Aravind Srinivas on Will Foundation Models Commoditise, Diminishing Returns in Model Performance, OpenAI vs Anthropic: Who Wins &amp; Why the Next Breakthrough in Model Performance will be in Reasoning",
       "published": "2024-06-05",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-perplexitys-aravind-srinivas-on-will-foundation-models-commoditise-diminishing-returns-in-model-performance-openai-vs-anthropic-who-wins-why-the-next-breakthrough-in-model-performance-will-be-in-reasoning"
     },
@@ -1723,17 +1793,17 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-palo-alto-networks-ceo-nikesh-arora-on-how-to-create-and-sustain-competitive-advantage-and-defensibility-what-makes-masa-son-a-genius-investor-of-our-time-how-the-best-leaders-communicate-and-delegate"
     },
     {
-      "title": "20Product: How Linktree, Webflow and Airbnb Used Rituals and Product Principals to Guide Product Roadmap, Why All Product Teams Should Have a Scorecard and How to Use it & How to Run the Best \"Product Jams\" with JZ, CPO @ Linktree",
+      "title": "20Product: How Linktree, Webflow and Airbnb Used Rituals and Product Principals to Guide Product Roadmap, Why All Product Teams Should Have a Scorecard and How to Use it &amp; How to Run the Best \"Product Jams\" with JZ, CPO @ Linktree",
       "published": "2024-05-17",
       "url": "https://thetwentyminutevc.libsyn.com/20product-how-linktree-webflow-and-airbnb-used-rituals-and-product-principals-to-guide-product-roadmap-why-all-product-teams-should-have-a-scorecard-and-how-to-use-it-how-to-run-the-best-product-jams-with-jz-cpo-linktree"
     },
     {
-      "title": "20VC: Fundraising Wisdom that is Total BS; Dilution, Meeting Associates, Taking the Highest Price, Always Be Raising | Why Second Time Founders Are More Investable & Why Not To Hire People Out of College with Dan Siroker, CEO @ Limitless",
+      "title": "20VC: Fundraising Wisdom that is Total BS; Dilution, Meeting Associates, Taking the Highest Price, Always Be Raising | Why Second Time Founders Are More Investable &amp; Why Not To Hire People Out of College with Dan Siroker, CEO @ Limitless",
       "published": "2024-05-15",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-fundraising-wisdom-that-is-total-bs-dilution-meeting-associates-taking-the-highest-price-always-be-raising-why-second-time-founders-are-more-investable-why-not-to-hire-people-out-of-college-with-dan-siroker-ceo-limitless"
     },
     {
-      "title": "20VC: Behind the Scenes at Y Combinator: The Interview Process | What the Best & Worst Do in the Program | Do the Best All Raise Pre-Demo Day & YC's Fundraising Advice to Startups | Why the Value is in Application Layer AI with Tom Blomfield",
+      "title": "20VC: Behind the Scenes at Y Combinator: The Interview Process | What the Best &amp; Worst Do in the Program | Do the Best All Raise Pre-Demo Day &amp; YC's Fundraising Advice to Startups | Why the Value is in Application Layer AI with Tom Blomfield",
       "published": "2024-05-13",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-behind-the-scenes-at-y-combinator-the-interview-process-what-the-best-worst-do-in-the-program-do-the-best-all-raise-pre-demo-day-ycs-fundraising-advice-to-startups-why-the-value-is-in-application-layer-ai-with-tom-blomfield"
     },
@@ -1743,7 +1813,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20sales-how-to-build-vertical-sales-teams-why-no-customer-success-is-bs-and-everyone-needs-it-how-to-hire-train-and-retain-the-first-reps-and-lessons-scaling-to-21bn-revenue-and-1300-people-with-larry-schurtz-cro-genesys"
     },
     {
-      "title": "20VC: GV's Tom Hulme on Why Investing in Foundation Models is like Investing in \"Power Stations\", The Conventional Wisdom in VC that is BS & Lessons from a 24x Angel Track Record, 255x on Robinhood and Making Billions on Uber",
+      "title": "20VC: GV's Tom Hulme on Why Investing in Foundation Models is like Investing in \"Power Stations\", The Conventional Wisdom in VC that is BS &amp; Lessons from a 24x Angel Track Record, 255x on Robinhood and Making Billions on Uber",
       "published": "2024-05-08",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-gvs-tom-hulme-on-why-investing-in-foundation-models-is-like-investing-in-power-stations-the-conventional-wisdom-in-vc-that-is-bs-lessons-from-a-24x-angel-track-record-255x-on-robinhood-and-making-billions-on-uber"
     },
@@ -1758,7 +1828,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-the-memo-keith-rabois-and-ramps-eric-glyman-on-behind-the-scenes-at-the-best-run-private-company-on-the-planet-the-tools-tips-secrets-and-process-that-drive-efficiency"
     },
     {
-      "title": "20VC: Mark Suster on The Biggest Fundraising Lessons for VCs, Why the Correction in Venture is Still to Come, Why Private Equity Will Replace IPOs and M&A as the Exit Path & The Woke Left and a Trump Administration; What Happens?",
+      "title": "20VC: Mark Suster on The Biggest Fundraising Lessons for VCs, Why the Correction in Venture is Still to Come, Why Private Equity Will Replace IPOs and M&amp;A as the Exit Path &amp; The Woke Left and a Trump Administration; What Happens?",
       "published": "2024-05-01",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-mark-suster-on-the-biggest-fundraising-lessons-for-vcs-why-the-correction-in-venture-is-still-to-come-why-private-equity-will-replace-ipos-and-ma-as-the-exit-path-the-woke-left-and-a-trump-administration-what-happens"
     },
@@ -1768,7 +1838,7 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-mistrals-arthur-mensch-are-foundation-models-commoditising-how-do-we-solve-the-problem-of-compute-is-there-value-in-the-application-layer-open-vs-closed-who-wins-and-mistrals-position"
     },
     {
-      "title": "20Growth: Inside Dropbox, Salesforce & Heroku's Product-Led Growth Engine; What Works & What Doesn't | Why Startups Doing Paid Under $100M ARR are not PLG | Why PLG is a Business Model, Not a Go-To-Market Motion with Adam Gross, Former CEO @ Vimeo",
+      "title": "20Growth: Inside Dropbox, Salesforce &amp; Heroku's Product-Led Growth Engine; What Works &amp; What Doesn't | Why Startups Doing Paid Under $100M ARR are not PLG | Why PLG is a Business Model, Not a Go-To-Market Motion with Adam Gross, Former CEO @ Vimeo",
       "published": "2024-04-26",
       "url": "https://thetwentyminutevc.libsyn.com/20growth-inside-dropbox-salesforce-herokus-product-led-growth-engine-what-works-what-doesnt-why-startups-doing-paid-under-100m-arr-are-not-plg-why-plg-is-a-business-model-not-a-go-to-market-motion-with-adam-gross-former-ceo-vimeo"
     },
@@ -1798,17 +1868,17 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-openais-sam-altman-and-brad-lightcap-on-the-future-of-foundation-models-will-they-be-commoditised-how-to-solve-the-problem-of-compute-open-vs-closed-which-dominates-and-why-which-companies-and-verticals-will-be-steamrolled-by-openai"
     },
     {
-      "title": "20Sales: The Biggest Sales Lessons Scaling Brex to $400M ARR, Why Startups are Doing Outbound Wrong and How to Fix It & Why Demand Gen is the Bottleneck for all Startups and How to Solve it with Sam Blond, Former CRO @ Brex",
+      "title": "20Sales: The Biggest Sales Lessons Scaling Brex to $400M ARR, Why Startups are Doing Outbound Wrong and How to Fix It &amp; Why Demand Gen is the Bottleneck for all Startups and How to Solve it with Sam Blond, Former CRO @ Brex",
       "published": "2024-04-12",
       "url": "https://thetwentyminutevc.libsyn.com/20sales-the-biggest-sales-lessons-scaling-brex-to-400m-arr-why-startups-are-doing-outbound-wrong-and-how-to-fix-it-why-demand-gen-is-the-bottleneck-for-all-startups-and-how-to-solve-it-with-sam-blond-former-cro-brex"
     },
     {
-      "title": "20VC: Are the Best CEOs the Best Fundraisers, Are the Best Founders Insiders or Outsiders to a Problem, Why Ownership Should Not Be a Focus in VC & The Biggest Lessons Scaling MongoDB to $26BN Market Cap with Kevin Ryan, Founder @ AlleyCorp",
+      "title": "20VC: Are the Best CEOs the Best Fundraisers, Are the Best Founders Insiders or Outsiders to a Problem, Why Ownership Should Not Be a Focus in VC &amp; The Biggest Lessons Scaling MongoDB to $26BN Market Cap with Kevin Ryan, Founder @ AlleyCorp",
       "published": "2024-04-10",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-are-the-best-ceos-the-best-fundraisers-are-the-best-founders-insiders-or-outsiders-to-a-problem-why-ownership-should-not-be-a-focus-in-vc-the-biggest-lessons-scaling-mongodb-to-26bn-market-cap-with-kevin-ryan-founder-alleycorp"
     },
     {
-      "title": "20VC: Postmates Founder Basti Lehmann on How the Uber Deal Went Down and How a $2.65BN Deal Turned into $5BN, Why Great VCs Add No Value and VC Value Add is BS Marketing & Why The Biggest Companies in History Will be Born Today and Replace Incumbents",
+      "title": "20VC: Postmates Founder Basti Lehmann on How the Uber Deal Went Down and How a $2.65BN Deal Turned into $5BN, Why Great VCs Add No Value and VC Value Add is BS Marketing &amp; Why The Biggest Companies in History Will be Born Today and Replace Incumbents",
       "published": "2024-04-08",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-postmates-founder-basti-lehmann-on-how-the-uber-deal-went-down-and-how-a-265bn-deal-turned-into-5bn-why-great-vcs-add-no-value-and-vc-value-add-is-bs-marketing-why-the-biggest-companies-in-history-will-be-born-today-and-replace-incumbents"
     },
@@ -1828,12 +1898,12 @@
       "url": "https://thetwentyminutevc.libsyn.com/20vc-the-memo-the-23bn-company-you-have-not-heard-of-tradeweb-the-story-of-27-years-of-compounding-growth-leading-to-the-market-leader-with-14bn-in-revenue-and-50-ebitda-margins"
     },
     {
-      "title": "20VC: a16z's Chris Dixon on Who Will Win the Next Generation of Venture, The Two Ways to Make Great Venture Investments and Find the Best Entrepreneurs & Why AI Will Strengthen the Position of the Incumbents Moving Forward",
+      "title": "20VC: a16z's Chris Dixon on Who Will Win the Next Generation of Venture, The Two Ways to Make Great Venture Investments and Find the Best Entrepreneurs &amp; Why AI Will Strengthen the Position of the Incumbents Moving Forward",
       "published": "2024-03-27",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-a16zs-chris-dixon-on-who-will-win-the-next-generation-of-venture-the-two-ways-to-make-great-venture-investments-and-find-the-best-entrepreneurs-why-ai-will-strengthen-the-position-of-the-incumbents-moving-forward"
     },
     {
-      "title": "20VC: Lessons from 32 Years of Fund Investing | Why Exits Will Be Larger & Funds Sizes Bigger | Top Reasons to Turn Down Potential Fund Investments | Fees, Carry, Deployment Pace; What Do LPs Inspect When Fund Investing with David Clark, CIO @ Vencap",
+      "title": "20VC: Lessons from 32 Years of Fund Investing | Why Exits Will Be Larger &amp; Funds Sizes Bigger | Top Reasons to Turn Down Potential Fund Investments | Fees, Carry, Deployment Pace; What Do LPs Inspect When Fund Investing with David Clark, CIO @ Vencap",
       "published": "2024-03-25",
       "url": "https://thetwentyminutevc.libsyn.com/20vc-lessons-from-32-years-of-fund-investing-why-exits-will-be-larger-funds-sizes-bigger-top-reasons-to-turn-down-potential-fund-investments-fees-carry-deployment-pace-what-do-lps-inspect-when-fund-investing-with-david-clark-cio-vencap"
     },
