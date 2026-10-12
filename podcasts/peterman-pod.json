@@ -5,8 +5,33 @@
   "feedUrl": "https://anchor.fm/s/106346b90/podcast/rss",
   "homeUrl": "https://www.developing.dev",
   "canonicalPattern": "https://www.developing.dev/p/<slug>",
-  "episodeCount": 65,
+  "episodeCount": 70,
   "episodes": [
+    {
+      "title": "Neetcode: Google vs Amazon, Programming Interviews, Quitting Big Tech",
+      "published": "2026-10-05",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Neetcode-Google-vs-Amazon--Programming-Interviews--Quitting-Big-Tech-e3ojohe"
+    },
+    {
+      "title": "Amazon VP: Questions On Corporate Politics But They Get Increasingly Darker | Ethan Evans",
+      "published": "2026-09-28",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Amazon-VP-Questions-On-Corporate-Politics-But-They-Get-Increasingly-Darker--Ethan-Evans-e3pfj67"
+    },
+    {
+      "title": "OpenAI & Meta Distinguished Eng (IC9): The Psychology Behind Tech Career Peaks | Philip Su",
+      "published": "2026-09-21",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/OpenAI--Meta-Distinguished-Eng-IC9-The-Psychology-Behind-Tech-Career-Peaks--Philip-Su-e3os0mi"
+    },
+    {
+      "title": "Casey Muratori: Surprises In Computer History And Where Bad Code Comes From",
+      "published": "2026-09-14",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Casey-Muratori-Surprises-In-Computer-History-And-Where-Bad-Code-Comes-From-e3oqb4p"
+    },
+    {
+      "title": "How Anthropic Builds And How Engineering Will Change Soon | Thariq Shihipar",
+      "published": "2026-09-07",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/How-Anthropic-Builds-And-How-Engineering-Will-Change-Soon--Thariq-Shihipar-e3oemvn"
+    },
     {
       "title": "Creator of Scala: Comparing Languages And How AI Will Impact Them | Martin Odersky",
       "published": "2026-08-31",
