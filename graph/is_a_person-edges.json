@@ -1029,6 +1029,11 @@
       "source": "FED8FA1A-BECE-4209-993B-4FAF759631E7",
       "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
       "type": "Is_a_Person"
+    },
+    {
+      "source": "52533F8A-9757-4993-99C0-681BC0FA9E93",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
     }
   ]
 }

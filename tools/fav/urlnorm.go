@@ -19,7 +19,8 @@ var trackingParams = map[string]bool{
 // e.g. web.archive.org/web/20260820031453/https://example.com/x -> the inner
 // URL. Non-Wayback URLs are returned unchanged.
 func unwrapWayback(raw string) string {
-	u, err := url.Parse(strings.TrimSpace(raw))
+	s := strings.TrimSpace(raw)
+	u, err := url.Parse(s)
 	if err != nil {
 		return raw
 	}
@@ -27,11 +28,30 @@ func unwrapWayback(raw string) string {
 	if host != "web.archive.org" && host != "archive.org" {
 		return raw
 	}
-	parts := strings.SplitN(strings.TrimPrefix(u.Path, "/"), "/", 3)
-	if len(parts) != 3 || parts[0] != "web" {
+	// Split the raw string at the start of the path rather than using u.Path:
+	// url.Parse routes the captured page's own "?query" into the outer URL's
+	// RawQuery, so splitting u.Path would silently drop it (a captured
+	// youtube.com/watch?v=ID would lose the video id, collapsing every
+	// Wayback-captured YouTube video to the same normalized key).
+	rest := s
+	if i := strings.Index(s, "://"); i >= 0 {
+		rest = s[i+3:]
+	} else if strings.HasPrefix(s, "//") {
+		rest = s[2:]
+	}
+	slash := strings.Index(rest, "/")
+	if slash < 0 {
 		return raw
 	}
-	ts := strings.TrimRight(parts[1], "abcdefghijklmnopqrstuvwxyz_")
+	path := rest[slash:]
+	if !strings.HasPrefix(path, "/web/") {
+		return raw
+	}
+	parts := strings.SplitN(path[len("/web/"):], "/", 2)
+	if len(parts) != 2 {
+		return raw
+	}
+	ts := strings.TrimRight(parts[0], "abcdefghijklmnopqrstuvwxyz_")
 	if ts == "" {
 		return raw
 	}
@@ -40,7 +60,7 @@ func unwrapWayback(raw string) string {
 			return raw
 		}
 	}
-	inner := parts[2]
+	inner := parts[1]
 	if !strings.HasPrefix(inner, "http://") && !strings.HasPrefix(inner, "https://") {
 		inner = "https://" + inner
 	}
