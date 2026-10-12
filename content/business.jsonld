@@ -828,6 +828,20 @@
         "Tim Harford",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Bloomberg Odd Lots: Why Treasuries Became Risky Again",
+      "url": "https://www.bloomberg.com/news/audio/2026-10-05/odd-lots-why-treasuries-became-risky-again-podcast",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/odd-lots/id1056200096?i=1000793205106",
+      "datePublished": "2026-10-05",
+      "keywords": [
+        "Business",
+        "Economics",
+        "Investing",
+        "Carolin Pflueger",
+        "Podcast"
+      ]
     }
   ]
 }

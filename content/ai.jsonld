@@ -893,6 +893,48 @@
         "MetLife",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The MAD Podcast: How to Build a Beloved AI Product - Granola CEO Chris Pedregal",
+      "url": "https://podcasts.apple.com/us/podcast/the-mad-podcast-how-ai-gets-built-with-matt-turck/id1722339764?i=1000722943798",
+      "archivedAt": "https://open.spotify.com/episode/4ld6ubPunW0mxrrJZsMVrG",
+      "datePublished": "2025-08-21",
+      "keywords": [
+        "AI",
+        "Startup",
+        "Product",
+        "Granola",
+        "Chris Pedregal",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Latent Space: Jev - System One models for prod, not God (Diogo Almeida, TypeSafe AI)",
+      "url": "https://www.latent.space/p/jev",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/latent-space-the-ai-engineer-podcast/id1674008350?i=1000791005427",
+      "datePublished": "2026-09-21",
+      "keywords": [
+        "AI",
+        "LLM",
+        "TypeSafe AI",
+        "Diogo Almeida",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Winchester Mystery House Problem in AI Development",
+      "url": "https://home.mlops.community/public/videos/the-winchester-mystery-house-problem-in-ai-development",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/agentic-conversations-formally-mlops-community/id1505372978?i=1000785551986",
+      "datePublished": "2026-08-24",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Agents",
+        "Podcast"
+      ]
     }
   ]
 }

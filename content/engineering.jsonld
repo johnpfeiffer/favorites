@@ -2452,6 +2452,19 @@
         "Matthew Lee",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: How Kent Beck shapes the software engineering industry",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-kent-beck-shapes-the-software",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000775036869",
+      "datePublished": "2026-07-01",
+      "keywords": [
+        "Engineering",
+        "Agile",
+        "Kent Beck",
+        "Podcast"
+      ]
     }
   ]
 }
