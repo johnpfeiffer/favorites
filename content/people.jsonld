@@ -4295,6 +4295,20 @@
         "Saumya Bhatnagar",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Peterman Pod: Questions on Corporate Politics But They Get Increasingly Darker (Ethan Evans)",
+      "url": "https://www.developing.dev/p/e068-ethan-evans",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835?i=1000792004886",
+      "datePublished": "2026-09-28",
+      "keywords": [
+        "People",
+        "Career Development",
+        "Amazon",
+        "Ethan Evans",
+        "Podcast"
+      ]
     }
   ]
 }
