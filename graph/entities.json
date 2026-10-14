@@ -1527,6 +1527,534 @@
     {
       "id": "ABF87056-80F0-44D6-ACEC-D077031B641D",
       "name": "Company"
+    },
+    {
+      "id": "2EF14A4B-DF10-458A-BB00-68D520E18169",
+      "name": "Adrian Cockcroft"
+    },
+    {
+      "id": "3476056E-F70B-4342-B58F-C5ECD64011C2",
+      "name": "Alex Atallah"
+    },
+    {
+      "id": "881E0311-CC52-487E-8C86-1D2C8DEB58B2",
+      "name": "Alex Danco"
+    },
+    {
+      "id": "DDC1DE27-EA44-4467-ADD9-94D2637FF635",
+      "name": "Andrew Ng"
+    },
+    {
+      "id": "C8C6DDA3-C5CE-4952-934E-ED6246C0DBB7",
+      "name": "Anjney Midha"
+    },
+    {
+      "id": "7AB9D612-D1A7-4DD2-9B35-71848F222452",
+      "name": "Armin Ronacher"
+    },
+    {
+      "id": "EF8797AE-D5D5-49CE-A042-E4137CD3AC6F",
+      "name": "Barbara Liskov"
+    },
+    {
+      "id": "B52F4A93-0D35-4CF8-AB7F-C3093D6C0B73",
+      "name": "Brad Feld"
+    },
+    {
+      "id": "97EE350D-1938-4444-BD4A-29399E8449D9",
+      "name": "Butler Lampson"
+    },
+    {
+      "id": "5A56D07F-2513-4344-8F8F-20DAD5AD1C41",
+      "name": "Cal Newport"
+    },
+    {
+      "id": "E982B4F3-D1A4-46F2-8C25-551540A90528",
+      "name": "Carolin Pflueger"
+    },
+    {
+      "id": "AA56CE76-AFCA-4D54-AE2A-FDF346EDB761",
+      "name": "Casey Muratori"
+    },
+    {
+      "id": "69CEEC4E-1F89-41F8-89E3-F8A4F465A5DC",
+      "name": "Charity Majors"
+    },
+    {
+      "id": "56E5F9DF-3FC8-4243-91E3-6FBAC755DD41",
+      "name": "Charles Humble"
+    },
+    {
+      "id": "70C5A9EA-57B1-4D8E-BA69-2AFE0E9FB1AC",
+      "name": "Charlie Munger"
+    },
+    {
+      "id": "89B2C5EB-40E9-4C6B-B387-BBC9B71CE6B3",
+      "name": "Robert Cialdini"
+    },
+    {
+      "id": "640B7982-8C47-4033-86B8-21847FCE08EB",
+      "name": "Claude Shannon"
+    },
+    {
+      "id": "8AFA2F8C-ECFD-4A8B-8FBC-EF6338203D16",
+      "name": "Daniel Terhorst-North"
+    },
+    {
+      "id": "16536C17-2335-46CF-90C2-CA2462E716FC",
+      "name": "W. Edwards Deming"
+    },
+    {
+      "id": "BEFF5FD9-8B19-41FC-849D-6275B6B98F6F",
+      "name": "Diogo Almeida"
+    },
+    {
+      "id": "34B2BED5-C3E1-4B11-BF10-12B93BC06C8A",
+      "name": "Ebi Atawodi"
+    },
+    {
+      "id": "E58F503D-7D7F-4946-91CB-90D4DAB81513",
+      "name": "Edwin Armstrong"
+    },
+    {
+      "id": "5E5050EF-B2C1-476D-B5E9-6AFF8134ACD0",
+      "name": "Eric Evans"
+    },
+    {
+      "id": "63B44651-C64C-4E2B-BC2C-4715BE039C79",
+      "name": "Flavia Saldanha"
+    },
+    {
+      "id": "D1C4DF7F-4029-4E51-B8BF-042E426EA316",
+      "name": "Fred Wilson"
+    },
+    {
+      "id": "B6D4EA7F-4C99-4E9A-BD7B-F2AF308FC1B2",
+      "name": "Grady Booch"
+    },
+    {
+      "id": "72021FF3-3C59-42D9-B409-7EE07176E971",
+      "name": "James Barney"
+    },
+    {
+      "id": "917D163D-4231-4120-BBC9-38B7CB16F3F4",
+      "name": "James Cowling"
+    },
+    {
+      "id": "59BAEB5F-5148-4595-B234-DA9E3750A727",
+      "name": "Jason Gorman"
+    },
+    {
+      "id": "EEC65196-0DE1-4462-8EA1-9F7CE7510CA6",
+      "name": "Jeremy Franzen"
+    },
+    {
+      "id": "9349A892-36E4-4B71-ABD7-23A73F5B9E7A",
+      "name": "Jerry Neumann"
+    },
+    {
+      "id": "59003B89-38C4-424B-A10B-9A42053F86E8",
+      "name": "Jez Humble"
+    },
+    {
+      "id": "56F89604-3D5A-4FE6-93DB-937CA61FC878",
+      "name": "Joel Spolsky"
+    },
+    {
+      "id": "5E055621-8B76-417B-A170-E1780ECC8C41",
+      "name": "Andrej Karpathy"
+    },
+    {
+      "id": "29263ABC-ABA8-4F6F-888D-B98181A3FEA1",
+      "name": "Kate Matsudaira"
+    },
+    {
+      "id": "2F758C0D-A37C-4373-97E2-6B0783BC7BA1",
+      "name": "Kathryn Buckley"
+    },
+    {
+      "id": "33D83153-E763-4DB0-8EAF-A209AEC7D7DC",
+      "name": "Keith Rabois"
+    },
+    {
+      "id": "9360F1AC-8E5D-46E0-93F3-2570A3820D62",
+      "name": "Kimber Lockhart"
+    },
+    {
+      "id": "1495A4A8-75B4-4403-AB23-518E48E406B2",
+      "name": "Kyle Kingsbury"
+    },
+    {
+      "id": "F8B6B664-0B12-4E12-9A18-A9DDCB9E48E8",
+      "name": "L. Peter Deutsch"
+    },
+    {
+      "id": "631AF1D3-A1FD-4F4F-9172-15711A2C75AF",
+      "name": "Lee Robinson"
+    },
+    {
+      "id": "C3D7130E-15B5-4F18-9692-131FD3BE96C8",
+      "name": "Leslie Lamport"
+    },
+    {
+      "id": "D38A7360-E436-4622-8F16-C3393D9127A5",
+      "name": "Mario Zechner"
+    },
+    {
+      "id": "6F2FE432-432C-4AAD-B323-5DA504796C8D",
+      "name": "Mark Suster"
+    },
+    {
+      "id": "BB53954A-4B81-42CB-BA32-4ED945916C5A",
+      "name": "Martin Fowler"
+    },
+    {
+      "id": "13F7199A-C432-48B1-AF96-A35FEA048623",
+      "name": "Megan Kacholia"
+    },
+    {
+      "id": "DB0C4EF6-CC90-4759-9910-87F00E424543",
+      "name": "Michael Feathers"
+    },
+    {
+      "id": "251B4149-E560-4637-A2D6-85B0CB0A05BB",
+      "name": "Michael Novati"
+    },
+    {
+      "id": "488CBF33-F363-486F-B9F9-6CC7DD5AC651",
+      "name": "Mike Stonebraker"
+    },
+    {
+      "id": "3C9A64FA-BBE6-49F8-9B42-F77F70F81B2E",
+      "name": "Nicole Forsgren"
+    },
+    {
+      "id": "9BA26B66-C11E-4378-8230-A0EFD0F181F9",
+      "name": "Patrick McKenzie"
+    },
+    {
+      "id": "D460A2F0-8125-4AAF-A9AE-662A66C1D8ED",
+      "name": "Rob Pike"
+    },
+    {
+      "id": "3A821F39-4478-453C-BF7E-BECF6F26140D",
+      "name": "Sam Newman"
+    },
+    {
+      "id": "753A6AA6-C9F6-4073-8A11-9E1C3DC8BCF9",
+      "name": "Sarah Guo"
+    },
+    {
+      "id": "F35508E1-2B59-454B-AD1D-40B5BFCD121F",
+      "name": "Saumya Bhatnagar"
+    },
+    {
+      "id": "BEE485D9-6FBA-4140-A688-C5C4E53B2360",
+      "name": "Seth Godin"
+    },
+    {
+      "id": "46DC76C8-4286-4E45-A971-95A03EC1E68C",
+      "name": "Shadi Rostami"
+    },
+    {
+      "id": "113D769D-D298-4B6B-A5A1-1B7672BAA22C",
+      "name": "Shaun Clowes"
+    },
+    {
+      "id": "E2E4962F-B6B5-4197-91FE-B3BB12951995",
+      "name": "Shreyas Doshi"
+    },
+    {
+      "id": "09310542-A872-4DA1-BD2C-96861197EE1E",
+      "name": "Simon Sinek"
+    },
+    {
+      "id": "98EE8A36-D8AB-4A00-B847-28FBBA02F14F",
+      "name": "Steve Randy Waldman"
+    },
+    {
+      "id": "F8ED7779-096E-4977-AF33-49ED62BA972A",
+      "name": "Steven Rogelberg"
+    },
+    {
+      "id": "33067536-4D88-44F6-9ABC-1B8309351F8D",
+      "name": "Tanya Janca"
+    },
+    {
+      "id": "B99510F7-4E40-4835-806A-A167338F45EF",
+      "name": "Temple Grandin"
+    },
+    {
+      "id": "0AB9B17C-73D4-45A8-987D-63AA20E3A3DA",
+      "name": "Thiago Ghisi"
+    },
+    {
+      "id": "F1501904-AAF4-4A5E-B205-A91BD754CF53",
+      "name": "Tony Hoare"
+    },
+    {
+      "id": "0A26045C-0153-4EA4-AC57-6AE257775C5E",
+      "name": "Vlad Khononov"
+    },
+    {
+      "id": "0D6BEFC7-7E88-4B41-AAE8-71E7D0E3FC6E",
+      "name": "Wes Kao"
+    },
+    {
+      "id": "A1D00901-E524-4875-A882-F83A092B6F49",
+      "name": "Yaser Abu-Mostafa"
+    },
+    {
+      "id": "7B4C989A-4854-41C8-B32C-A0964BDD38DA",
+      "name": "Gene Kim"
+    },
+    {
+      "id": "8E87EA4C-16AE-4F41-B957-980B1BD384E0",
+      "name": "Sun Microsystems"
+    },
+    {
+      "id": "37A9C0EC-C833-42B1-8B64-689FBC9A9DC2",
+      "name": "Battery Ventures"
+    },
+    {
+      "id": "424DC3BC-463A-401C-B259-D51F3BED64C7",
+      "name": "OpenRouter"
+    },
+    {
+      "id": "AF0ADFBA-2883-49CB-A81D-3F55D8109913",
+      "name": "OpenSea"
+    },
+    {
+      "id": "3473D316-CB46-4B70-8E7B-35D8456317B3",
+      "name": "Ubiquity6"
+    },
+    {
+      "id": "B4BB1663-C12C-4D1D-B75D-B82C770DBD58",
+      "name": "Coursera"
+    },
+    {
+      "id": "634D61CD-AC8C-464C-870B-A3DC98D2907E",
+      "name": "DeepLearning.AI"
+    },
+    {
+      "id": "2F4AF41F-A642-4E04-A597-8B051AE39D35",
+      "name": "Landing AI"
+    },
+    {
+      "id": "421F96EA-2E54-441E-95A6-85520A86B15E",
+      "name": "Baidu"
+    },
+    {
+      "id": "646F229F-CBEA-43CA-94B8-2AFA87654CC5",
+      "name": "OpenAI"
+    },
+    {
+      "id": "D7D827D0-05DF-4D28-A6BE-1B3D70BC7013",
+      "name": "Eureka Labs"
+    },
+    {
+      "id": "0D577790-1F01-41CE-9099-4A91C55C9344",
+      "name": "Tesla"
+    },
+    {
+      "id": "1280266E-1131-4963-AA13-F63443F60188",
+      "name": "Foundry Group"
+    },
+    {
+      "id": "B53699EB-744A-4501-BEC1-D5EF9F63E80B",
+      "name": "Techstars"
+    },
+    {
+      "id": "9563418A-FC60-41AF-81F5-8B3FA2722F29",
+      "name": "Union Square Ventures"
+    },
+    {
+      "id": "C781E936-84C0-4297-9B54-5353A64C1C40",
+      "name": "Honeycomb"
+    },
+    {
+      "id": "57DA2789-4BDF-44AC-A35A-9DB3A5A2FAD6",
+      "name": "Parse"
+    },
+    {
+      "id": "080806BF-F321-40CE-88F7-26CA3D9FCD63",
+      "name": "Munger, Tolles & Olson"
+    },
+    {
+      "id": "7EEA760C-9C73-4809-839A-AB7D4FD63904",
+      "name": "Berkshire Hathaway"
+    },
+    {
+      "id": "CC3CA9A2-F90D-497A-B43A-F82A361397AC",
+      "name": "Bell Labs"
+    },
+    {
+      "id": "A61BA2BC-B9ED-4847-ABB4-DB9535453D3E",
+      "name": "Xerox"
+    },
+    {
+      "id": "9D07847A-A912-4260-B945-0B6BF60DE07F",
+      "name": "Digital Equipment Corporation"
+    },
+    {
+      "id": "98F3D285-4ECE-4B53-9971-46F09429DC21",
+      "name": "Aladdin Enterprises"
+    },
+    {
+      "id": "5BEEC96E-B21C-4F99-B546-D8587417F592",
+      "name": "Thoughtworks"
+    },
+    {
+      "id": "6B0D6C13-FA8E-48A6-8675-8D5F208FF9F5",
+      "name": "Domain Language"
+    },
+    {
+      "id": "11B3CE4D-D413-4575-A696-16E732851715",
+      "name": "Rational Software"
+    },
+    {
+      "id": "5B57C6B2-B546-4F57-B414-6EA79822ABAF",
+      "name": "Convex"
+    },
+    {
+      "id": "0F01EB39-8A6D-417F-8C32-43963FA39EB9",
+      "name": "Dropbox"
+    },
+    {
+      "id": "9BEF56A9-4936-4CF0-96DB-757CCD433B90",
+      "name": "Codemanship"
+    },
+    {
+      "id": "FC6064C1-7963-425C-A39E-18EEF89772AE",
+      "name": "Fog Creek Software"
+    },
+    {
+      "id": "3B6A5B75-DB53-413E-A3BD-08482E397699",
+      "name": "Stack Overflow"
+    },
+    {
+      "id": "476FC104-E69C-4AF0-A707-7DCCB77C3C9D",
+      "name": "Opendoor"
+    },
+    {
+      "id": "1E73EF21-78C3-4731-9C58-EC6B50A25F16",
+      "name": "PayPal"
+    },
+    {
+      "id": "DCA535BD-7565-4711-8523-4AFBA4526180",
+      "name": "Square"
+    },
+    {
+      "id": "E0FC1140-FC42-4464-8A0C-99248D098EE4",
+      "name": "Popforms"
+    },
+    {
+      "id": "537D1B9A-4FDA-4665-BD42-E470FA7F2C69",
+      "name": "Increo"
+    },
+    {
+      "id": "55037A9C-79F2-4145-8804-781760FB9147",
+      "name": "Jepsen"
+    },
+    {
+      "id": "1A06453B-F1A0-407C-9C8B-A829697F600F",
+      "name": "Vercel"
+    },
+    {
+      "id": "EE3D341A-14F1-43A5-970F-2F4880A197B0",
+      "name": "Formation"
+    },
+    {
+      "id": "C1189115-682F-488C-915A-CF3D3EE2FA78",
+      "name": "Ingres"
+    },
+    {
+      "id": "B6CA4987-D916-4939-8567-994251029520",
+      "name": "Vertica"
+    },
+    {
+      "id": "65C06E57-4AB3-4C8D-BB20-9A91B28C02F5",
+      "name": "VoltDB"
+    },
+    {
+      "id": "D7E3E82D-25D6-43F7-BFE1-F5F35F4976D2",
+      "name": "Tamr"
+    },
+    {
+      "id": "704FC5AC-19E3-49D7-A7EB-82A176917272",
+      "name": "DORA"
+    },
+    {
+      "id": "2C531B3F-FEC4-4FBB-B36D-4D327EA492F5",
+      "name": "Accelerate"
+    },
+    {
+      "id": "ACA9269E-C3A7-40B8-93AD-3EBEAFF64D97",
+      "name": "Radical Respect"
+    },
+    {
+      "id": "9FF30BB4-3D76-44B9-9DD4-56ABD196E7D1",
+      "name": "Conviction"
+    },
+    {
+      "id": "1013AC53-BAF5-4D01-BA3C-912D488C45BE",
+      "name": "Greylock Partners"
+    },
+    {
+      "id": "B76ED3C8-C2B9-496D-8118-44EA790AACF6",
+      "name": "Yoyodyne"
+    },
+    {
+      "id": "446C8670-0F8E-43D1-BC0A-0EFF96D1CF0A",
+      "name": "Squidoo"
+    },
+    {
+      "id": "EAC20723-C263-44A9-8A19-DE4719110D5B",
+      "name": "Twitter"
+    },
+    {
+      "id": "100ABEA5-4E0E-4D6D-9C3F-6F9B70EE56EC",
+      "name": "We Hack Purple"
+    },
+    {
+      "id": "EFDCB854-BC6F-4AED-9F4B-25BD5FE64747",
+      "name": "Maven"
+    },
+    {
+      "id": "D1DFBAC8-3F85-4EDC-A464-8BD1391AFF26",
+      "name": "TypeSafe AI"
+    },
+    {
+      "id": "13962D13-8C36-4709-9EBE-D54B30660F34",
+      "name": "Influence At Work"
+    },
+    {
+      "id": "5BE28682-5043-4FF0-8B5A-7E6791ACA016",
+      "name": "Molly Rocket"
+    },
+    {
+      "id": "29A8EF94-03E5-4B5C-BCD5-BB7C4ACE45A8",
+      "name": "Anthropic"
+    },
+    {
+      "id": "F5CFB414-B0DE-45D0-9683-9919572508A9",
+      "name": "Epic Systems"
+    },
+    {
+      "id": "2B0ABE45-BBC3-4062-AE74-3168B587646F",
+      "name": "Insight Partners"
+    },
+    {
+      "id": "F3AF5CBE-A155-42D7-B23E-FEDA6759CD16",
+      "name": "MetLife"
+    },
+    {
+      "id": "6E5C90A5-FA4D-47A9-9AFE-FB3563C9F51F",
+      "name": "Spotify"
+    },
+    {
+      "id": "C439C3CA-0150-446F-9E4B-154D793E4CFD",
+      "name": "WhatsApp"
     }
   ]
 }
