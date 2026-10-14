@@ -27,6 +27,14 @@ func writeGraphFixture(t *testing.T) string {
       "name": "Person"
     },
     {
+      "id": "0D5C0F7E-3E43-4E63-9C38-4C1E6A7B2F10",
+      "name": "Tag"
+    },
+    {
+      "id": "6A1B8E52-9D7F-4B0C-8E3A-2F4D5C6B7A81",
+      "name": "Company"
+    },
+    {
       "id": "92664F80-065B-4640-909A-7AB25D524FB0",
       "name": "Wizards of the Coast"
     }
@@ -41,9 +49,25 @@ func writeGraphFixture(t *testing.T) string {
     }
   ]
 }`)
-	write("is_a_person-edges.json", `{
+	for _, spec := range classEdgeSpecs {
+		write(spec.File, `{
   "edges": []
 }`)
+	}
+	contentDir := filepath.Join(dir, "content")
+	if err := os.MkdirAll(contentDir, 0755); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(contentDir, "history.jsonld"), []byte(`{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "History",
+  "itemListElement": [
+    {"@type": "Article", "name": "WotC", "url": "https://example.com/w", "datePublished": null, "keywords": ["History", "Wizards of the Coast", "Article"]}
+  ]
+}`), 0644); err != nil {
+		t.Fatal(err)
+	}
 	return dir
 }
 
@@ -65,10 +89,72 @@ func TestGraphAddEdge(t *testing.T) {
 	if _, _, err := g.ensureEntity("peter adkison"); err != nil {
 		t.Fatal(err)
 	}
-	if got := len(g.entities); got != 3 {
-		t.Errorf("entities=%d, want 3 (second add reused)", got)
+	if got := len(g.entities); got != 5 {
+		t.Errorf("entities=%d, want 5 (second add reused)", got)
 	}
 	_ = id1
+}
+
+func readEdges(t *testing.T, dir, name string) []graphEdge {
+	t.Helper()
+	raw, err := os.ReadFile(filepath.Join(dir, "graph", name))
+	if err != nil {
+		t.Fatal(err)
+	}
+	var f edgeFile
+	if err := json.Unmarshal(raw, &f); err != nil {
+		t.Fatal(err)
+	}
+	return f.Edges
+}
+
+func TestGraphAddEdgeRoutesClassEdges(t *testing.T) {
+	dir := writeGraphFixture(t)
+	err := cmdGraphAddEdge([]string{"--repo", dir,
+		"Wizards of the Coast", "Is_a_Tag", "Tag",
+		"Wizards of the Coast", "Is_a_Company", "Company",
+		"Peter Adkison", "Is_a_Person", "Person",
+	})
+	if err != nil {
+		t.Fatal(err)
+	}
+	for _, spec := range classEdgeSpecs {
+		edges := readEdges(t, dir, spec.File)
+		if len(edges) != 1 || edges[0].Type != spec.Type {
+			t.Errorf("%s: got %+v, want one %s edge", spec.File, edges, spec.Type)
+		}
+	}
+	if got := readEdges(t, dir, "edges.json"); len(got) != 1 {
+		t.Errorf("edges.json changed: %+v", got)
+	}
+}
+
+func TestGraphAddEdgeChecks(t *testing.T) {
+	cases := []struct {
+		name    string
+		triple  []string
+		wantErr bool
+	}{
+		{"tag not in content", []string{"Peter Adkison", "Is_a_Tag", "Tag"}, true},
+		{"wrong class target", []string{"Wizards of the Coast", "Is_a_Company", "Tag"}, true},
+		{"class entity as source", []string{"Tag", "Is_a_Company", "Company"}, true},
+		// Lowercase input resolves to the stored entity spelling, which is the
+		// exact content tag.
+		{"stored spelling satisfies tag check", []string{"wizards of the coast", "Is_a_Tag", "Tag"}, false},
+	}
+	for _, c := range cases {
+		t.Run(c.name, func(t *testing.T) {
+			dir := writeGraphFixture(t)
+			err := cmdGraphAddEdge(append([]string{"--repo", dir}, c.triple...))
+			if (err != nil) != c.wantErr {
+				t.Fatalf("err=%v, wantErr=%v", err, c.wantErr)
+			}
+			raw, _ := os.ReadFile(filepath.Join(dir, "graph", "entities.json"))
+			if strings.Contains(string(raw), "Peter Adkison") {
+				t.Error("rejected triple left a stray entity")
+			}
+		})
+	}
 }
 
 func TestWritePyJSONFormat(t *testing.T) {

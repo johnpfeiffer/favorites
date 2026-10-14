@@ -1,6 +1,6 @@
 ---
 name: maintain-favorites-graph
-description: Create, extend, clean up, review, and validate the lightweight ontology in a favorites repository. Use when extracting canonical entities and relationships from content/*.json, discovering subject companies from content titles, editing graph/entities.json or graph/edges.json, deduplicating graph data, deciding whether a content item deserves an entity, or checking graph integrity.
+description: Create, extend, clean up, review, and validate the lightweight ontology in a favorites repository. Use when extracting canonical entities and relationships from content/*.json, discovering subject companies from content titles, classifying entities as people, tags, or companies, editing graph/entities.json, graph/edges.json, or the graph/is_a_*-edges.json classification files, deduplicating graph data, deciding whether a content item deserves an entity, or checking graph integrity.
 ---
 
 # Maintain Favorites Graph
@@ -36,7 +36,15 @@ Store directed relationship edges in `graph/edges.json`:
 }
 ```
 
-Store `Is_a_Person` classification edges separately in `graph/is_a_person-edges.json`, using the same top-level `edges` array and edge object shape. Never place `Is_a_Person` in `edges.json`, and never place another edge type in `is_a_person-edges.json`.
+Store each classification edge type in its own file, using the same top-level `edges` array and edge object shape:
+
+| Edge type | File | Target class entity |
+| --- | --- | --- |
+| `Is_a_Person` | `graph/is_a_person-edges.json` | `Person` |
+| `Is_a_Tag` | `graph/is_a_tag-edges.json` | `Tag` |
+| `Is_a_Company` | `graph/is_a_company-edges.json` | `Company` |
+
+Never place a classification edge in `edges.json`, and never place any other edge type in a classification file.
 
 Allow only these edge types unless the user explicitly expands the ontology:
 
@@ -46,6 +54,8 @@ Allow only these edge types unless the user explicitly expands the ontology:
 - `Current_Employee_of`: person → organization
 - `Previous_Employee_of`: person → organization
 - `Is_a_Person`: named human person → the single `Person` class entity
+- `Is_a_Tag`: entity whose canonical name is used verbatim as a content tag → the single `Tag` class entity
+- `Is_a_Company`: company (startup, corporation, VC firm, defunct company) → the single `Company` class entity
 
 ## Admit entities conservatively
 
@@ -59,7 +69,7 @@ Do not add:
 
 - A bookmark title, URL, summary, episode, article, or video merely because it appears in `content/`.
 - A descriptive local title in place of a work's real title.
-- Tags, topics, roles, or generic concepts that have not been explicitly declared as ontology classes.
+- Topic, role, or media-type tags (`Leadership`, `CTO`, `Podcast`) and generic concepts. `Tag` is a declared class, but `Is_a_Tag` only marks entities admitted on their own merits; it is not a reason to create an entity.
 - Speculative or isolated entities, except subject companies admitted through the title-extraction workflow.
 
 Admit a work for `Author_of` only when it has a genuine canonical title and is useful as a shared or notable graph node. The work must be a durable standalone publication: a book (e.g. `Genentech: The Beginnings of Biotech`), a paper (keep `Attention Is All You Need`), or a recorded lecture. Articles, blog posts, essays, and rants never qualify, however famous (do not create `Choose Boring Technology` or `Stevey's Google Platforms Rant`); those records stay content leaves, so keep their authors connected through employment edges instead. Do not create an entity named `Wired: Eight Google Employees Invented Modern AI - Transformers Paper`. The Wired record is evidence about people, Google, the paper, and their relationships. A recorded lecture or talk with a genuine canonical title (e.g. Grace Hopper's `Future Possibilities: Data, Hardware, Software, and People`) can qualify as a work, with the speaker standing in as author; flag that stretch in the report so the user can veto it. An interviewee or talk speaker is never an `Author_of` the interview article or the talk's write-up.
@@ -71,6 +81,16 @@ Reuse an existing entity and UUID when the canonical name already exists. Genera
 Maintain exactly one entity named `Person`. Add one `Is_a_Person` edge in `graph/is_a_person-edges.json` from each confidently identified named human to that class entity. Never classify the `Person` class itself, an organization, a show, or a work as a person.
 
 When a name is ambiguous, do not add the classification edge. Ask the user to confirm it and list the relevant evidence. When adding a person as the source of any other supported edge, also add the corresponding `Is_a_Person` edge.
+
+## Classify tags
+
+Add one `Is_a_Tag` edge from every entity whose name is spelled exactly like a tag in `content/*.jsonld` (case, spaces, and diacritics included). The validator enforces both directions: every `Is_a_Tag` entity must match a content tag exactly, and every entity named exactly like a content tag must carry `Is_a_Tag`. So when a new entity's name is already a tag, add its `Is_a_Tag` edge in the same batch.
+
+When a person or company appears as a tag but not yet as an entity, admit it: `Is_a_Person` or `Is_a_Company`, plus `Is_a_Tag`. When the tag and the canonical name disagree (a surname-only tag like `Karpathy`, a spelling variant like `Alta Vista`), fix the content tag to the canonical name rather than naming the entity after the variant, and report the rename.
+
+## Classify companies
+
+Add one `Is_a_Company` edge for each company: startups, corporations, subsidiaries operating as companies (`AWS`, `DeepMind`), VC and investment firms, and defunct or renamed companies under their historical name (`Netscape`, `Facebook`). Do not classify universities, nonprofits, government bodies, research programs, publications, podcasts, shows, products, or technologies. When one entity is used for both a company and its show or book (`Radical Candor`), classify by the company sense only if a `Founder_of` or employment edge already treats it as an organization, and report the overload. Leave an organization unclassified when you cannot confirm it is a company, and report it. A person is never a company; the validator rejects an entity classified as both.
 
 ## Extract companies from titles
 
@@ -94,10 +114,10 @@ Keep content records in `content/`; do not copy their URLs, tags, publication da
 
 ## Maintain the graph
 
-1. Inspect `entities.json`, `edges.json`, and `is_a_person-edges.json` before editing.
+1. Inspect `entities.json`, `edges.json`, and the classification files (`is_a_person-edges.json`, `is_a_tag-edges.json`, `is_a_company-edges.json`) before editing.
 2. Match candidates against existing names case-insensitively and check common punctuation or branding variants.
 3. Preserve existing UUIDs and edge direction.
-4. Write with `tools/fav/fav graph add-edge` (batch triples via args or stdin; `--dry-run` first): it reuses entities case-insensitively, mints uppercase UUID4s only for genuinely new entities, checks edge types against the closed ontology, routes `Is_a_Person` to its segregated file, and writes byte-compatibly with the Python format so diffs stay append-only. Manual JSON edits remain the fallback for what the writer doesn't cover (e.g. removals during cleanup). Add or update the smallest evidence-backed set of entities and edges.
+4. Write with `tools/fav/fav graph add-edge` (batch triples via args or stdin; `--dry-run` first): it reuses entities case-insensitively, mints uppercase UUID4s only for genuinely new entities, checks edge types against the closed ontology, routes each classification edge to its segregated file, rejects an `Is_a_Tag` whose entity name is not an exact content tag, and writes byte-compatibly with the Python format so diffs stay append-only. Manual JSON edits remain the fallback for what the writer doesn't cover (e.g. removals during cleanup). Add or update the smallest evidence-backed set of entities and edges.
 5. Remove nodes left isolated by cleanup unless they are explicitly admitted subject companies.
 6. Preserve valid unrelated graph data.
 7. Run the adjacent validator from the repository root before handoff:
@@ -110,6 +130,6 @@ python3 .agents/skills/maintain-favorites-graph/scripts/validate_graph.py .
 
 ## Report the result
 
-Summarize entity and edge counts, standalone company counts, counts by edge type, canonicalizations or removals, evidence limitations, and validator status. Call out time-sensitive employment claims separately.
+Summarize entity and edge counts, people, tag, and company classification counts, counts by edge type, canonicalizations or removals, evidence limitations, and validator status. Call out time-sensitive employment claims separately.
 
 If the user requests a new edge type or richer provenance, first describe the schema migration needed. Do not overload an existing edge type or add undeclared fields ad hoc.
