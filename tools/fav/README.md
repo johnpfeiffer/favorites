@@ -203,12 +203,16 @@ fav lint --content dir
 
 Idempotent graph writer for the maintain-favorites-graph skill. Reuses
 existing entities case-insensitively, mints uppercase UUID4s for new ones,
-checks edge types against the closed ontology, and routes `Is_a_Person` edges
-to `is_a_person-edges.json` with the `Person` class entity forced as target.
+checks edge types against the closed ontology, and routes each classification
+edge to its own file with its class entity forced as target: `Is_a_Person` →
+`is_a_person-edges.json` (`Person`), `Is_a_Tag` → `is_a_tag-edges.json`
+(`Tag`), `Is_a_Company` → `is_a_company-edges.json` (`Company`).
 
 ```bash
 fav graph add-edge "Peter Adkison" Founder_of "Wizards of the Coast" \
-                   "Peter Adkison" Is_a_Person Person
+                   "Peter Adkison" Is_a_Person Person \
+                   "Wizards of the Coast" Is_a_Company Company \
+                   "Wizards of the Coast" Is_a_Tag Tag
 printf '%s\t%s\t%s\n' "Charity Majors" "Current_Employee_of" "Honeycomb" | fav graph add-edge -
 fav graph add-edge --dry-run ...        # report adds/reuses, write nothing
 ```
@@ -216,6 +220,9 @@ fav graph add-edge --dry-run ...        # report adds/reuses, write nothing
 - Writes byte-compatibly with the Python `json.dump(indent=2,
   ensure_ascii=True)` format (non-ASCII as `\uXXXX`, no trailing newline), so
   diffs stay append-only.
+- `Is_a_Tag` is rejected unless the entity's stored name is spelled exactly
+  like a keyword in `content/*.jsonld`. Rejected triples never create
+  entities, and an ontology class entity is never an edge source.
 - Duplicate edges are no-ops; per-triple output reports
   `added | exists` plus whether each endpoint entity was created.
 - Reminder printed on write: run the graph validator before committing.

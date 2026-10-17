@@ -37,29 +37,50 @@ type edgeFile struct {
 }
 
 // allowedEdgeTypes is the closed ontology from the maintain-favorites-graph
-// skill. Is_a_Person lives only in is_a_person-edges.json; all other types
-// live only in edges.json.
+// skill. Classification types (classEdgeSpecs) each live only in their own
+// file; all other types live only in edges.json.
 var allowedEdgeTypes = map[string]bool{
 	"Founder_of": true, "Author_of": true, "Host_of": true,
 	"Current_Employee_of": true, "Previous_Employee_of": true,
-	"Is_a_Person": true,
+	"Is_a_Person": true, "Is_a_Tag": true, "Is_a_Company": true,
+}
+
+// classSpec describes a classification edge type: its segregated file and the
+// single class entity every edge of that type targets.
+type classSpec struct {
+	Type, File, Class string
+}
+
+var classEdgeSpecs = []classSpec{
+	{"Is_a_Person", "is_a_person-edges.json", "Person"},
+	{"Is_a_Tag", "is_a_tag-edges.json", "Tag"},
+	{"Is_a_Company", "is_a_company-edges.json", "Company"},
+}
+
+func classSpecFor(edgeType string) (classSpec, bool) {
+	for _, spec := range classEdgeSpecs {
+		if spec.Type == edgeType {
+			return spec, true
+		}
+	}
+	return classSpec{}, false
 }
 
 type graph struct {
-	entities    []graphEntity
-	edges       []graphEdge
-	personEdges []graphEdge
-	byName      map[string]string // lowercased name -> id
-	edgeSet     map[string]bool   // "src|type|tgt"
-	personSet   map[string]bool
-	personID    string
+	entities   []graphEntity
+	edges      []graphEdge
+	classEdges map[string][]graphEdge // classification type -> its file's edges
+	byName     map[string]string      // lowercased name -> id
+	edgeSet    map[string]bool        // "src|type|tgt" across every file
+	classIDs   map[string]string      // classification type -> class entity id
 }
 
 func loadGraph(repo string) (*graph, error) {
 	g := &graph{
-		byName:    map[string]string{},
-		edgeSet:   map[string]bool{},
-		personSet: map[string]bool{},
+		classEdges: map[string][]graphEdge{},
+		byName:     map[string]string{},
+		edgeSet:    map[string]bool{},
+		classIDs:   map[string]string{},
 	}
 	read := func(name string, v any) error {
 		raw, err := os.ReadFile(filepath.Join(repo, "graph", name))
@@ -72,32 +93,47 @@ func loadGraph(repo string) (*graph, error) {
 	if err := read("entities.json", &ef); err != nil {
 		return nil, fmt.Errorf("entities.json: %w", err)
 	}
-	var efEdges, efPerson edgeFile
+	var efEdges edgeFile
 	if err := read("edges.json", &efEdges); err != nil {
 		return nil, fmt.Errorf("edges.json: %w", err)
 	}
-	if err := read("is_a_person-edges.json", &efPerson); err != nil {
-		return nil, fmt.Errorf("is_a_person-edges.json: %w", err)
-	}
 	g.entities = ef.Entities
 	g.edges = efEdges.Edges
-	g.personEdges = efPerson.Edges
 	for _, e := range g.entities {
 		g.byName[strings.ToLower(e.Name)] = e.ID
-		if e.Name == "Person" {
-			g.personID = e.ID
-		}
 	}
 	for _, e := range g.edges {
 		g.edgeSet[edgeKey(e)] = true
 	}
-	for _, e := range g.personEdges {
-		g.personSet[edgeKey(e)] = true
-	}
-	if g.personID == "" {
-		return nil, fmt.Errorf("graph has no Person class entity")
+	for _, spec := range classEdgeSpecs {
+		var cf edgeFile
+		if err := read(spec.File, &cf); err != nil {
+			return nil, fmt.Errorf("%s: %w", spec.File, err)
+		}
+		g.classEdges[spec.Type] = cf.Edges
+		for _, e := range cf.Edges {
+			g.edgeSet[edgeKey(e)] = true
+		}
+		for _, e := range g.entities {
+			if e.Name == spec.Class {
+				g.classIDs[spec.Type] = e.ID
+			}
+		}
+		if g.classIDs[spec.Type] == "" {
+			return nil, fmt.Errorf("graph has no %s class entity", spec.Class)
+		}
 	}
 	return g, nil
+}
+
+// isClassEntity reports whether id is one of the ontology class entities.
+func (g *graph) isClassEntity(id string) bool {
+	for _, classID := range g.classIDs {
+		if classID == id {
+			return true
+		}
+	}
+	return false
 }
 
 func edgeKey(e graphEdge) string {
@@ -113,6 +149,20 @@ func newUUID4() (string, error) {
 	b[6] = (b[6] & 0x0f) | 0x40
 	b[8] = (b[8] & 0x3f) | 0x80
 	return strings.ToUpper(fmt.Sprintf("%x-%x-%x-%x-%x", b[0:4], b[4:6], b[6:8], b[8:10], b[10:16])), nil
+}
+
+// resolveName returns the stored spelling of an existing entity matched
+// case-insensitively, or the trimmed input when the entity would be new.
+func (g *graph) resolveName(name string) string {
+	key := strings.ToLower(strings.TrimSpace(name))
+	if id, ok := g.byName[key]; ok {
+		for _, e := range g.entities {
+			if e.ID == id {
+				return e.Name
+			}
+		}
+	}
+	return strings.TrimSpace(name)
 }
 
 // ensureEntity reuses an existing entity case-insensitively or creates it.
@@ -210,65 +260,81 @@ func cmdGraphAddEdge(args []string) error {
 		return err
 	}
 
+	var tags map[string]bool // content tags, loaded on the first Is_a_Tag triple
 	var outcomes []addEdgeOutcome
-	edgesChanged, personChanged := false, false
+	changed := map[string]bool{} // graph file name -> needs writing
 	failed := false
+	fail := func(oc addEdgeOutcome, msg string) {
+		oc.Error = msg
+		outcomes = append(outcomes, oc)
+		failed = true
+	}
 	for _, t := range triples {
 		oc := addEdgeOutcome{Triple: t}
 		if !allowedEdgeTypes[t.Type] {
-			oc.Error = "unknown edge type " + t.Type
-			outcomes = append(outcomes, oc)
-			failed = true
+			fail(oc, "unknown edge type "+t.Type)
 			continue
+		}
+		spec, isClass := classSpecFor(t.Type)
+		// Check class edges before touching entities so a rejected triple
+		// never leaves a stray new entity behind.
+		if isClass {
+			// The target of a classification is always its single class entity.
+			if !strings.EqualFold(strings.TrimSpace(t.Target), spec.Class) {
+				fail(oc, t.Type+" target must be the "+spec.Class+" class entity")
+				continue
+			}
+			if t.Type == "Is_a_Tag" {
+				if tags == nil {
+					if tags, err = loadContentTags(filepath.Join(*repo, "content")); err != nil {
+						return err
+					}
+				}
+				if name := g.resolveName(t.Source); !tags[name] {
+					fail(oc, fmt.Sprintf("no content tag is spelled exactly %q", name))
+					continue
+				}
+			}
 		}
 		src, createdSrc, err := g.ensureEntity(t.Source)
 		if err != nil {
-			oc.Error = err.Error()
-			outcomes = append(outcomes, oc)
-			failed = true
+			fail(oc, err.Error())
+			continue
+		}
+		if g.isClassEntity(src) {
+			fail(oc, "an ontology class entity cannot be an edge source")
 			continue
 		}
 		oc.SourceCreated = createdSrc
 		var tgt string
-		if t.Type == "Is_a_Person" {
-			// The target of Is_a_Person is always the single Person class.
-			if !strings.EqualFold(strings.TrimSpace(t.Target), "Person") {
-				oc.Error = "Is_a_Person target must be the Person class entity"
-				outcomes = append(outcomes, oc)
-				failed = true
-				continue
-			}
-			tgt = g.personID
+		if isClass {
+			tgt = g.classIDs[t.Type]
 		} else {
 			var createdTgt bool
 			tgt, createdTgt, err = g.ensureEntity(t.Target)
 			if err != nil {
-				oc.Error = err.Error()
-				outcomes = append(outcomes, oc)
-				failed = true
+				fail(oc, err.Error())
 				continue
 			}
 			oc.TargetCreated = createdTgt
 		}
 		edge := graphEdge{Source: src, Target: tgt, Type: t.Type}
-		if t.Type == "Is_a_Person" {
-			if !g.personSet[edgeKey(edge)] {
-				g.personEdges = append(g.personEdges, edge)
-				g.personSet[edgeKey(edge)] = true
-				personChanged = true
-				oc.EdgeAdded = true
-			}
-		} else if !g.edgeSet[edgeKey(edge)] {
-			g.edges = append(g.edges, edge)
+		if !g.edgeSet[edgeKey(edge)] {
 			g.edgeSet[edgeKey(edge)] = true
-			edgesChanged = true
 			oc.EdgeAdded = true
+			if isClass {
+				g.classEdges[t.Type] = append(g.classEdges[t.Type], edge)
+				changed[spec.File] = true
+			} else {
+				g.edges = append(g.edges, edge)
+				changed["edges.json"] = true
+			}
 		}
 		outcomes = append(outcomes, oc)
 	}
 
-	if !*dryRun && (edgesChanged || personChanged) {
-		if err := g.write(*repo, edgesChanged, personChanged); err != nil {
+	if !*dryRun && len(changed) > 0 {
+		if err := g.write(*repo, changed); err != nil {
 			return err
 		}
 	}
@@ -302,7 +368,7 @@ func cmdGraphAddEdge(args []string) error {
 		}
 		if *dryRun {
 			fmt.Println("dry-run: nothing written")
-		} else if edgesChanged || personChanged {
+		} else if len(changed) > 0 {
 			fmt.Println("graph files written; run the graph validator before committing:")
 			fmt.Println("  python3 .agents/skills/maintain-favorites-graph/scripts/validate_graph.py .")
 		}
@@ -316,21 +382,39 @@ func cmdGraphAddEdge(args []string) error {
 // write persists the graph byte-compatibly with the existing files: two-space
 // indent, non-ASCII escaped as \uXXXX (Python ensure_ascii), no trailing
 // newline.
-func (g *graph) write(repo string, edgesChanged, personChanged bool) error {
+func (g *graph) write(repo string, changed map[string]bool) error {
 	if err := writePyJSON(filepath.Join(repo, "graph", "entities.json"), entityFile{g.entities}); err != nil {
 		return err
 	}
-	if edgesChanged {
+	if changed["edges.json"] {
 		if err := writePyJSON(filepath.Join(repo, "graph", "edges.json"), edgeFile{g.edges}); err != nil {
 			return err
 		}
 	}
-	if personChanged {
-		if err := writePyJSON(filepath.Join(repo, "graph", "is_a_person-edges.json"), edgeFile{g.personEdges}); err != nil {
-			return err
+	for _, spec := range classEdgeSpecs {
+		if changed[spec.File] {
+			if err := writePyJSON(filepath.Join(repo, "graph", spec.File), edgeFile{g.classEdges[spec.Type]}); err != nil {
+				return err
+			}
 		}
 	}
 	return nil
+}
+
+// loadContentTags returns every keyword used in content/*.jsonld, spelled
+// exactly as stored.
+func loadContentTags(dir string) (map[string]bool, error) {
+	store, err := loadContent(dir)
+	if err != nil {
+		return nil, err
+	}
+	tags := map[string]bool{}
+	for _, e := range store.entries {
+		for _, k := range e.Keywords {
+			tags[k] = true
+		}
+	}
+	return tags, nil
 }
 
 // writePyJSON encodes v like Python's json.dump(indent=2): two-space indent,
