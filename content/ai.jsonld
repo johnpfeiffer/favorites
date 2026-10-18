@@ -945,9 +945,6 @@
         "AI",
         "Agents",
         "OpenProse",
-        "Dan Barrett",
-        "Raymond Weitekamp",
-        "Jose Montes de Oca",
         "Video"
       ]
     },
@@ -960,7 +957,6 @@
       "keywords": [
         "AI",
         "Self-Driving Cars",
-        "Aurora",
         "Chris Urmson",
         "Podcast"
       ]
@@ -974,9 +970,7 @@
       "keywords": [
         "AI",
         "Agents",
-        "Identity and Access Management",
         "C1.ai",
-        "Alex Bovee",
         "Podcast"
       ]
     }
