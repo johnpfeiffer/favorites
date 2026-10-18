@@ -935,6 +935,50 @@
         "Agents",
         "Podcast"
       ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "AI Engineer: Stop Telling Agents How — Dan Barrett, Raymond Weitekamp and Jose Montes de Oca on OpenProse",
+      "url": "https://www.youtube.com/watch?v=7T-gldvgfpo",
+      "datePublished": "2026-10-18",
+      "keywords": [
+        "AI",
+        "Agents",
+        "OpenProse",
+        "Dan Barrett",
+        "Raymond Weitekamp",
+        "Jose Montes de Oca",
+        "Video"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Lex Fridman Podcast: Chris Urmson on Self-Driving Cars at Aurora, Google, CMU, and DARPA",
+      "url": "https://lexfridman.com/chris-urmson/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584?i=1000445042504",
+      "datePublished": "2019-07-22",
+      "keywords": [
+        "AI",
+        "Self-Driving Cars",
+        "Aurora",
+        "Chris Urmson",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Identity at the Center: Sponsor Spotlight — C1.ai",
+      "url": "https://creators.spotify.com/pod/profile/identity-at-the-center/episodes/451---Sponsor-Spotlight---C1-ai-e3ph74m",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/identity-at-the-center/id1471899975?i=1000792353374",
+      "datePublished": "2026-09-30",
+      "keywords": [
+        "AI",
+        "Agents",
+        "Identity and Access Management",
+        "C1.ai",
+        "Alex Bovee",
+        "Podcast"
+      ]
     }
   ]
 }

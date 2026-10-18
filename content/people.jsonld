@@ -4309,6 +4309,20 @@
         "Ethan Evans",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Effective Engineering Manager: No Upward Feedback",
+      "url": "https://www.effectiveem.com/no-upward-feedback/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/effective-engineering-manager/id1535585856?i=1000793729478",
+      "datePublished": "2026-10-07",
+      "keywords": [
+        "People",
+        "Engineering Management",
+        "Management",
+        "Feedback",
+        "Podcast"
+      ]
     }
   ]
 }
