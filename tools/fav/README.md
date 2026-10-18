@@ -204,9 +204,19 @@ fav lint --content dir
 Idempotent graph writer for the maintain-favorites-graph skill. Reuses
 existing entities case-insensitively, mints uppercase UUID4s for new ones,
 checks edge types against the closed ontology, and routes each classification
-edge to its own file with its class entity forced as target: `Is_a_Person` →
-`is_a_person-edges.json` (`Person`), `Is_a_Tag` → `is_a_tag-edges.json`
-(`Tag`), `Is_a_Company` → `is_a_company-edges.json` (`Company`).
+edge to its own file with its class entity forced as target.
+
+The three ontology class entities are stable, well-known UUIDs in
+`graph/entities.json`:
+
+| Class entity | UUID | Edge type | File |
+| --- | --- | --- | --- |
+| `Person` | `B82DE2C3-1545-46AF-803D-B9A68E8901DC` | `Is_a_Person` | `graph/is_a_person-edges.json` |
+| `Tag` | `EBDFC193-6D9F-45C8-9379-E4C1A4A28FC7` | `Is_a_Tag` | `graph/is_a_tag-edges.json` |
+| `Company` | `ABF87056-80F0-44D6-ACEC-D077031B641D` | `Is_a_Company` | `graph/is_a_company-edges.json` |
+
+Every classification edge targets its class UUID exactly, a class entity is
+never an edge source, and classification edges never appear in `edges.json`.
 
 ```bash
 fav graph add-edge "Peter Adkison" Founder_of "Wizards of the Coast" \
