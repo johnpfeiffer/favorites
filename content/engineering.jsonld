@@ -25,7 +25,6 @@
       "keywords": [
         "Engineering",
         "Golang",
-        "Context",
         "Dependencies",
         "Podcast"
       ]
@@ -38,7 +37,6 @@
       "keywords": [
         "Engineering",
         "Golang",
-        "Context",
         "Blog"
       ]
     },
@@ -800,8 +798,7 @@
       "datePublished": "2023-07-26",
       "keywords": [
         "Engineering",
-        "Orchestration",
-        "Choreography",
+        "Event Driven",
         "Distributed Systems"
       ]
     },
@@ -917,7 +914,7 @@
       "keywords": [
         "Engineering",
         "Netflix",
-        "AWS Outage",
+        "AWS",
         "Scalability"
       ]
     },
@@ -1062,7 +1059,6 @@
       "keywords": [
         "Engineering",
         "Concurrency",
-        "Parallelism",
         "Golang",
         "Rob Pike"
       ]
@@ -1345,7 +1341,7 @@
       "keywords": [
         "Engineering",
         "A/B Testing",
-        "Product",
+        "Product Management",
         "Etsy",
         "Blog"
       ]
@@ -1368,8 +1364,7 @@
       "datePublished": "2017-07-01",
       "keywords": [
         "Engineering",
-        "Game Theory",
-        "Prisoner's Dilemma"
+        "Game Theory"
       ]
     },
     {
@@ -1532,8 +1527,6 @@
       "keywords": [
         "Engineering",
         "Security",
-        "Physical Security",
-        "Penetration Testing",
         "Podcast"
       ]
     },
@@ -1851,7 +1844,7 @@
       "datePublished": "2012-10-25",
       "keywords": [
         "Engineering",
-        "Career Development",
+        "Career",
         "John Allspaw",
         "Blog"
       ]
@@ -1984,7 +1977,6 @@
       "datePublished": "2025-05-23",
       "keywords": [
         "Engineering",
-        "Extreme Programming",
         "Agile",
         "Kent Beck",
         "Daniel Terhorst-North",
