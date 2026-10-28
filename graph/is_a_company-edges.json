@@ -814,6 +814,11 @@
       "source": "B76ED3C8-C2B9-496D-8118-44EA790AACF6",
       "target": "ABF87056-80F0-44D6-ACEC-D077031B641D",
       "type": "Is_a_Company"
+    },
+    {
+      "source": "6019BACA-D4AF-46B3-9A83-029834CA1F75",
+      "target": "ABF87056-80F0-44D6-ACEC-D077031B641D",
+      "type": "Is_a_Company"
     }
   ]
 }
