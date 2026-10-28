@@ -973,6 +973,37 @@
         "C1.ai",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "20VC: Horizontal vs Vertical Agents, Model Routing, the Future of the Inference Market, and Why Founders Should Take Discounts for Tier 1 Firms (Harrison Chase, LangChain)",
+      "url": "https://www.thetwentyminutevc.com/harrison-chase",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-twenty-minute-vc-20vc-venture-capital-startup/id958230465?i=1000796777083",
+      "datePublished": "2026-10-18",
+      "keywords": [
+        "AI",
+        "Agents",
+        "VC",
+        "LangChain",
+        "Harrison Chase",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "20VC: Is Anthropic's Coding Business Worth $2 Trillion, Should American Enterprises Work With Open-Source Chinese Models, and Why 80-90% of Neo-Labs Die in the Next 18 Months (Eno Reyes, Factory)",
+      "url": "https://www.thetwentyminutevc.com/eno-reyes",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-twenty-minute-vc-20vc-venture-capital-startup/id958230465?i=1000786623054",
+      "datePublished": "2026-08-29",
+      "keywords": [
+        "AI",
+        "Coding",
+        "Open Source",
+        "Anthropic",
+        "Factory",
+        "Eno Reyes",
+        "Podcast"
+      ]
     }
   ]
 }

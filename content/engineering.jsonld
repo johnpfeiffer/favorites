@@ -2470,6 +2470,21 @@
         "Uber",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Peterman Pod: Turing Award Winner - NSA, Public Key Cryptography, Crypto Wars (Martin Hellman)",
+      "url": "https://www.developing.dev/p/turing-award-winner-nsa-public-key",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835?i=1000775630039",
+      "datePublished": "2026-07-06",
+      "keywords": [
+        "Engineering",
+        "Turing Award",
+        "Security",
+        "History",
+        "Martin Hellman",
+        "Podcast"
+      ]
     }
   ]
 }
