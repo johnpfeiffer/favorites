@@ -5,8 +5,48 @@
   "feedUrl": "https://rss.libsyn.com/shows/61840/destinations/240976.xml",
   "homeUrl": "https://www.thetwentyminutevc.com",
   "canonicalPattern": "https://www.thetwentyminutevc.com/<guest-slug>",
-  "episodeCount": 1519,
+  "episodeCount": 1527,
   "episodes": [
+    {
+      "title": "20VC: Satya Nadella on Open vs Closed Models: Who Wins | Whether to Trust Frontier Model Providers | Why Companies Need to Own Their Own Intelligence | The Importance of Verticalisation: From Chips to Models and More",
+      "published": "2026-10-26",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-satya-nadella-on-open-vs-closed-models-who-wins-whether-to-trust-frontier-model-providers-why-companies-need-to-own-their-own-intelligence-the-importance-of-verticalisation-from-chips-to-models-and-more"
+    },
+    {
+      "title": "20VC: Why Robotics Will be 100x Bigger than Coding Agents | Inference Will Be a $10TRN Market: What No One Sees | Why Software Investors are F***** Today with Naveen Rao, Unconventional",
+      "published": "2026-10-24",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-why-robotics-will-be-100x-bigger-than-coding-agents-inference-will-be-a-10trn-market-what-no-one-sees-why-software-investors-are-f-today-with-naveen-rao-unconventional"
+    },
+    {
+      "title": "20VC: Trillion or Bust: The New VC Game | Coreweave Sell-Off Creates Panic | Town at $1B, Anduril at $90B: Revenue Multiples Out of Control | General Atlantic Eyes IPO &amp; Modal Raises $750M at $15.75B",
+      "published": "2026-10-22",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-trillion-or-bust-the-new-vc-game-coreweave-sell-off-creates-panic-town-at-1b-anduril-at-90b-revenue-multiples-out-of-control-general-atlantic-eyes-ipo-modal-raises-750m-at-1575b"
+    },
+    {
+      "title": "20VC: You Need $1BN To Do Seed Today: The Untold Truths of Venture | Who Wins and Who Loses in the Next Decade of VC | Why Margin and Price Matter Less in a World of AI with Sameer Dholakia, Bessemer",
+      "published": "2026-10-19",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-you-need-1bn-to-do-seed-today-the-untold-truths-of-venture-who-wins-and-who-loses-in-the-next-decade-of-vc-why-margin-and-price-matter-less-in-a-world-of-ai-with-sameer-dholakia-bessemer"
+    },
+    {
+      "title": "20VC: Horizontal vs Vertical Agents: Who Wins | Model Routing: Commodity or Increasing in Value | The Future of the Inference Market | Why Founders Should Take Discounts for Tier 1 Firms with Harrison Chase, LangChain",
+      "published": "2026-10-18",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-horizontal-vs-vertical-agents-who-wins-model-routing-commodity-or-increasing-in-value-the-future-of-the-inference-market-why-founders-should-take-discounts-for-tier-1-firms-with-harrison-chase-langchain"
+    },
+    {
+      "title": "20VC: The Pro-Rata Battle: Valar Atomics Sues Day One Ventures | Meta Returns to the AI Frontier With Muse Wonder | NVIDIA Eyes $30B Reflection Deal &amp; Jev Raises $870M at a $7.5B Valuation",
+      "published": "2026-10-15",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-the-pro-rata-battle-valar-atomics-sues-day-one-ventures-meta-returns-to-the-ai-frontier-with-muse-wonder-nvidia-eyes-30b-reflection-deal-jev-raises-870m-at-a-75b-valuation"
+    },
+    {
+      "title": "20VC: Atlassian CEO on Why Agents Won't Replace Interfaces | Why Enterprises Won't Trust Chinese Models | Why The Jury Is Still Out On The Benefits of Specialised Models with Mike Cannon-Brookes",
+      "published": "2026-10-12",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-atlassian-ceo-on-why-agents-wont-replace-interfaces-why-enterprises-wont-trust-chinese-models-why-the-jury-is-still-out-on-the-benefits-of-specialised-models-with-mike-cannon-brookes"
+    },
+    {
+      "title": "20Sales: Inside Ramp's Sales Playbook: How to Build a Sales Machine with Max Freeman, SVP Sales @ Ramp",
+      "published": "2026-10-10",
+      "url": "https://thetwentyminutevc.libsyn.com/20sales-inside-ramps-sales-playbook-how-to-build-a-17bn-arr-sales-machine-with-max-freeman-svp-sales-ramp"
+    },
     {
       "title": "20VC: Cognition vs Factory: Vinod Khosla Creates a Storm | OpenAI Nears $70B Run Rate: Anthropic Under Threat | ElevenLabs Doubles Its Valuation to $22B &amp; Salesforce Buys Listen Labs for $2B",
       "published": "2026-10-08",
