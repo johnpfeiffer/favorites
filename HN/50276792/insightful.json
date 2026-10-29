@@ -1,0 +1,3995 @@
+{
+ "thread": {
+  "id": 50276792,
+  "title": "Gemini 4 Carbon",
+  "url": "https://news.ycombinator.com/item?id=50276792",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+  "posted": "2026-10-28T17:01:23.000Z",
+  "analyzed_at": "2026-10-29",
+  "total_comments": 708,
+  "unique_authors": 497
+ },
+ "summary": {
+  "insightful_comments": 169,
+  "unique_authors": 134,
+  "by_confidence": {
+   "high": 49,
+   "medium": 72,
+   "low": 48
+  },
+  "note": "Dual-listed cheer/boost entries appear in astroturf.json; see categories."
+ },
+ "author_index": {
+  "seizethecheese": [
+   50277901,
+   50278476,
+   50278506,
+   50278658,
+   50279058,
+   50280073,
+   50281550,
+   50278558,
+   50279060,
+   50278488,
+   50279044,
+   50282029
+  ],
+  "brainwad": [
+   50277728,
+   50278537,
+   50278779,
+   50278729
+  ],
+  "Topfi": [
+   50276995,
+   50277368,
+   50277487
+  ],
+  "joshstrange": [
+   50277040,
+   50277324,
+   50277077
+  ],
+  "hangrybear666": [
+   50280127,
+   50279840,
+   50280021
+  ],
+  "wasabi991011": [
+   50278775,
+   50279015,
+   50279346
+  ],
+  "CuriouslyC": [
+   50279424,
+   50279513
+  ],
+  "JacobAsmuth": [
+   50278009,
+   50277931
+  ],
+  "MostlyStable": [
+   50278025,
+   50277355
+  ],
+  "SwellJoe": [
+   50277126,
+   50278012
+  ],
+  "WarmWash": [
+   50276978,
+   50282809
+  ],
+  "peri-cl": [
+   50277834,
+   50279535
+  ],
+  "WASDx": [
+   50279410,
+   50279445
+  ],
+  "antonvs": [
+   50283621,
+   50283683
+  ],
+  "david-gpu": [
+   50278260,
+   50279243
+  ],
+  "hiddencost": [
+   50278028,
+   50277969
+  ],
+  "pseudosavant": [
+   50278598,
+   50282737
+  ],
+  "ur-whale": [
+   50277864,
+   50277807
+  ],
+  "willis936": [
+   50283710,
+   50283742
+  ],
+  "827a": [
+   50279731
+  ],
+  "BoorishBears": [
+   50278971
+  ],
+  "DIVx0": [
+   50278997
+  ],
+  "HaZeust": [
+   50279964
+  ],
+  "LewisOrton": [
+   50280642
+  ],
+  "NorthSouthNorth": [
+   50281912
+  ],
+  "TuxSH": [
+   50279408
+  ],
+  "Wheen": [
+   50277517
+  ],
+  "__jl__": [
+   50277212
+  ],
+  "cubefox": [
+   50278526
+  ],
+  "dgacmu": [
+   50279054
+  ],
+  "dizhn": [
+   50278780
+  ],
+  "edot": [
+   50277334
+  ],
+  "epihelix": [
+   50283049
+  ],
+  "gavinray": [
+   50280932
+  ],
+  "guelo": [
+   50277644
+  ],
+  "hackernudes": [
+   50284169
+  ],
+  "inknight": [
+   50276992
+  ],
+  "kisamoto": [
+   50281040
+  ],
+  "llm_nerd": [
+   50282461
+  ],
+  "lukeschlather": [
+   50280459
+  ],
+  "mlinsey": [
+   50277626
+  ],
+  "n0on3": [
+   50280912
+  ],
+  "newspaper1": [
+   50277244
+  ],
+  "orbital-decay": [
+   50278417
+  ],
+  "thanhhaimai": [
+   50278530
+  ],
+  "unbrice": [
+   50281401
+  ],
+  "vatsachak": [
+   50277454
+  ],
+  "wmedrano": [
+   50283646
+  ],
+  "5555watch": [
+   50278921
+  ],
+  "Imustaskforhelp": [
+   50277567
+  ],
+  "Peteriishak": [
+   50276910
+  ],
+  "RajuChacha108": [
+   50279518
+  ],
+  "Rudybega": [
+   50282637
+  ],
+  "Ryan5453": [
+   50276961
+  ],
+  "TacticalCoder": [
+   50283977
+  ],
+  "VadimPR": [
+   50279525
+  ],
+  "_s_a_m_": [
+   50281128
+  ],
+  "aix1": [
+   50277473
+  ],
+  "at1as": [
+   50282853
+  ],
+  "atakanaluc": [
+   50278213
+  ],
+  "cardboard9926": [
+   50277701
+  ],
+  "cesarvarela": [
+   50276962
+  ],
+  "cotillion": [
+   50277274
+  ],
+  "crimsoneer": [
+   50277655
+  ],
+  "cvladan": [
+   50277952
+  ],
+  "dannyw": [
+   50277354
+  ],
+  "deanc": [
+   50277006
+  ],
+  "delegate": [
+   50277188
+  ],
+  "eldenring": [
+   50276885
+  ],
+  "esafak": [
+   50277912
+  ],
+  "fastball": [
+   50280394
+  ],
+  "gempir": [
+   50279987
+  ],
+  "greggh": [
+   50279406
+  ],
+  "gulmothrowaway": [
+   50280749
+  ],
+  "highfrequency": [
+   50278983
+  ],
+  "ijidak": [
+   50281439
+  ],
+  "jeffbee": [
+   50277337
+  ],
+  "jeremyjh": [
+   50281737
+  ],
+  "kevinkoning": [
+   50278082
+  ],
+  "leetharris": [
+   50277876
+  ],
+  "lifeisloving": [
+   50279548
+  ],
+  "ltph0": [
+   50278516
+  ],
+  "luckydata": [
+   50282516
+  ],
+  "miyuru": [
+   50277058
+  ],
+  "paradox460": [
+   50282429
+  ],
+  "pea": [
+   50280457
+  ],
+  "petu": [
+   50278848
+  ],
+  "pjm331": [
+   50279464
+  ],
+  "rdm_blackhole": [
+   50278746
+  ],
+  "ricericerice": [
+   50278093
+  ],
+  "ryanschaefer": [
+   50280421
+  ],
+  "seanmcdirmid": [
+   50281971
+  ],
+  "spockz": [
+   50282025
+  ],
+  "spyckie2": [
+   50277052
+  ],
+  "staticman2": [
+   50277629
+  ],
+  "stbenjam": [
+   50277785
+  ],
+  "stingraycharles": [
+   50282588
+  ],
+  "tern": [
+   50279440
+  ],
+  "thisisauserid": [
+   50277627
+  ],
+  "tonfa": [
+   50280163
+  ],
+  "tonymet": [
+   50282880
+  ],
+  "usef-": [
+   50281898
+  ],
+  "yegle": [
+   50277828
+  ],
+  "zarzavat": [
+   50282795
+  ],
+  "Aboutplants": [
+   50280916
+  ],
+  "Corence": [
+   50278105
+  ],
+  "Havoc": [
+   50278560
+  ],
+  "ImaCake": [
+   50281925
+  ],
+  "MILP": [
+   50279185
+  ],
+  "MaxBarraclough": [
+   50280300
+  ],
+  "PreciousH": [
+   50277193
+  ],
+  "Silagi": [
+   50279128
+  ],
+  "dada216": [
+   50278132
+  ],
+  "deno": [
+   50280174
+  ],
+  "fancyfredbot": [
+   50280369
+  ],
+  "flowerlad": [
+   50277251
+  ],
+  "flurdy": [
+   50282306
+  ],
+  "jawiggins": [
+   50277836
+  ],
+  "layman51": [
+   50283185
+  ],
+  "m11a": [
+   50282609
+  ],
+  "nater5000": [
+   50278255
+  ],
+  "nostrebored": [
+   50280493
+  ],
+  "notatoad": [
+   50277185
+  ],
+  "onlyrealcuzzo": [
+   50278747
+  ],
+  "pradn": [
+   50279360
+  ],
+  "r0fl": [
+   50281935
+  ],
+  "saberience": [
+   50277062
+  ],
+  "singingtoday": [
+   50284024
+  ],
+  "tamimio": [
+   50277837
+  ],
+  "teach": [
+   50282118
+  ],
+  "thway15269037": [
+   50277754
+  ],
+  "user43928": [
+   50278047
+  ],
+  "verdverm": [
+   50277882
+  ],
+  "zhobbs": [
+   50281522
+  ]
+ },
+ "comments": [
+  {
+   "id": 50279731,
+   "author": "827a",
+   "url": "https://news.ycombinator.com/item?id=50279731",
+   "created_at": "2026-10-28T19:41:37.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google",
+    "top_level"
+   ],
+   "why": "Detailed, specific account of the labyrinth of accessing Gemini models across app, plans, and Workspace; sharp bureaucracy critique.",
+   "text": "At this point if a Google PM handed me $100 and said \"go figure out how to issue a prompt to Gemini 4 Argon\" I'm only ~30% sure I could figure out how. The Gemini app in my phone only has 3.8 Pro as the latest model; it does say \"Ultra\" in the bottom left, but I really don't think I'm on the Ultra plan. How I would sign up for that, on a Workspace account, is beyond our brightest minds. Its sad watching them try to keep up when they want nothing more than to crumble under the weight of their own bureaucracy, and at this point I'm not sure there's any hope for them.",
+   "author_comments_in_thread": 1,
+   "account_created": "2025-01-20",
+   "account_karma": 4033
+  },
+  {
+   "id": 50278971,
+   "author": "BoorishBears",
+   "url": "https://news.ycombinator.com/item?id=50278971",
+   "created_at": "2026-10-28T18:49:17.000Z",
+   "depth": 2,
+   "parent_author": "nater5000",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Reasoned industry-wide critique of RL-maxxing V2s erasing subjectively better V1 writing models.",
+   "text": "Argon is the best writing model that's been released in a while It's sad to see Carbon releasing at the same pricing because that implies Google is planning to do the thing everyone is doing: release promising model for subjective preference, RL-maxx a V2, replace promising V1 with V2 because it benchmarks better Muse did it, Kimi did it, Deepseek did it, Tencent did it. No one seems to care abojt subjective preference anymore.",
+   "author_comments_in_thread": 1,
+   "account_created": "2016-08-18",
+   "account_karma": 7305
+  },
+  {
+   "id": 50279424,
+   "author": "CuriouslyC",
+   "url": "https://news.ycombinator.com/item?id=50279424",
+   "created_at": "2026-10-28T19:23:26.000Z",
+   "depth": 1,
+   "parent_author": "n_u",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Plausible technical mechanism: distillation from a later teacher checkpoint with RL as the expensive step explains the two-week turnaround.",
+   "text": "Likely they did a distillation run on a later checkpoint of a large internal teacher model, probably with some tuning of the distillation process based on early public results with Argon. RL is the expensive/time consuming step, they should be able to distill down from a checkpoint with the stamp of approval pretty quickly.",
+   "author_comments_in_thread": 2,
+   "account_created": "2014-07-30",
+   "account_karma": 8285
+  },
+  {
+   "id": 50278997,
+   "author": "DIVx0",
+   "url": "https://news.ycombinator.com/item?id=50278997",
+   "created_at": "2026-10-28T18:51:21.000Z",
+   "depth": 3,
+   "parent_author": "seizethecheese",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Detailed hands-on test of Argon on a visual reasoning task across effort modes, with comparisons to Haiku 5.5 and GPT-6.1-Terra.",
+   "text": "I've used argon via `agy` cli tool and was not impressed at all. However, I decided to burn up the remainder of my ultra credits on a visual reasoning pet project. Argon in low and medium mode had higher quality results than it did when running in high mode, almost every time. My tasks involved the agent finding some details in a raster image and then mark it up with predictions about what it found. Argon on high would do the work, and then a whole bunch of other stuff i did not ask for. All that extra broke everything else downstream from the analysis. However, doing the same work with Argon in low effort was on par with results from Haiku 5.5 (xhigh) and GPT-6.1-Terra (medium). So, Argon low works better than Argon high, but for my tasks -- a very weak model relative to how google positions it. I'm ready for Geimini Unobtanium!",
+   "author_comments_in_thread": 1,
+   "account_created": "2011-11-30",
+   "account_karma": 665
+  },
+  {
+   "id": 50279964,
+   "author": "HaZeust",
+   "url": "https://news.ycombinator.com/item?id=50279964",
+   "created_at": "2026-10-28T19:55:41.000Z",
+   "depth": 2,
+   "parent_author": "loeg",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Concrete division-of-labor workflow between Fable 5.1 (blueprinting/design) and Opus 5.5 (execution) with prompt handoff details.",
+   "text": "Fable 5.1 is good for better knowledge and tasks that require a more meticulous output, and it's objectively better at design and mockups IMO, but I rarely resort to it outside of that. I generally use Fable for high-level blueprinting, architecture, and technical planning, and I tell it to write most of its documentation in a way Opus 5.5 will understand and maximally benefit from; with the added prompt for Opus to concede when a task would be better off to bring Fable back in. I've had ZERO problems.",
+   "author_comments_in_thread": 1,
+   "account_created": "2021-03-17",
+   "account_karma": 1466
+  },
+  {
+   "id": 50278009,
+   "author": "JacobAsmuth",
+   "url": "https://news.ycombinator.com/item?id=50278009",
+   "created_at": "2026-10-28T17:55:47.000Z",
+   "depth": 1,
+   "parent_author": "nickandbro",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "early_comment"
+   ],
+   "why": "Concrete data point: Carbon used ~30% fewer tokens than Opus per AA.",
+   "text": "You can check out the token usage on AA. It used ~30% fewer tokens than Opus.",
+   "author_comments_in_thread": 3,
+   "account_created": "2025-11-18",
+   "account_karma": 201
+  },
+  {
+   "id": 50280642,
+   "author": "LewisOrton",
+   "url": "https://news.ycombinator.com/item?id=50280642",
+   "created_at": "2026-10-28T20:45:30.000Z",
+   "depth": 2,
+   "parent_author": "5555watch",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google",
+    "repeat_argon_flag"
+   ],
+   "why": "Specific experience contrasting Argon via API versus the Antigravity harness, with a dogfooding critique of Google's product teams.",
+   "text": "i dont think they've nerfed it did you use api or via subscription(which might make sense) api has been pretty stable for me. personally i like 4 Argon, it's very clever for me in a very different way comparing to the other two (especially via api) but when it comes to the google products.. sigh. nobody who's actually working on these products really cares about them in google now (maybe notebooklm is the rare exception), they're either not dogfooding themselves or somehow intentionally poisoning the experience on purpose, or simply inqualified. poor gemini is suffering in agy i can tell, it struggles so much and wont even use simple tools properly. if you put it in any good 3rd party harness out there it's flexing way better than agy and this tells a lot.",
+   "author_comments_in_thread": 3,
+   "account_created": "2026-10-11",
+   "account_karma": 22
+  },
+  {
+   "id": 50278025,
+   "author": "MostlyStable",
+   "url": "https://news.ycombinator.com/item?id=50278025",
+   "created_at": "2026-10-28T17:56:22.000Z",
+   "depth": 3,
+   "parent_author": "mlinsey",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "early_comment",
+    "concrete_detail"
+   ],
+   "why": "Analyzes arena.ai coding leaderboard percentages and flags credibility problems with GPT 5.4's placement.",
+   "text": "That's a good point. The coding specific question (which still uses the arena.ai leaderboard, just the coding version instead of text version), has Anthropic at 66% at Anthropic/OAI at just shy of 80%. That's probably more representative even if Arena.ai isn't my favorite benchmarking site. Actually....looking in more depth I may have to upgrade to something stronger than \"not my favorite benchmarking site\". The first OAI model on there is GPT 5.4 at 31....that's not really credible. https://polymarket.us/event/code1-2026-12-31",
+   "author_comments_in_thread": 2,
+   "account_created": "2022-04-28",
+   "account_karma": 4904
+  },
+  {
+   "id": 50281912,
+   "author": "NorthSouthNorth",
+   "url": "https://news.ycombinator.com/item?id=50281912",
+   "created_at": "2026-10-28T22:35:48.000Z",
+   "depth": 1,
+   "parent_author": "827a",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Detailed war story of Gemini API key/batch-mode maze across services, permissions, and 5-minute outages requiring exponential backoff.",
+   "text": "I remember a year ago and a bit ago trying to get an api key for some Gemini ~3 model. I probably spent an hour trying to find how to get a key in AI Studio. Finally figure it out and got a key. I needed batch mode. Oh but the key from service X doesn't support batch mode, you need to go service Y and btw there is no UI for that so you need to use an SDK or API (cant even remember anymore). Spend an hour figuring that out, then it turns out I can't use batch mode because I don't have permissions. Have boss spend an hour granting me permissions. Then service is unavailable every n requests for 5 minutes, so I have fuck with exponential back offs. Glad to see they moved that experience to their consumer offerings lol.",
+   "author_comments_in_thread": 1,
+   "account_created": "2025-12-19",
+   "account_karma": 220
+  },
+  {
+   "id": 50277126,
+   "author": "SwellJoe",
+   "url": "https://news.ycombinator.com/item?id=50277126",
+   "created_at": "2026-10-28T17:19:33.000Z",
+   "depth": 1,
+   "parent_author": "cesarvarela",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "early_comment",
+    "repeat_argon_flag"
+   ],
+   "why": "Detailed first-hand comparison of Argon confirmation behavior vs Opus 5.5 plus concrete $20-plan usage-limit comparison.",
+   "text": "The problem with Argon, that makes it feel like older models to me, is that it stops and waits for confirmations far more often. If run (in a VM or container) in the dangerously skip permissions mode, it gets a lot less annoying. It feels quite smart and thorough, to me, though still lagging Opus 5.5. I'd be fine using it instead of Opus for most things. This post explicitly says that's been improved in Carbon. So, here's hoping. Google currently has the most generous usage limits on their $20 plan among US providers, so it's a pretty good deal.",
+   "author_comments_in_thread": 3,
+   "account_created": "2007-02-19",
+   "account_karma": 36837
+  },
+  {
+   "id": 50278012,
+   "author": "SwellJoe",
+   "url": "https://news.ycombinator.com/item?id=50278012",
+   "created_at": "2026-10-28T17:55:55.000Z",
+   "depth": 3,
+   "parent_author": "staticman2",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "repeat_argon_flag"
+   ],
+   "why": "Quantified 2x-3x consumption-rate comparison across Gemini/Codex/Claude $20 plans with workflow description.",
+   "text": "Yes. For similar tasks using Antigravity+Argon vs. Codex+Astra vs. Claude+Opus, Gemini has the most generous limits on the $20 plan. Since the ChatGPT limits got nerfed last month (or whenever, I can't keep up), the $20 ChatGPT plan is very stingy. With similar tasks I'd see 2x-3x faster consumption using Codex+Astra vs. Antigravity+Argon. I could casually code all day on the $20 Gemini plan, using Argon on Medium, without ever bumping into the limit, which is not true of ChatGPT or Claude $20 plans (but used to be true of ChatGPT). If I were using automated tools and doing a bunch of things at once, I'm sure I could saturate it, but I don't think most humans are very good multitaskers even with agents doing most of the work, so I tend to stay pretty engaged with what's happening and while the agent is working, I'm spending time looking over the previous work, testing, editing docs, etc. I'm not juggling five projects at once, most of the time. The order of generosity, as it seems to be from my limited testing is currently Gemini->Claude->ChatGPT. (And, if we're including Chinese subscriptions, Kimi is below all of those. Very stingy.)",
+   "author_comments_in_thread": 3,
+   "account_created": "2007-02-19",
+   "account_karma": 36837
+  },
+  {
+   "id": 50276995,
+   "author": "Topfi",
+   "url": "https://news.ycombinator.com/item?id=50276995",
+   "created_at": "2026-10-28T17:13:18.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "early_comment",
+    "top_level",
+    "critical_of_google",
+    "concrete_detail"
+   ],
+   "why": "Long, detailed critique: broken AA link, screen reader bug, unreleased model, competitor-sniping analysis, and concrete demands on tool-calling and long-context behavior.",
+   "text": "> Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index [0] at 59. If you are going to hyperlink, maybe make sure that your model is actually on the page. Also, the screen reader has a bug ([[duration]] minutes instead of the actual value) and you have once again announced a model we cannot use. Edit: Both have been fixed after posting this. Maybe a Gemini 4 Carbon Agent has read and fixed the screen reader bug xD I cannot fathom what motivates a lab, whose releases for the last year haven't been competitive, to shoot themselves in the foot like this. All this does is make it easier for competitors to snipe your actual launch, even if there was potential with this model (doubtful given 4 Argon, 3.1 Pro and 3 Pro), now everyone knows what exactly they need to release eval results wise to beat Carbon. There is this old idea of \"Your competitor always is the first to have an idea what your next product will do\", but in this case, Anthropic and co don't even need to guess, they got specific numbers to target. Announce your models the moment they are available on API and in the subscription for all paying subscription users ( cough Argon cough ), stop with the cryptic tweets to drum up hype you know full well you won't live up to and make models that tool call, task adhere, task infer and handle long context tasks well beyond simple back-and-forth, chat style prompting. Reminder, during Ox Alpha, actual Google employees implied that was their model. How is this something anyone would believe is a good idea and how are they still allowed to tweet anything after? Please, stop that, it isn't helpful. If frontier isn't your thing, stop wasting money on moonshot pre-train runs, fund research and open weight via Gemma and sell your inference hardware to other labs, that's far more lucrative anyway, as seen with Colossus 1. [0] https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index",
+   "author_comments_in_thread": 6,
+   "account_created": "2023-06-05",
+   "account_karma": 4089
+  },
+  {
+   "id": 50277368,
+   "author": "Topfi",
+   "url": "https://news.ycombinator.com/item?id=50277368",
+   "created_at": "2026-10-28T17:29:13.000Z",
+   "depth": 2,
+   "parent_author": "gengelbro",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google",
+    "early_comment"
+   ],
+   "why": "Detailed cross-lab comparison of announcement-to-availability lags, with specific history of Argon's three-week delay.",
+   "text": "There was none for Fable 5.1, Opus 5.5, Sonnet 5.5, GPT-6.1 Sol or GPT-6.1 Terra and while Astra had a period between announcement and availability, it was a single day, so not sure that applies either. Gemini 4 Argon (at best Sonnet/Terra level) meanwhile took weeks to “come out” after their public announcement and when it finally did, paying Google AI plan users couldn't access Argon on Gemini or Antigravity even a week after. Three weeks from announcement to accessible for paying customers is not standard outside Google and this has been a problem with every Gemini release for the last year, so even using governmental requirements as an excuse isn’t possible here. I will say that I dislike how OpenAI releases model only for Work and Codex but not via Chat, Anthropics \"everywhere all at once\" strategy is I feel the most user friendly.",
+   "author_comments_in_thread": 6,
+   "account_created": "2023-06-05",
+   "account_karma": 4089
+  },
+  {
+   "id": 50279408,
+   "author": "TuxSH",
+   "url": "https://news.ycombinator.com/item?id=50279408",
+   "created_at": "2026-10-28T19:22:12.000Z",
+   "depth": 2,
+   "parent_author": "lifeisloving",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Evidence-based rebuttal of Google product strength (GMeet vs Zoom, 1.2B ChatGPT WAU).",
+   "text": "> Google has the products Outside their most successful products (YouTube, Android, GMail, Chrome, Search), their products are usually worse than their competitors (e.g. GMeet vs Zoom) > the brand recognition Of not maintaining/outright abandoning their products, and making Search worse over the years? > most importantly a billion normies ChatGPT has 1.2B weekly active users, all the normies know what ChatGPT is but don't know about Gemini (outside the \"AI Mode\" stuff)",
+   "author_comments_in_thread": 1,
+   "account_created": "2020-02-28",
+   "account_karma": 340
+  },
+  {
+   "id": 50276978,
+   "author": "WarmWash",
+   "url": "https://news.ycombinator.com/item?id=50276978",
+   "created_at": "2026-10-28T17:12:38.000Z",
+   "depth": 1,
+   "parent_author": "kilroy123",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "early_comment"
+   ],
+   "why": "Detailed argument that megacorp scrutiny explains Google's slower, risk-averse release cadence.",
+   "text": "Google is way more risk adverse than the smaller labs, because the punishment for slip ups is dramatic. They cut down 1.5sq miles of man made logging forest that was rezoned to industrial land (and sold to google), without getting the right permit first, and it's been international news for almost a month. Anthropic and OAI are still small fish, at least publicly, so they can get away with far more. If Gemini was doing the shit OAI was doing with agent hacks and the like, there would be congressional hearings and $10B in european fines. When you are a megacorp, perhaps here even the megacorp, every mistake you make is worth millions to someone, the government, the media, individuals, or all of them",
+   "author_comments_in_thread": 11,
+   "account_created": "2026-01-20",
+   "account_karma": 5448
+  },
+  {
+   "id": 50277517,
+   "author": "Wheen",
+   "url": "https://news.ycombinator.com/item?id=50277517",
+   "created_at": "2026-10-28T17:34:59.000Z",
+   "depth": 1,
+   "parent_author": "Topfi",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "early_comment"
+   ],
+   "why": "Detailed, specific critique of Artificial Analysis index changes timed around open-weight models (v4.2, Kimi K3.1) reaching top spots.",
+   "text": "AA has also lost all credibility to me with all of their index changes being unannounced and following an open weight model getting close to the top spot. I gave them the benefit of the doubt for v4.2, but to do this again immediately after Kimi K3.1 got into the top 5 is a little too suspicious for me. For Opus and Astra to stay at about the same score while everything else drops feels like they are adjusting weights specifically in their favor. Even in the optimistic case that this isn't some conspiracy, it highlights how arbitrary their scores are. I had trusted their previous ratings and their new index shows that even AA doesn't agree with them. What's to say this new index is any better and won't just change drastically again?",
+   "author_comments_in_thread": 1,
+   "account_created": "2011-11-25",
+   "account_karma": 82
+  },
+  {
+   "id": 50277212,
+   "author": "__jl__",
+   "url": "https://news.ycombinator.com/item?id=50277212",
+   "created_at": "2026-10-28T17:22:58.000Z",
+   "depth": 1,
+   "parent_author": "kilroy123",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google",
+    "early_comment"
+   ],
+   "why": "Substantive critique of Artificial Analysis listing unavailable models, with reasoned predictions about Fable 5.5/Astra 6.1 timing.",
+   "text": "I think Artificialanalysis should have a policy of only including available models or something. They already include Gemini 4 Carbon now even though nobody can access it. Google can celebrate that they have the highest scoring model. Fable 5.5 and Astra 6.1 will probably be released before Gemini 4 Carbon and might well outperform it...",
+   "author_comments_in_thread": 1,
+   "account_created": "2015-11-05",
+   "account_karma": 462
+  },
+  {
+   "id": 50277728,
+   "author": "brainwad",
+   "url": "https://news.ycombinator.com/item?id=50277728",
+   "created_at": "2026-10-28T17:44:10.000Z",
+   "depth": 1,
+   "parent_author": "javierhonduco",
+   "categories": [
+    "disclosed_googler",
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "early_comment",
+    "affiliation_disclosure",
+    "concrete_detail",
+    "affiliated_author",
+    "pre_disclosure"
+   ],
+   "why": "Refers to 'our models' and internal dogfood versions plus public usage dashboards, disclosing Google employment with substantive detail.",
+   "text": "People I work with either use the dogfood versions of our models, the latest public versions thereof, or Opus 5.5. It's a personal preference thing, we have public usage dashboards and you can see some people are 100% Gemini, some are 100% Claude, some are using both.",
+   "author_comments_in_thread": 9,
+   "account_created": "2018-03-22",
+   "account_karma": 1110
+  },
+  {
+   "id": 50278526,
+   "author": "cubefox",
+   "url": "https://news.ycombinator.com/item?id=50278526",
+   "created_at": "2026-10-28T18:22:07.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google",
+    "top_level"
+   ],
+   "why": "Sharp analysis showing benchmark cherrypicking flipped Argon vs Astra ordering between launches.",
+   "text": "Note that the benchmarks seem to be cherrypicked. For Argon they were also cherrypicked, but differently, when Argon released. For the new benchmarks (cherrypicked for Carbon), Argon is now behind GPT-6 Astra in most of these benchmarks, even though Argon was ahead of Astra in the benchmarks cherrypicked for Argon. So apparently they couldn't find benchmarks in which both Carbon and Argon are overall ahead of Astra.",
+   "author_comments_in_thread": 6,
+   "account_created": "2021-12-17",
+   "account_karma": 8048
+  },
+  {
+   "id": 50279054,
+   "author": "dgacmu",
+   "url": "https://news.ycombinator.com/item?id=50279054",
+   "created_at": "2026-10-28T18:55:11.000Z",
+   "depth": 1,
+   "parent_author": "PreciousH",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Concrete task (Argon found a solid optimization better than Opus's suggestion) plus a specific behavioral complaint about over-eager implementation.",
+   "text": "They finally gave the $20/month pro tier access to argon in antigravity so I tried it a few days ago on one small thing and ... it actually did really well. But it still annoys me: I told it to _tell_ me something, and instead it _implemented_ the something. The previous models were way too eager to just jump in and do and this one seems no different. But the optimization it identified was both really solid and just a good engineering choice, and better than what Opus had been suggesting. It also gave pretty good feedback on a bit of writing.",
+   "author_comments_in_thread": 2,
+   "account_created": "2013-02-12",
+   "account_karma": 7991
+  },
+  {
+   "id": 50278780,
+   "author": "dizhn",
+   "url": "https://news.ycombinator.com/item?id=50278780",
+   "created_at": "2026-10-28T18:36:34.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google",
+    "top_level",
+    "repeat_argon_flag"
+   ],
+   "why": "Detailed enumeration of the Argon rollout fiasco: removed old Flash/Pro models, staggered tiers, split usage pools for Pro vs Ultra, Antigravity lag.",
+   "text": "They managed to piss off all classes of their customers with their latest Argon release. They removed old flash models and gemini pro without actually giving Argon to everybody. Then they released the model to only paying customers to the exclusion of free plans or promotional deals like that comes with their Pixel phones. They staggered the release of Argon and didn't give it to Pro and Ultra users at the same time. Pro users when they got it received an extra usage pool for it (didn't help - they can't do anything with their token quota) while Ultra users have a single pool shared with Gemini Flash. I am not even sure if Antigravity got it yet. Literally nobody is happy about the release and they don't seem to care at all.",
+   "author_comments_in_thread": 1,
+   "account_created": "2022-03-23",
+   "account_karma": 2155
+  },
+  {
+   "id": 50277334,
+   "author": "edot",
+   "url": "https://news.ycombinator.com/item?id=50277334",
+   "created_at": "2026-10-28T17:27:55.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google",
+    "early_comment",
+    "top_level"
+   ],
+   "why": "Extended reasoned critique of cyber-gatekeeping rollouts with concrete precedents (PHP vuln, Hugging Face).",
+   "text": "Can’t stand these paternalistic companies gatekeeping new models because “cyber”. We saw how this went with the PHP vuln last week with defenders using special / early-access models and then saying “hey there’s a vuln we won’t say what it is but it’s there and we won’t patch it until tomorrow”, and with the huggingface devs having to use Chinese models to defend from OpenAI because their American models wouldn’t help because cyber. Any bad actor worth their salt is already a) going to have the weights downloaded, forever, to various models that are good at hacking and b) is out of reach of the U.S. government anyways. A ban on open weight models, plus paternalistic gatekeepers of cyber models like the big labs, just opens up Americans and American companies and municipalities to hacking from abroad. Or I guess to a really nice racket where only the big labs can offer a “we’ll continuously monitor and improve your cybersecurity for millions of dollars a year”. “We're taking a deliberate approach to rollout and are actively engaged in the U.S. government’s voluntary process for pre-release model testing. Starting this week, we will make Carbon available to a subset of cyber defenders and will gradually phase access to additional trusted partners through our Fairwind Program. We’re continuing to gather feedback and iterate on guardrails before making Carbon available to developers, businesses, and consumers via our product surfaces as soon as possible.”",
+   "author_comments_in_thread": 1,
+   "account_created": "2020-11-27",
+   "account_karma": 1543
+  },
+  {
+   "id": 50283049,
+   "author": "epihelix",
+   "url": "https://news.ycombinator.com/item?id=50283049",
+   "created_at": "2026-10-29T00:52:29.000Z",
+   "depth": 3,
+   "parent_author": "drTobiasFunke",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Detailed analysis of Copilot model routing using the pelican benchmark to identify which underlying model serves each tier.",
+   "text": "Technically not true any more (for some versions of copilot chat, at least) -- my workplace's version has a \"GPT 5.6 Sol\" selector with \"Answer faster\" or \"Think Deeper\". (\"Think deeper\" appears to represent the lowest reasoning effort). But you have to select it each time; otherwise \"Auto\" sends you to a lobomised model that is probably Phi-4 :( One of the unexpectedly useful aspects of Simon Willison's pelican benchmark is that you can estimate what model you're using via the pelican it generates: \"GPT 5.6 Sol\": appears genuine, albeit low reasoning. -> handed off agentically: appears to be using Luna for agentic tasks. \"Auto\": very low quality, does not appear to be an OAI model.",
+   "author_comments_in_thread": 2,
+   "account_created": "2026-02-22",
+   "account_karma": 607
+  },
+  {
+   "id": 50280932,
+   "author": "gavinray",
+   "url": "https://news.ycombinator.com/item?id=50280932",
+   "created_at": "2026-10-28T21:10:22.000Z",
+   "depth": 2,
+   "parent_author": "no-name-here",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Concrete task: ran the benchmark image through Argon with a specific prompt and shared the chat link as evidence.",
+   "text": "I used Gemini 4 Argon (High) from the Android app with the original image and following prompt: > \"Edit this image to color code the benchmarks scores using a gradient scheme that is immediately obvious\" Here's the direct Gemini chat link: https://share.gemini.google/g6LC7spTH0cO",
+   "author_comments_in_thread": 2,
+   "account_created": "2019-01-29",
+   "account_karma": 7894
+  },
+  {
+   "id": 50277644,
+   "author": "guelo",
+   "url": "https://news.ycombinator.com/item?id=50277644",
+   "created_at": "2026-10-28T17:40:04.000Z",
+   "depth": 2,
+   "parent_author": "sroussey",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "early_comment"
+   ],
+   "why": "Technical reasoning on why a 10M context window needs dozens of GPUs/TPUs per query and won't scale externally.",
+   "text": "A 10M window would require dozens of GPUs (or TPUs) dedicated to each query. That is something that Google could afford internally but wouldn't be able to scale to an external product.",
+   "author_comments_in_thread": 1,
+   "account_created": "2009-07-18",
+   "account_karma": 25400
+  },
+  {
+   "id": 50284169,
+   "author": "hackernudes",
+   "url": "https://news.ycombinator.com/item?id=50284169",
+   "created_at": "2026-10-29T03:15:36.000Z",
+   "depth": 4,
+   "parent_author": "f6v",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google",
+    "random_trial_framing"
+   ],
+   "why": "Detailed negative trial: Antigravity+Flash High burned weekly quota in 10 minutes on a concrete bluetooth gamepad firmware prompt vs 2-3h of useful work on rival $20 plans.",
+   "text": "Me too. I have a basic Google One account which is now called \"Google AI Plus\" and it says \"Get 2x higher usage access than Free\". The Google AI Pro plan says \"Get 4x higher usage access than Free\" (from https://gemini.google/subscriptions/). I tried antigravity with Gemini 3.8 Flash High. I used a prompt similar to what I use with Codex and Claude Code and it used up my weekly quota in 10 minutes without stopping or giving me anything useful at all. I have the $20 plan on Anthropic and OpenAI and frequently use up the five hour window but usually get at least 2-3 hours of useful work from similar prompts. The prompt was about an embedded firmware designing a bluetooth protocol for a gamepad (the firmware was already quite mature and this is not a large change). I was super excited to sign up for the Pro plan and compare it until I read the limits so now I didn't even bother because I'm convinced it will be trash. And just for the record I see \"Gemini 4 Argon\" available in my antigravity install.",
+   "author_comments_in_thread": 1,
+   "account_created": "2017-05-15",
+   "account_karma": 801
+  },
+  {
+   "id": 50276992,
+   "author": "inknight",
+   "url": "https://news.ycombinator.com/item?id=50276992",
+   "created_at": "2026-10-28T17:13:09.000Z",
+   "depth": 1,
+   "parent_author": "Fergusonb",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Concrete methodological criticism of Artificial Analysis adding untestable private benchmarks.",
+   "text": "I don't trust AA scores after the last update to the index. Specially now that they are including private benchmarks that no one can test by themselves but only trust the entity doing them.",
+   "author_comments_in_thread": 1,
+   "account_created": "2026-08-03",
+   "account_karma": 40
+  },
+  {
+   "id": 50277040,
+   "author": "joshstrange",
+   "url": "https://news.ycombinator.com/item?id=50277040",
+   "created_at": "2026-10-28T17:15:43.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google",
+    "early_comment",
+    "top_level"
+   ],
+   "why": "Concrete first-hand account: Carbon missing from the linked AA page, plus specific grievances about Google's account-ban risk and churning access paths.",
+   "text": "> Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59. Clicks link Carbon isn't anywhere on the page and you can't toggle it on either. I'm sure it's just timing and it will be there soon but still just look amateur, which is about how I feel about Google and AI overall. I know the models have improved but I still have a bad taste in my mouth from testing Gemini in the past and I still feel that Google has an overly complicated \"how to use our models\" that changes way too often. That coupled with \"you could lose access to your google account if we don't like what you do with Gemini\" means I have little desire to test it out. On top of all of that I'm completely over announcing a new model that we can't actually play with or try out. I don't think Google is lying about how well their model scored exactly but it still has big \"my girlfriend goes to another school, you don't know her\"-energy.",
+   "author_comments_in_thread": 3,
+   "account_created": "2011-07-11",
+   "account_karma": 23542
+  },
+  {
+   "id": 50277324,
+   "author": "joshstrange",
+   "url": "https://news.ycombinator.com/item?id=50277324",
+   "created_at": "2026-10-28T17:27:24.000Z",
+   "depth": 2,
+   "parent_author": "gengelbro",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google",
+    "early_comment"
+   ],
+   "why": "Detailed evidence-based contrast of Anthropic/OpenAI/Google rollout practices, critical of Google's coordination.",
+   "text": "> Oh come now, this rolled release is now the standard for frontier models. Sort of? Yes, OpenAI has been bad about slow rolling but Anthropic's last few models have been available essentially at the same time as they announced it. In most cases I updated Claude Code and was using the new model right away. Compare that to OpenAI who sometimes says \"Available to all Plus/Pro/etc plans\" without saying anything about \"rolling out\" and then it's a crap-shoot on when access will actually roll out. That said, they have gotten better, it used to be 1-3 weeks sometimes to get a new model/feature they announced was available for your plan. And then there is Google... Who loves to talk about models like this and then give no timeline for release. Even when they do release the models it's miserable to find out how to even use it. Is it in the API? Which API? Google Cloud/Vertex/Gemini Cloud? Whatever it's called this week? Coding plan? No, what Google does (or rather fails to do) in its rollouts does not compare to OpenAI/Anthropic. As for the AA page, it's just embarrassing. Any smaller company doing that would get roasted, Google doesn't get a pass, learn how to coordinate or wait for something to actually be true/live before posting.",
+   "author_comments_in_thread": 3,
+   "account_created": "2011-07-11",
+   "account_karma": 23542
+  },
+  {
+   "id": 50281040,
+   "author": "kisamoto",
+   "url": "https://news.ycombinator.com/item?id=50281040",
+   "created_at": "2026-10-28T21:19:18.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google",
+    "top_level"
+   ],
+   "why": "Step-by-step account of the Workspace Pro/Antigravity pricing dead-end: Ultra blocked for non-personal accounts, 'For Organisations' forces sales contact or enterprise API.",
+   "text": "I'm on a Workspace Pro subscription and the models I have are (in order of the dropdown on gemini.google.com): - 3.6 Flash - 3.8 Thinking - 3.1 Pro I would love to sign up to Antigravity to try out these new Gemini 4 models but the Antigravity pricing page - https://antigravity.google/pricing - recommends me (a \"Developer\") to \"Get Ultra\". But that leads me to an error page, because Ultra is only available for personal accounts apparently \"Sign in to your personal account. Switch to a personal Google Account to access Google One.\". Back I go to the Antigravity pricing page and there is a tier \"For Organisations\". But now I have the option of either contacting sales (are you kidding me?) or \"Start now via the API\". So I'm out - I want a simple subscription like Claude or Codex. I don't want API enterprise pricing for a 2 person organisation. I could use my personal account but I'm already paying increased Google Workspace prices to access Gemini and I can't even use the latest models with that. If someone at Google sees this, flag this ridiculous behaviour please and get things under control. It should be a very clear process - don't show me things I can't access. Price things consistently and please just make things logical.",
+   "author_comments_in_thread": 1,
+   "account_created": "2012-07-16",
+   "account_karma": 1885
+  },
+  {
+   "id": 50282461,
+   "author": "llm_nerd",
+   "url": "https://news.ycombinator.com/item?id=50282461",
+   "created_at": "2026-10-28T23:36:28.000Z",
+   "depth": 3,
+   "parent_author": "minraws",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google",
+    "random_trial_framing"
+   ],
+   "why": "Detailed negative trial: three chat exchanges exhausted Argon quota and dropped to Flash-lite, contrasted with near-unlimited Claude Max Opus 5.5 usage.",
+   "text": "I only use Pro for Google as their models were so far behind, but I tried to give Argon a go, and notably it is only available in the chat interface. One brief conversation, with three exchanges, and my quota was exhausted and it restricted me to Flash-lite for the rest of the day. Rather comical stuff. And it prompts me to upgrade to Ultra for \"5x more usage\". In contrast I use my Claude Max plan endlessly, on enormous problems, and my 5x max plan sees me almost never hitting double digits on my quota using Opus 5.5. It doesn't compel me to sign up for Google's higher level plans.",
+   "author_comments_in_thread": 1,
+   "account_created": "2023-05-19",
+   "account_karma": 4907
+  },
+  {
+   "id": 50280459,
+   "author": "lukeschlather",
+   "url": "https://news.ycombinator.com/item?id=50280459",
+   "created_at": "2026-10-28T20:30:51.000Z",
+   "depth": 1,
+   "parent_author": "827a",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Concrete experiment: probed Vertex models via script, found Argon modestly better than Flash but not worth cost.",
+   "text": "I had Claude write me a script to probe all the GCP Vertex models. I can say with confidence that I know how to call Argon, because Claude told me how, I did it, saw it was modestly better than Flash for my use case and I decided it wasn't worth the money right now, for this use case. I'm fairly confident I can't call Carbon, and I am okay with that.",
+   "author_comments_in_thread": 1,
+   "account_created": "2010-06-21",
+   "account_karma": 6166
+  },
+  {
+   "id": 50277626,
+   "author": "mlinsey",
+   "url": "https://news.ycombinator.com/item?id=50277626",
+   "created_at": "2026-10-28T17:39:26.000Z",
+   "depth": 2,
+   "parent_author": "MostlyStable",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "early_comment"
+   ],
+   "why": "Notes the prediction market resolves on arena.ai where Argon already led, and that coding is where the Anthropic-Google gap is widest.",
+   "text": "That market resolves using the arena.ai text leaderboard, where Argon was already #1 over Opus 5.5. Coding is way more economically consequential, and I think the current gap between Anthropic and Google is very wide there (at least, before this Carbon release)",
+   "author_comments_in_thread": 1,
+   "account_created": "2008-04-18",
+   "account_karma": 5217
+  },
+  {
+   "id": 50280912,
+   "author": "n0on3",
+   "url": "https://news.ycombinator.com/item?id=50280912",
+   "created_at": "2026-10-28T21:08:03.000Z",
+   "depth": 2,
+   "parent_author": "loeg",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Detailed comparative critique of Fable 5.1's degradation versus Opus 5.5 with steering attempts described.",
+   "text": "Speaking for a user-facing use, not autonomous coding or agentic workflows: Fable 5.1 choice of words and general “words salad” expression are horrific. It starts not so good, then as the context grows (still way below any reasonable rotting threshold) it gets completely insane. It’s pointless for a model to be extremely capable if it gives you brain damage. I don’t know if it’s because of the watermark thingy, all I know is it gives me pure rage flares and every time I give it a shot I regret it. And there is no way to steer it away from this, anything I tried, both instructions and harness-wise, either failed or got forgotten/ignored after a while. I really hope the next Fable class moves completely away from whatever they did there to cause this. Opus 5.5 in comparison is a bit more verbose and appears to settle on evaluations before the depth reached by Fable on very complex stuff, but is still vastly capable and I can read its output without wishing it had a physical form I could punch in the face.",
+   "author_comments_in_thread": 1,
+   "account_created": "2011-02-05",
+   "account_karma": 305
+  },
+  {
+   "id": 50277244,
+   "author": "newspaper1",
+   "url": "https://news.ycombinator.com/item?id=50277244",
+   "created_at": "2026-10-28T17:24:17.000Z",
+   "depth": 2,
+   "parent_author": "WarmWash",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "critical_of_google",
+    "concrete_detail",
+    "early_comment"
+   ],
+   "why": "Concrete pattern-based critique of Google's press-release-instead-of-release modus operandi.",
+   "text": "I'm going to say that deforesting without a permit is quite a bit worse than not releasing vaporware. This isn't about a \"slip up\", it's the modus operandi for Google since it was young. Press releases instead of real releases. I can't count the number of times I've clicked on a \"launch\" story from Google on HN only to end up on a blog post with an embedded youtube video, and nothing else. Google just doesn't get it, and this is one of the many ways that manifests.",
+   "author_comments_in_thread": 5,
+   "account_created": "2021-09-28",
+   "account_karma": 288
+  },
+  {
+   "id": 50278417,
+   "author": "orbital-decay",
+   "url": "https://news.ycombinator.com/item?id=50278417",
+   "created_at": "2026-10-28T18:16:45.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google",
+    "top_level"
+   ],
+   "why": "Technical critique of the 0.0% prompt-injection claim as metric-gaming, with sound reasoning.",
+   "text": ">Resisting prompt injection: While Argon previously led the Gray Swan’s Indirect Prompt Injection (IPI) Benchmark in prompt injection resistance with a very low 0.7% attack success rate, Carbon achieves 0.0% — resisting every evaluated attack attempt. \"We patched every vulnerability we knew\". Meanwhile, prompt-injecting Argon (or any other model) is still trivial, and Carbon won't be an exception. Because the attacker is not limited to things Google has evaluated. AI shops are blind to anything that's not a metric.",
+   "author_comments_in_thread": 1,
+   "account_created": "2017-07-04",
+   "account_karma": 7070
+  },
+  {
+   "id": 50277834,
+   "author": "peri-cl",
+   "url": "https://news.ycombinator.com/item?id=50277834",
+   "created_at": "2026-10-28T17:48:31.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "early_comment",
+    "top_level",
+    "critical_of_google",
+    "concrete_detail"
+   ],
+   "why": "Raises specific, sourced questions about whether Google coordinated with Artificial Analysis on the suspect v5 index update.",
+   "text": "> \"Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59.\" Basically everyone[0] thought yesterday's update looked suspect, even before we knew about Carbon. Did Google coordinate with AAI on any aspect of this in a non-public way? Is this the sort of thing a publicly-traded company would be obliged to disclose, if they were involved in it? AAI isn't a regulated company (private), but the stuff they print influences stock prices. [0] https://news.ycombinator.com/item?id=50268868 ( \"Artificial Analysis Intelligence Index v5\" )",
+   "author_comments_in_thread": 3,
+   "account_created": "2026-07-29",
+   "account_karma": 1897
+  },
+  {
+   "id": 50279535,
+   "author": "peri-cl",
+   "url": "https://news.ycombinator.com/item?id=50279535",
+   "created_at": "2026-10-28T19:30:02.000Z",
+   "depth": 2,
+   "parent_author": "WASDx",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Quantified suspicion of the 59-58 AA margin and non-reproducible aggregate weights.",
+   "text": "They're in first place by a narrow 59 to 58; so for all we know it could have gone the other way, had they done the benchmarks yesterday. (AAI would have had advance knowledge of this issue, since they would have been given Carbon access in advance. I think this is sus). I tried to figure out if I could reproduce Carbon's aggregate score using yesterday's (v4.3.2's) benchmark weights—but apparently you can't actually do that, without paying AAI. The raw numbers going into that aggregate aren't available on their public website.",
+   "author_comments_in_thread": 3,
+   "account_created": "2026-07-29",
+   "account_karma": 1897
+  },
+  {
+   "id": 50277901,
+   "author": "seizethecheese",
+   "url": "https://news.ycombinator.com/item?id=50277901",
+   "created_at": "2026-10-28T17:51:03.000Z",
+   "depth": 2,
+   "parent_author": "nater5000",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Concrete local coding-agent battle results ranking Argon worst with repo link and named competitors.",
+   "text": "We're working on a battle system for local coding agents [1] and Argon is really bad. Literally the worst model in our initial ranking, and Deepseek Flash, Muse Wonder, Grok are all in there. Top is Opus 5.5, followed by Fable. [1] https://github.com/bottomless/agent-duel",
+   "author_comments_in_thread": 12,
+   "account_created": "2014-01-30",
+   "account_karma": 4488
+  },
+  {
+   "id": 50278476,
+   "author": "seizethecheese",
+   "url": "https://news.ycombinator.com/item?id=50278476",
+   "created_at": "2026-10-28T18:20:00.000Z",
+   "depth": 4,
+   "parent_author": "ricericerice",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Defends methodology and cites a statistical test (99.1% posterior DeepSeek > Argon).",
+   "text": "You're right Arena.ai has far more data. Our data is actual local coding agent head-to-head battles, so I think our quality is far higher. Their agents leaderboard is literally just randomizing the agent and looking at metadata like tool call errors. In my opinion, it's poor quality data in high volume. Their web dev leaderboard is in cloud containers, most people don't run agents like that. I ran a statistical test on our data. Deepseek vs. Argon. Posterior probability DeepSeek 4.1 Flash is stronger: 99.1%.",
+   "author_comments_in_thread": 12,
+   "account_created": "2014-01-30",
+   "account_karma": 4488
+  },
+  {
+   "id": 50278506,
+   "author": "seizethecheese",
+   "url": "https://news.ycombinator.com/item?id=50278506",
+   "created_at": "2026-10-28T18:21:12.000Z",
+   "depth": 4,
+   "parent_author": "iamdelirium",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Describes running parallel head-to-head local coding agents, a methodology Arena lacks.",
+   "text": "Yeah, we are doing something different and actually running parallel local coding agents head to head, something Arena doesn't do.",
+   "author_comments_in_thread": 12,
+   "account_created": "2014-01-30",
+   "account_karma": 4488
+  },
+  {
+   "id": 50278658,
+   "author": "seizethecheese",
+   "url": "https://news.ycombinator.com/item?id=50278658",
+   "created_at": "2026-10-28T18:29:58.000Z",
+   "depth": 4,
+   "parent_author": "zf00002",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Early empirical result: no difference between Wonder and Sol 6.1 with wide error bars; Opus a tier above with high confidence.",
+   "text": "So far in our data, there's no difference between Wonder and Sol 6.1. This is with wide error bars, as we're just getting started. Note this is Wonder, not Full as it's not on openrouter yet. But yes, Opus is a tier above Wonder and Argon with very high confidence.",
+   "author_comments_in_thread": 12,
+   "account_created": "2014-01-30",
+   "account_karma": 4488
+  },
+  {
+   "id": 50279058,
+   "author": "seizethecheese",
+   "url": "https://news.ycombinator.com/item?id=50279058",
+   "created_at": "2026-10-28T18:55:44.000Z",
+   "depth": 4,
+   "parent_author": "DIVx0",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Discloses hardcoding effort levels for data concentration, Argon pinned to 'high' — real eval design detail.",
+   "text": "Okay, this is interesting. We are hardcoding the effort (to improve data concentration), and Argon is hardcoded to \"high\".",
+   "author_comments_in_thread": 12,
+   "account_created": "2014-01-30",
+   "account_karma": 4488
+  },
+  {
+   "id": 50280073,
+   "author": "seizethecheese",
+   "url": "https://news.ycombinator.com/item?id=50280073",
+   "created_at": "2026-10-28T20:02:47.000Z",
+   "depth": 6,
+   "parent_author": "villish",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Reports real prompts from real projects with minimal battle instructions; concrete eval methodology detail.",
+   "text": "Only 3.8 Flash which also didn't do particularly well. It's possible, but we are getting real prompts from people on real projects, and the instructions about the battle are pretty minimal.",
+   "author_comments_in_thread": 12,
+   "account_created": "2014-01-30",
+   "account_karma": 4488
+  },
+  {
+   "id": 50281550,
+   "author": "seizethecheese",
+   "url": "https://news.ycombinator.com/item?id=50281550",
+   "created_at": "2026-10-28T22:01:31.000Z",
+   "depth": 4,
+   "parent_author": "unbrice",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Point-by-point technical response on prompt caching verification, default.txt serving, and thought_signature blinding.",
+   "text": "Wow, cool, thanks! > anthropic only prompt caching Anthropic has custom prompt cache requirements, but we've verified all providers are working well. > Blinded model.api.id = \"contestant\" bypasses gemini.txt and serves Claude's prompt (default.txt) This is wrong. We're serving default.txt which is opencode's default prompt. We are not serving a custom prompt for any model, including Gemini. > Corrupted/dropped Gemini thought_signature (reasoning_details) in tool loops We blind the reasoning details in the frontend because this would leak information. Some models summarize thinking while others provide raw thinking. I'll check if we're corrupting the thought signature that's actually sent to the backend. So far this sort of looks like an example of Gemini being bad. Was this Argon?",
+   "author_comments_in_thread": 12,
+   "account_created": "2014-01-30",
+   "account_karma": 4488
+  },
+  {
+   "id": 50278530,
+   "author": "thanhhaimai",
+   "url": "https://news.ycombinator.com/item?id=50278530",
+   "created_at": "2026-10-28T18:22:24.000Z",
+   "depth": 2,
+   "parent_author": "nater5000",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Specific harness advice: Argon performs best on Antigravity harness with clean GEMINI.md; explains why Claude-optimized configs fail.",
+   "text": "It's important to note that Argon works best on Antigravity Harness: https://x.com/wenhaocha1/status/2114559544156205413 It's best to start with a relatively clean GEMINI.md too. Many configs optimized for Claude doesn't work well because Argon didn't have those same failure modes.",
+   "author_comments_in_thread": 1,
+   "account_created": "2012-01-16",
+   "account_karma": 2483
+  },
+  {
+   "id": 50281401,
+   "author": "unbrice",
+   "url": "https://news.ycombinator.com/item?id=50281401",
+   "created_at": "2026-10-28T21:48:07.000Z",
+   "depth": 3,
+   "parent_author": "seizethecheese",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Ran a concrete audit of the bench harness and listed specific defects (dropped thought_signature, prompt bypass, Anthropic-only caching) with a linked report.",
+   "text": "I asked Gemini to review the repo. Apparent issues include: - Corrupted/dropped Gemini thought_signature (reasoning_details) in tool loops - Blinded model.api.id = \"contestant\" bypasses gemini.txt and serves Claude's prompt (default.txt) - Anthropic-only prompt caching The full report is here, if you're interested: https://docs.google.com/document/d/1-HqujXuDRJSWJIqEvmctcINrJoT170o8/preview Prompt was: > I read on hacker news the following, which does not match my expectations. Check if something in the harness or bench is hurting gemini perf. followed by your post.",
+   "author_comments_in_thread": 1,
+   "account_created": "2023-03-12",
+   "account_karma": 67
+  },
+  {
+   "id": 50277454,
+   "author": "vatsachak",
+   "url": "https://news.ycombinator.com/item?id=50277454",
+   "created_at": "2026-10-28T17:32:23.000Z",
+   "depth": 1,
+   "parent_author": "informal007",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "early_comment",
+    "concrete_detail"
+   ],
+   "why": "Technical point that better frontier models yield better distillation via higher-quality traces, with a concrete example.",
+   "text": "The better frontier you have the better distill you have because traces are of higher quality. It's why Opus 5.5 is a beast",
+   "author_comments_in_thread": 2,
+   "account_created": "2025-11-05",
+   "account_karma": 985
+  },
+  {
+   "id": 50283646,
+   "author": "wmedrano",
+   "url": "https://news.ycombinator.com/item?id=50283646",
+   "created_at": "2026-10-29T01:58:35.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "concrete_detail",
+    "top_level"
+   ],
+   "why": "Concrete measurement: AA claims ~100tps for Argon/Carbon but real-world Opencode/OpenRouter speeds are under 30tps.",
+   "text": "The tokens per second graph on AA seems practically worthless. Apparently Argon/Carbon run around 100tps, but in Opencode I'm getting <30tps which seems in line with openrouter.ai speeds as well.",
+   "author_comments_in_thread": 1,
+   "account_created": "2022-02-14",
+   "account_karma": 107
+  },
+  {
+   "id": 50278921,
+   "author": "5555watch",
+   "url": "https://news.ycombinator.com/item?id=50278921",
+   "created_at": "2026-10-28T18:46:07.000Z",
+   "depth": 1,
+   "parent_author": "LewisOrton",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google",
+    "nerf_contrast"
+   ],
+   "why": "Mixed first-hand report: loved 3.1 Pro, claims a May nerf, finds Argon 'frontier without the intelligence'.",
+   "text": "I loved Gemini 3.1 Pro and it was very sad when they nerfed it at around May this year. I think it did pretty good as a chat, and quite decent on Antigravity (tried very little). Been sitting on 5.6 / Astra and Codex since. Occasionally do bring up the 3.1 Pro through the API, because I love the writing style, but keep noticing that I'm much more productive with the frontier, despite the love to Gemini. Tried 4 Argon, and it's very much different from 3.1, felt very much the same as any other Frontier, just without the intelligence.",
+   "author_comments_in_thread": 3,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50279513,
+   "author": "CuriouslyC",
+   "url": "https://news.ycombinator.com/item?id=50279513",
+   "created_at": "2026-10-28T19:28:38.000Z",
+   "depth": 1,
+   "parent_author": "highfrequency",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Reasoned alternative explanation for AA scoring shifts: self-correction to match anecdotal vibes rather than corruption.",
+   "text": "This likely isn't AA putting its finger on the scale for specific interests, rather in the case of Muse/Astra, it's to avoid looking really bad because it scores things way out of wack with people's anecdotal vibes on model capabilities. It is possible that labs are getting preliminary AA results back and raising concerns about scoring that then get folded into updated benchmarks, but I strongly doubt it's nefarious.",
+   "author_comments_in_thread": 2,
+   "account_created": "2014-07-30",
+   "account_karma": 8285
+  },
+  {
+   "id": 50277567,
+   "author": "Imustaskforhelp",
+   "url": "https://news.ycombinator.com/item?id=50277567",
+   "created_at": "2026-10-28T17:37:05.000Z",
+   "depth": 1,
+   "parent_author": "Topfi",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "concrete_detail"
+   ],
+   "why": "Tracks the AA listing timeline with timestamps and offers balanced assessment of AA v5 controversy and competitor timing.",
+   "text": "gemini 4 carbon has now come on the artificial analysis page. I think that I had checked it 5 minutes ago and it wasn't there. For historians, The blog post is 31 minutes ago so we can say that it was true for 20-30 minutes. Slightly embarrasing but it seems to be the case that the model is actually worth what they were saying on AA. It's just that it is not available to people and I think that Anthropic and OAI will release a better model to public before google might. AA has tons of its flaws too and the recent shift to their new v5 has been nothing but controversial for many.",
+   "author_comments_in_thread": 2,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277355,
+   "author": "MostlyStable",
+   "url": "https://news.ycombinator.com/item?id=50277355",
+   "created_at": "2026-10-28T17:28:31.000Z",
+   "depth": 1,
+   "parent_author": "WarmWash",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "early_comment"
+   ],
+   "why": "Cites Polymarket odds (55% Anthropic, 38% Google) with link as market-based evidence.",
+   "text": "Polymarket [0] thinks it's 55% Anthropic, 38% google by the end of the year. Anthropic /OAI 62% combined. [0] https://polymarket.us/event/company1-2026-12-31",
+   "author_comments_in_thread": 2,
+   "account_created": "2022-04-28",
+   "account_karma": 4904
+  },
+  {
+   "id": 50276910,
+   "author": "Peteriishak",
+   "url": "https://news.ycombinator.com/item?id=50276910",
+   "created_at": "2026-10-28T17:08:56.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "early_comment",
+    "top_level"
+   ],
+   "why": "Engages a specific number from the report (0.4% eval-subversion attempt rate).",
+   "text": "The fact that frontier models actively attempt to subvert evaluation harnesses (0.4% attempt rate still remaining) remains fascinating and slightly unsettling.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50279518,
+   "author": "RajuChacha108",
+   "url": "https://news.ycombinator.com/item?id=50279518",
+   "created_at": "2026-10-28T19:28:49.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "top_level"
+   ],
+   "why": "Thoughtful proposal for a standardized four-tier industry naming scheme.",
+   "text": "It is pretty clear at this point that the frontier models need only handful of tiered models. 1. Ultra - The best and the most expensive for showing off and government. 2. Pro - Almost best but substantially cheaper for most productive people. 3. Flash - Workhorse for everyone. 4. Lite - For the unwashed masses and peasants. There is no need to attach anything to these labels. In fact industry could simply standardize these namings like SEMVER. There could be an internal representation which could give specific number of the model but these companies should move on to be more like Chrome. No one knows or cares which version of chrome they are on. For a lot of systems the real underlying version would matter because of reliability. That can be provided to those power users.",
+   "author_comments_in_thread": 4,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50282637,
+   "author": "Rudybega",
+   "url": "https://news.ycombinator.com/item?id=50282637",
+   "created_at": "2026-10-28T23:56:37.000Z",
+   "depth": 2,
+   "parent_author": "NorthSouthNorth",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "First-hand report of constant native API request failures requiring Vertex or OpenRouter for heavy load.",
+   "text": "Yeah, their native API reliability is absolutely horrible. Constant request failures. I've always had to go through Vertex or OpenRouter for any sort of heavy load.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50276961,
+   "author": "Ryan5453",
+   "url": "https://news.ycombinator.com/item?id=50276961",
+   "created_at": "2026-10-28T17:11:53.000Z",
+   "depth": 1,
+   "parent_author": "herunan",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "concrete_detail"
+   ],
+   "why": "Uses identical pricing to reason Carbon is effectively Argon 4.1.",
+   "text": "It's the same price, so it seems more like Argon 4.1?",
+   "author_comments_in_thread": 2,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50283977,
+   "author": "TacticalCoder",
+   "url": "https://news.ycombinator.com/item?id=50283977",
+   "created_at": "2026-10-29T02:44:11.000Z",
+   "depth": 1,
+   "parent_author": "827a",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Data-backed pushback: Carbon leads Fable 5.1 and GPT-6 Astra in 15 of 17 benchmarks, arguing switching friction shouldn't downplay that.",
+   "text": "> Its sad watching them try to keep up \"try to keep up\" ? Benchmarks are just benchmarks and they could have been carefully selected but it's not \"trying to keep up\": they're ahead of Fable 5.1 and GTP 6 Astra in 15 of the 17 benchmarks. And in many cases by a huge margin. Instead of talking about that, let's talk about how difficult it is to pick the model or how crazy Google's product naming methodology is. Not saying they're not concerns: but let's not downplay what the model is achieving by saying they're \"trying to pick up\" because switching model ain't as easy as with the competition. I mean: I don't use a model based on how easy it is to switch to another model. That's not what I'm looking for.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277487,
+   "author": "Topfi",
+   "url": "https://news.ycombinator.com/item?id=50277487",
+   "created_at": "2026-10-28T17:33:40.000Z",
+   "depth": 2,
+   "parent_author": "causal",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "early_comment"
+   ],
+   "why": "Reasoned analysis that post-vetting changes could move benchmark scores, citing Fable 5 and Opus 4.8 Fallback precedents.",
+   "text": "Fair point, though if they are still vetting, that'd likely also entail some post training or at least the addition of a filter, should they find something they do not like. As we've seen with Fable 5 and Opus 4.8 Fallback, that can significantly affect user experience and benchmark scores. So if they are still vetting and changes can thus happen, that'd mean the score could change for better or worse. Not sure they'd want the embarrassment of a #1 score changing after announcement.",
+   "author_comments_in_thread": 6,
+   "account_created": "2023-06-05",
+   "account_karma": 4089
+  },
+  {
+   "id": 50279525,
+   "author": "VadimPR",
+   "url": "https://news.ycombinator.com/item?id=50279525",
+   "created_at": "2026-10-28T19:29:24.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google",
+    "top_level"
+   ],
+   "why": "Concrete quota data point: ten Argon prompts exhausts the 5-hour limit on a paid plan.",
+   "text": "I am on a paid plan for Google's AI offering, and I did just about ten prompts to Argon before I hit my 5 hour limit. I'm not holding my breath this will be a model that is practical to use now either.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50279410,
+   "author": "WASDx",
+   "url": "https://news.ycombinator.com/item?id=50279410",
+   "created_at": "2026-10-28T19:22:22.000Z",
+   "depth": 1,
+   "parent_author": "mattlondon",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Uses three concrete observations (builds on Argon, same price, short interval) to infer continued post-training of the same model.",
+   "text": "1. \"Building on Gemini 4 Argon\". 2. Same price. 3. Relatively short time between releases. Makes me think it's further post-training of the same model.",
+   "author_comments_in_thread": 4,
+   "account_created": "2022-05-29",
+   "account_karma": 232
+  },
+  {
+   "id": 50281128,
+   "author": "_s_a_m_",
+   "url": "https://news.ycombinator.com/item?id=50281128",
+   "created_at": "2026-10-28T21:26:20.000Z",
+   "depth": 1,
+   "parent_author": "gavinray",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Contrarian benchmark take: on FrontierSWE Carbon is 3rd, behind the older Opus 5.5.",
+   "text": "The only important benchmark is FrontierSWE and there it is of course 3rd. even after Opus 5.5 which is relatively old compared to their brand new model..",
+   "author_comments_in_thread": 2,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277473,
+   "author": "aix1",
+   "url": "https://news.ycombinator.com/item?id=50277473",
+   "created_at": "2026-10-28T17:33:00.000Z",
+   "depth": 1,
+   "parent_author": "speedstyle",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "early_comment"
+   ],
+   "why": "Gives exact Argon announce (Sep 30) vs release (Oct 13) dates with source links, grounding the vaporware debate.",
+   "text": "The previous model, Argon, was announced on 30 Sep and released on 13 Oct. https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/ https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50283621,
+   "author": "antonvs",
+   "url": "https://news.ycombinator.com/item?id=50283621",
+   "created_at": "2026-10-29T01:56:04.000Z",
+   "depth": 1,
+   "parent_author": "827a",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Detailed troubleshooting account of Argon availability in Antigravity clients and versioning bug.",
+   "text": "Not disagreeing with the premise - I've fought with this in the past - but I'm using Antigravity CLI and Antigravity desktop (GUI), and both automatically started defaulting to Argon 4 as their model a while back. I have an AI Pro account - which I decided was a no-brainer because of the 5TB of Gmail / GDrive / GPhotos space it gives - and this all just comes along with that. One thing to check, though, is that the client is running the latest version. At one point my Antigravity GUI, which had been working fine, started listing only Claude and GPT-OSS models. It turned out to be because the GUI needed to be updated. I guess the Google API endpoint had changed behavior without any backward compatibility. So yeah, they're hilariously bad at rollouts, but it's not that difficult if you're technically inclined or ask an LLM.",
+   "author_comments_in_thread": 5,
+   "account_created": "2016-08-10",
+   "account_karma": 4607
+  },
+  {
+   "id": 50282853,
+   "author": "at1as",
+   "url": "https://news.ycombinator.com/item?id=50282853",
+   "created_at": "2026-10-29T00:28:24.000Z",
+   "depth": 1,
+   "parent_author": "827a",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "critical_of_google",
+    "concrete_detail"
+   ],
+   "why": "Explains Google's poor product UX via enterprise revenue incentives.",
+   "text": "the charitable explanation is that they derive the most important revenue in this area from enterprise. And enterprises are not allergic to horrible product experiences and upsells. The more likely explanation (even if the above is technically true) is that Google is not good at cohesive product experiences.",
+   "author_comments_in_thread": 2,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50278213,
+   "author": "atakanaluc",
+   "url": "https://news.ycombinator.com/item?id=50278213",
+   "created_at": "2026-10-28T18:06:04.000Z",
+   "depth": 2,
+   "parent_author": "NickNaraghi",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Pricing observation leading to a specific hypothesis (Carbon = Argon + more RL).",
+   "text": "Both seem to have the same pricing: $2 in / $10 out initially, rising to $4 in / $20 out after the introductory period. That made me wonder whether Carbon might be Argon with additional RL training. What’s the Opus/Sonnet comparison based on?",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50278537,
+   "author": "brainwad",
+   "url": "https://news.ycombinator.com/item?id=50278537",
+   "created_at": "2026-10-28T18:23:03.000Z",
+   "depth": 4,
+   "parent_author": "mattlondon",
+   "categories": [
+    "disclosed_googler",
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "affiliation_disclosure",
+    "concrete_detail",
+    "affiliated_author"
+   ],
+   "why": "Asserts insider knowledge that the feature was GDM-only for months before general availability.",
+   "text": "It was locked down to GDM only for several months, but now it's available for everyone.",
+   "author_comments_in_thread": 9,
+   "account_created": "2018-03-22",
+   "account_karma": 1110
+  },
+  {
+   "id": 50278779,
+   "author": "brainwad",
+   "url": "https://news.ycombinator.com/item?id=50278779",
+   "created_at": "2026-10-28T18:36:29.000Z",
+   "depth": 1,
+   "parent_author": "cedws",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "early_comment",
+    "affiliated_author"
+   ],
+   "why": "Concrete Opus workflow failure example (one-shot OOMing code the model could fix itself) to argue for speed/initiative over smarts.",
+   "text": "TBH they are smart enough for me; I want more speed and more initiative (e.g. my Opus one shot should not have terrible perf that it can itself fix with a simple prompt \"it's OOMing, fix it\"; it should proactively write the performant code).",
+   "author_comments_in_thread": 9,
+   "account_created": "2018-03-22",
+   "account_karma": 1110
+  },
+  {
+   "id": 50277701,
+   "author": "cardboard9926",
+   "url": "https://news.ycombinator.com/item?id=50277701",
+   "created_at": "2026-10-28T17:42:48.000Z",
+   "depth": 1,
+   "parent_author": "theanonymousone",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "early_comment"
+   ],
+   "why": "Notes the deliberate AA index mention in the benchmark table, absent from the Argon launch, with link.",
+   "text": "Also deliberate mention of AA index and featuring it in benchmark table. Neither of which was done for Argon [0]. [0] https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50276962,
+   "author": "cesarvarela",
+   "url": "https://news.ycombinator.com/item?id=50276962",
+   "created_at": "2026-10-28T17:11:54.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "top_level",
+    "critical_of_google"
+   ],
+   "why": "Hands-on negative assessment of Argon as older-generation except world knowledge.",
+   "text": "Argon has been so disappointing that I don't know what to think. It feels like an older-generation model, except for its world knowledge.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277274,
+   "author": "cotillion",
+   "url": "https://news.ycombinator.com/item?id=50277274",
+   "created_at": "2026-10-28T17:25:45.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "critical_of_google",
+    "early_comment",
+    "top_level"
+   ],
+   "why": "Substantive criticism of gated cybersecurity capabilities being unusable for open-source defenders.",
+   "text": "Oh, look! Another model that's supposedly amazing at Cybersecurity. Too bad you won't be able to use it to secure your open-source projects. If you try it'll throw up a prompt telling you to use some initiative you can't use or afford while the provider collects the findings. What a racket.",
+   "author_comments_in_thread": 2,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277655,
+   "author": "crimsoneer",
+   "url": "https://news.ycombinator.com/item?id=50277655",
+   "created_at": "2026-10-28T17:40:31.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "early_comment",
+    "top_level"
+   ],
+   "why": "Positive claim backed by a specific self-built game benchmark with link, though thin on numbers.",
+   "text": "This feels like a pretty big deal. Quite a few people sleeping on argon because it doesn't come via a subscription, but it's noticeably better than pretty much everything in my own weird game based benchmark (https://botbowlbench.com/)",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277952,
+   "author": "cvladan",
+   "url": "https://news.ycombinator.com/item?id=50277952",
+   "created_at": "2026-10-28T17:53:08.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "top_level",
+    "critical_of_google",
+    "concrete_detail"
+   ],
+   "why": "Connects launch timing to the earnings report and anticipated capex/cash-flow news.",
+   "text": "I'm really starting to get annoyed by the fact that all companies are timing all their decisions according to the stock market. Doing this two hours before today's earnings report. It's probably going to be a terrible earnings call in terms of capital expenditure, cash flow and new borrowing.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277354,
+   "author": "dannyw",
+   "url": "https://news.ycombinator.com/item?id=50277354",
+   "created_at": "2026-10-28T17:28:30.000Z",
+   "depth": 2,
+   "parent_author": "WarmWash",
+   "categories": [
+    "disclosed_googler",
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "affiliation_disclosure",
+    "concrete_detail",
+    "affiliated_author"
+   ],
+   "why": "Asserts insider knowledge from multiple labs that model releases are gated by the US government.",
+   "text": "You’re also assuming the decision is up to Google. I’ve heard from multiple labs that model release is up to the US government now. You can also see this with Astra being announced and then launched a few days later.",
+   "author_comments_in_thread": 1,
+   "account_created": "2017-08-29",
+   "account_karma": 15955
+  },
+  {
+   "id": 50278260,
+   "author": "david-gpu",
+   "url": "https://news.ycombinator.com/item?id=50278260",
+   "created_at": "2026-10-28T18:07:54.000Z",
+   "depth": 1,
+   "parent_author": "PreciousH",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Concrete subscription-value critique: large quota of old models is useless vs open weights.",
+   "text": "I paid for their lowest-cost subscription, thinking that it would give me a small quota of use of their most recent flash models. Instead, they give me an unnecessarily large quota of their old models, which I have precisely zero use for given that open-weight models are better and cost next to nothing. Consequently, I have zero intention of renewing my Gemini subscription. What a dumb business choice they made.",
+   "author_comments_in_thread": 3,
+   "account_created": "2016-08-27",
+   "account_karma": 5935
+  },
+  {
+   "id": 50277006,
+   "author": "deanc",
+   "url": "https://news.ycombinator.com/item?id=50277006",
+   "created_at": "2026-10-28T17:14:16.000Z",
+   "depth": 1,
+   "parent_author": "kilroy123",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "critical_of_google",
+    "concrete_detail"
+   ],
+   "why": "Concrete criticism of Google's pattern of announcing models unavailable to paid subscribers for months.",
+   "text": "I’m not a big fan of their trend of talking about having released a model and then it being unavailable for paid AI plus subscribers for months.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277188,
+   "author": "delegate",
+   "url": "https://news.ycombinator.com/item?id=50277188",
+   "created_at": "2026-10-28T17:21:45.000Z",
+   "depth": 1,
+   "parent_author": "kilroy123",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "critical_of_google",
+    "early_comment"
+   ],
+   "why": "Behavioral evidence of announcement fatigue: stopped clicking launch links due to non-availability.",
+   "text": "I have stopped even clicking on their launch links.. it's always something that's not available right now or 'not yet available in your country'.. Anyone can promise the moon in the future.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50276885,
+   "author": "eldenring",
+   "url": "https://news.ycombinator.com/item?id=50276885",
+   "created_at": "2026-10-28T17:07:16.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "marketing_quote",
+    "concrete_detail",
+    "early_comment",
+    "top_level"
+   ],
+   "why": "Quotes the marketing blurb approvingly but adds a real domain point about reward-hacking/Terminal-Bench cheating being the prior model's biggest problem.",
+   "text": "> Reducing shortcuts and loophole exploitation: With Carbon, we further mitigated shortcut attempts in training while ensuring high-quality coding performance. Carbon reduced successful cheating on Terminal-Bench 4.0 to 0.0%, with attempts to cheat dropping to 0.4% — all while improving overall accuracy. This is probably the single most important thing to make frontier models usable right now, so I'm happy there seems to be some progress. This was the previous Gemini's biggest problem IMO",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277912,
+   "author": "esafak",
+   "url": "https://news.ycombinator.com/item?id=50277912",
+   "created_at": "2026-10-28T17:51:34.000Z",
+   "depth": 2,
+   "parent_author": "jeffbee",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "critical_of_google"
+   ],
+   "why": "Argues rollout should precede announcement and defines what 'generally available' should mean.",
+   "text": "That's a best practice, but they should start rolling it out before they announce it. At that point it should be \"generally available\".",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50280394,
+   "author": "fastball",
+   "url": "https://news.ycombinator.com/item?id=50280394",
+   "created_at": "2026-10-28T20:26:29.000Z",
+   "depth": 2,
+   "parent_author": "wasabi991011",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Concrete correction: Workspace 'Expanded AI Access' accounts get no Gemini 4 and cannot even sign up for consumer tiers.",
+   "text": "My workspace account is \"Expanded AI Access\" and can't access any Gemini 4 models. Disingenuous to ignore the fact that you can't even sign up for Plus/Pro/Ultra on a non-personal account when talking about \"what plan you are on\".",
+   "author_comments_in_thread": 2,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50279987,
+   "author": "gempir",
+   "url": "https://news.ycombinator.com/item?id=50279987",
+   "created_at": "2026-10-28T19:56:53.000Z",
+   "depth": 1,
+   "parent_author": "827a",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Concrete enterprise access issue: Cursor has Argon but their enterprise Gemini subscription can't due to a license split.",
+   "text": "Unironically it's easier through third parties. Cursor has had Argon available, but in our enterprise we cannot get argon from the gemini subscription because they have some weird license split going on.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50279406,
+   "author": "greggh",
+   "url": "https://news.ycombinator.com/item?id=50279406",
+   "created_at": "2026-10-28T19:22:11.000Z",
+   "depth": 2,
+   "parent_author": "loeg",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "First-hand assessment that it is worse on most tasks ranked on a cost-per-task metric.",
+   "text": "I've found its worse in most tasks, especially when ranked on a cost-per-task metric.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50280749,
+   "author": "gulmothrowaway",
+   "url": "https://news.ycombinator.com/item?id=50280749",
+   "created_at": "2026-10-28T20:52:54.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "critical_of_google",
+    "top_level"
+   ],
+   "why": "Reductio critique of benchmark-only announcements for unreleased models.",
+   "text": "I'm not a fan of Google just announcing benchmarks for models which won't get into public hands for eternity. It's kinda useless. If all you want to prove is your internal models deserve a seat at the big boy table, maybe OpenAI and Anthropic should also release benchmarks for GPT 11 and Opus 9, launching in 2030.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50280127,
+   "author": "hangrybear666",
+   "url": "https://news.ycombinator.com/item?id=50280127",
+   "created_at": "2026-10-28T20:06:16.000Z",
+   "depth": 1,
+   "parent_author": "zarzavat",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "critical_of_google"
+   ],
+   "why": "Concrete grievance: third announcement without customer access triggered unsubscription.",
+   "text": "Same. So after their now third announcement of a new model while locking their own customers out of it, I've just unsubscribed",
+   "author_comments_in_thread": 4,
+   "account_created": "2026-07-18",
+   "account_karma": 95
+  },
+  {
+   "id": 50278028,
+   "author": "hiddencost",
+   "url": "https://news.ycombinator.com/item?id=50278028",
+   "created_at": "2026-10-28T17:56:25.000Z",
+   "depth": 2,
+   "parent_author": "NickNaraghi",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "concrete_detail"
+   ],
+   "why": "Hypothesizes the new naming scheme escapes contractual obligations tied to Pro/Flash naming.",
+   "text": "I don't think that's right. Carbon and Argon have the same price. I suspect they're using a new naming convention because they had previous contractual obligations tied to the \"pro\" and \"flash\" naming, and by switching to a new naming schema they avoid those commitments.",
+   "author_comments_in_thread": 3,
+   "account_created": "2014-04-25",
+   "account_karma": 3172
+  },
+  {
+   "id": 50278983,
+   "author": "highfrequency",
+   "url": "https://news.ycombinator.com/item?id=50278983",
+   "created_at": "2026-10-28T18:50:23.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "top_level"
+   ],
+   "why": "Concrete observation that an AA methodology change demoted Muse and put Gemini #1, questioning the leaderboard's stability.",
+   "text": "Not sure how to interpret the Artificial Analysis leaderboard anymore. I checked a few days ago and Muse was rated higher than the best OpenAI models; it seems that shortly afterward they changed the methodology and now Muse is way lower and Gemini is #1.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50281439,
+   "author": "ijidak",
+   "url": "https://news.ycombinator.com/item?id=50281439",
+   "created_at": "2026-10-28T21:50:57.000Z",
+   "depth": 1,
+   "parent_author": "827a",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "critical_of_google"
+   ],
+   "why": "Extended critique of Google's go-to-market failure with the concrete heuristic of using HN comments instead of release notes.",
+   "text": "I don't even read Google's release notes anymore. What's the point? The models are never available. Now, I just go straight to the Hacker News comments. I've given up on trying to figure out how to navigate Google's labyrinth. Their release notes have become like breakthroughs in graphene. I'll believe it when I see it. Their go-to-market execution is just so broken. At the beginning of this whole AI shift, when Google would announce a new model, I would try to get access, even paying for a subscription. Then I realized it's just not possible. Google onboarding is the new Gordian knot. For Google, I think the announcement is the success criteria. And onboarding is somebody else's problem. And the problem is... that somebody doesn't work at Google, or are entirely disempowered. If, someday, Hacker News comments indicate that a majority of individuals have figured out how to access these newly announced models consistently, I might take my precious personal time to navigate the labyrinth once more.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277337,
+   "author": "jeffbee",
+   "url": "https://news.ycombinator.com/item?id=50277337",
+   "created_at": "2026-10-28T17:28:03.000Z",
+   "depth": 1,
+   "parent_author": "kilroy123",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "early_comment"
+   ],
+   "why": "Explains Google's incremental rollout mechanics with a concrete 2-day Argon example.",
+   "text": "Everything at Google rolls out incrementally to different populations of users so no matter what feature they are announcing there is a good chance you can't see it yet. When they announced Gemini 4 Argon it was 2 days before I could use it.",
+   "author_comments_in_thread": 2,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50281737,
+   "author": "jeremyjh",
+   "url": "https://news.ycombinator.com/item?id=50281737",
+   "created_at": "2026-10-28T22:19:53.000Z",
+   "depth": 3,
+   "parent_author": "brokencode",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "critical_of_google"
+   ],
+   "why": "Reasoned contrarian analysis: Google announces early because rivals' second-best models already beat everything available.",
+   "text": "They have to announce it now because by the time they are ready to release it, it won't be the best at anything. Anthropic and OpenAI are not releasing their best models for several months, because their second best models are still better than everything else available.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50278082,
+   "author": "kevinkoning",
+   "url": "https://news.ycombinator.com/item?id=50278082",
+   "created_at": "2026-10-28T17:59:19.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "top_level",
+    "concrete_detail"
+   ],
+   "why": "Reasoned market analysis of why developer-class users won't migrate from Claude without major incentive.",
+   "text": "I applaud that Google is making state-of-the-art models, and no doubt they want credit for that. But it also highlights how hard it will be to get back the develop-class. Who is going to migrate from Claude's for this without an enormous incentive? Claude has the trust and the ecosystem for those who want the very best. Codex is clipping at its heals, and as arguably a better total value. Love the options but also I hope Google understands that they need to now compete on many dimensions for developers. Google probably will still win huge shares of the consumer market, though frontier intelligence will have little to do with it, other than the RSI aspect.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277876,
+   "author": "leetharris",
+   "url": "https://news.ycombinator.com/item?id=50277876",
+   "created_at": "2026-10-28T17:50:16.000Z",
+   "depth": 1,
+   "parent_author": "cedws",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "early_comment"
+   ],
+   "why": "Substantive point that the capability bar keeps rising, naming cheap strong alternatives (Deepseek Flash V4.1, Sonnet 5.5, GPT6 Luna).",
+   "text": "The challenge is that our bar for \"smart\" keeps going up and up. If you compare to \"smart\" from a year ago, you have endless options that are basically free at this point which outperform everything from a year ago. Deepseek Flash V4.1, Sonnet 5.5, GPT6 Luna, etc are really strong for the cost.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50279548,
+   "author": "lifeisloving",
+   "url": "https://news.ycombinator.com/item?id=50279548",
+   "created_at": "2026-10-28T19:30:57.000Z",
+   "depth": 3,
+   "parent_author": "pstuart",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "top_level"
+   ],
+   "why": "Contrarian TAM argument that consumer UX surfaces, not coding, hold the AI value.",
+   "text": "Android is a UX, and so is gmail and calender. This is where 99% of people will use AI for the remainder of their lives. Very little of the forward looking value proposition of AI has to do with coding/harnesses. AI + coding is rapidly deflating as far as revenue potential, and TAM has been saturated and is possibly shrinking.",
+   "author_comments_in_thread": 3,
+   "account_created": "2026-10-05",
+   "account_karma": 324
+  },
+  {
+   "id": 50278516,
+   "author": "ltph0",
+   "url": "https://news.ycombinator.com/item?id=50278516",
+   "created_at": "2026-10-28T18:21:32.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "marketing_quote",
+    "critical_of_google",
+    "top_level"
+   ],
+   "why": "Quotes the Fairwind Program blurb to substantively criticize exclusion of open-source developers from defensive access.",
+   "text": "\"The Fairwind Program gives high-priority defenders (like governments, healthcare providers, and telecommunications services) early access to advanced models that help them build better defenses, before new threats arrive.\" Again, no access to open source developers. The AI companies want bugs for dramatic public relations! Also, of course there aren't enough bugs so they have to be rationed for the \"defenders\" and future models.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50282516,
+   "author": "luckydata",
+   "url": "https://news.ycombinator.com/item?id=50282516",
+   "created_at": "2026-10-28T23:43:17.000Z",
+   "depth": 4,
+   "parent_author": "aslilac",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Pricing correction plus TPU cost/margin economics vs other labs.",
+   "text": "Carbon is discounted temporarily. It's twice as expensive as Argon. Google TPUs are more efficient than Nvidia hardware plus Google gets them at cost so they have both better margins and more pricing power compared to other frontier labs.",
+   "author_comments_in_thread": 3,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277058,
+   "author": "miyuru",
+   "url": "https://news.ycombinator.com/item?id=50277058",
+   "created_at": "2026-10-28T17:16:23.000Z",
+   "depth": 1,
+   "parent_author": "nickandbro",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "early_comment"
+   ],
+   "why": "Surfaces the pricing footnote showing introductory pricing expires to $4/$20 per 1M tokens.",
+   "text": "it says on footnote \"After the introductory period expires, the price of $4 per 1M input tokens and $20 per 1M output tokens will apply.\"",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50282429,
+   "author": "paradox460",
+   "url": "https://news.ycombinator.com/item?id=50282429",
+   "created_at": "2026-10-28T23:32:21.000Z",
+   "depth": 1,
+   "parent_author": "RajuChacha108",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Domain detail: new models unavailable on FedRAMP providers like Bedrock, which lag months behind.",
+   "text": "Not even for government. Many of these models aren't available on fedramp available providers, like bedrock. Instead they're stuck months ago. Iirc bedrock just got sonnet 5",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50280457,
+   "author": "pea",
+   "url": "https://news.ycombinator.com/item?id=50280457",
+   "created_at": "2026-10-28T20:30:47.000Z",
+   "depth": 1,
+   "parent_author": "827a",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "critical_of_google",
+    "concrete_detail"
+   ],
+   "why": "Concrete failed first-hand attempt to access the model, criticizing product experience.",
+   "text": "I just spent 10m trying to use this. It is the most awful product experience I’ve had this year. How could they fuck it up this badly?",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50278848,
+   "author": "petu",
+   "url": "https://news.ycombinator.com/item?id=50278848",
+   "created_at": "2026-10-28T18:41:04.000Z",
+   "depth": 2,
+   "parent_author": "bitpush",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Detailed naming-tier analysis contrasting celestial/anthropic schemes with Google's random element picks.",
+   "text": "Luna/Terra/Sol/Astra make perfect sense, it indicates model tier/size with larger celestial body representing larger model. Same for Anthropic, consistent model tier naming reused across model generations. Those are just like i3/i5/i7 or M-series Pro/Max/Ultra. But Carbon seems to be full replacement of Argon announced two weeks ago, they're same price. So Argon doesn't mean anything, they just picked random element.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50279464,
+   "author": "pjm331",
+   "url": "https://news.ycombinator.com/item?id=50279464",
+   "created_at": "2026-10-28T19:25:45.000Z",
+   "depth": 1,
+   "parent_author": "PreciousH",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Positive but specific: instruction-forgetting onset around 80k context.",
+   "text": "great writer, starts forgetting instructions around 80k context in my experience",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50278598,
+   "author": "pseudosavant",
+   "url": "https://news.ycombinator.com/item?id=50278598",
+   "created_at": "2026-10-28T18:26:07.000Z",
+   "depth": 1,
+   "parent_author": "solarpunk_enthu",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "critical_of_google"
+   ],
+   "why": "Critique of timeline-free 'soon' plus shortest-shelf-life product category observation.",
+   "text": "100%. They don't even suggest a release timeline other than \"we look forward to bringing Carbon to developers, businesses, and consumers soon\". Claude and GPT-6.x will no doubt have improved versions by the time \"soon\" comes around. Has there ever been a product category where a product release is valuable for a shorter time than with LLMs? Trying to build SOTA models seems like it'd be an exhausting hamster wheel to work on.",
+   "author_comments_in_thread": 2,
+   "account_created": "2012-06-21",
+   "account_karma": 3710
+  },
+  {
+   "id": 50282737,
+   "author": "pseudosavant",
+   "url": "https://news.ycombinator.com/item?id=50282737",
+   "created_at": "2026-10-29T00:10:27.000Z",
+   "depth": 4,
+   "parent_author": "xnx",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Reasoned contrarian analysis of OpenAI/Anthropic profitability versus Google's market position.",
+   "text": "That is a pretty major differentiator versus OpenAI/Anthropic. Public markets won't be kind to the amount of money Anthropic loses every quarter. I'm expecting for it be many *many* quarters before OpenAI or Anthropic get anywhere near profitable. They'll never be able to grow revenue fast enough to catch up with their current level of investment. This is when I feel like OpenAI and Anthropic could be the Yahoo and AOL of this iteration of the internet. The center of the universe for a bit, but a limited number of days at the top.",
+   "author_comments_in_thread": 2,
+   "account_created": "2012-06-21",
+   "account_karma": 3710
+  },
+  {
+   "id": 50278746,
+   "author": "rdm_blackhole",
+   "url": "https://news.ycombinator.com/item?id=50278746",
+   "created_at": "2026-10-28T18:34:26.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "critical_of_google",
+    "top_level"
+   ],
+   "why": "Reasoned avoidance rationale: a Google ban risks losing email access too, unlike with OAI/Anthropic.",
+   "text": "I tried previous Google models before and they were ok but I prefer to stick to Claude or Astra these days. Maybe I am just paranoid but at least if OAI or Anthropic ban my account I am not at the risk of losing access to my email address too. You never know with Google and that is a problem.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50278093,
+   "author": "ricericerice",
+   "url": "https://news.ycombinator.com/item?id=50278093",
+   "created_at": "2026-10-28T18:00:11.000Z",
+   "depth": 3,
+   "parent_author": "seizethecheese",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "concrete_detail"
+   ],
+   "why": "Counters anecdotal ranking claims with arena.ai leaderboard data.",
+   "text": "That doesn't seem to match the arena.ai rankings, who I'm assuming has a far larger dataset of rankings than you currently hold. https://arena.ai/leaderboard",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50280421,
+   "author": "ryanschaefer",
+   "url": "https://news.ycombinator.com/item?id=50280421",
+   "created_at": "2026-10-28T20:28:30.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "top_level"
+   ],
+   "why": "Reasoned strategic question: pre-release signaling only makes sense when behind in market capture.",
+   "text": "Is Google simply more transparent than other labs with regard to exposing their training progress? I’d like to think other labs are making similar progress but hold their cards closer to their chests. Because it doesn’t seem that there’s much value signaling capability ahead of release unless you are “behind” in market capture.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50281971,
+   "author": "seanmcdirmid",
+   "url": "https://news.ycombinator.com/item?id=50281971",
+   "created_at": "2026-10-28T22:41:05.000Z",
+   "depth": 2,
+   "parent_author": "r0fl",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Comparative dev-task experience: 3.8 Flash sweet spot, DeepSeek 4.1 Flash better than Google models.",
+   "text": "3.8 flash is probably the sweet spot for most of your use cases. I’ve tried argon once or twice, and haven’t noticed it being better than flash for my dev tasks. Likewise, DeepSeek 4.1 Flash still seems better than any Google model I have access to.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50278558,
+   "author": "seizethecheese",
+   "url": "https://news.ycombinator.com/item?id=50278558",
+   "created_at": "2026-10-28T18:24:03.000Z",
+   "depth": 3,
+   "parent_author": "thanhhaimai",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Adds concrete harness detail (opencode, agents.md/claude.md) to Argon underperformance claim.",
+   "text": "This would make sense. In our local coding agent battle system, Argon is tanking, and this is running on opencode, importing agents.md and claude.md.",
+   "author_comments_in_thread": 12,
+   "account_created": "2014-01-30",
+   "account_karma": 4488
+  },
+  {
+   "id": 50279060,
+   "author": "seizethecheese",
+   "url": "https://news.ycombinator.com/item?id=50279060",
+   "created_at": "2026-10-28T18:56:09.000Z",
+   "depth": 5,
+   "parent_author": "luckydata",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Clarifies inherited opencode default behavior in their harness.",
+   "text": "Oh, sure, but isn't claude code still generating this by default? We're just inheriting opencode behavior.",
+   "author_comments_in_thread": 12,
+   "account_created": "2014-01-30",
+   "account_karma": 4488
+  },
+  {
+   "id": 50282025,
+   "author": "spockz",
+   "url": "https://news.ycombinator.com/item?id=50282025",
+   "created_at": "2026-10-28T22:46:36.000Z",
+   "depth": 4,
+   "parent_author": "tonymet",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Concrete complaint: a single blog-post review blows 50% of the Pro usage limit; finds Argon no smarter than 3.8 Flash.",
+   "text": "Im using pro on a discount. I got argon a few days after the release but the usage limits are worthless. Asking it for a simple review of a blog post blows through 50% of the usage limit. And in the limited experimenting I have been able to do because of that it also isn’t smarter than 3.8 flash.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277052,
+   "author": "spyckie2",
+   "url": "https://news.ycombinator.com/item?id=50277052",
+   "created_at": "2026-10-28T17:16:08.000Z",
+   "depth": 1,
+   "parent_author": "informal007",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "early_comment"
+   ],
+   "why": "Substantive explanation of Flash-as-distill of frontier models and why coding strength matters for the distill chain.",
+   "text": "Makes sense - Flash models are (mostly) distills of the frontier model capability. If they were able to make flash 3.8 so good off of their 3.1 pro model, flash 4 will probably be really good. But ofc you'd want your pro model to be as strong as possible in coding so that flash can take all those gains and efficient-ize them.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277629,
+   "author": "staticman2",
+   "url": "https://news.ycombinator.com/item?id=50277629",
+   "created_at": "2026-10-28T17:39:26.000Z",
+   "depth": 2,
+   "parent_author": "SwellJoe",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "First-hand usage-limit experience contradicting the 'generous limits' claim.",
+   "text": "> Google currently has the most generous usage limits on their $20 plan among US providers, so it's a pretty good deal. Are you saying when you use Argon in antigravity it has generous token usage? I forget if I tried it with antigravity but my experience with using it as a chat bot was the usage limit was terrible.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277785,
+   "author": "stbenjam",
+   "url": "https://news.ycombinator.com/item?id=50277785",
+   "created_at": "2026-10-28T17:46:40.000Z",
+   "depth": 1,
+   "parent_author": "solarpunk_enthu",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "critical_of_google"
+   ],
+   "why": "Raises concrete account-ban risk and questions the cyber-defender-first framing.",
+   "text": "I can't tell if they're withholding access to manufacture some sense of scarcity but the delays are really prolonged. I'm nervous to use Gemini models anyway, as its attached to my Google account and I've seen too many people having their whole account banned for dubious reasons (with little recourse). Also the whole \"we're only releasing it to cyber defenders first\" framing is weird, is any Gemini model an actual cyber risk?",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50282588,
+   "author": "stingraycharles",
+   "url": "https://news.ycombinator.com/item?id=50282588",
+   "created_at": "2026-10-28T23:50:08.000Z",
+   "depth": 3,
+   "parent_author": "Keyframe",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "critical_of_google"
+   ],
+   "why": "Historical parallel: Google missed cloud the same way 15 years ago, so no real change.",
+   "text": "The same was true 15 years ago when the cloud started hyping up and Google missed that in similar ways as well, so I’m not sure whether the “Google of yesterday” is who you think it is. This is the Google of yesterday, they didn’t change.",
+   "author_comments_in_thread": 3,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50279440,
+   "author": "tern",
+   "url": "https://news.ycombinator.com/item?id=50279440",
+   "created_at": "2026-10-28T19:24:09.000Z",
+   "depth": 2,
+   "parent_author": "loeg",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Specific usage split between Fable (research) and Opus 5.5 (reliability/word-salad).",
+   "text": "I only use Fable when \"knowing about more stuff\" is important (like research, exploring ideas), but I find Opus 5.5 writes and expresses itself more clearly and is reliable for anything I throw at it, so I use it much more. It's possible Fable is better, but since it word salads more quickly, it's hard to tell.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277627,
+   "author": "thisisauserid",
+   "url": "https://news.ycombinator.com/item?id=50277627",
+   "created_at": "2026-10-28T17:39:26.000Z",
+   "depth": 1,
+   "parent_author": "kilroy123",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "critical_of_google",
+    "concrete_detail"
+   ],
+   "why": "Points out the announcement is timed for the earnings call a few hours later.",
+   "text": "This let's them talk about it on their earnings call in a few hours.",
+   "author_comments_in_thread": 2,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50280163,
+   "author": "tonfa",
+   "url": "https://news.ycombinator.com/item?id=50280163",
+   "created_at": "2026-10-28T20:08:48.000Z",
+   "depth": 3,
+   "parent_author": "ur-whale",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Reasoned org-incentive argument against the Google-distills-Anthropic theory.",
+   "text": "> if Anthropic models run in a Google cage, does that not also mean Google can distill Anthropic models even easier (both fast and unseen)? Not really in the interest of the cloud org to allow that, they don't really care how well deepmind is doing as long as they can sell TPU and API (incl. reselling openai and anthropic).",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50282880,
+   "author": "tonymet",
+   "url": "https://news.ycombinator.com/item?id=50282880",
+   "created_at": "2026-10-29T00:32:24.000Z",
+   "depth": 5,
+   "parent_author": "spockz",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Concrete heavy-usage report (90% on 3.8-flash-low across five languages) addressing quota complaints.",
+   "text": "Could it be skills / customizations? There are tools that will help you understand where your tokens are getting burned. Making sure you are scoping your context, being specific also helps. And I do 90% of my work on 3.8 - flash - low. C, go , JS, bash , powershell generated content. Near perfect quality. I hear lots of people say the budgets are low – I’m absolutely hammering it sometimes indiscriminately (shell into this instance, rebuild the entire vm image). so I’m not sure what the gap is.",
+   "author_comments_in_thread": 3,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277864,
+   "author": "ur-whale",
+   "url": "https://news.ycombinator.com/item?id=50277864",
+   "created_at": "2026-10-28T17:49:53.000Z",
+   "depth": 2,
+   "parent_author": "brainwad",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Substantive follow-up question on whether Anthropic-in-Google-cage enables distillation.",
+   "text": "> some people are 100% Gemini, some are 100% Claude, some are using both. Does that mean Anthropic now has a copy of Google's source code? [EDIT]: thanks to people in the know for their answers. Follow-up question: if Anthropic models run in a Google cage, does that not also mean Google can distill Anthropic models even easier (both fast and unseen)?",
+   "author_comments_in_thread": 5,
+   "account_created": "2018-01-11",
+   "account_karma": 5458
+  },
+  {
+   "id": 50281898,
+   "author": "usef-",
+   "url": "https://news.ycombinator.com/item?id=50281898",
+   "created_at": "2026-10-28T22:34:08.000Z",
+   "depth": 4,
+   "parent_author": "lifeisloving",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Reasoned argument that labs speaking openly about labor risks are preferable to quiet ones.",
+   "text": "> they seem to be the ones going around saying they're going to replace peoples jobs, and usurp the value of human labor. I don't see why an alternative provider that is quiet but also scrambling to make AI smarter is any safer for jobs. Wouldn't we rather orgs speak honestly about the risks of the industry? I find it odd that we talked for decades about companies being evil for covering up problems (chemical companies, etc), yet it turns out people hate the ones that talk about risks openly even more.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50278775,
+   "author": "wasabi991011",
+   "url": "https://news.ycombinator.com/item?id=50278775",
+   "created_at": "2026-10-28T18:36:19.000Z",
+   "depth": 3,
+   "parent_author": "user43928",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Corrective detail: Argon access arrived within an hour for consumers; Plus tier only buys usage limits, not model access.",
+   "text": "Not really[1]. I had access to Argon within an hour of the release announcement. The Google AI Plus tier does not give better model access than free, it is strictly for usage limits. Same thing as ChatGPT Go (which currently only has access to GPT-5.6 Luna, same as the free tier too.) [1] For consumers at least. IIRC google business/entreprise accounts have worse model access even in the business/entreprise version of Google AI Pro.",
+   "author_comments_in_thread": 9,
+   "account_created": "2022-07-30",
+   "account_karma": 1106
+  },
+  {
+   "id": 50277828,
+   "author": "yegle",
+   "url": "https://news.ycombinator.com/item?id=50277828",
+   "created_at": "2026-10-28T17:48:17.000Z",
+   "depth": 1,
+   "parent_author": "javierhonduco",
+   "categories": [
+    "disclosed_googler",
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "affiliation_disclosure",
+    "concrete_detail",
+    "early_comment",
+    "affiliated_author"
+   ],
+   "why": "Answers a 'from a Googler' question with internal usage of unreleased Carbon (3.8 Flash default, Argon/Carbon for deep analysis), implying insider access with concrete workflow detail.",
+   "text": "I personally use 3.8 Flash most of the time and Argon/Carbon when I need to do deep analysis or research an ambiguous problem. Opus/Fable is used when I need a second/third opinion. 3.8 Flash + /boost is very capable.",
+   "author_comments_in_thread": 3,
+   "account_created": "2012-09-17",
+   "account_karma": 3079
+  },
+  {
+   "id": 50282795,
+   "author": "zarzavat",
+   "url": "https://news.ycombinator.com/item?id=50282795",
+   "created_at": "2026-10-29T00:19:54.000Z",
+   "depth": 4,
+   "parent_author": "wasabi991011",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Detailed history of the Plus plan's downgrade from top-model access to a months-old second-tier model.",
+   "text": "The issue is that they have fully abandoned the Plus plan while continuing to take people's money. Back in March, the Plus plan was marketed as the way to access Gemini 3.1 Pro, their top model. The free plan gave you a tiny quota of their Pro model, and the Plus plan gave you a generous quota, enough for chatting. It was expected that 3.1 Pro would be upgraded to 3.5 Pro whenever that came out, but that model never materialized. When Google finally had a new Pro model, not only did they not apologise for the delay, but they didn't upgrade the Plus plan, which is to this day stuck on this ancient model. Fine, you might say. hey made the Pro model only for the Pro plan. What's the big deal? But why, why , did they stop upgrading the Flash model as well? So we've gone from \"The Plus plan lets you access our top model with generous limits\" to \"The Plus plan only supports a months old second-tier model\". I'm sure that Google never explicitly promised that the Plus plan would receive upgraded models, but nevertheless it feels like being scammed.",
+   "author_comments_in_thread": 5,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50280916,
+   "author": "Aboutplants",
+   "url": "https://news.ycombinator.com/item?id=50280916",
+   "created_at": "2026-10-28T21:08:39.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Frames Anthropic's response window around its Nov 16 stock-trading date.",
+   "text": "So Anthropic responds sometime between now and when their stock starts trading on Nov 16th. The only question is how much of an improvement will their next release have?",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50278105,
+   "author": "Corence",
+   "url": "https://news.ycombinator.com/item?id=50278105",
+   "created_at": "2026-10-28T18:01:04.000Z",
+   "depth": 2,
+   "parent_author": "ReptileMan",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Sourced claim (reddit link) that public Argon was internally the second checkpoint 'Barium'.",
+   "text": "Other sources say that what was publicly released as Argon was already the second version named Barium internally. So there was a separate internal Argon and public Argon was Barium. Not confusing at all for them! https://www.reddit.com/r/GeminiAI/comments/1x292ly/a_new_checkpoint_of_google_has_been_spotted/",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50278560,
+   "author": "Havoc",
+   "url": "https://news.ycombinator.com/item?id=50278560",
+   "created_at": "2026-10-28T18:24:07.000Z",
+   "depth": 2,
+   "parent_author": "dada216",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "critical_of_google",
+    "concrete_detail"
+   ],
+   "why": "Concrete complaint that plan tiers for custom domains and sane AI use are mutually exclusive.",
+   "text": "Now if only I could sign up for a pro plan… Unfortunately their plan structure is on par with their model naming. The plans that allow for own domain and the plans that allow for sane AI use are mutually exclusive",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50281925,
+   "author": "ImaCake",
+   "url": "https://news.ycombinator.com/item?id=50281925",
+   "created_at": "2026-10-28T22:37:04.000Z",
+   "depth": 2,
+   "parent_author": "_puk",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Concrete usage note: 3.6 Flash suffices for search and Gemini bypasses site blocks that stop Claude/ChatGPT.",
+   "text": "For search I am perfectly happy with 3.6 Flash, its fast and servicable, and maybe being too smart is almost a problem for search and research. Mostly the edge google has here is that websites blocked for claude or chatGPT (if it respects the block) are unblocked for gemini.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277931,
+   "author": "JacobAsmuth",
+   "url": "https://news.ycombinator.com/item?id=50277931",
+   "created_at": "2026-10-28T17:52:12.000Z",
+   "depth": 1,
+   "parent_author": "dbgrman",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail",
+    "early_comment"
+   ],
+   "why": "Cites the launch table: same price/speed/token usage as Argon with better scores across tests.",
+   "text": "What are you confused about? This model is the same price and speed and token usage per task of Argon but scores better in ~every test.",
+   "author_comments_in_thread": 3,
+   "account_created": "2025-11-18",
+   "account_karma": 201
+  },
+  {
+   "id": 50279185,
+   "author": "MILP",
+   "url": "https://news.ycombinator.com/item?id=50279185",
+   "created_at": "2026-10-28T19:05:46.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail",
+    "top_level"
+   ],
+   "why": "Positive but tied to a concrete use case: 1M output token limit benefits a text2SQL workflow on BigQuery.",
+   "text": "I was pleasantly surprised to learn that Gemini 4 Argon had 1M output token limit. My text2SQL workflow based on GBQ will go brr...",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50280300,
+   "author": "MaxBarraclough",
+   "url": "https://news.ycombinator.com/item?id=50280300",
+   "created_at": "2026-10-28T20:19:02.000Z",
+   "depth": 1,
+   "parent_author": "MrOrelliOReilly",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Notes the name collides with Google's own Carbon programming language.",
+   "text": "It does more than merely being different, it also collides with the name of another Google project: the Carbon programming language.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277193,
+   "author": "PreciousH",
+   "url": "https://news.ycombinator.com/item?id=50277193",
+   "created_at": "2026-10-28T17:21:54.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "early_comment",
+    "top_level",
+    "critical_of_google"
+   ],
+   "why": "Criticizes Google's announce-then-delay strategy given competitive alternatives.",
+   "text": "Just remembered i haven't tried argon yet, they announced argon then and delayed releasing it, didn't even know they've made it publically available. I don't understand why google thinks this is an awesome strategy in a market where there are other really good models.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50279128,
+   "author": "Silagi",
+   "url": "https://news.ycombinator.com/item?id=50279128",
+   "created_at": "2026-10-28T19:01:02.000Z",
+   "depth": 2,
+   "parent_author": "pseudosavant",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [],
+   "why": "Live-service-game analogy for frontier model development economics.",
+   "text": "A lot of the work is carried over model to model, so I think the most comparable product is a live service game. Always have to be building on the last thing, and if you stop you'll essentially lose the entirety of the initial investment because you won't keep anyone's attention. Plus a healthy dose of \"winner-takes-most\". Just. Yaknow. 100x the costs, at the least.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50279445,
+   "author": "WASDx",
+   "url": "https://news.ycombinator.com/item?id=50279445",
+   "created_at": "2026-10-28T19:24:34.000Z",
+   "depth": 1,
+   "parent_author": "docheinestages",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "critical_of_google"
+   ],
+   "why": "Speculates Google timed the launch to the AA index update to claim #1.",
+   "text": "AA updated their index version yesterday. For sure Google waited for that update so they could be #1.",
+   "author_comments_in_thread": 4,
+   "account_created": "2022-05-29",
+   "account_karma": 232
+  },
+  {
+   "id": 50282809,
+   "author": "WarmWash",
+   "url": "https://news.ycombinator.com/item?id=50282809",
+   "created_at": "2026-10-29T00:21:53.000Z",
+   "depth": 4,
+   "parent_author": "tonymet",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Concrete quota numbers: 85 minutes of High thinking used with 25% quota left on the $20 Pro plan.",
+   "text": "Yeah, I have 85 minutes of \"High\" thinking time on my current hardware project and still have 25% quota left. $20 pro plan.",
+   "author_comments_in_thread": 11,
+   "account_created": "2026-01-20",
+   "account_karma": 5448
+  },
+  {
+   "id": 50283683,
+   "author": "antonvs",
+   "url": "https://news.ycombinator.com/item?id=50283683",
+   "created_at": "2026-10-29T02:02:58.000Z",
+   "depth": 4,
+   "parent_author": "miohtama",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "First-hand GCP-versus-AWS comparison with specific praise for managed Kubernetes.",
+   "text": "App Engine was good for its time, and I don't think that was an acquisition. Similarly, Cloud Storage and Google Cloud in general are pretty good products. I started using AWS when EC2 and S3 first came out, but was forced to switch to Gcloud by the most recent company I joined. I was pleasantly surprised. In many ways it's more techie-focused than AWS, which is more enterprise-focused. And their managed Kubernetes is second to none.",
+   "author_comments_in_thread": 5,
+   "account_created": "2016-08-10",
+   "account_karma": 4607
+  },
+  {
+   "id": 50278729,
+   "author": "brainwad",
+   "url": "https://news.ycombinator.com/item?id=50278729",
+   "created_at": "2026-10-28T18:33:09.000Z",
+   "depth": 2,
+   "parent_author": "miyuru",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail",
+    "affiliated_author"
+   ],
+   "why": "Spots a pricing-strategy contradiction in monthly frontier releases at half price.",
+   "text": "But if they keep releasing a model every month, then the frontier model will keep being perpetually half price?",
+   "author_comments_in_thread": 9,
+   "account_created": "2018-03-22",
+   "account_karma": 1110
+  },
+  {
+   "id": 50278132,
+   "author": "dada216",
+   "url": "https://news.ycombinator.com/item?id=50278132",
+   "created_at": "2026-10-28T18:02:37.000Z",
+   "depth": 1,
+   "parent_author": "zarzavat",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Concrete plan/pricing/availability details though with a vague positive tail.",
+   "text": "I have a pro subscription and got Argon about two weeks after the announcement, I'm on the annual plan, got the 30% discount by switching it from monthly. Usage on antigravity is not included, usage via chat is absymally low. It's a good model though.",
+   "author_comments_in_thread": 3,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50279243,
+   "author": "david-gpu",
+   "url": "https://news.ycombinator.com/item?id=50279243",
+   "created_at": "2026-10-28T19:10:57.000Z",
+   "depth": 4,
+   "parent_author": "zarzavat",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "critical_of_google",
+    "concrete_detail"
+   ],
+   "why": "Describes switching to self-hosted open-weight inference in response to Google's decisions.",
+   "text": "Clearly! I was a happy customer, but that decision made me go through the effort of setting up a pay-as-you-go inference service with open-weight models, which I didn't want to bother learning how to do. But now I am perfectly happy with them and lost any interest in Gemini. I bet I am not alone, either.",
+   "author_comments_in_thread": 3,
+   "account_created": "2016-08-27",
+   "account_karma": 5935
+  },
+  {
+   "id": 50280174,
+   "author": "deno",
+   "url": "https://news.ycombinator.com/item?id=50280174",
+   "created_at": "2026-10-28T20:09:44.000Z",
+   "depth": 4,
+   "parent_author": "hangrybear666",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Practical info on family-sharing the Pro/Ultra subscription and shared ban risk.",
+   "text": "If you have Pro or Ultra you could add her to \"family\", up to 5 people can share one subscription. Also up to 5 people can share the potential account ban. Otherwise cool feature, I recommend.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50280369,
+   "author": "fancyfredbot",
+   "url": "https://news.ycombinator.com/item?id=50280369",
+   "created_at": "2026-10-28T20:24:10.000Z",
+   "depth": 4,
+   "parent_author": "aslilac",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "One-liner noting Google avoided the 'Nvidia tax' via TPUs.",
+   "text": "They didn't pay the Nvidia tax",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277251,
+   "author": "flowerlad",
+   "url": "https://news.ycombinator.com/item?id=50277251",
+   "created_at": "2026-10-28T17:24:42.000Z",
+   "depth": 1,
+   "parent_author": "saberience",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "early_comment"
+   ],
+   "why": "Counterargument defending Apple's explicit tier naming over ambiguous celestial names.",
+   "text": "> it's obvious immediately which are the better models. I.e. Sol is better than Luna, or Mythos is better than Fable. It is not obvious to me at all. I like Apple's naming more: iPhone Pro Max is better than iPhone Pro which is better than iPhone. Sol vs Luna, how am I supposed to know which is better? Is sol a word, what does it mean? Same with mythos and fable. How am I supposed to keep track of these names across multiple companies? Why can't they use Claude vs. Claude Pro vs. Claude Pro Max?",
+   "author_comments_in_thread": 2,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50282306,
+   "author": "flurdy",
+   "url": "https://news.ycombinator.com/item?id=50282306",
+   "created_at": "2026-10-28T23:14:48.000Z",
+   "depth": 2,
+   "parent_author": "stbenjam",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Concrete mitigation practice: accessing Google models via OpenRouter as account buffer.",
+   "text": "I only use the Google models via OpenRouter. Partially as setting up directly is a pain, and keeping the Gemini CLI working was another pain but also as a buffer to protect my Google account as you mention",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50279840,
+   "author": "hangrybear666",
+   "url": "https://news.ycombinator.com/item?id=50279840",
+   "created_at": "2026-10-28T19:48:12.000Z",
+   "depth": 3,
+   "parent_author": "user43928",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Concrete gripe: paid AI Plus subscriber still stuck on Flash 3.6.",
+   "text": "I've bought my girlfriend a Google ai plus sub because she's not a developer and just wants some search and image generation but the fact that she's still stuck on flash 3.6 is a joke, why would I keep paying for that at this point",
+   "author_comments_in_thread": 4,
+   "account_created": "2026-07-18",
+   "account_karma": 95
+  },
+  {
+   "id": 50280021,
+   "author": "hangrybear666",
+   "url": "https://news.ycombinator.com/item?id=50280021",
+   "created_at": "2026-10-28T19:59:03.000Z",
+   "depth": 1,
+   "parent_author": "827a",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "critical_of_google"
+   ],
+   "why": "Cancellation anecdote noting only 3.1 Pro/3.6 Flash visible; mildly substantive.",
+   "text": "All I see is 3.1 pro and 3.6 flash, I just canceled the sub lol - those seem like half a year old and I'm too lazy to check - my workplace gives me access to all models in a harness anyways",
+   "author_comments_in_thread": 4,
+   "account_created": "2026-07-18",
+   "account_karma": 95
+  },
+  {
+   "id": 50277969,
+   "author": "hiddencost",
+   "url": "https://news.ycombinator.com/item?id=50277969",
+   "created_at": "2026-10-28T17:53:46.000Z",
+   "depth": 1,
+   "parent_author": "solarpunk_enthu",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "early_comment"
+   ],
+   "why": "Reasoned defense: Argon shipped shortly after announcement and the timing matches earnings day and leak management.",
+   "text": "They released Argon shortly after announcing it, so I think some benefit of the doubt is reasonable here. They claim they're already evaluating it via the government. I suspect they're announcing it for two reasons: to get ahead of all the leaks; and because it's earnings report day.",
+   "author_comments_in_thread": 3,
+   "account_created": "2014-04-25",
+   "account_karma": 3172
+  },
+  {
+   "id": 50277836,
+   "author": "jawiggins",
+   "url": "https://news.ycombinator.com/item?id=50277836",
+   "created_at": "2026-10-28T17:48:34.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "early_comment",
+    "top_level",
+    "critical_of_google"
+   ],
+   "why": "Skeptical that Google's listed benchmark wins may be cherry-picked.",
+   "text": "There are so many benchmarks now, it’s hard to know which ones to look for. Google has listed a bunch that they’re winning at, but idk if those are cherry-picked or not.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277077,
+   "author": "joshstrange",
+   "url": "https://news.ycombinator.com/item?id=50277077",
+   "created_at": "2026-10-28T17:17:03.000Z",
+   "depth": 2,
+   "parent_author": "ActionHank",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "early_comment",
+    "agree_reply",
+    "critical_of_google"
+   ],
+   "why": "Agreement reply criticizing the 'it's the best, but you can't try it' launch pattern.",
+   "text": "Ha, I didn't see your comment before I posted mine [0], there were still only 2-3 comments when I opened the thread but yeah. I completely agree. I don't think they are lying, but I still don't love the \"it's the best, but you can't try it\". [0] https://news.ycombinator.com/item?id=50277040",
+   "author_comments_in_thread": 3,
+   "account_created": "2011-07-11",
+   "account_karma": 23542
+  },
+  {
+   "id": 50283185,
+   "author": "layman51",
+   "url": "https://news.ycombinator.com/item?id=50283185",
+   "created_at": "2026-10-29T01:06:45.000Z",
+   "depth": 1,
+   "parent_author": "827a",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Concrete product detail: iOS app shows 'Ultra' tier label while web does not.",
+   "text": "Same here. When I use the Gemini app for iOS, it says that I’m on “Ultra” in the left sidebar near the bottom. It doesn’t say that when I’m using Gemini on the web.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50282609,
+   "author": "m11a",
+   "url": "https://news.ycombinator.com/item?id=50282609",
+   "created_at": "2026-10-28T23:53:18.000Z",
+   "depth": 1,
+   "parent_author": "827a",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Concrete interop point: Vertex API format diverges from the OpenAI standard everyone but Anthropic uses; OpenRouter as the sane path.",
+   "text": "I too could not figure it out. Also a shame the Vertex API format is sorta different to OpenAI's, which everyone but Anthropic uses. The sanest way to use Google AI models is via OpenRouter tbh.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50278255,
+   "author": "nater5000",
+   "url": "https://news.ycombinator.com/item?id=50278255",
+   "created_at": "2026-10-28T18:07:45.000Z",
+   "depth": 3,
+   "parent_author": "seizethecheese",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Scopes his earlier praise to software and data engineering, acknowledging narrowness.",
+   "text": "Well, my perspective is somewhat narrow (I use it primarily for software engineering and pretty technical data engineering work), so it's possible that Argon is well-suited for the work I do but not for other tasks. I suppose it's just more data points to consider.",
+   "author_comments_in_thread": 2,
+   "account_created": "2023-08-30",
+   "account_karma": 648
+  },
+  {
+   "id": 50280493,
+   "author": "nostrebored",
+   "url": "https://news.ycombinator.com/item?id=50280493",
+   "created_at": "2026-10-28T20:33:10.000Z",
+   "depth": 1,
+   "parent_author": "singingtoday",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "First-hand multi-session agent usage report with a specific failure-and-recovery anecdote.",
+   "text": "yes, I’ve only had it really degrade once and then I used a different agy session to fix the session table. I’ve been using maybe 5-6 concurrent sessions and it’s largely fine",
+   "author_comments_in_thread": 4,
+   "account_created": "2015-03-20",
+   "account_karma": 2696
+  },
+  {
+   "id": 50277185,
+   "author": "notatoad",
+   "url": "https://news.ycombinator.com/item?id=50277185",
+   "created_at": "2026-10-28T17:21:41.000Z",
+   "depth": 1,
+   "parent_author": "droidjj",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "early_comment",
+    "concrete_detail"
+   ],
+   "why": "Reports rumour-mill context that Carbon and Argon are checkpoints of the same model.",
+   "text": "the rumour mill the last two weeks has been referring to carbon and argon as \"checkpoints\" of the same model",
+   "author_comments_in_thread": 2,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50278747,
+   "author": "onlyrealcuzzo",
+   "url": "https://news.ycombinator.com/item?id=50278747",
+   "created_at": "2026-10-28T18:34:27.000Z",
+   "depth": 1,
+   "parent_author": "PreciousH",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Corrects the record: Argon was available to Ultra users for weeks, and Anthropic does the same with Mythos.",
+   "text": "Argon has been publicly available for weeks to Ultra users. Anthropic has been doing this with Mythos for quite some time...",
+   "author_comments_in_thread": 2,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50279360,
+   "author": "pradn",
+   "url": "https://news.ycombinator.com/item?id=50279360",
+   "created_at": "2026-10-28T19:18:22.000Z",
+   "depth": 1,
+   "parent_author": "solarpunk_enthu",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Argues frontier releases are slowed by government-coordination requirements given cyber capabilities.",
+   "text": "It doesn't seem possible to actually release frontier models quickly any more. Given their cyber capabilities, playing nice with the powers that be is probably required these days.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50281935,
+   "author": "r0fl",
+   "url": "https://news.ycombinator.com/item?id=50281935",
+   "created_at": "2026-10-28T22:37:44.000Z",
+   "depth": 1,
+   "parent_author": "MrOrelliOReilly",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "critical_of_google",
+    "concrete_detail"
+   ],
+   "why": "Paying-customer account of giving up on navigating Google's confusing model lineup.",
+   "text": "I cannot figure out how to use anything better than 3.1 pro even on a paying account. There’s 3.8 flash and 3.5 flashlight. I can’t figure out which one is better so I’ve given up trying. It’s just too confusing. there’s too much competition for this type of confusion for the customer.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277062,
+   "author": "saberience",
+   "url": "https://news.ycombinator.com/item?id=50277062",
+   "created_at": "2026-10-28T17:16:33.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "early_comment",
+    "top_level",
+    "critical_of_google"
+   ],
+   "why": "Reasoned criticism of Google's opaque naming versus competitor schemes, though purely about marketing.",
+   "text": "The Google naming convention is so nonsensical it's comical. With Anthropic and OpenAI, it's obvious immediately which are the better models. I.e. Sol is better than Luna, or Mythos is better than Fable. But Google, let's pick Argon, which to most folks means mostly nothing. And then... Carbon! So which is better, Argon or Carbon? Nobody fucking knows. Plus neither sounds cool or viral or mysterious or even provokes curiosity. When Fable was first leaked it sounded different and intriguing... Carbon just sounds... boring.",
+   "author_comments_in_thread": 3,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50278488,
+   "author": "seizethecheese",
+   "url": "https://news.ycombinator.com/item?id=50278488",
+   "created_at": "2026-10-28T18:20:38.000Z",
+   "depth": 4,
+   "parent_author": "nater5000",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Clarifies domain of their benchmark data; mildly substantive follow-up.",
+   "text": "Our data is all software engineering run via local coding agents, but yeah your specific use case could be one where Argon is stronger. (Or your personal preference.)",
+   "author_comments_in_thread": 12,
+   "account_created": "2014-01-30",
+   "account_karma": 4488
+  },
+  {
+   "id": 50279044,
+   "author": "seizethecheese",
+   "url": "https://news.ycombinator.com/item?id=50279044",
+   "created_at": "2026-10-28T18:54:49.000Z",
+   "depth": 4,
+   "parent_author": "sahila",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Clarifies local-harness vs cloud-container distinction; minor methodological detail.",
+   "text": "Yeah, this is a new project so help me out here. I mean that the harness is running locally. I'm trying to distinguish this from arena.ai webdev arena, where they run the agent in a cloud container.",
+   "author_comments_in_thread": 12,
+   "account_created": "2014-01-30",
+   "account_karma": 4488
+  },
+  {
+   "id": 50282029,
+   "author": "seizethecheese",
+   "url": "https://news.ycombinator.com/item?id=50282029",
+   "created_at": "2026-10-28T22:47:14.000Z",
+   "depth": 4,
+   "parent_author": "WarmWash",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "One-word factual clarification of the harness used.",
+   "text": "it's opencode",
+   "author_comments_in_thread": 12,
+   "account_created": "2014-01-30",
+   "account_karma": 4488
+  },
+  {
+   "id": 50284024,
+   "author": "singingtoday",
+   "url": "https://news.ycombinator.com/item?id=50284024",
+   "created_at": "2026-10-29T02:52:09.000Z",
+   "depth": 2,
+   "parent_author": "snoman",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Concrete report: Antigravity Pro sub lacks the model; API workaround counts as enterprise and disables features like auto mode.",
+   "text": "Didn't for me (antigravity, pro sub). I got it working with the API, but to my dismay I learned that counts as enterprise and so many features are disabled, such as auto mode.",
+   "author_comments_in_thread": 6,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277837,
+   "author": "tamimio",
+   "url": "https://news.ycombinator.com/item?id=50277837",
+   "created_at": "2026-10-28T17:48:37.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "critical_of_google",
+    "top_level"
+   ],
+   "why": "Critique of benchmark tables plus claim of post-release model degradation; thin but pointed.",
+   "text": "So now we are just showing some tables with each model?! Who even used argon in normal day to day stuff? From the time they opened Argon publicly to now, it’s like: three weeks maybe?! Most these benchmarks weren’t realistic to start with, and now it is just meaningless tables, not to mention the model degrade from the release date to after few weeks.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50282118,
+   "author": "teach",
+   "url": "https://news.ycombinator.com/item?id=50282118",
+   "created_at": "2026-10-28T22:55:33.000Z",
+   "depth": 2,
+   "parent_author": "gempir",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "First-hand report of Argon as daily driver in Cursor for prose-heavy tasks.",
+   "text": "Yeah I was using Argon in Cursor on launch day and it's become my daily driver for anything requiring moderate smarts or lots of prose. Not surprising that Cursor is better at charging money for something that isn't an ad.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277754,
+   "author": "thway15269037",
+   "url": "https://news.ycombinator.com/item?id=50277754",
+   "created_at": "2026-10-28T17:45:21.000Z",
+   "depth": 2,
+   "parent_author": "vatsachak",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "early_comment",
+    "concrete_detail"
+   ],
+   "why": "Documents that OpenAI's tier scheme is equally confusing with a summarized example.",
+   "text": "Someone in some previous thread tried to summarize, e.g. \"Sol < Astra, except when 6.1 Sol which is more that current Astra, but Terra 6.1 > Sol latest, and...\" So no, OAI scheme is also confusing as hell. And they are going to add even more confusion when they release presumably Nova.",
+   "author_comments_in_thread": 2,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277807,
+   "author": "ur-whale",
+   "url": "https://news.ycombinator.com/item?id=50277807",
+   "created_at": "2026-10-28T17:47:27.000Z",
+   "depth": 2,
+   "parent_author": "WarmWash",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google",
+    "early_comment"
+   ],
+   "why": "Reasoned SpaceX-vs-Google comparison on corporate risk aversion, mildly substantive.",
+   "text": "> When you are a megacorp, perhaps here even the megacorp, every mistake you make is worth millions to someone, the government, the media, individuals, or all of them I don't buy it. SpaceX is not exactly a small corporation, and they nevertheless strike me as far less risk-averse than GOOG and they deal with actual hardware that actually effing explodes.",
+   "author_comments_in_thread": 5,
+   "account_created": "2018-01-11",
+   "account_karma": 5458
+  },
+  {
+   "id": 50278047,
+   "author": "user43928",
+   "url": "https://news.ycombinator.com/item?id=50278047",
+   "created_at": "2026-10-28T17:57:39.000Z",
+   "depth": 2,
+   "parent_author": "hiddencost",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "critical_of_google"
+   ],
+   "why": "Raises Google's recent record of slow Plus-tier availability as fair concern.",
+   "text": "Doesn't Google have a particularly bad record recently at making their models publicly available? Especially on their Plus tier for Gemini. I think it's a fair concern that this might take weeks and trail Fable 5.5.",
+   "author_comments_in_thread": 3,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277882,
+   "author": "verdverm",
+   "url": "https://news.ycombinator.com/item?id=50277882",
+   "created_at": "2026-10-28T17:50:27.000Z",
+   "depth": 3,
+   "parent_author": "machiaweliczny",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "agree_reply",
+    "low_specificity"
+   ],
+   "why": "Skeptical point that benchmark scores do not represent real-world use, though stated generically.",
+   "text": "yea, I probably agree, but I also do not find it represents real world use and performance There are many more aspects which affect outcomes",
+   "author_comments_in_thread": 2,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50279015,
+   "author": "wasabi991011",
+   "url": "https://news.ycombinator.com/item?id=50279015",
+   "created_at": "2026-10-28T18:52:27.000Z",
+   "depth": 1,
+   "parent_author": "zarzavat",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Fair comparative point that free-vs-paid tier differences exist at OpenAI/Anthropic too.",
+   "text": "Disingenuous to not mention what plan you are on. If you are talking about free versions, OpenAI and Anthropic also have a difference between free models and models available to 25$-tier plans.",
+   "author_comments_in_thread": 9,
+   "account_created": "2022-07-30",
+   "account_karma": 1106
+  },
+  {
+   "id": 50279346,
+   "author": "wasabi991011",
+   "url": "https://news.ycombinator.com/item?id=50279346",
+   "created_at": "2026-10-28T19:17:15.000Z",
+   "depth": 2,
+   "parent_author": "onlyrealcuzzo",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [],
+   "why": "Mild but reasoned defense of announce-then-release as industry-normal practice.",
+   "text": "Argon has also been publicly available for the same amount of time for Pro users. I don't understand why HN is so surprised to have an announcement for model existence and a follow-up announcement for model availability. It's really not that unusual, as you say Anthropic has done the same, probably others too (though I can't remember)",
+   "author_comments_in_thread": 9,
+   "account_created": "2022-07-30",
+   "account_karma": 1106
+  },
+  {
+   "id": 50283710,
+   "author": "willis936",
+   "url": "https://news.ycombinator.com/item?id=50283710",
+   "created_at": "2026-10-29T02:06:19.000Z",
+   "depth": 4,
+   "parent_author": "spankalee",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail",
+    "critical_of_google"
+   ],
+   "why": "Concrete inconsistency: Workspace pro accounts still on 3.1 despite the release claims.",
+   "text": "Released to who? Workspace pro accounts are still on 3.1. Google's story isn't self consistent here.",
+   "author_comments_in_thread": 2,
+   "account_created": "2019-08-08",
+   "account_karma": 10217
+  },
+  {
+   "id": 50283742,
+   "author": "willis936",
+   "url": "https://news.ycombinator.com/item?id=50283742",
+   "created_at": "2026-10-29T02:11:33.000Z",
+   "depth": 4,
+   "parent_author": "Marsymars",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "critical_of_google",
+    "concrete_detail"
+   ],
+   "why": "Concrete UX criticism of Google Meet's screen sharing, reactions, tiling, and HDMI support.",
+   "text": "Google meet screen sharing is a horrendous UX, reactions are clunkier than zoom, the tiling options are worse than zoom, and I have yet to see a conference room setup that actually works with HDMI inputs. But yeah, other than that meet is fine.",
+   "author_comments_in_thread": 2,
+   "account_created": "2019-08-08",
+   "account_karma": 10217
+  },
+  {
+   "id": 50281522,
+   "author": "zhobbs",
+   "url": "https://news.ycombinator.com/item?id=50281522",
+   "created_at": "2026-10-28T21:58:57.000Z",
+   "depth": 2,
+   "parent_author": "stbenjam",
+   "categories": [
+    "insightful"
+   ],
+   "confidence": "low",
+   "signals": [
+    "concrete_detail"
+   ],
+   "why": "Hypothesizes TPU/GPU allocation to Anthropic explains Gemini's compute constraints.",
+   "text": "Could it be TPU/GPU availability? ie, is it possible that it's more profitable for their compute to be serving Anthropic models, so Gemini customers are stuck with lower compute available.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  }
+ ]
+}
