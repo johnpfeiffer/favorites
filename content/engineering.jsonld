@@ -5,20 +5,6 @@
   "itemListElement": [
     {
       "@type": "PodcastEpisode",
-      "name": "Leslie Lamport interviewed about his papers on distributed systems",
-      "url": "https://www.developing.dev/p/turing-award-winner-on-working-with",
-      "datePublished": "2026-02-23",
-      "keywords": [
-        "Engineering",
-        "Turing Award",
-        "Algorithms",
-        "Distributed Systems",
-        "History",
-        "Podcast"
-      ]
-    },
-    {
-      "@type": "PodcastEpisode",
       "name": "Golang context.Context package",
       "url": "https://changelog.com/gotime/143",
       "datePublished": "2020-08-20",
@@ -326,18 +312,6 @@
     },
     {
       "@type": "PodcastEpisode",
-      "name": "BBC: 13 Minutes to the Moon Episode 5 - The 4th Astronaut (first mission critical software)",
-      "url": "https://www.bbc.co.uk/programmes/w3csz4dn",
-      "datePublished": "2019-06-12",
-      "keywords": [
-        "Engineering",
-        "History",
-        "Quality",
-        "Podcast"
-      ]
-    },
-    {
-      "@type": "PodcastEpisode",
       "name": "Cautionary Tales: LaLa Land - Galileo's Warning (quality theater)",
       "url": "https://timharford.com/2019/11/cautionary-tales-ep-3-lala-land-galileos-warning/",
       "datePublished": "2019-11-22",
@@ -549,18 +523,6 @@
       "keywords": [
         "Engineering",
         "Cloud",
-        "Architecture",
-        "Podcast"
-      ]
-    },
-    {
-      "@type": "PodcastEpisode",
-      "name": "SE Radio: Gang of Four 20 Years Later",
-      "url": "https://se-radio.net/2014/11/episode-215-gang-of-four-20-years-later",
-      "datePublished": "2014-11-20",
-      "keywords": [
-        "Engineering",
-        "Design Patterns",
         "Architecture",
         "Podcast"
       ]
@@ -1177,20 +1139,6 @@
       ]
     },
     {
-      "@type": "Article",
-      "name": "Urchin: Pre-history of Google Analytics",
-      "url": "https://medium.com/urchin-software-corp/urchin-software-corp-89a1f5292999",
-      "archivedAt": "https://archive.is/0rO7m",
-      "datePublished": "2016-09-02",
-      "keywords": [
-        "Engineering",
-        "Startup",
-        "Google",
-        "Analytics",
-        "History"
-      ]
-    },
-    {
       "@type": "PodcastEpisode",
       "name": "Why You're Wrong About REST from Fallthrough",
       "url": "https://fallthrough.transistor.fm/28",
@@ -1455,21 +1403,6 @@
         "Serverless",
         "Operating Systems",
         "Paper"
-      ]
-    },
-    {
-      "@type": "PodcastEpisode",
-      "name": "Turing Award winner Barbara Liskov interviewed about data abstraction, Dijkstra, and distributed systems",
-      "url": "https://www.developing.dev/p/turing-award-winner-data-abstraction",
-      "archivedAt": "https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835?i=1000763787598",
-      "datePublished": "2026-04-27",
-      "keywords": [
-        "Engineering",
-        "Turing Award",
-        "Distributed Systems",
-        "History",
-        "Barbara Liskov",
-        "Podcast"
       ]
     },
     {
@@ -2039,20 +1972,6 @@
     },
     {
       "@type": "PodcastEpisode",
-      "name": "The Pragmatic Engineer: Software Architecture with Grady Booch (History of UML)",
-      "url": "https://newsletter.pragmaticengineer.com/p/software-architecture-with-grady-booch",
-      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000679233993",
-      "datePublished": "2024-12-04",
-      "keywords": [
-        "Engineering",
-        "Architecture",
-        "UML",
-        "Grady Booch",
-        "Podcast"
-      ]
-    },
-    {
-      "@type": "PodcastEpisode",
       "name": "The Pragmatic Engineer: Notion - Going Native on iOS and Android",
       "url": "https://newsletter.pragmaticengineer.com/p/notion-going-native-on-ios-and-android",
       "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000680046064",
@@ -2442,19 +2361,6 @@
         "Operations",
         "Scaling",
         "Matthew Lee",
-        "Podcast"
-      ]
-    },
-    {
-      "@type": "PodcastEpisode",
-      "name": "The Pragmatic Engineer: How Kent Beck shapes the software engineering industry",
-      "url": "https://newsletter.pragmaticengineer.com/p/how-kent-beck-shapes-the-software",
-      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000775036869",
-      "datePublished": "2026-07-01",
-      "keywords": [
-        "Engineering",
-        "Agile",
-        "Kent Beck",
         "Podcast"
       ]
     },

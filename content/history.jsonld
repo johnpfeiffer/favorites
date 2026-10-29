@@ -727,6 +727,103 @@
         "Healthcare",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Leslie Lamport interviewed about his papers on distributed systems",
+      "url": "https://www.developing.dev/p/turing-award-winner-on-working-with",
+      "datePublished": "2026-02-23",
+      "keywords": [
+        "History",
+        "Engineering",
+        "Turing Award",
+        "Algorithms",
+        "Distributed Systems",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "BBC: 13 Minutes to the Moon Episode 5 - The 4th Astronaut (first mission critical software)",
+      "url": "https://www.bbc.co.uk/programmes/w3csz4dn",
+      "datePublished": "2019-06-12",
+      "keywords": [
+        "History",
+        "Engineering",
+        "Quality",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "SE Radio: Gang of Four 20 Years Later",
+      "url": "https://se-radio.net/2014/11/episode-215-gang-of-four-20-years-later",
+      "datePublished": "2014-11-20",
+      "keywords": [
+        "History",
+        "Engineering",
+        "Design Patterns",
+        "Architecture",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Urchin: Pre-history of Google Analytics",
+      "url": "https://medium.com/urchin-software-corp/urchin-software-corp-89a1f5292999",
+      "archivedAt": "https://archive.is/0rO7m",
+      "datePublished": "2016-09-02",
+      "keywords": [
+        "History",
+        "Engineering",
+        "Startup",
+        "Google",
+        "Analytics"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Turing Award winner Barbara Liskov interviewed about data abstraction, Dijkstra, and distributed systems",
+      "url": "https://www.developing.dev/p/turing-award-winner-data-abstraction",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835?i=1000763787598",
+      "datePublished": "2026-04-27",
+      "keywords": [
+        "History",
+        "Engineering",
+        "Turing Award",
+        "Distributed Systems",
+        "Barbara Liskov",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: Software Architecture with Grady Booch (History of UML)",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-architecture-with-grady-booch",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000679233993",
+      "datePublished": "2024-12-04",
+      "keywords": [
+        "History",
+        "Engineering",
+        "Architecture",
+        "UML",
+        "Grady Booch",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: How Kent Beck shapes the software engineering industry",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-kent-beck-shapes-the-software",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000775036869",
+      "datePublished": "2026-07-01",
+      "keywords": [
+        "History",
+        "Engineering",
+        "Agile",
+        "Kent Beck",
+        "Podcast"
+      ]
     }
   ]
 }
