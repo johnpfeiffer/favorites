@@ -718,6 +718,21 @@
     },
     {
       "@type": "PodcastEpisode",
+      "name": "Peterman Pod: Turing Award Winner - NSA, Public Key Cryptography, Crypto Wars (Martin Hellman)",
+      "url": "https://www.developing.dev/p/turing-award-winner-nsa-public-key",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835?i=1000775630039",
+      "datePublished": "2026-07-06",
+      "keywords": [
+        "History",
+        "Engineering",
+        "Turing Award",
+        "Security",
+        "Martin Hellman",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
       "name": "Hard Drugs: Should everyone be taking statins? (history and efficacy)",
       "url": "https://harddrugs.worksinprogress.co/episodes/should-everyone-be-taking-statins",
       "archivedAt": "https://podcasts.apple.com/us/podcast/hard-drugs/id1819489230?i=1000751897974",
