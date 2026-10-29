@@ -839,6 +839,20 @@
         "Kent Beck",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Peterman Pod: Surprises in Computer History and Where Bad Code Comes From (Casey Muratori)",
+      "url": "https://www.developing.dev/p/casey-muratori-surprises-in-computer",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835?i=1000789540404",
+      "datePublished": "2026-09-14",
+      "keywords": [
+        "History",
+        "People",
+        "Quality",
+        "Casey Muratori",
+        "Podcast"
+      ]
     }
   ]
 }

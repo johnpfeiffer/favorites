@@ -1,11 +1,13 @@
 ---
 name: add-favorite
-description: Add a new link to the favorites collection with verified metadata. Use when adding one or more URLs to content/*.jsonld (schema.org ItemList), including canonical podcast URLs via the committed podcasts/ episode indexes, archive.org alternates, and reusing existing tags. Published-date resolution is owned by the resolve-published-date skill.
+description: Add or reclassify links in content/*.jsonld with verified metadata and intent-led placement, including podcast canonicals, archive alternates, and reusable tags. Use when adding favorites or reviewing/changing categories; published-date resolution is owned by resolve-published-date.
 ---
 
-# Add a favorite
+# Add or reclassify a favorite
 
-Add links to `content/*.jsonld` (schema.org ItemList storage) so they pass `./validate-json.sh`, dedupe cleanly against `./count-urls.sh` and `fav lint`, and match existing conventions.
+Add or reclassify links in `content/*.jsonld` (schema.org ItemList storage) so they pass `./validate-json.sh`, dedupe cleanly against `./count-urls.sh` and `fav lint`, and match the user's curation intent.
+
+For category-only work, use [Placement](#placement) and [Checks before committing](#checks-before-committing). Do not refresh dates, URLs, podcast indexes, or graph relationships just because an entry changes files.
 
 ## Batch order
 
@@ -58,7 +60,46 @@ Storage is schema.org JSON-LD: each `content/<category>.jsonld` is an `ItemList`
 
 ## Placement
 
-Five files: `ai.jsonld`, `business.jsonld`, `engineering.jsonld`, `history.jsonld`, `people.jsonld`. Filenames are loose; tags carry the meaning. To place a link, grep for similar existing content (e.g. all hiring/interviewing content is in `people.jsonld`, all Acquired episodes in `history.jsonld`) and follow the precedent.
+Five files: `ai.jsonld`, `business.jsonld`, `engineering.jsonld`, `history.jsonld`, `people.jsonld`. The file is an entry's primary home for discovery, not an exclusive taxonomy. Tags preserve overlapping themes; store each favorite only once.
+
+### Decide by curation intent
+
+1. **User intent wins.** Explicit placement decisions and notes about why a link matters outrank generic heuristics and existing file placement. A leadership or career lens can outweigh a retrospective narrative; do not classify by which topic occupies the most minutes alone.
+2. Read enough of the publisher's overview, chapters, or transcript to identify the piece's purpose. Distinguish a story about how something came to be from technical instruction, leadership lessons, or career guidance. A guest's credentials, a podcast/show name, an old publication date, or the word "history" in a title is not sufficient evidence.
+3. Use the themes and confirmed examples below. Search similar existing records, but treat legacy placement as fallible evidence, not a rule to copy. Peterman interviews are not automatically Engineering; biographies and career retrospectives are not automatically History.
+4. If a new entry remains genuinely ambiguous, ask. For existing entries, report clear moves separately from mixed cases and leave the mixed cases in place unless the user approves moving them. Give a short placement rationale in the PR, including which theme wins when several apply.
+
+| Primary reason to save or find the piece | File |
+| --- | --- |
+| Origins, historical evolution, breakthrough stories, or oral history | `history.jsonld` |
+| Leadership, people management, hiring, or career growth and decisions | `people.jsonld` |
+| Technical explanations, algorithms, systems design, implementation, or practical engineering | `engineering.jsonld` |
+| AI models, tools, applications, research, or a strong connection to the active AI field | `ai.jsonld` |
+| Commercial strategy, markets, finance, or business operations | `business.jsonld` |
+
+These are defaults, not a priority order. Historical context does not displace a stronger Leadership, Career, or current AI theme identified by the user.
+
+### Confirmed boundary examples
+
+| Entry or reviewed group | Placement and reason |
+| --- | --- |
+| Hellman on public-key cryptography and the crypto wars; Lamport and Liskov on their breakthroughs | **History**: invention stories and historical context, despite technical subjects and Turing Award credentials. Retain Engineering as a topic tag. |
+| Booch's UML/Rational retrospective; Beck on shaping software engineering; Gang of Four 20 Years Later; Urchin/Google Analytics origins; Apollo's Fourth Astronaut | **History**: the reviewed computing, company, and breakthrough histories. |
+| Casey Muratori: Surprises in Computer History and Where Bad Code Comes From | **History**: computing history is the reason for filing it there, despite engineering and career discussion. |
+| Thuan Pham: Scaling Uber | **People**, explicitly retained for **Leadership**, not moved merely because it recounts Uber's past. |
+| Kelsey Hightower: Kubernetes and retiring at the top | **People**, explicitly retained for **Career**, despite the Kubernetes history and career retrospective. |
+| Wired's Transformer origin story; the Demis Hassabis biography; Booch's third golden age/AI discussion | **AI**, explicitly retained for their strong, still-current AI theme. This is not a blanket rule that every history involving AI belongs in AI. |
+| Stonebraker's Postgres/future-work interview; the UUID article; JUnit/history-of-testing and Patterson interviews | Leave in **Engineering**: the reviewed mixed cases were not approved for a move. Historical elements alone do not settle placement. |
+| Original Paxos and Time, Clocks papers | **Engineering**: primary technical works do not become History merely through age. |
+
+Use these as contrast cases, not speaker- or show-wide rules: Booch's UML retrospective and his AI discussion have different homes. Recruiting and job-interview guidance normally belongs in People, while Acquired company histories normally belong in History; still check the specific piece and the user's intent.
+
+### Move entries without unrelated changes
+
+- Move only the approved records, rather than bulk-reclassifying a speaker, show, tag, or every entry with historical material.
+- Move the whole object; do not duplicate it. Put the destination category first, once, and retain the prior category and all other existing tags. Keep a media-type tag last. Add the destination tag if missing; do not silently merge or remove tags.
+- Preserve the name, `@type`, canonical URL, `archivedAt`, and `datePublished`. Category-only moves are not an invitation to clean up unrelated metadata or extract new graph relationships.
+- Run the content checks below and the graph validator when present. Compare before/after records by URL: the URL set and total count must be unchanged, unrelated records must match, and only the approved entries' file placement and category keywords may differ. Check explicit keep-in-place examples, such as Thuan, Kelsey, and the AI entries, when relevant.
 
 ## Metadata sleuthing
 
