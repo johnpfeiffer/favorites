@@ -1,0 +1,1017 @@
+{
+ "thread": {
+  "id": 50276792,
+  "title": "Gemini 4 Carbon",
+  "url": "https://news.ycombinator.com/item?id=50276792",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+  "posted": "2026-10-28T17:01:23.000Z",
+  "analyzed_at": "2026-10-29",
+  "total_comments": 708,
+  "unique_authors": 497
+ },
+ "methodology": "All 708 comments semantically classified (4 parallel passes with the recall-sharpened vacuous-cheer definition from the Argon analysis, so no separate recall pass was needed), then author-level affiliation propagation (affiliated_author, pre_disclosure), a rescan of unflagged comments by flagged authors, and cross-thread repeat-offender matching against HN/50073879 (Gemini 4 Argon). repeat_argon_flag = author was pattern-flagged in the Argon thread two weeks earlier. Categories flag rhetorical patterns, not proof of bot or shill behavior. Account age/karma from public HN profiles 2026-10-29.",
+ "summary": {
+  "flagged_comments": 43,
+  "unique_flagged_authors": 38,
+  "by_category": {
+   "disclosed_googler": 15,
+   "cheerful_anecdote": 20,
+   "boosting": 9
+  },
+  "by_confidence": {
+   "high": 11,
+   "medium": 23,
+   "low": 9
+  },
+  "pre_disclosure_comments": [
+   50277728,
+   50278529
+  ],
+  "accounts_created_within_6wks_of_thread": [
+   "LewisOrton",
+   "lifeisloving",
+   "lordolunch"
+  ],
+  "repeat_argon_flagged_authors": [
+   "LewisOrton"
+  ],
+  "comparison_with_argon_thread": {
+   "argon_flagged": 68,
+   "carbon_flagged": 43,
+   "note": "Carbon drew roughly half the cheer/boost volume of Argon with ~86% of the comments; thread skewed critical (announce-without-release, benchmark cherrypicking)."
+  }
+ },
+ "flagged_comments": [
+  {
+   "id": 50277728,
+   "author": "brainwad",
+   "url": "https://news.ycombinator.com/item?id=50277728",
+   "created_at": "2026-10-28T17:44:10.000Z",
+   "depth": 1,
+   "parent_author": "javierhonduco",
+   "categories": [
+    "disclosed_googler",
+    "insightful"
+   ],
+   "confidence": "high",
+   "signals": [
+    "early_comment",
+    "affiliation_disclosure",
+    "concrete_detail",
+    "affiliated_author",
+    "pre_disclosure"
+   ],
+   "why": "Refers to 'our models' and internal dogfood versions plus public usage dashboards, disclosing Google employment with substantive detail.",
+   "text": "People I work with either use the dogfood versions of our models, the latest public versions thereof, or Opus 5.5. It's a personal preference thing, we have public usage dashboards and you can see some people are 100% Gemini, some are 100% Claude, some are using both.",
+   "author_comments_in_thread": 9,
+   "account_created": "2018-03-22",
+   "account_karma": 1110
+  },
+  {
+   "id": 50277939,
+   "author": "brainwad",
+   "url": "https://news.ycombinator.com/item?id=50277939",
+   "created_at": "2026-10-28T17:52:33.000Z",
+   "depth": 3,
+   "parent_author": "ur-whale",
+   "categories": [
+    "disclosed_googler"
+   ],
+   "confidence": "high",
+   "signals": [
+    "early_comment",
+    "affiliation_disclosure",
+    "concrete_detail",
+    "affiliated_author"
+   ],
+   "why": "'Our Claude traffic runs on GCP' asserts Google insider infrastructure knowledge.",
+   "text": "AIUI our Claude traffic runs on GCP and so never \"leaves the building\".",
+   "author_comments_in_thread": 9,
+   "account_created": "2018-03-22",
+   "account_karma": 1110
+  },
+  {
+   "id": 50279079,
+   "author": "jnwatson",
+   "url": "https://news.ycombinator.com/item?id=50279079",
+   "created_at": "2026-10-28T18:58:16.000Z",
+   "depth": 3,
+   "parent_author": "Corence",
+   "categories": [
+    "disclosed_googler"
+   ],
+   "confidence": "high",
+   "signals": [
+    "affiliation_disclosure",
+    "affiliated_author"
+   ],
+   "why": "'The internal joke was that we're even scaling the off-by-one errors' — self-identifies as Googler with internal naming knowledge.",
+   "text": "The internal joke was that we're even scaling the off-by-one errors; Gemini 4 was not the fourth major model version.",
+   "author_comments_in_thread": 1,
+   "account_created": "2016-12-03",
+   "account_karma": 7358
+  },
+  {
+   "id": 50281816,
+   "author": "kridsdale1",
+   "url": "https://news.ycombinator.com/item?id=50281816",
+   "created_at": "2026-10-28T22:26:58.000Z",
+   "depth": 5,
+   "parent_author": "helpyou840",
+   "categories": [
+    "disclosed_googler"
+   ],
+   "confidence": "high",
+   "signals": [
+    "affiliation_disclosure",
+    "affiliated_author"
+   ],
+   "why": "Explicitly states 'I work at Google' while withholding a substantive response.",
+   "text": "I work at Google. My response to your comment would get me banned from HN.",
+   "author_comments_in_thread": 2,
+   "account_created": "2018-02-16",
+   "account_karma": 2843
+  },
+  {
+   "id": 50282076,
+   "author": "tjwebbnorfolk",
+   "url": "https://news.ycombinator.com/item?id=50282076",
+   "created_at": "2026-10-28T22:51:31.000Z",
+   "depth": 6,
+   "parent_author": "kridsdale1",
+   "categories": [
+    "disclosed_googler"
+   ],
+   "confidence": "high",
+   "signals": [
+    "affiliation_disclosure",
+    "concrete_detail",
+    "critical_of_google",
+    "affiliated_author"
+   ],
+   "why": "States he worked at Google until 2 months ago, citing 'Bureaucracy' as the top exit-survey reason.",
+   "text": "I worked at Google up until 2 months ago. In my exit survey, the #1 reason I left: \"Bureaucracy\"",
+   "author_comments_in_thread": 2,
+   "account_created": "2024-12-05",
+   "account_karma": 806
+  },
+  {
+   "id": 50277050,
+   "author": "sroussey",
+   "url": "https://news.ycombinator.com/item?id=50277050",
+   "created_at": "2026-10-28T17:16:05.000Z",
+   "depth": 1,
+   "parent_author": "kilroy123",
+   "categories": [
+    "disclosed_googler"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "affiliation_disclosure",
+    "early_comment",
+    "affiliated_author"
+   ],
+   "why": "Asserts insider knowledge (internal 10M context, DeepMind/Cloud split) without evidence.",
+   "text": "Deepmind creates these, Google Cloud productizes them. If Google Cloud was in charge, Gemini 5 would be public, and they wouldn't be messing with Gemini 4 nor 1M context when they have 10M internal. C'est la vie.",
+   "author_comments_in_thread": 2,
+   "account_created": "2009-12-20",
+   "account_karma": 5749
+  },
+  {
+   "id": 50277354,
+   "author": "dannyw",
+   "url": "https://news.ycombinator.com/item?id=50277354",
+   "created_at": "2026-10-28T17:28:30.000Z",
+   "depth": 2,
+   "parent_author": "WarmWash",
+   "categories": [
+    "disclosed_googler",
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "affiliation_disclosure",
+    "concrete_detail",
+    "affiliated_author"
+   ],
+   "why": "Asserts insider knowledge from multiple labs that model releases are gated by the US government.",
+   "text": "You’re also assuming the decision is up to Google. I’ve heard from multiple labs that model release is up to the US government now. You can also see this with Astra being announced and then launched a few days later.",
+   "author_comments_in_thread": 1,
+   "account_created": "2017-08-29",
+   "account_karma": 15955
+  },
+  {
+   "id": 50277828,
+   "author": "yegle",
+   "url": "https://news.ycombinator.com/item?id=50277828",
+   "created_at": "2026-10-28T17:48:17.000Z",
+   "depth": 1,
+   "parent_author": "javierhonduco",
+   "categories": [
+    "disclosed_googler",
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "affiliation_disclosure",
+    "concrete_detail",
+    "early_comment",
+    "affiliated_author"
+   ],
+   "why": "Answers a 'from a Googler' question with internal usage of unreleased Carbon (3.8 Flash default, Argon/Carbon for deep analysis), implying insider access with concrete workflow detail.",
+   "text": "I personally use 3.8 Flash most of the time and Argon/Carbon when I need to do deep analysis or research an ambiguous problem. Opus/Fable is used when I need a second/third opinion. 3.8 Flash + /boost is very capable.",
+   "author_comments_in_thread": 3,
+   "account_created": "2012-09-17",
+   "account_karma": 3079
+  },
+  {
+   "id": 50277850,
+   "author": "vinni2",
+   "url": "https://news.ycombinator.com/item?id=50277850",
+   "created_at": "2026-10-28T17:49:08.000Z",
+   "depth": 1,
+   "parent_author": "javierhonduco",
+   "categories": [
+    "disclosed_googler"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "affiliation_disclosure",
+    "affiliated_author"
+   ],
+   "why": "Cites hearsay from a Googler about internal Claude coding popularity.",
+   "text": "From what I heard from a Googler, Claude models are still the most popular for coding internally but it’s a couple of month old info so take it with a grain of salt.",
+   "author_comments_in_thread": 1,
+   "account_created": "2016-12-29",
+   "account_karma": 5880
+  },
+  {
+   "id": 50277886,
+   "author": "slipshady",
+   "url": "https://news.ycombinator.com/item?id=50277886",
+   "created_at": "2026-10-28T17:50:33.000Z",
+   "depth": 2,
+   "parent_author": "vinni2",
+   "categories": [
+    "disclosed_googler"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "affiliation_disclosure",
+    "early_comment",
+    "affiliated_author"
+   ],
+   "why": "Asserts insider knowledge that Googlers got Claude access one month ago.",
+   "text": "Googlers got access to Claude like one month ago.",
+   "author_comments_in_thread": 1,
+   "account_created": "2022-11-16",
+   "account_karma": 32
+  },
+  {
+   "id": 50278529,
+   "author": "owkman",
+   "url": "https://news.ycombinator.com/item?id=50278529",
+   "created_at": "2026-10-28T18:22:13.000Z",
+   "depth": 1,
+   "parent_author": "javierhonduco",
+   "categories": [
+    "disclosed_googler",
+    "cheerful_anecdote"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "affiliation_disclosure",
+    "random_trial_framing",
+    "cheer_tone",
+    "low_specificity",
+    "affiliated_author",
+    "pre_disclosure"
+   ],
+   "why": "Rebuts a 'Googlers hate it' article from inside ('I use Carbon heavily and am quite happy with it') — insider cheer with only vague task framing, hedged by 'take that as you will'.",
+   "text": "Other comments on this already, so this is more of a confirmation. I'm not going to comment on others use of Carbon except to say some article that came out before Argon's external launch saying Googlers hate it was nonsense. Not to say everyone loved it all the time. I use Carbon heavily and am quite happy with it. For complex designs I may have it and Opus iterate back and forth on the design. They have their own strengths and Opus 5.5 is great, but I use Gemini far more than I do Opus at this point. I know a lot of the jagged edges of Gemini better than Opus though, so take that as you will.",
+   "author_comments_in_thread": 3,
+   "account_created": "2020-10-14",
+   "account_karma": 61
+  },
+  {
+   "id": 50278537,
+   "author": "brainwad",
+   "url": "https://news.ycombinator.com/item?id=50278537",
+   "created_at": "2026-10-28T18:23:03.000Z",
+   "depth": 4,
+   "parent_author": "mattlondon",
+   "categories": [
+    "disclosed_googler",
+    "insightful"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "affiliation_disclosure",
+    "concrete_detail",
+    "affiliated_author"
+   ],
+   "why": "Asserts insider knowledge that the feature was GDM-only for months before general availability.",
+   "text": "It was locked down to GDM only for several months, but now it's available for everyone.",
+   "author_comments_in_thread": 9,
+   "account_created": "2018-03-22",
+   "account_karma": 1110
+  },
+  {
+   "id": 50278992,
+   "author": "owkman",
+   "url": "https://news.ycombinator.com/item?id=50278992",
+   "created_at": "2026-10-28T18:51:10.000Z",
+   "depth": 1,
+   "parent_author": "mattlondon",
+   "categories": [
+    "disclosed_googler"
+   ],
+   "confidence": "low",
+   "signals": [
+    "affiliation_disclosure",
+    "affiliated_author"
+   ],
+   "why": "Insider-style clarification that Carbon is simply the next iteration of Argon.",
+   "text": "Yes.. very confusing names. Carbon is the next iteration of Argon.",
+   "author_comments_in_thread": 3,
+   "account_created": "2020-10-14",
+   "account_karma": 61
+  },
+  {
+   "id": 50282485,
+   "author": "surajrmal",
+   "url": "https://news.ycombinator.com/item?id=50282485",
+   "created_at": "2026-10-28T23:38:56.000Z",
+   "depth": 2,
+   "parent_author": "vinni2",
+   "categories": [
+    "disclosed_googler"
+   ],
+   "confidence": "low",
+   "signals": [
+    "affiliation_disclosure",
+    "agree_reply",
+    "affiliated_author"
+   ],
+   "why": "Flat evidence-free contradiction of the Googler hearsay, implying insider knowledge.",
+   "text": "They are not the most popular.",
+   "author_comments_in_thread": 1,
+   "account_created": "2017-10-31",
+   "account_karma": 2075
+  },
+  {
+   "id": 50284278,
+   "author": "russ_j",
+   "url": "https://news.ycombinator.com/item?id=50284278",
+   "created_at": "2026-10-29T03:36:23.000Z",
+   "depth": 1,
+   "parent_author": "informal007",
+   "categories": [
+    "disclosed_googler"
+   ],
+   "confidence": "low",
+   "signals": [
+    "affiliation_disclosure",
+    "affiliated_author"
+   ],
+   "why": "Confident unsourced claim about Flash 4 timing and its role in Search AIO.",
+   "text": "They'll have flash 4 soon. It's the most important to them, because it powers search AIO/AI Mode",
+   "author_comments_in_thread": 1,
+   "account_created": "2026-08-27",
+   "account_karma": 1
+  },
+  {
+   "id": 50276894,
+   "author": "Fergusonb",
+   "url": "https://news.ycombinator.com/item?id=50276894",
+   "created_at": "2026-10-28T17:07:43.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "high",
+   "signals": [
+    "early_comment",
+    "top_level",
+    "marketing_quote",
+    "cheer_tone",
+    "low_specificity"
+   ],
+   "why": "Early top-level comment amplifying the launch blurb's AA '#1' claim and 'omniscience score' with excitement but no concrete task or evaluation.",
+   "text": "Interesting - at time of writing, Carbon is claimed to be #1 on AA, but AA has not updated yet. Excited to try it, opus level benchmarks with their omniscience score and multimodality seems worth testing!",
+   "author_comments_in_thread": 1,
+   "account_created": "2020-10-30",
+   "account_karma": 349
+  },
+  {
+   "id": 50277514,
+   "author": "I_am_tiberius",
+   "url": "https://news.ycombinator.com/item?id=50277514",
+   "created_at": "2026-10-28T17:34:50.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "high",
+   "signals": [
+    "early_comment",
+    "top_level",
+    "low_specificity",
+    "cheer_tone",
+    "random_trial_framing"
+   ],
+   "why": "Evidence-free subscription cancellation in favor of an unreleased model; pure anticipation cheer.",
+   "text": "Just cancelled my Anthropic subscription. Looking forward to this.",
+   "author_comments_in_thread": 2,
+   "account_created": "2017-01-26",
+   "account_karma": 1942
+  },
+  {
+   "id": 50277554,
+   "author": "carterschonwald",
+   "url": "https://news.ycombinator.com/item?id=50277554",
+   "created_at": "2026-10-28T17:36:32.000Z",
+   "depth": 1,
+   "parent_author": "PreciousH",
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "high",
+   "signals": [
+    "low_specificity",
+    "cheer_tone",
+    "agree_reply",
+    "early_comment"
+   ],
+   "why": "Two-word content-free positive reply ('it's pleasant').",
+   "text": "it’s pleasant",
+   "author_comments_in_thread": 1,
+   "account_created": "2008-03-30",
+   "account_karma": 4024
+  },
+  {
+   "id": 50282767,
+   "author": "scotth",
+   "url": "https://news.ycombinator.com/item?id=50282767",
+   "created_at": "2026-10-29T00:16:14.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "high",
+   "signals": [
+    "top_level",
+    "cheer_tone",
+    "low_specificity",
+    "random_trial_framing"
+   ],
+   "why": "Glowing Argon anecdote ('completely unmatched', 'first time ever happy with code quality') with no concrete task or numbers, ending 'excited to try Carbon'.",
+   "text": "It sounds like people have been having problems, but at least with the way I like to work on some projects (still in the weeds, and making sure that important aspects of code are treated with respect), Argon has been completely unmatched in performance. It participates in my process exactly as I ask it to, doesn't run off and \"solve\" what I haven't asked for, spots bugs and opportunities in situations where the others are confused and crashing out. It's the first time I have ever been happy with the code quality. And I don't give two shits that it can't design a picturesque voxel pagoda -- this thing can code, and talk about it like a pro. I'm excited to try Carbon.",
+   "author_comments_in_thread": 2,
+   "account_created": "2008-12-04",
+   "account_karma": 1111
+  },
+  {
+   "id": 50277137,
+   "author": "james2doyle",
+   "url": "https://news.ycombinator.com/item?id=50277137",
+   "created_at": "2026-10-28T17:19:53.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "marketing_quote",
+    "low_specificity",
+    "cheer_tone",
+    "early_comment",
+    "top_level"
+   ],
+   "why": "Amplifies the pricing blurb with vague appreciation ('more capable and same price? I can at least appreciate that') and no task.",
+   "text": "> Gemini 4 Carbon will launch at the same introductory price 1 as Argon at $2 per million input tokens and $10 per million output tokens, with cached input tokens priced at 95% off input token price. So more capable and same price? I can at least appreciate that",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50277268,
+   "author": "LewisOrton",
+   "url": "https://news.ycombinator.com/item?id=50277268",
+   "created_at": "2026-10-28T17:25:33.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "top_level",
+    "cheer_tone",
+    "low_specificity",
+    "random_trial_framing",
+    "repeat_argon_flag"
+   ],
+   "why": "'Loved Gemini since 3, works incredibly well in my customer service harness, users satisfied, Gemini 4 incredible' — positive with only a vague deployment claim and no results.",
+   "text": "tbh i might be one of the few who actually likes gemini since 3. it wasnt as good at coding compared to other two but it always wrote the best, and talked the best, providing very good conversation experience. it works incredibly well in my customer service agent harness and my users have been very satisfied. Now Gemini 4 is incredible, but the same old issue: a powerful model, in the worst official harness deepmind should get rid of those antigravity ppl they're a joke and sabotaging the model's reputation.",
+   "author_comments_in_thread": 3,
+   "account_created": "2026-10-11",
+   "account_karma": 22
+  },
+  {
+   "id": 50277271,
+   "author": "machiaweliczny",
+   "url": "https://news.ycombinator.com/item?id=50277271",
+   "created_at": "2026-10-28T17:25:45.000Z",
+   "depth": 2,
+   "parent_author": "verdverm",
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "agree_reply",
+    "low_specificity",
+    "cheer_tone",
+    "early_comment"
+   ],
+   "why": "Bare low-effort agreement that this is the 'best ranking of models so far' with zero substance.",
+   "text": "I think it's best ranking of models so far",
+   "author_comments_in_thread": 1,
+   "account_created": "2015-07-12",
+   "account_karma": 694
+  },
+  {
+   "id": 50277365,
+   "author": "jascha_eng",
+   "url": "https://news.ycombinator.com/item?id=50277365",
+   "created_at": "2026-10-28T17:28:49.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "top_level",
+    "cheer_tone",
+    "low_specificity"
+   ],
+   "why": "Vacuous early top-level cheer ('cool to see progress!') whose substance is anticipation of a competitor's Fable 5.5.",
+   "text": "What makes me most excited is that we probably get fable 5.5 soon with the IPO. Which is going to surpass this again. But cool to see progress!",
+   "author_comments_in_thread": 1,
+   "account_created": "2024-01-23",
+   "account_karma": 1072
+  },
+  {
+   "id": 50277779,
+   "author": "nater5000",
+   "url": "https://news.ycombinator.com/item?id=50277779",
+   "created_at": "2026-10-28T17:46:33.000Z",
+   "depth": 1,
+   "parent_author": "PreciousH",
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "cheer_tone",
+    "random_trial_framing",
+    "low_specificity"
+   ],
+   "why": "'Pretty good model... exceptional value... crazy value' recommendation with only light context (uses Cursor at work) and no concrete task or numbers.",
+   "text": "For what it's worth: Argon is a pretty good model, and this is coming from someone who just sticks with Opus 5.5 mostly across the board. For the current introductory price, it provides an exceptional value. Looks like they're trying to release Carbon (which is apparently a significant improvement) at the same price as Argon, which would be a crazy value. It's worth trying if you have easy access to it (we use Cursor at work, so it was just a matter of picking a different model for me). Don't know if I'd go out of my way to get a Google AI subscription for it, but if Carbon ends up meeting these expectations, then it may be worth doing so.",
+   "author_comments_in_thread": 2,
+   "account_created": "2023-08-30",
+   "account_karma": 648
+  },
+  {
+   "id": 50277894,
+   "author": "kingstnap",
+   "url": "https://news.ycombinator.com/item?id=50277894",
+   "created_at": "2026-10-28T17:50:54.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "top_level",
+    "cheer_tone",
+    "random_trial_framing",
+    "concrete_detail"
+   ],
+   "why": "Effusive first-person Argon praise ('feels like talking to someone smarter than me') with only light task specifics and classic cheer framing.",
+   "text": "Argon 4 is really good in my opinion, especially in chat. Usage is limited, but one big difference is that it seems to better understand what is and isn't worth mentioning. It has better tuning towards not adding unhelpful caveats and irrelevant details. When I told it I was unhappy with some slop being dumped into some repo markdown files from Astra and Sol it actually went ahead and tastefully cleaned them up in line with how I expected them to be. Reductions are normally so bad from agents. One big thing is that it really feels like talking to someone smarter than me. Other agents just seem extremely knowledgeable but Argon felt smart.",
+   "author_comments_in_thread": 1,
+   "account_created": "2025-05-22",
+   "account_karma": 1656
+  },
+  {
+   "id": 50278493,
+   "author": "DanMcInerney",
+   "url": "https://news.ycombinator.com/item?id=50278493",
+   "created_at": "2026-10-28T18:20:44.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "cheer_tone",
+    "top_level",
+    "low_specificity"
+   ],
+   "why": "Vague speed praise ('most impressed with the speed') loosely framed around running agents, with no concrete task or numbers.",
+   "text": "It's the speed of these gemini models that I'm most impressed with. I'm finding speed to actually be a larger limitation than intelligence these days of running multiple agents 24/7 building stuff.",
+   "author_comments_in_thread": 1,
+   "account_created": "2013-12-23",
+   "account_karma": 387
+  },
+  {
+   "id": 50279134,
+   "author": "nostrebored",
+   "url": "https://news.ycombinator.com/item?id=50279134",
+   "created_at": "2026-10-28T19:01:56.000Z",
+   "depth": 3,
+   "parent_author": "mlinsey",
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "low_specificity",
+    "random_trial_framing",
+    "cheer_tone"
+   ],
+   "why": "Satisfied-user anecdote with only hand-wavy domains ('model training and conceptual math'), no task.",
+   "text": "I’ve been primarily using agy cli and argon for the last week and I’m fairly satisfied. Rarely am I looking to go back to opus and it seems much much better at model training and conceptual math",
+   "author_comments_in_thread": 4,
+   "account_created": "2015-03-20",
+   "account_karma": 2696
+  },
+  {
+   "id": 50279881,
+   "author": "sjacob",
+   "url": "https://news.ycombinator.com/item?id=50279881",
+   "created_at": "2026-10-28T19:50:06.000Z",
+   "depth": 2,
+   "parent_author": "5555watch",
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "low_specificity",
+    "cheer_tone"
+   ],
+   "why": "Vague loyalty claim ('best all rounder chat model for me') with no task or detail.",
+   "text": "I still use Gemini 3.1 Pro. It has been the best all rounder chat model for me.",
+   "author_comments_in_thread": 1,
+   "account_created": null,
+   "account_karma": null
+  },
+  {
+   "id": 50282539,
+   "author": "conception",
+   "url": "https://news.ycombinator.com/item?id=50282539",
+   "created_at": "2026-10-28T23:45:20.000Z",
+   "depth": 1,
+   "parent_author": "LewisOrton",
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "low_specificity",
+    "cheer_tone"
+   ],
+   "why": "Vague 'so good... consistently good performance' praise explicitly dismissing benchmarks.",
+   "text": "Gemini 3.8 Flash is so good in Pi. It may not show up in benchmarks but consistently good performance.",
+   "author_comments_in_thread": 1,
+   "account_created": "2013-04-02",
+   "account_karma": 5045
+  },
+  {
+   "id": 50284714,
+   "author": "artdigital",
+   "url": "https://news.ycombinator.com/item?id=50284714",
+   "created_at": "2026-10-29T04:54:13.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "low_specificity",
+    "cheer_tone",
+    "top_level"
+   ],
+   "why": "'Fantastic model... honestly don't know which I would pick' — positive with zero specifics.",
+   "text": "Argon is a fantastic model. If you tell me I can only have one subscription: Claude, Gemini or ChatGPT, I honestly don't know which one I would pick currently But what naming is this, I thought Google goes into a similar direction with naming as the others, so a \"Argon\" is similar to a Astra, and then there's Flash and Pro as the middle tiers, but if they just call models with random names now it 'll get super confusing",
+   "author_comments_in_thread": 1,
+   "account_created": "2021-10-28",
+   "account_karma": 1117
+  },
+  {
+   "id": 50277440,
+   "author": "WarmWash",
+   "url": "https://news.ycombinator.com/item?id=50277440",
+   "created_at": "2026-10-28T17:32:00.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "low",
+   "signals": [
+    "low_specificity",
+    "cheer_tone",
+    "early_comment",
+    "top_level"
+   ],
+   "why": "Vague 'really solid everyday model' praise of 3.8 Flash attached to a Flash-4 wish.",
+   "text": "Where is 4 flash? 3.8 flash is a really solid \"everyday\" model. Was hoping a new flash model would be the next release.",
+   "author_comments_in_thread": 11,
+   "account_created": "2026-01-20",
+   "account_karma": 5448
+  },
+  {
+   "id": 50277806,
+   "author": "solarkraft",
+   "url": "https://news.ycombinator.com/item?id=50277806",
+   "created_at": "2026-10-28T17:47:22.000Z",
+   "depth": 1,
+   "parent_author": "cedws",
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "low",
+   "signals": [
+    "low_specificity",
+    "cheer_tone",
+    "agree_reply"
+   ],
+   "why": "Secondhand vague praise ('heard Argon was good at making plans') amplified with cheer.",
+   "text": "I heard Argon was bad at executing plans but good at making them. Sounds like a potent combination to me.",
+   "author_comments_in_thread": 3,
+   "account_created": "2017-07-01",
+   "account_karma": 10828
+  },
+  {
+   "id": 50279450,
+   "author": "trostaft",
+   "url": "https://news.ycombinator.com/item?id=50279450",
+   "created_at": "2026-10-28T19:24:48.000Z",
+   "depth": 5,
+   "parent_author": "luckydata",
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "low",
+   "signals": [
+    "agree_reply",
+    "cheer_tone",
+    "low_specificity"
+   ],
+   "why": "Contentless '?! When did that happen. Great!' cheer reply.",
+   "text": "?! When did that happen. Great!",
+   "author_comments_in_thread": 1,
+   "account_created": "2016-12-07",
+   "account_karma": 832
+  },
+  {
+   "id": 50281766,
+   "author": "LewisOrton",
+   "url": "https://news.ycombinator.com/item?id=50281766",
+   "created_at": "2026-10-28T22:21:56.000Z",
+   "depth": 4,
+   "parent_author": "5555watch",
+   "categories": [
+    "cheerful_anecdote"
+   ],
+   "confidence": "low",
+   "signals": [
+    "low_specificity",
+    "cheer_tone",
+    "repeat_argon_flag"
+   ],
+   "why": "[pass2 rescan] Vague comparative praise ('aistudio is probably 10x better') with no specifics; same vacuous-cheer pattern as his Argon comments from a 2-day-old account.",
+   "text": "If I just ask questions and do simple research without proactive local works, I'll just use the aistudio, it's probably 10x better than the Gemini app. But other than that I have my own fork based on dsh (nothing fancy I just added a few tools & fixed the thinking level param issue) I rarely use it though. Computer use is bad and i mostly use codex for that",
+   "author_comments_in_thread": 3,
+   "account_created": "2026-10-11",
+   "account_karma": 22
+  },
+  {
+   "id": 50277597,
+   "author": "fallat",
+   "url": "https://news.ycombinator.com/item?id=50277597",
+   "created_at": "2026-10-28T17:38:20.000Z",
+   "depth": 1,
+   "parent_author": "lordolunch",
+   "categories": [
+    "boosting"
+   ],
+   "confidence": "high",
+   "signals": [
+    "talking_points",
+    "cheer_tone",
+    "early_comment"
+   ],
+   "why": "Talking-points boosterism: 'sleeping giant', 'keep their heads down', 'starting to pay off', no substance.",
+   "text": "They really were the sleeping giant and I think everyone understood that - OpenAI especially, hence their need to scale up hardware as much as physically possible. Google is trying their best to keep their heads down and focus on their lane. It's starting to pay off, but I'm sure they've felt the heat more than once.",
+   "author_comments_in_thread": 1,
+   "account_created": "2014-03-10",
+   "account_karma": 1383
+  },
+  {
+   "id": 50278969,
+   "author": "lifeisloving",
+   "url": "https://news.ycombinator.com/item?id=50278969",
+   "created_at": "2026-10-28T18:49:09.000Z",
+   "depth": 1,
+   "parent_author": "solarpunk_enthu",
+   "categories": [
+    "boosting"
+   ],
+   "confidence": "high",
+   "signals": [
+    "talking_points",
+    "cheer_tone"
+   ],
+   "why": "'Google was always going to win this thing', a billion normies, rivals reduced to 'fanboys' and 'negative sentiment' — pure talking points, no substance.",
+   "text": "It makes the best case for why Anthropic isnt worth its potential valuation. Anthropics customers are almost only turbo nerds. Google has the products, the brand recognition, the hardware, the data and most importantly a billion normies. Google was always going to win this thing, although I wouldn't discount meta. The only thing that matters is mindshare and Anthropic and OpenAI have largely generated NEGATIVE sentiment, outside some fanboys. Google and Meta can plop cute products into your daily driver apps and you wont know the difference.",
+   "author_comments_in_thread": 3,
+   "account_created": "2026-10-05",
+   "account_karma": 324
+  },
+  {
+   "id": 50277134,
+   "author": "bushbaba",
+   "url": "https://news.ycombinator.com/item?id=50277134",
+   "created_at": "2026-10-28T17:19:51.000Z",
+   "depth": 2,
+   "parent_author": "sroussey",
+   "categories": [
+    "boosting"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "cheer_tone",
+    "low_specificity",
+    "early_comment"
+   ],
+   "why": "'10M would be huge, pls ship it google' cheer with unspecified 'soo many use cases'.",
+   "text": "10M would be huge. I have soo many use cases that could leverage it. Pls ship it google if your listening.",
+   "author_comments_in_thread": 1,
+   "account_created": "2021-02-05",
+   "account_karma": 3680
+  },
+  {
+   "id": 50277151,
+   "author": "gengelbro",
+   "url": "https://news.ycombinator.com/item?id=50277151",
+   "created_at": "2026-10-28T17:20:13.000Z",
+   "depth": 1,
+   "parent_author": "Topfi",
+   "categories": [
+    "boosting"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "talking_points",
+    "low_specificity"
+   ],
+   "why": "Dismisses criticism of the rolled release and AA hiccup without substantive counter-evidence.",
+   "text": "Oh come now, this rolled release is now the standard for frontier models. Also, the fact that AA hasn't updated their page is not a scandal, just a launch day hiccup.",
+   "author_comments_in_thread": 2,
+   "account_created": "2019-11-03",
+   "account_karma": 282
+  },
+  {
+   "id": 50277149,
+   "author": "lordolunch",
+   "url": "https://news.ycombinator.com/item?id=50277149",
+   "created_at": "2026-10-28T17:20:13.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "boosting"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "top_level",
+    "cheer_tone",
+    "low_specificity",
+    "talking_points"
+   ],
+   "why": "Vague cheer about Google 'pushing out huge challengers' with no specifics or evidence.",
+   "text": "Google really tried to make it sound like they're not in the AI race, but suddenly are pushing out huge challengers in the space. I originally took them to be fully focused on the consumer side, but it looks like they're going after it all, now.",
+   "author_comments_in_thread": 1,
+   "account_created": "2026-10-23",
+   "account_karma": 1
+  },
+  {
+   "id": 50277795,
+   "author": "Marha01",
+   "url": "https://news.ycombinator.com/item?id=50277795",
+   "created_at": "2026-10-28T17:47:00.000Z",
+   "depth": 1,
+   "parent_author": "MisterMunchkin",
+   "categories": [
+    "boosting"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "early_comment",
+    "talking_points",
+    "low_specificity"
+   ],
+   "why": "Evidence-free dismissal of stagnation claims: 'performance increase has been massive' with no data.",
+   "text": "> all the labs have stagnated Lol. The performance increase in the last 6 months has been massive.",
+   "author_comments_in_thread": 3,
+   "account_created": "2025-09-07",
+   "account_karma": 365
+  },
+  {
+   "id": 50279505,
+   "author": "lifeisloving",
+   "url": "https://news.ycombinator.com/item?id=50279505",
+   "created_at": "2026-10-28T19:28:27.000Z",
+   "depth": 3,
+   "parent_author": "pennomi",
+   "categories": [
+    "boosting"
+   ],
+   "confidence": "medium",
+   "signals": [
+    "talking_points",
+    "cheer_tone"
+   ],
+   "why": "Long cheer for Google's distribution moat openly rooting for OpenAI/Anthropic to lose, dismissing Claude Code lock-in as brittle — promotional framing over evidence.",
+   "text": "Thats kind of the brilliant thing, you dont need to seek it out. Their AI will just slowly get integrated into their products you already use. I'm more so saying that normies will use AI when it lands in the apps they already use. Google AI features have been popping up all over their ecosystem. Normies do not want claude code and they think Dario and Sam are both disgusting human beings, stictly off of vibes. Anthropics only moat is vendor lock on Claude Code, especially if they cant maintain being the front runner of the frontier model space, this is a really brittle moat. Brittle moats wont attract strong investment at a 1-2T valuation (not to mention all the other fiscal unknowns). I just want OpenAI and Anthropic to lose because they seem to be the ones going around saying they're going to replace peoples jobs, and usurp the value of human labor. Id rather Meta and Gemini suceed who will genuinely just integrate it into normal products we already use. Their sales teams are not approaching my boss and telling them they can reduce their payroll burden by spending my paycheck on tokens and firing me. Coding is going to be one of the smaller pieces of the AI revolution. People on this site are focused on it, but there are 10000x more opportunities outside of coding where Anthropic and OpenAI have zero presence. Anthropic might as well be an IDE company, Is jetbrains worth 2T? to signal that they can be useful in other fields because they know this is an issue.",
+   "author_comments_in_thread": 3,
+   "account_created": "2026-10-05",
+   "account_karma": 324
+  },
+  {
+   "id": 50277682,
+   "author": "ur-whale",
+   "url": "https://news.ycombinator.com/item?id=50277682",
+   "created_at": "2026-10-28T17:41:51.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "boosting"
+   ],
+   "confidence": "low",
+   "signals": [
+    "early_comment",
+    "top_level",
+    "cheer_tone",
+    "talking_points"
+   ],
+   "why": "Amplifies the 'Google reclaim the frontier' marketing line in an early top-level comment, though it pairs it with availability criticism.",
+   "text": "Great to see Google reclaim the frontier, however, as usual with most Google launches, an announcement for a product that no one can actually try outside of a tiny circle of users.",
+   "author_comments_in_thread": 5,
+   "account_created": "2018-01-11",
+   "account_karma": 5458
+  },
+  {
+   "id": 50278288,
+   "author": "Robdel12",
+   "url": "https://news.ycombinator.com/item?id=50278288",
+   "created_at": "2026-10-28T18:09:49.000Z",
+   "depth": 0,
+   "parent_author": null,
+   "categories": [
+    "boosting"
+   ],
+   "confidence": "low",
+   "signals": [
+    "cheer_tone",
+    "top_level",
+    "low_specificity"
+   ],
+   "why": "'Come on googs!' fan cheer at the 'coming soon' announcement with no substance.",
+   "text": "> Coming soon Come on googs!",
+   "author_comments_in_thread": 1,
+   "account_created": "2012-12-07",
+   "account_karma": 878
+  }
+ ]
+}
