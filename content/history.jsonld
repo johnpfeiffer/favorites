@@ -853,6 +853,19 @@
         "Casey Muratori",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Peterman Pod: Brian Kernighan - Inside Bell Labs, The Best Programmer, Why C Won",
+      "url": "https://www.developing.dev/p/e072-brian-kernighan",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835?i=1000798158735",
+      "datePublished": "2026-10-26",
+      "keywords": [
+        "History",
+        "Programming Languages",
+        "Brian Kernighan",
+        "Podcast"
+      ]
     }
   ]
 }
