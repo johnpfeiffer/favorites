@@ -5,8 +5,28 @@
   "feedUrl": "https://anchor.fm/s/106346b90/podcast/rss",
   "homeUrl": "https://www.developing.dev",
   "canonicalPattern": "https://www.developing.dev/p/<slug>",
-  "episodeCount": 70,
+  "episodeCount": 74,
   "episodes": [
+    {
+      "title": "Microsoft Distinguished Eng: Why And How To Port Your Entire Codebase to Rust | Stephen Toub",
+      "published": "2026-11-02",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Microsoft-Distinguished-Eng-Why-And-How-To-Port-Your-Entire-Codebase-to-Rust--Stephen-Toub-e3rf709"
+    },
+    {
+      "title": "Brian Kernighan: Inside Bell Labs, The Best Programmer, Why C Won",
+      "published": "2026-10-26",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Brian-Kernighan-Inside-Bell-Labs--The-Best-Programmer--Why-C-Won-e3r31cu"
+    },
+    {
+      "title": "The Story Behind Creating DNS | Paul Mockapetris",
+      "published": "2026-10-19",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/The-Story-Behind-Creating-DNS--Paul-Mockapetris-e3ospri"
+    },
+    {
+      "title": "Scott Aaronson: The Mathocalypse, Will Intelligence Matter Anymore?",
+      "published": "2026-10-12",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Scott-Aaronson-The-Mathocalypse--Will-Intelligence-Matter-Anymore-e3qaigs"
+    },
     {
       "title": "Neetcode: Google vs Amazon, Programming Interviews, Quitting Big Tech",
       "published": "2026-10-05",
