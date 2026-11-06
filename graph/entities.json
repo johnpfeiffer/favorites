@@ -2067,6 +2067,38 @@
     {
       "id": "0465902D-6639-45F4-85E6-C058C77DD116",
       "name": "Martin Hellman"
+    },
+    {
+      "id": "67D919A2-8474-4815-AA4A-6792C5C372DB",
+      "name": "Martin Casado"
+    },
+    {
+      "id": "C8EA32A7-5D66-40BC-B05B-16801BEAB842",
+      "name": "Brian Kernighan"
+    },
+    {
+      "id": "BF9D17D1-F9D4-4693-9817-5FCB185B46F5",
+      "name": "The C Programming Language"
+    },
+    {
+      "id": "577F4F4F-3A4F-4856-9161-6A632740F03B",
+      "name": "Alex Lieberman"
+    },
+    {
+      "id": "C45E8A5F-50E4-4D7B-A9FE-C0F515985382",
+      "name": "Tenex"
+    },
+    {
+      "id": "1AB8F9FB-B11D-48FB-B0E8-D5289C2659C4",
+      "name": "CJ Hess"
+    },
+    {
+      "id": "CAAD7463-8E17-47BB-831A-E62EE267991E",
+      "name": "Jake Cooper"
+    },
+    {
+      "id": "BC163619-F756-4510-B21E-4F936BAC1D60",
+      "name": "Railway"
     }
   ]
 }

@@ -842,6 +842,21 @@
         "Carolin Pflueger",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Invest Like the Best: Martin Casado on Frontier Model Economics, AI's Slowdown, and the Cursor Deal",
+      "url": "https://colossus.com/episode/the-productive-investor/",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909?i=1000799776285",
+      "datePublished": "2026-11-04",
+      "keywords": [
+        "Business",
+        "Investing",
+        "VC",
+        "AI",
+        "Martin Casado",
+        "Podcast"
+      ]
     }
   ]
 }

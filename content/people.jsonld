@@ -4296,6 +4296,20 @@
         "Feedback",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Manager Tools: Presenting Mistakes - Chapter 2 - Rigidity",
+      "url": "https://www.manager-tools.com/2026/06/presenting-mistakes-chapter-2-rigidity",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/manager-tools/id74198801?i=1000772842588",
+      "datePublished": "2026-06-15",
+      "keywords": [
+        "People",
+        "Manager Tools",
+        "Presentations",
+        "Communication",
+        "Podcast"
+      ]
     }
   ]
 }

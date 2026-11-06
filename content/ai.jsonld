@@ -1004,6 +1004,20 @@
         "Eno Reyes",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Latent Space: AI for the Fortune 2000 - How Tenex Builds an AI-Native SDLC (Alex Lieberman and CJ Hess)",
+      "url": "https://www.latent.space/p/tenex",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/latent-space-the-ai-engineer-podcast/id1674008350?i=1000797381966",
+      "datePublished": "2026-10-21",
+      "keywords": [
+        "AI",
+        "Tenex",
+        "Alex Lieberman",
+        "CJ Hess",
+        "Podcast"
+      ]
     }
   ]
 }
