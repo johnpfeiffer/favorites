@@ -2099,6 +2099,18 @@
     {
       "id": "BC163619-F756-4510-B21E-4F936BAC1D60",
       "name": "Railway"
+    },
+    {
+      "id": "9C5FFB98-6326-4072-A8E3-DC7A41326E40",
+      "name": "Iain Dunning"
+    },
+    {
+      "id": "9A6D7711-B76C-4422-8CF2-C5C5732577A4",
+      "name": "Hudson River Trading"
+    },
+    {
+      "id": "EE1EE7F2-B00B-4871-9F93-23DE714BE28F",
+      "name": "Population Based Training of Neural Networks"
     }
   ]
 }
