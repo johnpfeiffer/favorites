@@ -1018,6 +1018,34 @@
         "CJ Hess",
         "Podcast"
       ]
+    },
+    {
+      "@type": "BlogPosting",
+      "name": "DeepMind: Population Based Training of Neural Networks",
+      "url": "https://deepmind.google/blog/population-based-training-of-neural-networks/",
+      "archivedAt": "https://web.archive.org/web/20261018173019/https://deepmind.google/blog/population-based-training-of-neural-networks/",
+      "datePublished": "2017-11-27",
+      "keywords": [
+        "AI",
+        "Machine Learning",
+        "DeepMind",
+        "Blog"
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Bloomberg Odd Lots: How Hudson River Trading Actually Uses AI (Iain Dunning)",
+      "url": "https://www.youtube.com/watch?v=ADfpBrl8Avo",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/how-hudson-river-trading-actually-uses-ai/id1056200096?i=1000734391225",
+      "datePublished": "2025-10-31",
+      "keywords": [
+        "AI",
+        "Business",
+        "Machine Learning",
+        "Hudson River Trading",
+        "Iain Dunning",
+        "Podcast"
+      ]
     }
   ]
 }
