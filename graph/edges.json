@@ -1744,6 +1744,16 @@
       "source": "9C5FFB98-6326-4072-A8E3-DC7A41326E40",
       "target": "EE1EE7F2-B00B-4871-9F93-23DE714BE28F",
       "type": "Author_of"
+    },
+    {
+      "source": "AC2AB7F5-F2A4-47BD-A996-46D4A325B4AE",
+      "target": "EFF5C760-0C92-4F90-8C10-61FDEA75DCF4",
+      "type": "Current_Employee_of"
+    },
+    {
+      "source": "AC2AB7F5-F2A4-47BD-A996-46D4A325B4AE",
+      "target": "771FD25E-CA7A-4B21-B2FE-D0E6FD92A16E",
+      "type": "Previous_Employee_of"
     }
   ]
 }
