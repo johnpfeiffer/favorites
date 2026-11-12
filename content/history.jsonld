@@ -866,6 +866,19 @@
         "Brian Kernighan",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Peterman Pod: The Story Behind Creating DNS (Paul Mockapetris)",
+      "url": "https://www.developing.dev/p/e071-paul-mockapetris",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835?i=1000797054655",
+      "datePublished": "2026-10-19",
+      "keywords": [
+        "History",
+        "Networking",
+        "Paul Mockapetris",
+        "Podcast"
+      ]
     }
   ]
 }

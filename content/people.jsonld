@@ -4310,6 +4310,19 @@
         "Communication",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "The Pragmatic Engineer: The Revised Rules of Engineering Management with Will Larson",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
+      "archivedAt": "https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199?i=1000797474611",
+      "datePublished": "2026-10-21",
+      "keywords": [
+        "People",
+        "Engineering Management",
+        "Will Larson",
+        "Podcast"
+      ]
     }
   ]
 }
