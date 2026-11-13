@@ -5,8 +5,13 @@
   "feedUrl": "https://anchor.fm/s/106346b90/podcast/rss",
   "homeUrl": "https://www.developing.dev",
   "canonicalPattern": "https://www.developing.dev/p/<slug>",
-  "episodeCount": 74,
+  "episodeCount": 75,
   "episodes": [
+    {
+      "title": "Nobel Prize Winner: AI’s Impact On Drug Discovery And Biology | Venki Ramakrishnan",
+      "published": "2026-11-09",
+      "url": "https://podcasters.spotify.com/pod/show/peterman-pod/episodes/Nobel-Prize-Winner-AIs-Impact-On-Drug-Discovery-And-Biology--Venki-Ramakrishnan-e3rs8vp"
+    },
     {
       "title": "Microsoft Distinguished Eng: Why And How To Port Your Entire Codebase to Rust | Stephen Toub",
       "published": "2026-11-02",

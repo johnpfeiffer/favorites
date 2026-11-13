@@ -5,8 +5,53 @@
   "feedUrl": "https://api.substack.com/feed/podcast/458709.rss",
   "homeUrl": "https://newsletter.pragmaticengineer.com/podcast",
   "canonicalPattern": "https://newsletter.pragmaticengineer.com/p/<slug>",
-  "episodeCount": 73,
+  "episodeCount": 82,
   "episodes": [
+    {
+      "title": "Scaling Slack and GitHub with Maude Lemaire",
+      "published": "2026-11-05",
+      "url": "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude"
+    },
+    {
+      "title": "Software engineering at Google & CS education with Titus Winters",
+      "published": "2026-10-29",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and"
+    },
+    {
+      "title": "The revised rules of engineering management with Will Larson",
+      "published": "2026-10-21",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering"
+    },
+    {
+      "title": "Uber’s AI infra, from the inside",
+      "published": "2026-10-14",
+      "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside"
+    },
+    {
+      "title": "Building resilient systems with Sam Newman",
+      "published": "2026-10-07",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam"
+    },
+    {
+      "title": "Distributed databases with Peter Mattis",
+      "published": "2026-09-30",
+      "url": "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter"
+    },
+    {
+      "title": "Design Engineering with Maggie Appleton",
+      "published": "2026-09-23",
+      "url": "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton"
+    },
+    {
+      "title": "AI Skills with Matt Pocock",
+      "published": "2026-09-17",
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock"
+    },
+    {
+      "title": "Building Codex with Tibo Sottiaux",
+      "published": "2026-09-09",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux"
+    },
     {
       "title": "Why performant code matters (but gets widely ignored), with Casey Muratori",
       "published": "2026-08-26",
