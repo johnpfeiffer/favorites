@@ -1059,6 +1059,21 @@
         "Open Source",
         "Blog"
       ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Lada Kesseler: Augmented Coding - Mapping the Uncharted Territory (AI Talks, empirically learned AI coding patterns)",
+      "url": "https://www.youtube.com/watch?v=_LSK2bVf0Lc",
+      "archivedAt": "https://web.archive.org/web/20260907212412/https://www.youtube.com/watch?v=_LSK2bVf0Lc",
+      "datePublished": "2025-10-01",
+      "keywords": [
+        "AI",
+        "Coding",
+        "Agents",
+        "Context Engineering",
+        "Lada Kesseler",
+        "Video"
+      ]
     }
   ]
 }
