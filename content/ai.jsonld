@@ -1074,6 +1074,23 @@
         "Lada Kesseler",
         "Video"
       ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Kurtis Van Gent and Haoyu Wang: Building an Agentic Eval Pipeline - Battle-Tested Lessons (AGNTCon + MCPCon North America, EvalBench)",
+      "url": "https://www.youtube.com/watch?v=0cBJ4X1LS1A",
+      "archivedAt": "https://web.archive.org/web/20261115225156/https://www.youtube.com/watch?v=0cBJ4X1LS1A",
+      "datePublished": "2026-10-23",
+      "keywords": [
+        "AI",
+        "Agents",
+        "Evals",
+        "MCP",
+        "Google",
+        "Kurtis Van Gent",
+        "Haoyu Wang",
+        "Video"
+      ]
     }
   ]
 }
