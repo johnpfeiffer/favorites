@@ -1459,6 +1459,16 @@
       "source": "03D81E8B-900D-4D70-91B5-9E0CC80A5CB9",
       "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
       "type": "Is_a_Person"
+    },
+    {
+      "source": "44D64EE2-DD1B-4620-9BDE-5CFBDD4B6C31",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
+    },
+    {
+      "source": "2A99F694-2655-467F-A93C-ECEA21E3A337",
+      "target": "B82DE2C3-1545-46AF-803D-B9A68E8901DC",
+      "type": "Is_a_Person"
     }
   ]
 }
