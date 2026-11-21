@@ -879,6 +879,22 @@
         "Paul Mockapetris",
         "Podcast"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Masters of Scale: Chris Urmson - Let waypoints guide you (Aurora)",
+      "url": "https://mastersofscale.com/let-waypoints-guide-you-chris-urmson/",
+      "archivedAt": "https://web.archive.org/web/20250915010336/https://mastersofscale.com/let-waypoints-guide-you-chris-urmson/",
+      "datePublished": "2022-11-01",
+      "keywords": [
+        "History",
+        "Chris Urmson",
+        "Aurora",
+        "Business",
+        "Scaling",
+        "Self-Driving Cars",
+        "Podcast"
+      ]
     }
   ]
 }
