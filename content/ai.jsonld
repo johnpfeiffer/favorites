@@ -1106,6 +1106,21 @@
         "Lada Kesseler",
         "Podcast"
       ]
+    },
+    {
+      "@type": "Article",
+      "name": "Augmented Coding Patterns (Lada Kesseler's AI coding patterns catalog)",
+      "url": "https://ai-coding-patterns.dev/",
+      "archivedAt": "https://web.archive.org/web/20261126185846/https://ai-coding-patterns.dev/",
+      "datePublished": null,
+      "keywords": [
+        "AI",
+        "Coding",
+        "Agents",
+        "Context Engineering",
+        "Lada Kesseler",
+        "Article"
+      ]
     }
   ]
 }
