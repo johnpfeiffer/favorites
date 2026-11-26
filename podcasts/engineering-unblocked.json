@@ -5,8 +5,13 @@
   "feedUrl": "https://anchor.fm/s/e1450394/podcast/rss",
   "homeUrl": "https://www.swarmia.com/podcast",
   "canonicalPattern": "https://www.swarmia.com/podcast/<slug>/",
-  "episodeCount": 30,
+  "episodeCount": 31,
   "episodes": [
+    {
+      "title": "Writing the same book three times with Rebecca Murphey and Otto Hilska",
+      "published": "2026-09-09",
+      "url": "https://podcasters.spotify.com/pod/show/engineering-unblocked/episodes/Writing-the-same-book-three-times-with-Rebecca-Murphey-and-Otto-Hilska-e3oj2cs"
+    },
     {
       "title": "AI's unglamorous wins for developer productivity with Tara Hernandez from MongoDB",
       "published": "2026-02-11",
