@@ -1091,6 +1091,36 @@
         "Haoyu Wang",
         "Video"
       ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "name": "Engineering Unblocked: Lada Kesseler (Logic 20/20) on what a year of hands-on AI coding teaches you about good software",
+      "url": "https://www.swarmia.com/podcast/lada-kesseler-logic2020/",
+      "archivedAt": "https://www.youtube.com/watch?v=OwkLCUq-3hI",
+      "datePublished": "2026-01-19",
+      "keywords": [
+        "AI",
+        "Coding",
+        "Agents",
+        "Context Engineering",
+        "Lada Kesseler",
+        "Podcast"
+      ]
+    },
+    {
+      "@type": "Article",
+      "name": "Augmented Coding Patterns (Lada Kesseler's AI coding patterns catalog)",
+      "url": "https://ai-coding-patterns.dev/",
+      "archivedAt": "https://web.archive.org/web/20261126185846/https://ai-coding-patterns.dev/",
+      "datePublished": null,
+      "keywords": [
+        "AI",
+        "Coding",
+        "Agents",
+        "Context Engineering",
+        "Lada Kesseler",
+        "Article"
+      ]
     }
   ]
 }

@@ -2390,6 +2390,20 @@
         "Jake Cooper",
         "Podcast"
       ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "NDC Oslo 2026: Non-Blocking Continuous Code Reviews, a Case Study (Thierry de Pauw)",
+      "url": "https://www.youtube.com/watch?v=1wDBMC7JjGs",
+      "archivedAt": "https://web.archive.org/web/20261109174301/https://www.youtube.com/watch?v=1wDBMC7JjGs",
+      "datePublished": "2026-09-01",
+      "keywords": [
+        "Engineering",
+        "Code Review",
+        "Continuous Delivery",
+        "Thierry de Pauw",
+        "Video"
+      ]
     }
   ]
 }
